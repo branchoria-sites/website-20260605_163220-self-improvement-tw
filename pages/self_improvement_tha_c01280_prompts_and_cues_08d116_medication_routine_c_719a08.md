@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /cues/
 nav_short_title: Medication Cues
 title: The Habit Cue Beside the Toothbrush
-title_full: The Habit Cue Beside the Toothbrush | Cues
+title_full: The Habit Cue Beside the Toothbrush
 display_title_short: Medication Cues
 display_title: Medication Cues
 heading_title: The Habit Cue Beside the Toothbrush
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:17:37'
-parent_title: Why Good Cues Beat Good Intentions | Better Change
+parent_title: Why Good Cues Beat Good Intentions
 parent_permalink: /cues/
 parent_nav_short_title: Cues
 parent_heading_title: Why Good Cues Beat Good Intentions
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_medica
 
 Medication routines are a useful example of how effective habit cues work in real life. Taking medicine consistently is often less about [motivation]({{ 'motivation/' | relative_url }}) and more about remembering at the right moment, every day. Research on medication adherence repeatedly shows that stable daily routines, visible [reminders]({{ 'reminders/' | relative_url }}) and well-chosen prompts can reduce forgetting and strengthen habits over time. Rather than relying on memory alone, successful systems connect medication to events that already happen automatically, such as brushing teeth in the morning or preparing for bed at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7218590/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Habit Strength, Medication Adherence, and Habit-Based...by SM Badawy · 2020 · Cited by 101 — Habit strength was strongly correlated w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00469580251343785" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDevelopment of a Digital Intervention Incorporating Habit...by SK Kim · 2025 · Cited by 3 — Habit formation can serve as a...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_medication_routine_c_719a08-Illustration-1-dark.svg" | relative_url }}" alt="Medication Cues illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_medication_routine_c_719a08-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_medication_routine_c_719a08-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), the lesson is straightforward: the best cue is usually not a separate task. It is an existing routine that reliably appears every day and naturally triggers the next action.
 
@@ -292,7 +291,6 @@ Morning routines often provide some of the strongest medication cues because man
 
 Common examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Placing medication beside a toothbrush for medicines taken after waking.
@@ -304,7 +302,6 @@ Common examples include:
 
 The key is specificity. “Take medication in the morning” is vague. “Take medication immediately after brushing teeth” creates a concrete cue that appears every day.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ess54WN0Yx8" title="How the Smart Pillbox Helps Patient Medication Adherence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ess54WN0Yx8" target="_blank" rel="noopener noreferrer">How the Smart Pillbox Helps Patient Medication Adherence</a></p><p class="youtube-embed-meta">Channel: Care Coordination Software by ThoroughCare &middot; Views: 54 &middot; Uploaded: April 2026 &middot; Length: 3 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ess54WN0Yx8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ess54WN0Yx8">Open on YouTube</a></p></div></div></div>
 
 ### Bedtime Anchors That Reduce Forgetting
@@ -312,7 +309,6 @@ The key is specificity. “Take medication in the morning” is vague. “Take m
 Evening medication can be more vulnerable to missed doses because fatigue, travel, social activities and disrupted schedules often occur later in the day. Some research has suggested that adherence may be stronger in the morning than in the evening, making reliable bedtime cues particularly important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7218590/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Habit Strength, Medication Adherence, and Habit-Based...by SM Badawy · 2020 · Cited by 101 — Habit strength was strongly correlated w...</span></span></span>
 
 Effective bedtime anchors include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -325,7 +321,6 @@ Effective bedtime anchors include:
 
 The best anchor is not necessarily the most visible object in the room. It is the action that happens most consistently.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_medication_routine_c_719a08-Illustration-2-dark.svg" | relative_url }}" alt="Medication Cues illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_medication_routine_c_719a08-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_medication_routine_c_719a08-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Pill Organisers as Physical Cues
 
@@ -334,7 +329,6 @@ A pill organiser does more than store medication. It functions as a visible prom
 The physical presence of the organiser matters. A weekly organiser hidden in a drawer is less useful than one positioned where the routine occurs. This is why the classic placement beside a toothbrush works so well: it combines visibility with timing.
 
 A well-positioned organiser provides several cues at once:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -346,7 +340,6 @@ A well-positioned organiser provides several cues at once:
 </div>
 
 Studies of medication reminder systems consistently show that physical organisers can [support]({{ 'support/' | relative_url }}) adherence, especially when combined with other reminder methods and integrated into everyday routines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7218590/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Habit Strength, Medication Adherence, and Habit-Based...by SM Badawy · 2020 · Cited by 101 — Habit strength was strongly correlated w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7218590/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Habit Strength, Medication Adherence, and Habit-Based...by SM Badawy · 2020 · Cited by 101 — Habit strength was strongly correlated w...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3WFNRYcJ8FU" title="Say Goodbye to Missed Doses Forever: Simple Strategies for Remembering Your Meds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3WFNRYcJ8FU" target="_blank" rel="noopener noreferrer">Say Goodbye to Missed Doses Forever: Simple Strategies for Remembering Your Meds</a></p><p class="youtube-embed-meta">Channel: Aaron Boster MD &middot; Views: 3.1K &middot; Uploaded: December 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3WFNRYcJ8FU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3WFNRYcJ8FU">Open on YouTube</a></p></div></div></div>
 
@@ -363,7 +356,6 @@ Routine-based cues are powerful, but they are not always sufficient. Shift worke
 Research on medication technologies suggests that reminders work best when they complement existing routines rather than compete with them. Many medication apps and reminder systems are most effective when they reinforce a chosen daily anchor instead of acting as isolated alarms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7218590/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Habit Strength, Medication Adherence, and Habit-Based...by SM Badawy · 2020 · Cited by 101 — Habit strength was strongly correlated w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/1418104/1/StawarzCoxBlandford2014-reminders-submittedManuscript.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery Don&#x27;t Forget Your Pill!</span><span class="citation-popover-snippet">Designing Effective Medication...by K Stawarz · 2014 · Cited by 243 — To address this disparity, we present design requirements for buil...</span></span></span>
 
 A practical approach is to layer cues:
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_medication_routine_c_719a08-Illustration-3-dark.svg" | relative_url }}" alt="Medication Cues illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_medication_routine_c_719a08-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_medication_routine_c_719a08-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -387,9 +379,7 @@ The toothbrush is a strong example because most people interact with it morning 
 
 Medication adherence research increasingly points in the same direction: consistent cues, stable routines and supportive reminder systems work together. When a daily anchor, a visible organiser and an appropriate backup reminder reinforce one another, remembering becomes less dependent on [willpower]({{ 'willpower/' | relative_url }}) and more dependent on design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/10.3389/conf.FPUBH.2016.01.00066/event_abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">routine events or meaningful objects, play an important role in supporting medication adherence, as they aid both...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7218590/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Habit Strength, Medication Adherence, and Habit-Based...by SM Badawy · 2020 · Cited by 101 — Habit strength was strongly correlated w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00469580251343785" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDevelopment of a Digital Intervention Incorporating Habit...by SK Kim · 2025 · Cited by 3 — Habit formation can serve as a...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GWl7_iyc0KA" title="How to Remember to Take Your Medications | HealthyPlace" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GWl7_iyc0KA" target="_blank" rel="noopener noreferrer">How to Remember to Take Your Medications | HealthyPlace</a></p><p class="youtube-embed-meta">Channel: HealthyPlace Mental Health &middot; Views: 895 &middot; Uploaded: September 2019 &middot; Length: 2 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GWl7_iyc0KA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GWl7_iyc0KA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -508,15 +498,15 @@ Medication adherence research increasingly points in the same direction: consist
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12 Week Weight Loss Habit Tracker And Body Measurement Tracker Slimming Exercise"><img src="https://i.ebayimg.com/images/g/0q8AAeSwWUZpXS9F/s-l225.jpg" alt="Listing image for 12 Week Weight Loss Habit Tracker And Body Measurement Tracker Slimming Exercise" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Waterproof Pill Pouch Set, A8 Waterproof Pill Pouch with 14 Color-Coded Bags"><img src="https://i.ebayimg.com/images/g/~wkAAeSwZqJqFAR2/s-l225.jpg" alt="Listing image for Waterproof Pill Pouch Set, A8 Waterproof Pill Pouch with 14 Color-Coded Bags" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">12 Week Weight Loss Habit Tracker And Body Measurement Tracker Slimming Exercise</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" target="_blank" rel="sponsored noopener noreferrer">Waterproof Pill Pouch Set, A8 Waterproof Pill Pouch with 14 Color-Coded Bags</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pill organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: pill organizer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +514,15 @@ Medication adherence research increasingly points in the same direction: consist
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar- 12 Months Undated Daily Weekly &amp; Monthly Period Habit..."><img src="https://i.ebayimg.com/images/g/ctsAAeSwuTxpzAyF/s-l225.jpg" alt="Listing image for Habit Tracker Calendar- 12 Months Undated Daily Weekly &amp; Monthly Period Habit..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7 Day Weekly Pill Box Organizer Medicine Tablet Storage Dispenser Travel Case..."><img src="https://i.ebayimg.com/images/g/J~gAAeSwx4JqKR3A/s-l225.jpg" alt="Listing image for 7 Day Weekly Pill Box Organizer Medicine Tablet Storage Dispenser Travel Case..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar- 12 Months Undated Daily Weekly &amp; Monthly Period Habit...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" target="_blank" rel="sponsored noopener noreferrer">7 Day Weekly Pill Box Organizer Medicine Tablet Storage Dispenser Travel Case...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pill organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: pill organizer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +530,15 @@ Medication adherence research increasingly points in the same direction: consist
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar Daily Weekly &amp; Monthly Habit &amp; Goal Tracker Wire Bound"><img src="https://i.ebayimg.com/images/g/Zt0AAeSwefZqH~Zm/s-l225.jpg" alt="Listing image for Habit Tracker Calendar Daily Weekly &amp; Monthly Habit &amp; Goal Tracker Wire Bound" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2pcs 7 Day Weekly Daily Pill Box 28 Slot Medicine Organizer Storage Dispenser"><img src="https://i.ebayimg.com/images/g/GvQAAOSwy21dsbgs/s-l225.jpg" alt="Listing image for 2pcs 7 Day Weekly Daily Pill Box 28 Slot Medicine Organizer Storage Dispenser" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar Daily Weekly &amp; Monthly Habit &amp; Goal Tracker Wire Bound</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" target="_blank" rel="sponsored noopener noreferrer">2pcs 7 Day Weekly Daily Pill Box 28 Slot Medicine Organizer Storage Dispenser</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pill organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: pill organizer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +546,15 @@ Medication adherence research increasingly points in the same direction: consist
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1Pc Habit Tracker Calendar to Do List Planner Spiral Bound Daily Weekly and Mont"><img src="https://i.ebayimg.com/images/g/HOMAAeSwHUxp6goB/s-l225.jpg" alt="Listing image for 1Pc Habit Tracker Calendar to Do List Planner Spiral Bound Daily Weekly and Mont" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1X Metal Pill Jewellery Case Storage Holder. Box Medicine Organizer Container"><img src="https://i.ebayimg.com/images/g/uxQAAeSwceFqKR7F/s-l225.jpg" alt="Listing image for 1X Metal Pill Jewellery Case Storage Holder. Box Medicine Organizer Container" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">1Pc Habit Tracker Calendar to Do List Planner Spiral Bound Daily Weekly and Mont</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" target="_blank" rel="sponsored noopener noreferrer">1X Metal Pill Jewellery Case Storage Holder. Box Medicine Organizer Container</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pill organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: pill organizer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,7 +562,7 @@ Medication adherence research increasingly points in the same direction: consist
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-habit-cue-beside-the-toothbrush-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-cue-beside-the-toothbrush-pill-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pill organizer" data-ebay-reference="the-habit-cue-beside-the-toothbrush-pill-organizer" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -782,6 +772,7 @@ Medication adherence research increasingly points in the same direction: consist
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ego-depletion/
 nav_short_title: Attention Shift
 title: Why Temptation Gets Louder After Effort
-title_full: Why Temptation Gets Louder After Effort | Ego Depletion
+title_full: Why Temptation Gets Louder After Effort
 display_title_short: Attention Shift
 display_title: Attention Shift
 heading_title: Why Temptation Gets Louder After Effort
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:02:04'
-parent_title: Is Self Control Really a Limited Resource? | Better Change
+parent_title: Is Self Control Really a Limited Resource?
 parent_permalink: /ego-depletion/
 parent_nav_short_title: Ego Depletion
 parent_heading_title: Is Self Control Really a Limited Resource?
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_mo
 
 Why does temptation often feel stronger after a period of intense self-control? One influential answer in the ego [depletion debate]({{ 'depletion-debate/' | relative_url }}) is that people do not necessarily “run out” of willpower. Instead, effortful control may temporarily change what the mind prioritises. After spending time resisting impulses, concentrating, suppressing emotions, or forcing attention onto difficult tasks, [motivation]({{ 'motivation/' | relative_url }}) can shift away from further control and towards relief, reward, and immediate satisfaction. At the same time, attention may become more sensitive to tempting cues and less focused on long-term goals. This perspective, known as the process model or shifting-priorities account of self-control, has become one of the most important alternatives to the classic resource-depletion explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1745691612454134" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1571 — This study proposes a process model of depletion, suggesting t...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-1-dark.svg" | relative_url }}" alt="Attention Shift illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For people interested in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), the practical implication is significant. The danger period may not be a moment of empty mental fuel. It may be a moment when rewards become louder, goals become quieter, and the [environment]({{ 'environment/' | relative_url }}) suddenly matters much more.
 
@@ -292,7 +291,6 @@ A central idea in the newer models is that self-control is often experienced as 
 Researchers have referred to this idea as the **reward responsivity hypothesis**. It suggests that exercising self-control can temporarily increase responsiveness to rewarding stimuli, including food, money, positive images, risk-taking opportunities, or other sources of immediate gratification. Evidence across behavioural and neuroscience studies has provided support for the possibility that reward processing becomes more prominent following effortful control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13415-019-00694-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">After-effects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — In the current paper, we rev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8486128/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">increase local knowledge—Exploring the hidden...by CD Wiesner · 2021 · Cited by 6 — The reward responsivity hypothesis proposes that peo...</span></span></span>
 
 Importantly, this mechanism predicts outcomes that a simple resource model struggles to explain. If the issue were only reduced control capacity, people should mainly perform worse on later control tasks. But some studies suggest that prior self-control can also increase approach-oriented reactions, positive emotional responses to rewarding stimuli, and willingness to pursue attractive opportunities. These outcomes are easier to understand if motivation itself has shifted. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01112/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Trait approach motivation moderates the aftereffects of self-...by A Crowell · 2014 · Cited by 30 — Based on a process model proposing t...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhHwhdpo-r8" title="The Self-Control Method That Actually Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhHwhdpo-r8" target="_blank" rel="noopener noreferrer">The Self-Control Method That Actually Works</a></p><p class="youtube-embed-meta">Channel: The Art of Improvement &middot; Views: 19.1K &middot; Uploaded: April 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhHwhdpo-r8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhHwhdpo-r8">Open on YouTube</a></p></div></div></div>
 
@@ -319,7 +317,6 @@ The distinction matters because it points towards different solutions. If the pr
 
 The newer perspective also explains why people often experience a sense of earned indulgence. After difficult work, reward-seeking can feel justified. The mind may not merely crave a treat; it may reinterpret the treat as deserved. Researchers have argued that these motivational changes can make self-control failures appear voluntary rather than impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/self-control-may-not-be-a-limited-resource-after-all.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">self control may not be a limited resource after all</span><span class="citation-popover-snippet">Inzlicht and Schmeichel propose an alternative model that describes self-control as a process involving motivation and attention. “Engagi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rcgd.isr.umich.edu/wp-content/uploads/2018/08/Inzlicht__Berkman_in_press.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcgd.isr.umich.edu">[RCGD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcgd.isr.umich.edu</span><span class="citation-popover-title">Inzlicht Berkman in press</span><span class="citation-popover-snippet">Schmeichel, et al., 2014), self-control wanes over time not because people have no energy but because people experience a shift in...Rea...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-2-dark.svg" | relative_url }}" alt="Attention Shift illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Cue Changes for High-Risk Transitions
 
@@ -331,7 +328,6 @@ Many lapses occur immediately after demanding work rather than during it. When a
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Taking a short walk before entering a kitchen.
@@ -342,7 +338,6 @@ Examples include:
 </div>
 
 These strategies reduce exposure to tempting cues during a period when attention may be unusually vulnerable.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GilU0I_loUQ" title="Self Control: The Top 10 Ways to Resist Impulses, Control Your Choices and be More Mindful" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GilU0I_loUQ" target="_blank" rel="noopener noreferrer">Self Control: The Top 10 Ways to Resist Impulses, Control Your Choices and be More Mindful</a></p><p class="youtube-embed-meta">Channel: Online PM Courses - Mike Clayton &middot; Views: 1.7K &middot; Uploaded: March 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GilU0I_loUQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GilU0I_loUQ">Open on YouTube</a></p></div></div></div>
 
@@ -359,14 +354,12 @@ For example:
 
 This approach aligns with a broader lesson from behavioural science: changing what captures attention is often easier than repeatedly resisting it.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-3-dark.svg" | relative_url }}" alt="Attention Shift illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reintroduce Long-Term Goals
 
 The process model implies that goals temporarily lose priority rather than disappearing entirely. Bringing them back into focus can counteract the shift.
 
 Useful methods include:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -378,7 +371,6 @@ Useful methods include:
 </div>
 
 The objective is not to generate more effort but to make the desired goal visible again when reward cues are competing for attention.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NJeZkh87QNE" title="Ego Depletion: Defined" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NJeZkh87QNE" target="_blank" rel="noopener noreferrer">Ego Depletion: Defined</a></p><p class="youtube-embed-meta">Channel: B2Bwhiteboard &middot; Views: 528 &middot; Uploaded: September 2023 &middot; Length: 2 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NJeZkh87QNE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NJeZkh87QNE">Open on YouTube</a></p></div></div></div>
 

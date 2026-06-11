@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /cues/
 nav_short_title: Blockers
 title: Can Friction Break the Scroll Loop?
-title_full: Can Friction Break the Scroll Loop? | Cues
+title_full: Can Friction Break the Scroll Loop?
 display_title_short: Blockers
 display_title: Blockers
 heading_title: Can Friction Break the Scroll Loop?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:17:33'
-parent_title: Why Good Cues Beat Good Intentions | Better Change
+parent_title: Why Good Cues Beat Good Intentions
 parent_permalink: /cues/
 parent_nav_short_title: Cues
 parent_heading_title: Why Good Cues Beat Good Intentions
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_websit
 
 Website blockers are a different kind of habit cue. A reminder asks you to remember your goal; a blocker changes the choice [environment]({{ 'environment/' | relative_url }}) at the exact moment an unwanted behaviour begins. When a social media feed, news site, or video platform is one tap away, scrolling can start before a conscious decision has been made. By adding delay, removing access, or hiding feeds, blockers create friction where there was previously none. Research on digital self-control tools suggests that such friction can reduce automatic use by interrupting the fast, habitual responses that drive much online behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryA Systematic Review and Meta-analysisThis article presents a systematic review and a meta-analysis of current work on...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_website_blockers_fri_7d2c6c-Illustration-1-dark.svg" | relative_url }}" alt="Blockers illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_website_blockers_fri_7d2c6c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_website_blockers_fri_7d2c6c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within a broader strategy of self-improvement, blockers matter because they move intervention from intention to implementation. Instead of relying on [motivation]({{ 'motivation/' | relative_url }}) after the urge appears, they alter the conditions under which the urge is acted upon. The result is not necessarily perfect self-control, but a better chance to make a deliberate choice before the scroll loop takes over.
 
@@ -279,7 +278,6 @@ Within a broader strategy of self-improvement, blockers matter because they move
 Scrolling habits thrive on low-friction design. Infinite feeds, [autoplay]({{ 'autoplay/' | relative_url }}), personalised recommendations, and permanent availability reduce the number of decisions required to keep consuming content. Researchers studying social media design note that features such as infinite scrolling can encourage prolonged engagement and reduce self-awareness of time spent online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A website blocker works by introducing a pause into this process. That pause may take several forms:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -295,7 +293,6 @@ The key mechanism is not punishment. It is interruption. Habitual behaviour ofte
 
 This distinction helps explain why even small delays can matter. Some digital wellbeing tools deliberately delay access rather than fully blocking it, on the theory that a brief interruption is enough to break automatic behaviour while preserving user choice. Studies and field evaluations of such approaches suggest that making access slightly more effortful can reduce habitual use substantially. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apps.apple.com">[App Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apps.apple.com</span><span class="citation-popover-title">App Storeone sec &#124; screen time + focus</span><span class="citation-popover-snippet">App Store - AppleWillpower is not enough against social media algorithms! That&#x27;s why I made one sec: one sec adds friction to distracting...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7jVb1lLniEw" title="how I reduced my screentime by 80% (guide)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7jVb1lLniEw" target="_blank" rel="noopener noreferrer">how I reduced my screentime by 80% (guide)</a></p><p class="youtube-embed-meta">Channel: Reysu &middot; Views: 2.6M &middot; Uploaded: June 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7jVb1lLniEw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7jVb1lLniEw">Open on YouTube</a></p></div></div></div>
 
 ### Why the Moment of Temptation Matters
@@ -305,7 +302,6 @@ Many people decide in advance that they want to spend less time scrolling. The p
 At 9 a.m., avoiding social media sounds sensible. At 9 p.m., after a long day, the cost of resisting feels higher. Website blockers are valuable because they operate at the second moment rather than the first. They act when the browser opens, when the feed loads, or when the habitual shortcut is triggered.
 
 Behavioural researchers studying digital self-control tools have identified blocking, delaying, and restricting access as common mechanisms for supporting self-regulation. These tools work not by strengthening [willpower]({{ 'willpower/' | relative_url }}) directly but by reducing opportunities for impulsive behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryA Systematic Review and Meta-analysisThis article presents a systematic review and a meta-analysis of current work on...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/60FGQ1yfbMY" title="Does BRICK actually work for ADHD? An ADHD coach puts it to the test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=60FGQ1yfbMY" target="_blank" rel="noopener noreferrer">Does BRICK actually work for ADHD? An ADHD coach puts it to the test</a></p><p class="youtube-embed-meta">Channel: FLOWN &middot; Views: 987 &middot; Uploaded: March 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=60FGQ1yfbMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=60FGQ1yfbMY">Open on YouTube</a></p></div></div></div>
 
@@ -327,7 +323,6 @@ Interestingly, user reviews of digital self-control tools suggest that people of
 
 The practical implication is that friction and reminders are complements rather than competitors. A reminder helps people remember why they care; a blocker helps them act on that memory when temptation appears.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_website_blockers_fri_7d2c6c-Illustration-2-dark.svg" | relative_url }}" alt="Blockers illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_website_blockers_fri_7d2c6c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_website_blockers_fri_7d2c6c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Makes a Blocker Effective?
 
@@ -336,7 +331,6 @@ Not all blockers create the same amount of friction.
 Some can be disabled in seconds. Others require waiting periods, passwords, or scheduled sessions that are difficult to override. Research and user reports consistently suggest that effectiveness depends partly on whether the intervention survives moments of craving. If bypassing the block is easier than resisting the distraction, the blocker contributes little. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/getdisciplined/comments/1pbbqs0/after_failing_with_lot_of_blocking_apps_i_built/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">After failing with lot of blocking apps, I built one based on...Quick recap of why most blockers failed me: Freedom, Cold Turkey...</span></span></span>
 
 Several design choices tend to increase effectiveness:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -350,7 +344,6 @@ Several design choices tend to increase effectiveness:
 Research on digital self-control technologies also suggests that users often seek what has been described as the “Goldilocks” level of support: enough friction to change behaviour, but not so much that the tool feels oppressive or impossible to live with. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 48 — We analyse ratings &amp; revie...</span></span></span>
 
 This balance is important because excessive restriction can create unintended effects.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gHlSQ9GRxXE" title="Can&#x27;t stop Doomscrolling? Do this." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gHlSQ9GRxXE" target="_blank" rel="noopener noreferrer">Can&#x27;t stop Doomscrolling? Do this.</a></p><p class="youtube-embed-meta">Channel: Ryan Loofy &middot; Views: 1.4K &middot; Uploaded: September 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gHlSQ9GRxXE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gHlSQ9GRxXE">Open on YouTube</a></p></div></div></div>
 
@@ -367,7 +360,6 @@ There is also emerging evidence that stronger control is not always better. A re
 The lesson is that blockers work best as implementation tools rather than cures. They are most effective when paired with alternative behaviours. Blocking social media during an evening reading session works better when a book is already available. Blocking news sites during work hours works better when a clear task is waiting.
 
 In this sense, the blocker's role is modest but important. It does not create motivation. It creates a gap between impulse and action. For many scrolling habits, that gap is exactly where better choices become possible.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_website_blockers_fri_7d2c6c-Illustration-3-dark.svg" | relative_url }}" alt="Blockers illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_website_blockers_fri_7d2c6c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_website_blockers_fri_7d2c6c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

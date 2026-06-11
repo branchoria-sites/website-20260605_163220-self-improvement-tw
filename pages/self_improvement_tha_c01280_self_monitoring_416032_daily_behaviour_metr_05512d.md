@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /tracking/
 nav_short_title: Daily Metrics
 title: What should you track every day?
-title_full: What should you track every day? | Tracking
+title_full: What should you track every day?
 display_title_short: Daily Metrics
 display_title: Daily Metrics
 heading_title: What should you track every day?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:16:45'
-parent_title: What Should You Track to Actually Change? | Better Change
+parent_title: What Should You Track to Actually Change?
 parent_permalink: /tracking/
 parent_nav_short_title: Tracking
 parent_heading_title: What Should You Track to Actually Change?
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_b
 
 If you want self-monitoring to improve behaviour without becoming obsessive, track actions rather than outcomes. A good daily metric records something you can directly do today: writing for 20 minutes, walking for 30 minutes, [saving]({{ 'saving/' | relative_url }}) £10, or putting your phone away before bed. A poor daily metric records a result that is delayed, noisy or only partly under your control, such as body weight, productivity output, income, mood or a sleep score.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_behaviour_metr_05512d-Illustration-1-dark.svg" | relative_url }}" alt="Daily Metrics illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_behaviour_metr_05512d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_behaviour_metr_05512d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because [behaviour change]({{ 'behaviour-change/' | relative_url }}) research consistently treats self-monitoring of behaviour as a separate technique from monitoring outcomes. The former creates immediate [feedback]({{ 'feedback/' | relative_url }}) about actions; the latter measures consequences that may take days, weeks or months to respond. Tracking remains useful when it helps you make decisions. It becomes less useful when it turns into a daily judgement of progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">by J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</span></span></span>
 
@@ -306,7 +305,6 @@ A common mistake is weighing yourself multiple times per day and treating every 
 
 More useful daily signals include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Completed planned workout
@@ -321,7 +319,6 @@ The outcome measures—weight, body composition, race times or strength increase
 
 Habit-formation research suggests that repeated performance of a behaviour in a stable context is what gradually creates [automaticity]({{ 'automaticity/' | relative_url }}). Tracking the behaviour itself therefore aligns with the mechanism that produces lasting change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The premise of habit formation involv...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/idhDz9miZ3w" title="The Science of How Your Brain Forms Habits (and How to Take Control)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=idhDz9miZ3w" target="_blank" rel="noopener noreferrer">The Science of How Your Brain Forms Habits (and How to Take Control)</a></p><p class="youtube-embed-meta">Channel: Dr. Tracey Marks &middot; Views: 178.5K &middot; Uploaded: April 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=idhDz9miZ3w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=idhDz9miZ3w">Open on YouTube</a></p></div></div></div>
 
 ### Work
@@ -329,7 +326,6 @@ Habit-formation research suggests that repeated performance of a behaviour in a 
 Knowledge work often produces delayed outcomes. A salesperson may make calls today but close deals next month. A writer may publish consistently before readership grows.
 
 Useful daily metrics include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -343,7 +339,6 @@ Useful daily metrics include:
 
 Less useful daily metrics include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Revenue earned today
@@ -355,14 +350,12 @@ Less useful daily metrics include:
 
 The controllable behaviour is the lever. The outcome is the lagging indicator.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_behaviour_metr_05512d-Illustration-2-dark.svg" | relative_url }}" alt="Daily Metrics illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_behaviour_metr_05512d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_behaviour_metr_05512d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Money
 
 Financial goals are particularly vulnerable to outcome obsession because markets, interest rates and economic conditions affect results.
 
 Better daily measures include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -381,7 +374,6 @@ Sleep quality is partly involuntary. Attempting to control it directly can creat
 
 More useful daily measures focus on behaviours known to [support]({{ 'support/' | relative_url }}) sleep:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Consistent bedtime maintained
@@ -392,7 +384,6 @@ More useful daily measures focus on behaviours known to [support]({{ 'support/' 
 </div>
 
 The next morning's sleep quality becomes information, not a scorecard.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DPRnrZH6weU" title="5 Ways to Actually Make Your Habits Stick (Evidence-Based)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer">5 Ways to Actually Make Your Habits Stick (Evidence-Based)</a></p><p class="youtube-embed-meta">Channel: Mel Robbins &middot; Views: 136.3K &middot; Uploaded: January 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DPRnrZH6weU">Open on YouTube</a></p></div></div></div>
 
@@ -414,7 +405,6 @@ A fair metric should depend primarily on your actions.
 
 If outside events can easily override the metric, it is probably too outcome-focused for daily use.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_behaviour_metr_05512d-Illustration-3-dark.svg" | relative_url }}" alt="Daily Metrics illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_behaviour_metr_05512d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_behaviour_metr_05512d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Can you record it in seconds?
 
@@ -432,7 +422,6 @@ Tracking the number of books on your shelf is controllable, but it is unlikely t
 
 A good daily signal sits close to the behaviour that causes the outcome.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZV_gmofqvSI" title="Leading vs Lagging Indicators Explained (Most People Get This Wrong!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZV_gmofqvSI" target="_blank" rel="noopener noreferrer">Leading vs Lagging Indicators Explained (Most People Get This Wrong!)</a></p><p class="youtube-embed-meta">Channel: Algotics Academy &middot; Views: 267 &middot; Uploaded: January 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZV_gmofqvSI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZV_gmofqvSI">Open on YouTube</a></p></div></div></div>
 
 ## A Simple Rule for Daily Tracking
@@ -440,7 +429,6 @@ A good daily signal sits close to the behaviour that causes the outcome.
 For most goals, one behaviour metric is enough.
 
 Instead of asking:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 

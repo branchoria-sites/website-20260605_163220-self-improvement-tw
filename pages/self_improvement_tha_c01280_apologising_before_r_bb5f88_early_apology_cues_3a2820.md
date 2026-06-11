@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /apologies/
 nav_short_title: Early Cues
 title: How to Catch Hurt Before It Hardens
-title_full: How to Catch Hurt Before It Hardens | Apologies
+title_full: How to Catch Hurt Before It Hardens
 display_title_short: Early Cues
 display_title: Early Cues
 heading_title: How to Catch Hurt Before It Hardens
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:46:00'
-parent_title: How to Apologise Before Resentment Grows | Better Change
+parent_title: How to Apologise Before Resentment Grows
 parent_permalink: /apologies/
 parent_nav_short_title: Apologies
 parent_heading_title: How to Apologise Before Resentment Grows
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_ea
 
 Most relationship damage does not begin with a major betrayal. It begins with a small moment of hurt that goes unnoticed, unacknowledged, or defended against. By the time someone explicitly asks for an apology, they may already have spent days or weeks building a story about what happened and what it means about the relationship.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_early_apology_cues_3a2820-Illustration-1-dark.svg" | relative_url }}" alt="Early Cues illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_early_apology_cues_3a2820-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_early_apology_cues_3a2820-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Spotting apology cues early is therefore less about mind-reading and more about noticing signals that a rupture may have occurred. Research on relationship repair suggests that successful relationships are not conflict-free; they are characterised by frequent, early repair attempts that prevent negative emotions from escalating. The earlier a repair begins, the less emotional weight an apology has to carry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gottman.com/blog/r-is-for-repair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottman.com">[The Gottman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottman.com</span><span class="citation-popover-title">r is for repair</span><span class="citation-popover-snippet">The Gottman InstituteR is for Repair3 Sept 2014 — Gottman describes a repair attempt as “any statement or action — silly or otherwise — t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yesmagazine.org/health-happiness/2019/12/31/repair-relationships-apology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yesmagazine.org">[2YES! Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yesmagazine.org</span><span class="citation-popover-title">repair relationships apology</span><span class="citation-popover-snippet">This Is Better Than an Apology31 Dec 2019 — John Gottman had newlywed couples enter into a 15-minute conflict discussion and coded their...</span></span></span>
 
@@ -290,7 +289,6 @@ A sudden drop in warmth is one of the most reliable clues. A friend who normally
 
 Other common cues include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A conversation that abruptly loses energy after a comment.
@@ -303,7 +301,6 @@ Other common cues include:
 </div>
 
 What makes these cues important is not that they prove wrongdoing. They indicate that the emotional [meaning]({{ 'meaning/' | relative_url }}) of an interaction may differ between the people involved. A repair attempt at this stage can be as simple as asking, “I feel like something landed badly. Did I miss something?” That small intervention often prevents assumptions from becoming settled conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gottman.com/blog/r-is-for-repair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottman.com">[The Gottman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottman.com</span><span class="citation-popover-title">r is for repair</span><span class="citation-popover-snippet">The Gottman InstituteR is for Repair3 Sept 2014 — Gottman describes a repair attempt as “any statement or action — silly or otherwise — t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gottman.com/blog/r-is-for-repair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottman.com">[The Gottman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottman.com</span><span class="citation-popover-title">r is for repair</span><span class="citation-popover-snippet">The Gottman InstituteR is for Repair3 Sept 2014 — Gottman describes a repair attempt as “any statement or action — silly or otherwise — t...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SqPvgDYmJnY" title="Relationship Repair that Works | Dr. John Gottman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SqPvgDYmJnY" target="_blank" rel="noopener noreferrer">Relationship Repair that Works | Dr. John Gottman</a></p><p class="youtube-embed-meta">Channel: The Gottman Institute &middot; Views: 429.3K &middot; Uploaded: January 2010 &middot; Length: 3 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SqPvgDYmJnY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SqPvgDYmJnY">Open on YouTube</a></p></div></div></div>
 
@@ -324,7 +321,6 @@ Consider the difference:
 
 The first statement centres the speaker's intentions. The second creates room for both realities. Early repair is often nothing more complicated than recognising that impact deserves attention even when harm was unintended.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b74k1Q6FrmE" title="How to Make a Repair Attempt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b74k1Q6FrmE" target="_blank" rel="noopener noreferrer">How to Make a Repair Attempt</a></p><p class="youtube-embed-meta">Channel: Affair Recovery &middot; Views: 12.3K &middot; Uploaded: March 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b74k1Q6FrmE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b74k1Q6FrmE">Open on YouTube</a></p></div></div></div>
 
 ## How Hurt Becomes a Grievance
@@ -332,7 +328,6 @@ The first statement centres the speaker's intentions. The second creates room fo
 A grievance is usually not a single emotional reaction. It is hurt that has acquired a narrative.
 
 Initially, someone may think, “That comment upset me.” Later, if nothing addresses the rupture, the interpretation can expand:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -348,14 +343,12 @@ Relationship researchers have long noted the importance of repair attempts becau
 
 This is why waiting for certainty can be costly. Many people delay apologising until they have fully analysed who was right. By then, the other person's emotional experience may have moved far beyond the original issue.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_early_apology_cues_3a2820-Illustration-2-dark.svg" | relative_url }}" alt="Early Cues illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_early_apology_cues_3a2820-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_early_apology_cues_3a2820-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Defensiveness Can Become a Useful Prompt
 
 One of the strongest apology cues often comes from within rather than from the other person.
 
 Defensiveness tends to appear when a person's self-image feels threatened. The internal dialogue may sound familiar:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -374,7 +367,6 @@ A more productive approach is to use defensiveness as a cue rather than a conclu
 
 Instead of asking, “How do I prove I wasn't wrong?” ask:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “What part of this interaction might have hurt them?”
@@ -385,12 +377,10 @@ Instead of asking, “How do I prove I wasn't wrong?” ask:
 
 This mental shift often creates enough space for a genuine apology to emerge.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_early_apology_cues_3a2820-Illustration-3-dark.svg" | relative_url }}" alt="Early Cues illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_early_apology_cues_3a2820-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_early_apology_cues_3a2820-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Fastest Repair Questions
 
 When early signs of hurt appear, lengthy analysis is usually unnecessary. A few simple questions can reveal whether repair is needed:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -413,9 +403,7 @@ The practical skill is learning to notice deviations: the pause after a joke, th
 
 People who repair early are not necessarily more virtuous than everyone else. They are simply quicker to recognise that relationships are shaped by countless small moments of adjustment. A brief acknowledgement today can prevent a much larger apology tomorrow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gottman.com/blog/r-is-for-repair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottman.com">[The Gottman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottman.com</span><span class="citation-popover-title">r is for repair</span><span class="citation-popover-snippet">The Gottman InstituteR is for Repair3 Sept 2014 — Gottman describes a repair attempt as “any statement or action — silly or otherwise — t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://verilymag.com/relationships/repair-attempts-apologies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verilymag.com">[2verilymag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verilymag.com</span><span class="citation-popover-title">repair attempts apologies</span><span class="citation-popover-snippet">Here&#x27;s Why &#x27;Repair Attempts&#x27; Are Even More Powerful Than...31 Mar 2017 — These “repair attempts,” as Gottman puts it, could mean saying...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QhlvBy0K9M4" title="How to heal your relationship: Repair Attempts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QhlvBy0K9M4" target="_blank" rel="noopener noreferrer">How to heal your relationship: Repair Attempts</a></p><p class="youtube-embed-meta">Channel: Inland Empire Couples Counseling &middot; Views: 2.3K &middot; Uploaded: May 2018 &middot; Length: 3 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QhlvBy0K9M4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QhlvBy0K9M4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

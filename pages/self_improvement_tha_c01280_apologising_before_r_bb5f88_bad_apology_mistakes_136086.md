@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /apologies/
 nav_short_title: Bad Apologies
 title: Why Some Apologies Make Things Worse
-title_full: Why Some Apologies Make Things Worse | Apologies
+title_full: Why Some Apologies Make Things Worse
 display_title_short: Bad Apologies
 display_title: Bad Apologies
 heading_title: Why Some Apologies Make Things Worse
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 16:08:00'
-parent_title: How to Apologise Before Resentment Grows | Better Change
+parent_title: How to Apologise Before Resentment Grows
 parent_permalink: /apologies/
 parent_nav_short_title: Apologies
 parent_heading_title: How to Apologise Before Resentment Grows
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_ba
 
 A good apology is supposed to move attention towards the person who was hurt and the damage that needs repair. A bad apology often does the opposite. It may sound emotional, sincere, or even dramatic, yet its hidden function is to protect the apologiser from shame, anxiety, criticism, or consequences. When that happens, the conversation shifts away from repair and towards managing the apologiser’s feelings.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_bad_apology_mistakes_136086-Illustration-1-dark.svg" | relative_url }}" alt="Bad Apologies illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_bad_apology_mistakes_136086-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_bad_apology_mistakes_136086-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters when apologising before resentment hardens. Early repair works because it helps the injured person feel seen and understood. Research on apology effectiveness consistently finds that acknowledging responsibility and offering repair carry more weight than elaborate explanations or self-protective language. When [apologies]({{ 'apologies/' | relative_url }}) become vehicles for self-defence, reassurance-seeking, or image management, they lose much of their repairing power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ncmr.lps.library.cmu.edu/article/id/264/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncmr.lps.library.cmu.edu">[NCMR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncmr.lps.library.cmu.edu</span><span class="citation-popover-snippet">Six components of an apology were defined from previous research and presented to...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.osu.edu">[Ohio State News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.osu.edu</span><span class="citation-popover-title">the 6 elements of an effective apology according to science</span><span class="citation-popover-snippet">Expression of regret · 2. Explanation of what went wrong · 3. Acknowledgment of responsibility · 4. Declaration of repentance · 5. Offer...</span></span></span>
 
@@ -290,7 +289,6 @@ The hidden psychological mechanism is self-protection. People want to preserve a
 
 A courtroom apology often produces a frustrating exchange:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * One person wants acknowledgement.
@@ -301,7 +299,6 @@ A courtroom apology often produces a frustrating exchange:
 
 The repair attempt stalls because the injured person experiences the explanation as resistance rather than accountability.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uXSkARDQMjQ" title="How to pronounce effective | British English and American English pronunciation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uXSkARDQMjQ" target="_blank" rel="noopener noreferrer">How to pronounce effective | British English and American English pronunciation</a></p><p class="youtube-embed-meta">Channel: Cambridge Dictionary &middot; Views: 2.3K &middot; Uploaded: October 2021 &middot; Length: 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uXSkARDQMjQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uXSkARDQMjQ">Open on YouTube</a></p></div></div></div>
 
 ## The Panic Apology and Pressure for Reassurance
@@ -311,7 +308,6 @@ Another self-focused pattern is the panic apology.
 Unlike the courtroom apology, which protects reputation, the panic apology protects the apologiser from emotional discomfort. The speaker feels guilt, shame, embarrassment, or fear of rejection and wants immediate relief.
 
 The apology therefore becomes a request disguised as remorse:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -342,14 +338,12 @@ Online discussions about apologising for reassurance reveal a common pattern: th
 
 A practical test is simple: after apologising, can you tolerate a period in which the other person remains disappointed, angry, or uncertain? If not, the apology may be drifting into reassurance-seeking.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_bad_apology_mistakes_136086-Illustration-2-dark.svg" | relative_url }}" alt="Bad Apologies illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_bad_apology_mistakes_136086-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_bad_apology_mistakes_136086-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Grand Apology and Unrealistic Promises
 
 A third mistake is the grand apology.
 
 This apology sounds impressive because it is large, emotional, and sweeping. The speaker makes dramatic declarations:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -372,14 +366,13 @@ Consider the difference:
 
 > “I swear I will never let you down again.”
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/gb/articles/200207/the-power-of-apology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[**Repair-focused apology**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the power of apology</span><span class="citation-popover-snippet">Psychology TodayThe Power of Apology1 Jul 2002 — Apology has the power to repair harm, mend relationships, soothe wounds and heal broken...</span></span></span>
+**Repair-focused apology** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/gb/articles/200207/the-power-of-apology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[psychologytoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the power of apology</span><span class="citation-popover-snippet">Psychology TodayThe Power of Apology1 Jul 2002 — Apology has the power to repair harm, mend relationships, soothe wounds and heal broken...</span></span></span>
 
 > “I missed the deadline. I understand the impact. Here is what I will do this week to prevent that happening again.”
 
 The second response is less dramatic but more credible. It treats trust as something rebuilt through behaviour rather than emotional performance.
 
 Studies and expert commentary on apologies repeatedly emphasise behavioural change and repair over verbal intensity. Words matter, but they are most persuasive when they are connected to action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/gb/articles/200207/the-power-of-apology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the power of apology</span><span class="citation-popover-snippet">Psychology TodayThe Power of Apology1 Jul 2002 — Apology has the power to repair harm, mend relationships, soothe wounds and heal broken...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6264614/how-to-apologize-health-benefits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">According to Marjorie Ingall and experts cited in her book, effective apologies are carefully thought out and genuinely meant. The proces...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NUHe-FE0zv4" title="112: How and Why to Apologize Effectively with Harriet Lerner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NUHe-FE0zv4" target="_blank" rel="noopener noreferrer">112: How and Why to Apologize Effectively with Harriet Lerner</a></p><p class="youtube-embed-meta">Channel: Neil Sattin &middot; Views: 16.0K &middot; Uploaded: October 2017 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NUHe-FE0zv4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NUHe-FE0zv4">Open on YouTube</a></p></div></div></div>
 
@@ -388,7 +381,6 @@ Studies and expert commentary on apologies repeatedly emphasise behavioural chan
 A repair-focused apology stays centred on the experience of the person who was affected.
 
 It usually contains four features:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -409,14 +401,12 @@ The more useful question is:
 
 That shift changes the function of the apology. Instead of serving as emotional self-defence, it becomes an act of repair.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_bad_apology_mistakes_136086-Illustration-3-dark.svg" | relative_url }}" alt="Bad Apologies illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_bad_apology_mistakes_136086-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_bad_apology_mistakes_136086-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Simple Warning Sign
 
 When evaluating your own apology, listen for where the emotional spotlight falls.
 
 If most of the conversation is about:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -433,7 +423,6 @@ then the apology may be serving you more than the person who was hurt.
 
 If most of the conversation is about:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the impact,
@@ -446,9 +435,7 @@ If most of the conversation is about:
 
 then the apology is much more likely to accomplish what apologies are meant to do: restore trust before resentment has time to harden. NCMR <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2016-04-elements-effective-science.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-snippet">The six elements of an effective apology, according to...12 Apr 2016 — &quot;Our findings showed that the most important component is an ackn...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dw6I06m-TlQ" title="Why &quot;I&#x27;m Sorry&quot; Isn’t Enough: The Secret to Meaningful Apologies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dw6I06m-TlQ" target="_blank" rel="noopener noreferrer">Why &quot;I&#x27;m Sorry&quot; Isn’t Enough: The Secret to Meaningful Apologies</a></p><p class="youtube-embed-meta">Channel: The Gottman Institute &middot; Views: 8.2K &middot; Uploaded: January 2025 &middot; Length: 1 minute 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dw6I06m-TlQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dw6I06m-TlQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

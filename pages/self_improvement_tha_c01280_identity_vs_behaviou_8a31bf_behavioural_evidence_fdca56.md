@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /identity/
 nav_short_title: Proof first
 title: Build the proof before claiming the identity
-title_full: Build the proof before claiming the identity | Identity
+title_full: Build the proof before claiming the identity
 display_title_short: Proof first
 display_title: Proof first
 heading_title: Build the proof before claiming the identity
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:03:39'
-parent_title: Do You Need a New Identity or a Better Plan? | Better Change
+parent_title: Do You Need a New Identity or a Better Plan?
 parent_permalink: /identity/
 parent_nav_short_title: Identity
 parent_heading_title: Do You Need a New Identity or a Better Plan?
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_be
 
 In the debate between [identity]({{ 'identity/' | relative_url }}) change and behaviour design, one principle repeatedly emerges from psychology and habit research: self-image becomes more believable when it is supported by evidence. Rather than starting with a declaration such as “I am disciplined” or “I am a runner”, lasting change is often built by accumulating small actions that make those statements increasingly true. Behaviour comes first; identity becomes a summary of repeated behaviour later. Research on self-perception, habits and identity formation suggests that people frequently learn who they are by observing what they consistently do, not merely by deciding what they wish to be. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/self-perception-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabSelf Perception TheorySelf perception theory argues that people become aware of certain attitudes by observing their own...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/health-and-medicine/self-perception-theory-spt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Self-perception theory (SPT) &#124; Health and MedicineSelf-perception theory (SPT) is a concept in social psychology introduced by Daryl Bem...</span></span></span> This does not mean identity is unimportant. It means that identity claims are strongest when they rest on observable proof. A new self-imagegains credibility when it can survive contact with ordinary days, competing priorities and imperfect [motivation]({{ 'motivation/' | relative_url }}).
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_behavioural_evidence_fdca56-Illustration-1-dark.svg" | relative_url }}" alt="Proof first illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_behavioural_evidence_fdca56-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_behavioural_evidence_fdca56-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why premature identity claims can backfire
 
@@ -279,7 +278,6 @@ The attraction of identity language is obvious. It feels deeper than a checklist
 When people make broad statements about who they are becoming, they create a standard that reality can immediately test. If the evidence is thin, each failure becomes psychologically expensive. Missing one run feels less like a missed activity and more like proof that the new identity was never real.
 
 Research on self-perception theory helps explain why. When attitudes or self-beliefs are uncertain, people often infer them by observing their own actions. In effect, they ask: “What does my behaviour suggest about me?” If the behavioural record is inconsistent, the identity claim remains fragile. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/self-perception-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabSelf Perception TheorySelf perception theory argues that people become aware of certain attitudes by observing their own...</span></span></span> ScienceDirect This creates a common self-improvement cycle: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0272494423000440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect From attitude to identity?</span><span class="citation-popover-snippet">A field experiment on...by L Randers · 2023 · Cited by 25 — Self-perception theory suggests that a person&#x27;s behavioural history matters...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -301,14 +299,13 @@ One completed workout does not make someone an athlete. One page of writing does
 
 Popular habit literature often describes actions as “votes” for a particular identity. The metaphor resonates because it reflects a broader psychological reality: repeated behaviour provides information about the self. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/identity-votes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">James ClearHow to Change Your Beliefs and Stick to Your Goals for...The best way to stick to your goals is to build identity-based habit...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U98qvyAGnSg" title="Self Perception Theory (vs Cognitive Dissonance) + Examples" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U98qvyAGnSg" target="_blank" rel="noopener noreferrer">Self Perception Theory (vs Cognitive Dissonance) + Examples</a></p><p class="youtube-embed-meta">Channel: Practical Psychology &middot; Views: 96.7K &middot; Uploaded: July 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U98qvyAGnSg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U98qvyAGnSg">Open on YouTube</a></p></div></div></div>
 
 ### Evidence is stronger than intention
 
 People often overestimate the importance of intentions because intentions are emotionally vivid. Behavioural evidence is less dramatic but more reliable.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Consider two people:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Verplanken · 2019 · Cited by 150 — Two studies investigated associations between habits and identity, in particular what people c...</span></span></span>
+Consider two people: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Verplanken · 2019 · Cited by 150 — Two studies investigated associations between habits and identity, in particular what people c...</span></span></span>
 
 * Person A says they are committed to fitness and talks about it frequently.
 * Person B quietly walks for twenty minutes every weekday.
@@ -331,14 +328,12 @@ This is one reason behaviour-focused interventions often outperform approaches t
 
 There is no universal threshold at which a new identity becomes justified. However, the evidence becomes more persuasive when it meets three conditions.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_behavioural_evidence_fdca56-Illustration-2-dark.svg" | relative_url }}" alt="Proof first illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_behavioural_evidence_fdca56-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_behavioural_evidence_fdca56-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### It is observable
 
 The behaviour should be visible enough that a neutral observer could confirm it.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -359,7 +354,6 @@ Identity grows from patterns rather than isolated events. Research on habits con
 
 The critical question is not whether a behaviour happened once but whether it continues under ordinary conditions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pOQND2fSvnk" title="Do This to Change Your Beliefs: The Self Perception Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pOQND2fSvnk" target="_blank" rel="noopener noreferrer">Do This to Change Your Beliefs: The Self Perception Theory</a></p><p class="youtube-embed-meta">Channel: The Mindset Mentor Podcast &middot; Views: 9.5K &middot; Uploaded: September 2024 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pOQND2fSvnk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pOQND2fSvnk">Open on YouTube</a></p></div></div></div>
 
 ### It survives inconvenience
@@ -369,7 +363,6 @@ The strongest proof appears when behaviour persists despite minor obstacles.
 A person who writes only when inspired has evidence of occasional writing. A person who writes when tired, busy or uninspired has evidence of a writing practice.
 
 The difference is important because identity becomes believable when behaviour remains stable across different situations. Evidence gathered only under ideal conditions is weaker than evidence gathered under real-life constraints.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j_WI57kpiVg" title="Daryl Bem&#x27;s Self Perception Theory | Social Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j_WI57kpiVg" target="_blank" rel="noopener noreferrer">Daryl Bem&#x27;s Self Perception Theory | Social Psychology</a></p><p class="youtube-embed-meta">Channel: Sociologylearners &middot; Views: 224 &middot; Uploaded: March 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j_WI57kpiVg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j_WI57kpiVg">Open on YouTube</a></p></div></div></div>
 
@@ -383,7 +376,6 @@ This shifts attention from self-description to evidence gathering.
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Rather than claiming to be organised, consistently maintain a calendar.
@@ -395,7 +387,6 @@ For example:
 Over time, identity becomes less of a motivational slogan and more of a factual observation.
 
 Interestingly, research on behaviour and identity formation suggests that behavioural history may influence future attitudes and identity gradually rather than instantly. New behaviours do not automatically create a new self-image, but repeated identity-consistent actions can strengthen positive attitudes and eventually support a more durable sense of identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0272494423000440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect From attitude to identity?</span><span class="citation-popover-snippet">A field experiment on...by L Randers · 2023 · Cited by 25 — Self-perception theory suggests that a person&#x27;s behavioural history matters...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_behavioural_evidence_fdca56-Illustration-3-dark.svg" | relative_url }}" alt="Proof first illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_behavioural_evidence_fdca56-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_behavioural_evidence_fdca56-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical standard: act before you announce

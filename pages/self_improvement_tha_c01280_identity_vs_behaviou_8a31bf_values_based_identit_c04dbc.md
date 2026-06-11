@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /identity/
 nav_short_title: Chosen values
 title: Change works better when it feels chosen
-title_full: Change works better when it feels chosen | Identity
+title_full: Change works better when it feels chosen
 display_title_short: Chosen values
 display_title: Chosen values
 heading_title: Change works better when it feels chosen
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:05:09'
-parent_title: Do You Need a New Identity or a Better Plan? | Better Change
+parent_title: Do You Need a New Identity or a Better Plan?
 parent_permalink: /identity/
 parent_nav_short_title: Identity
 parent_heading_title: Do You Need a New Identity or a Better Plan?
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_va
 
 Change is easier to sustain when it feels like an expression of who you want to be rather than a response to pressure. Within the broader debate between [identity]({{ 'identity/' | relative_url }}) change and behaviour design, one of the most important distinctions is not whether identity matters, but what kind of identity is being built. An identity rooted in chosen values tends to support persistence, learning and adjustment. An identity built mainly around approval, guilt, status or obligation often creates tension, fragility and burnout. Research on [motivation]({{ 'motivation/' | relative_url }}) consistently finds that people maintain behaviour more effectively when they experience autonomy, competence and meaningful connection rather than feeling controlled by external demands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Self-determination theory</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_values_based_identit_c04dbc-Illustration-1-dark.svg" | relative_url }}" alt="Chosen values illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_values_based_identit_c04dbc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_values_based_identit_c04dbc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean external influences are irrelevant. Social expectations, incentives and responsibilities shape behaviour every day. The key question is whether those influences become personally endorsed. Self-improvement that works usually involves translating outside goals into reasons that feel genuinely one's own. When that happens, behaviour becomes less of a performance and more of a reflection of values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span>
 
@@ -299,7 +298,6 @@ Autonomy does not mean doing whatever feels pleasant in the moment. In psycholog
 
 Pressure-driven identities often sound like:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * "I should be more productive."
@@ -310,7 +308,6 @@ Pressure-driven identities often sound like:
 </div>
 
 Values-driven identities sound different:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -324,7 +321,6 @@ Values-driven identities sound different:
 The behaviours may overlap, but the psychological experience changes. The first set is dominated by obligation and judgement. The second is anchored in personal endorsement.
 
 Studies on internalisation show that people naturally absorb social rules and expectations, but the quality of that internalisation matters. Behaviour becomes more stable when individuals move from external compliance towards personally accepted values and integrated self-understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bridgetolearning.stanford.edu/menu/internalization/regulatory-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bridgetolearning.stanford.edu">[Bridging to Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bridgetolearning.stanford.edu</span><span class="citation-popover-snippet">Bridging to LearningRegulatory StylesIntegrated regulation reflects the fullest internalization and most autonomous and self-endorsed for...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LbEzj71JVXM" title="Intrinsic vs Extrinsic Motivation. 🌟 | Motivated Mondays" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LbEzj71JVXM" target="_blank" rel="noopener noreferrer">Intrinsic vs Extrinsic Motivation. 🌟 | Motivated Mondays</a></p><p class="youtube-embed-meta">Channel: UnJaded Jade &middot; Views: 44.3K &middot; Uploaded: March 2019 &middot; Length: 3 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LbEzj71JVXM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LbEzj71JVXM">Open on YouTube</a></p></div></div></div>
 
@@ -347,7 +343,6 @@ This creates a familiar self-improvement cycle:
 
 The problem is not discipline. The problem is that the behaviour never became integrated into the person's values.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_values_based_identit_c04dbc-Illustration-2-dark.svg" | relative_url }}" alt="Chosen values illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_values_based_identit_c04dbc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_values_based_identit_c04dbc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Competence makes identity believable
 
@@ -365,7 +360,6 @@ The identity is not sustained by affirmation alone. It is reinforced through com
 
 This is one reason behaviour design remains important. Values provide direction, but small repeatable actions provide proof. A person who chooses actions that are achievable, measurable and repeatable accumulates evidence that supports both competence and identity. Behaviour-based identity has been associated with successful maintenance of health-related behaviours precisely because actions provide continual reinforcement of self-perception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6124500/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Behavior-based identity is...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LHQv7FU8Atw" title="Connecting motivation, awareness, values, and thriving: New research from Self-determination theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LHQv7FU8Atw" target="_blank" rel="noopener noreferrer">Connecting motivation, awareness, values, and thriving: New research from Self-determination theory</a></p><p class="youtube-embed-meta">Channel: Embætti landlæknis &middot; Views: 4.3K &middot; Uploaded: January 2023 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LHQv7FU8Atw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LHQv7FU8Atw">Open on YouTube</a></p></div></div></div>
 
 ### Confidence grows from evidence
@@ -373,7 +367,6 @@ This is one reason behaviour design remains important. Values provide direction,
 Many people attempt to build confidence by changing their self-talk. While self-talk can help, confidence is often more durable when it emerges from demonstrated ability.
 
 Instead of repeatedly declaring, "I am a disciplined person," a more effective path is often:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -408,7 +401,6 @@ Research on internalisation suggests that relatedness—the experience of feelin
 
 This explains why supportive communities often help habits endure. The social environment does not merely impose rules. It helps people make sense of those rules as part of a meaningful identity.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_values_based_identit_c04dbc-Illustration-3-dark.svg" | relative_url }}" alt="Chosen values illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_values_based_identit_c04dbc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_values_based_identit_c04dbc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to tell whether an identity is values-based
 
@@ -422,7 +414,6 @@ Values-based identities usually survive these questions because the behaviour is
 
 Useful questions include:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * What value does this habit express?
@@ -434,7 +425,6 @@ Useful questions include:
 </div>
 
 The goal is not perfect purity of motivation. Most behaviour contains a mixture of personal and social influences. The aim is simply to move towards reasons that feel increasingly authentic and self-endorsed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mxI1QxHEljI" title="&quot;The Happiness Trap : Stop Struggling, Start Living&quot; by Dr. Russ Harris" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mxI1QxHEljI" target="_blank" rel="noopener noreferrer">&quot;The Happiness Trap : Stop Struggling, Start Living&quot; by Dr. Russ Harris</a></p><p class="youtube-embed-meta">Channel: Ideas To Inspire &middot; Views: 88 &middot; Uploaded: January 2024 &middot; Length: 3 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mxI1QxHEljI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mxI1QxHEljI">Open on YouTube</a></p></div></div></div>
 

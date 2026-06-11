@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /environment/
 nav_short_title: Temptation Pause
 title: Make bad habits just inconvenient enough
-title_full: Make bad habits just inconvenient enough | Environment
+title_full: Make bad habits just inconvenient enough
 display_title_short: Temptation Pause
 display_title: Temptation Pause
 heading_title: Make bad habits just inconvenient enough
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:18:39'
-parent_title: Why Your Room May Matter More Than Willpower | Better Change
+parent_title: Why Your Room May Matter More Than Willpower
 parent_permalink: /environment/
 parent_nav_short_title: Environment
 parent_heading_title: Why Your Room May Matter More Than Willpower
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_environment_design_133edb_temp
 
 One of the most effective forms of [environment]({{ 'environment/' | relative_url }}) design is surprisingly small: storing temptations in a way that creates a brief delay before you can act on them. The goal is not to eliminate temptation or rely on heroic self-control. It is to insert a few seconds, a few steps or a minor inconvenience between an impulse and the behaviour that follows.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_temptation_storage_p_e1a126-Illustration-1-dark.svg" | relative_url }}" alt="Temptation Pause illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_temptation_storage_p_e1a126-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_temptation_storage_p_e1a126-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This works because many unwanted habits are highly sensitive to convenience. When a behaviour is easy, visible and immediately available, it requires very little effort to perform. When access becomes slightly slower, the automatic nature of the behaviour is interrupted, creating space for conscious choice. Research on habit formation, behaviour design and choice architecture consistently shows that effort, accessibility and environmental structure influence what people do, often more than intentions alone. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span>
 
@@ -283,7 +282,6 @@ Many bad habits persist because they are the path of least resistance. The behav
 Behaviour scientist BJ Fogg's work highlights the importance of ability and effort. When a behaviour is easier to perform, it becomes more likely to occur. [Motivation]({{ 'motivation/' | relative_url }}) matters, but ease matters too. In many situations, reducing or increasing effort has a larger practical effect than trying to increase determination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.demenzemedicinagenerale.net/images/mens-sana/Captology_Fogg_Behavior_Model.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: demenzemedicinagenerale.net">[2demenzemedicinagenerale.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">demenzemedicinagenerale.net</span><span class="citation-popover-title">Behavior Model, or “FBM” for brevity.Read more</span><span class="citation-popover-snippet">A Behavior Model for Persuasive Designby BJ Fogg · 2009 · Cited by 4215 — This paper shares a new way to understand the drivers of human...</span></span></span>
 
 This helps explain familiar patterns:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -301,7 +299,6 @@ The important insight is that an impulse is often brief. If acting on it becomes
 
 The most useful storage changes are not dramatic. They create friction without creating a major burden.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Iu9yS3pgLjQ" title="The Habit Pyramid: Build New Habits, Faster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Iu9yS3pgLjQ" target="_blank" rel="noopener noreferrer">The Habit Pyramid: Build New Habits, Faster</a></p><p class="youtube-embed-meta">Channel: falletron &middot; Views: 2.4K &middot; Uploaded: April 2025 &middot; Length: 4 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Iu9yS3pgLjQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Iu9yS3pgLjQ">Open on YouTube</a></p></div></div></div>
 
 ### Food temptations
@@ -309,7 +306,6 @@ The most useful storage changes are not dramatic. They create friction without c
 Food provides one of the clearest examples because accessibility strongly influences eating behaviour. Research on food choice architecture shows that positioning, proximity and ease of access affect what people select and consume. Simply moving foods further away can change behaviour without banning them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/nudge-in-the-right-direction-the-role-of-food-choice-architecture-in-changing-populations-diets/C9920D90BE1B3BF41C1EAADFB9814BB2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentA nudge in the right direction: the role of food choice...by H Ensaff · 2021 · Cited by 182 — Thi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/168584/9/a-nudge-in-the-right-direction-the-role-of-food-choice-architecture-in-changing-populations-diets.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">White Rose Research Onlinethe role of food choice architecture in changing populations...by H Ensaff · 2021 · Cited by 182 — The potenti...</span></span></span>
 
 Practical examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -330,14 +326,12 @@ A social media app on the home screen can be opened almost reflexively. Moving i
 
 Those steps seem trivial when considered individually. Yet many impulsive checks occur because there is virtually no barrier between urge and action. A few seconds of friction can break the automatic loop and prompt a moment of reflection.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_temptation_storage_p_e1a126-Illustration-2-dark.svg" | relative_url }}" alt="Temptation Pause illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_temptation_storage_p_e1a126-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_temptation_storage_p_e1a126-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Shopping and spending
 
 Impulse purchases often happen when buying is frictionless.
 
 Examples of useful pauses include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -358,7 +352,6 @@ Choice architecture research repeatedly shows that people are influenced by how 
 
 When a tempting item is immediately available, the sequence often looks like this:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/muW7kVcbrxE" title="Tiny Habits Book Summary - BJ Fogg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=muW7kVcbrxE" target="_blank" rel="noopener noreferrer">Tiny Habits Book Summary - BJ Fogg</a></p><p class="youtube-embed-meta">Channel: Wise Words Book Summaries &middot; Views: 227 &middot; Uploaded: February 2023 &middot; Length: 1 hour 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=muW7kVcbrxE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=muW7kVcbrxE">Open on YouTube</a></p></div></div></div>
 
 1. Cue appears.
@@ -366,7 +359,6 @@ When a tempting item is immediately available, the sequence often looks like thi
 3. Behaviour happens.
 
 Adding a storage-based pause inserts an additional stage:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -382,7 +374,6 @@ The critical change is that the behaviour is no longer automatic.
 
 In habit research, one of the challenges of changing behaviour is surviving moments when motivation is low. Environmental adjustments help because they continue operating even when attention, energy or discipline are temporarily depleted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openresearch.surrey.ac.uk">[Open Research Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openresearch.surrey.ac.uk</span><span class="citation-popover-title">Open Research Surrey Habit Formation and Behavior Change</span><span class="citation-popover-snippet">Open Research SurreyHabit Formation and Behavior Change - University of Surreyby AL Rebar · 2019 · Cited by 416 — It has been argued that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Neal_.2016.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dornsife.usc.edu">[USC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dornsife.usc.edu</span><span class="citation-popover-title">We show</span><span class="citation-popover-snippet">USC DornsifeInterventions for initiating &amp; maintaining health behavior changeby W Wood · Cited by 491 — We outline habit-forming approach...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_temptation_storage_p_e1a126-Illustration-3-dark.svg" | relative_url }}" alt="Temptation Pause illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_temptation_storage_p_e1a126-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_temptation_storage_p_e1a126-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Avoiding setups that feel punitive or unrealistic
 
@@ -391,7 +382,6 @@ A common mistake is adding so much friction that the system becomes annoying and
 If healthy food is difficult to access while unhealthy food is merely hidden, the environment still favours the unwanted behaviour. Likewise, locking away every entertainment device may work briefly but can become impractical in normal life.
 
 Useful temptation storage follows three principles:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -404,7 +394,6 @@ Useful temptation storage follows three principles:
 Behavioural design researchers distinguish between helpful friction and excessive friction. Helpful friction protects better decisions. Excessive friction creates unnecessary burdens and is often abandoned over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/online-choice-architecture-how-digital-design-can-harm-competition-and-consumers/evidence-review-of-online-choice-architecture-and-consumer-and-competition-harm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">April 5, 2022 — 5 Apr 2022 — Harmful OCA can also make decisions unnecessarily complex for consumers, and create friction that makes it d...</span><span class="citation-popover-meta">Published: April 5, 2022</span></span></span>
 
 The most successful systems usually feel almost trivial. They are easy to maintain and difficult to resent.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pAjc5vS7hHI" title="Your Room Is Killing Your Willpower (Environment Design Protocol)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pAjc5vS7hHI" target="_blank" rel="noopener noreferrer">Your Room Is Killing Your Willpower (Environment Design Protocol)</a></p><p class="youtube-embed-meta">Channel: OrderOfBusiness &middot; Views: 12 &middot; Uploaded: February 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pAjc5vS7hHI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pAjc5vS7hHI">Open on YouTube</a></p></div></div></div>
 

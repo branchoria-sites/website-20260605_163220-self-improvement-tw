@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /app-blockers/
 nav_short_title: Tap Delays
 title: Can a five second pause stop autopilot scrolling?
-title_full: Can a five second pause stop autopilot scrolling? | App Blockers
+title_full: Can a five second pause stop autopilot scrolling?
 display_title_short: Tap Delays
 display_title: Tap Delays
 heading_title: Can a five second pause stop autopilot scrolling?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 14:50:09'
-parent_title: Do App Blockers Actually Help? | Better Change
+parent_title: Do App Blockers Actually Help?
 parent_permalink: /app-blockers/
 parent_nav_short_title: App Blockers
 parent_heading_title: Do App Blockers Actually Help?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_app_blockers_1932a2_one_tap_de
 
 A surprising amount of distracting phone use begins before a conscious decision is made. The thumb moves, the familiar icon is tapped, and a social media feed appears almost instantly. One-tap delays are designed for this exact moment. Instead of banning an app, they insert a brief pause—often just a few seconds—between the tap and the app opening. That tiny interruption can be enough to convert an automatic habit into a deliberate choice.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_one_tap_delays_457101-Illustration-1-dark.svg" | relative_url }}" alt="Tap Delays illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_one_tap_delays_457101-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_one_tap_delays_457101-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader category of app [blockers]({{ 'blockers/' | relative_url }}) and digital friction, tap delays are one of the lightest interventions available. They do not remove access, require lengthy setup, or force users into strict schedules. Their purpose is narrower: to disrupt autopilot behaviour at the moment it starts. Research on delay-based self-control tools suggests that this small change can produce surprisingly large reductions in unwanted app use because it targets the habit loop before scrolling begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralDirecting smartphone use through the self-nudge app one secby DJ Grüning · 2023 · Cited by 93 — In sum, one sec decreased u...</span></span></span>
 
@@ -289,7 +288,6 @@ This makes the first tap unusually important. It is the transition point between
 A delay intervenes before that transition completes. The user has not yet entered the distracting [environment]({{ 'environment/' | relative_url }}). They remain in a position to reconsider, close the app, or return to the task they were doing. The mechanism is simple, but it acts at the stage where habits are most vulnerable to interruption.
 
 Research on the self-nudging app one sec illustrates this principle clearly. The app inserts a short pause before selected apps open, typically accompanied by a breathing prompt or moment of reflection. In a six-week field study, actual openings of targeted apps fell by 57%. Researchers also found that users attempted to open those apps less frequently over time, suggesting that the intervention affected habit formation rather than merely delaying access. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 83 — Second, over the course of 6 wk, us...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ro-CMx5Tsdk" title="Minimalist Phone Launcher Review | No More Distractions!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ro-CMx5Tsdk" target="_blank" rel="noopener noreferrer">Minimalist Phone Launcher Review | No More Distractions!</a></p><p class="youtube-embed-meta">Channel: Be Productive &middot; Views: 9.2K &middot; Uploaded: June 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ro-CMx5Tsdk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ro-CMx5Tsdk">Open on YouTube</a></p></div></div></div>
 
@@ -309,7 +307,6 @@ Several mechanisms appear to be operating simultaneously.
 
 An important detail from the one sec research is that the measured effect was not produced by delay alone. The intervention combined a pause with breathing and reflection prompts. This means the evidence supports the broader package of interruption and reconsideration rather than a countdown timer by itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralDirecting smartphone use through the self-nudge app one secby DJ Grüning · 2023 · Cited by 93 — In sum, one sec decreased u...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_one_tap_delays_457101-Illustration-2-dark.svg" | relative_url }}" alt="Tap Delays illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_one_tap_delays_457101-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_one_tap_delays_457101-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a pause is enough
 
@@ -321,7 +318,6 @@ The pause is less effective when the user has already committed to a distracting
 
 The distinction is practical:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Autopilot behaviour:** a short delay may be enough.
@@ -331,7 +327,6 @@ The distinction is practical:
 </div>
 
 This helps explain why delay tools are often praised by people who dislike strict blockers. They target mindless checking without turning every visit into a battle over access.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-eiR9iX6oa0" title="The Best Phone Is a Minimalist Phone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-eiR9iX6oa0" target="_blank" rel="noopener noreferrer">The Best Phone Is a Minimalist Phone</a></p><p class="youtube-embed-meta">Channel: Simon Bernlieger &middot; Views: 3.7K &middot; Uploaded: February 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-eiR9iX6oa0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-eiR9iX6oa0">Open on YouTube</a></p></div></div></div>
 
@@ -347,7 +342,6 @@ Because access remains available, users often experience less resistance to inst
 
 That distinction matters for long-term [behaviour change]({{ 'behaviour-change/' | relative_url }}). The goal is not merely preventing today's distraction. It is helping users notice patterns they would otherwise perform unconsciously. When the pause repeatedly reveals that many app openings were unnecessary, people may begin reaching for those apps less often even when the delay is absent. The reduction in attempted openings observed over several weeks is consistent with that possibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 83 — Second, over the course of 6 wk, us...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/preprints/psyarxiv/nwuar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">reduce attempting to open the target app in the first place,, resulting in 37% less overall...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_one_tap_delays_457101-Illustration-3-dark.svg" | relative_url }}" alt="Tap Delays illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_one_tap_delays_457101-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_one_tap_delays_457101-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A small pause with a specific purpose
 
@@ -355,9 +349,7 @@ One-tap delays are not designed to eliminate distraction altogether. Their stren
 
 For habits driven by reflexive checking, that moment is often where the real decision happens. A five-second pause will not defeat every temptation, but it can expose how many app openings were never deliberate in the first place. Research on delay-based self-nudging tools suggests that this modest form of friction can significantly reduce unwanted app use while preserving the user's sense of choice and control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9974409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralDirecting smartphone use through the self-nudge app one secby DJ Grüning · 2023 · Cited by 93 — In sum, one sec decreased u...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...Second, over the course of 6 wk, users attempted to open target apps 37% l...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DhS-f-jl_u8" title="Intentional App Switching | one sec app | iOS 17+ Tutorial [English]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DhS-f-jl_u8" target="_blank" rel="noopener noreferrer">Intentional App Switching | one sec app | iOS 17+ Tutorial [English]</a></p><p class="youtube-embed-meta">Channel: one sec | delay distracting apps &middot; Views: 6.8K &middot; Uploaded: September 2023 &middot; Length: 1 minute 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DhS-f-jl_u8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DhS-f-jl_u8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /study-first/
 nav_short_title: App Blockers
 title: Can App Blockers Save the Study Start?
-title_full: Can App Blockers Save the Study Start? | Study First
+title_full: Can App Blockers Save the Study Start?
 display_title_short: App Blockers
 display_title: App Blockers
 heading_title: Can App Blockers Save the Study Start?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:19:06'
-parent_title: How to Study Before You Start Scrolling | Better Change
+parent_title: How to Study Before You Start Scrolling
 parent_permalink: /study-first/
 parent_nav_short_title: Study First
 parent_heading_title: How to Study Before You Start Scrolling
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_ap
 
 Can app [blockers]({{ 'blockers/' | relative_url }}) save the study start? Often, yes—but not because they create [motivation]({{ 'motivation/' | relative_url }}). Their main value is that they insert friction between a student and the easiest distraction at exactly the moment a study session begins. When the first impulse is to open social media, news, messaging feeds or short-video apps, a blocker can turn an automatic action into a conscious decision. That small pause is often enough to let the planned study task win instead.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_app_blockers_study_s_f87cd9-Illustration-1-dark.svg" | relative_url }}" alt="App Blockers illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_app_blockers_study_s_f87cd9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_app_blockers_study_s_f87cd9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The evidence suggests that notifications, app access and constant connectivity can fragment attention, while tools that suppress interruptions or temporarily remove access to distracting apps can [support]({{ 'support/' | relative_url }}) longer periods of focused work. The most effective systems are usually not total lockdowns. They block the highest-risk distractions while leaving genuinely useful study tools available. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://interruptions.net/literature/Kushlev-CHI16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interruptions.net">[2interruptions.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interruptions.net</span><span class="citation-popover-snippet">ds, we explored whether such interruptions might be causing inattention and hyperactivity—symptoms associated...Read more...</span></span></span>
 
@@ -294,7 +293,6 @@ Behaviourally, even a small obstacle can be valuable. If opening a distracting a
 
 This matters because many distractions are not planned. They begin with a reflexive tap. Research into digital wellbeing tools suggests that features such as app pausing, usage [limits]({{ 'limits/' | relative_url }}) and even grayscale displays can reduce phone use for at least some users, largely by making habitual behaviours less rewarding or less automatic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evaluating the Effectiveness of Apps Designed to Reduce...by FI Rahmillah · 2023 · Cited by 29 — Specifically, the grayscale feature...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7yly_XZXBb4" title="Android Digital Wellbeing: Introducing Focus mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7yly_XZXBb4" target="_blank" rel="noopener noreferrer">Android Digital Wellbeing: Introducing Focus mode</a></p><p class="youtube-embed-meta">Channel: Android &middot; Views: 102.6K &middot; Uploaded: May 2019 &middot; Length: 1 minute 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7yly_XZXBb4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7yly_XZXBb4">Open on YouTube</a></p></div></div></div>
 
 ## Which apps to pause before studying
@@ -304,7 +302,6 @@ The best blocker list is usually shorter than students expect.
 Many people try to block everything and then become frustrated when they need a legitimate tool. A more effective approach is to identify the apps most likely to trigger an unplanned [attention shift]({{ 'attention-shift/' | relative_url }}).
 
 For most students, the highest-priority candidates are:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,7 +317,6 @@ For most students, the highest-priority candidates are:
 
 By contrast, some apps are often worth leaving available:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Calendar and scheduling tools.
@@ -333,7 +329,6 @@ By contrast, some apps are often worth leaving available:
 </div>
 
 The goal is not maximum restriction. The goal is selective restriction. A study session fails less often because a calculator app was available than because a social feed was available.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_app_blockers_study_s_f87cd9-Illustration-2-dark.svg" | relative_url }}" alt="App Blockers illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_app_blockers_study_s_f87cd9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_app_blockers_study_s_f87cd9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Beware of the disguised distraction
@@ -356,8 +351,7 @@ Modern Focus systems are designed around this principle. Android Focus mode paus
 
 This selective approach also reduces the temptation to disable the system completely. If students can still access the tools they genuinely need, they are less likely to abandon the setup after a few days.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dODC479FnHE" title="How To Use Digital Wellbeing App on Android" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dODC479FnHE" target="_blank" rel="noopener noreferrer">How To Use Digital Wellbeing App on Android</a></p><p class="youtube-embed-meta">Channel: Tech is Easy &middot; Views: 2.3K &middot; Uploaded: March 2026 &middot; Length: 4 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dODC479FnHE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dODC479FnHE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-4Fg-3-M0CY" title="Google &amp; Apple Digital Wellbeing Features - How to use them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-4Fg-3-M0CY" target="_blank" rel="noopener noreferrer">Google &amp; Apple Digital Wellbeing Features - How to use them</a></p><p class="youtube-embed-meta">Channel: 6 Months Later &middot; Views: 23.5K &middot; Uploaded: March 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-4Fg-3-M0CY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-4Fg-3-M0CY">Open on YouTube</a></p></div></div></div>
 
 ## Why scheduled blockers often outperform manual ones
 
@@ -369,8 +363,7 @@ The advantage is subtle but important. The decision to block distractions is mad
 
 This follows a broader principle from [behaviour change]({{ 'behaviour-change/' | relative_url }}): systems work better when the desired action is prepared before the critical moment arrives. The phone enters study mode automatically, and the student begins work without having to make another decision.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nr_LWUCr_hA" title="How to Set App Time Limits on iPhone (Two Different Ways To Limit App Use)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nr_LWUCr_hA" target="_blank" rel="noopener noreferrer">How to Set App Time Limits on iPhone (Two Different Ways To Limit App Use)</a></p><p class="youtube-embed-meta">Channel: Quick Tutorials &middot; Views: 6.1K &middot; Uploaded: January 2026 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nr_LWUCr_hA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nr_LWUCr_hA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dODC479FnHE" title="How To Use Digital Wellbeing App on Android" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dODC479FnHE" target="_blank" rel="noopener noreferrer">How To Use Digital Wellbeing App on Android</a></p><p class="youtube-embed-meta">Channel: Tech is Easy &middot; Views: 2.3K &middot; Uploaded: March 2026 &middot; Length: 4 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dODC479FnHE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dODC479FnHE">Open on YouTube</a></p></div></div></div>
 
 ## Where app blockers fall short
 
@@ -382,11 +375,19 @@ Research on digital wellbeing interventions also shows mixed results. Some tools
 
 The most reliable pattern is that blockers help when they support a specific action. "Don't use my phone" is vague. "Start the first practice problem before any social media" gives the blocker a concrete job to do.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_app_blockers_study_s_f87cd9-Illustration-3-dark.svg" | relative_url }}" alt="App Blockers illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_app_blockers_study_s_f87cd9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_app_blockers_study_s_f87cd9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The most effective study-start setup
 
 For most students, a high-value configuration is surprisingly simple:
+
+1. Schedule Focus mode to activate before study time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://appblock.app/focus-mode-app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appblock.app">[appblock.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appblock.app</span><span class="citation-popover-title">Focus mode app</span><span class="citation-popover-snippet">App &amp; Website Blocker for...Boost your focus with AppBlock&#x27;s Focus Mode. ✔️ Block distracting apps and websites. ✔️ Create cu...</span></span></span>
+2. Pause social media, entertainment and gaming apps.
+3. Silence non-essential notifications.
+4. Leave academic and practical tools available.
+5. Place the phone out of immediate reach.
+6. Start a clearly defined first study task within the first minute.
+
+This approach does not depend on becoming perfectly disciplined. It depends on making the first scroll slightly harder and the first study action slightly easier. For protecting the start of a study session, that small difference is often enough to change what happens next. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.22657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/android/answer/9346420?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">· Tap Digital Wellbeing &amp; parental controls and then · Choose which apps you want to pause. When Focus mode is on, you can&#x27;t use...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/android/answer/9346420?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">· Tap Digital Wellbeing &amp; parental controls and then · Choose which apps you want to pause. When Focus mode is on, you can&#x27;t use...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -521,11 +522,11 @@ For most students, a high-value configuration is surprisingly simple:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-app-blockers-save-the-study-start-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="can-app-blockers-save-the-study-start-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pomodoro Cube Flip Timer Gravity Sensor Digital Workout Cooking Management Study"><img src="https://i.ebayimg.com/images/g/tfAAAeSwomRpEY5K/s-l225.jpg" alt="Listing image for Pomodoro Cube Flip Timer Gravity Sensor Digital Workout Cooking Management Study" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-app-blockers-save-the-study-start-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="can-app-blockers-save-the-study-start-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic LCD Digital Kitchen Timer Large Display Count Up/Down Loud Alarm Study"><img src="https://i.ebayimg.com/images/g/t2QAAeSwxPxpAyPr/s-l225.jpg" alt="Listing image for Magnetic LCD Digital Kitchen Timer Large Display Count Up/Down Loud Alarm Study" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-app-blockers-save-the-study-start-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="can-app-blockers-save-the-study-start-study-timer" target="_blank" rel="sponsored noopener noreferrer">Pomodoro Cube Flip Timer Gravity Sensor Digital Workout Cooking Management Study</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-app-blockers-save-the-study-start-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="can-app-blockers-save-the-study-start-study-timer" target="_blank" rel="sponsored noopener noreferrer">Magnetic LCD Digital Kitchen Timer Large Display Count Up/Down Loud Alarm Study</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-app-blockers-save-the-study-start-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="can-app-blockers-save-the-study-start-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
@@ -537,11 +538,11 @@ For most students, a high-value configuration is surprisingly simple:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-app-blockers-save-the-study-start-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="can-app-blockers-save-the-study-start-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Kitchen Egg Timer Pomodoro Study Timer Alarm Clock Kids Cooking"><img src="https://i.ebayimg.com/images/g/aUcAAeSwvwZpt6qZ/s-l225.jpg" alt="Listing image for Digital Kitchen Egg Timer Pomodoro Study Timer Alarm Clock Kids Cooking" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-app-blockers-save-the-study-start-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="can-app-blockers-save-the-study-start-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yunbaoit VT01 Visual Timer 60 Min Silent Countdown Kids Study Classroom Timer"><img src="https://i.ebayimg.com/images/g/1jgAAeSw1URp82CQ/s-l225.jpg" alt="Listing image for Yunbaoit VT01 Visual Timer 60 Min Silent Countdown Kids Study Classroom Timer" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-app-blockers-save-the-study-start-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="can-app-blockers-save-the-study-start-study-timer" target="_blank" rel="sponsored noopener noreferrer">Digital Kitchen Egg Timer Pomodoro Study Timer Alarm Clock Kids Cooking</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-app-blockers-save-the-study-start-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="can-app-blockers-save-the-study-start-study-timer" target="_blank" rel="sponsored noopener noreferrer">Yunbaoit VT01 Visual Timer 60 Min Silent Countdown Kids Study Classroom Timer</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-app-blockers-save-the-study-start-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="can-app-blockers-save-the-study-start-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
@@ -553,11 +554,11 @@ For most students, a high-value configuration is surprisingly simple:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-app-blockers-save-the-study-start-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="can-app-blockers-save-the-study-start-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Timer Study Reminder Stopwatch Alarm Clock With Silent Flashing Light UK"><img src="https://i.ebayimg.com/images/g/c6sAAeSwEKZpyrVD/s-l225.jpg" alt="Listing image for Timer Study Reminder Stopwatch Alarm Clock With Silent Flashing Light UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-app-blockers-save-the-study-start-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="can-app-blockers-save-the-study-start-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Visual Timer Rechargeable Digital Silcent Timers for Kids Study Kitchen Teaching"><img src="https://i.ebayimg.com/images/g/VYoAAeSwpypoYkNe/s-l225.jpg" alt="Listing image for Visual Timer Rechargeable Digital Silcent Timers for Kids Study Kitchen Teaching" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-app-blockers-save-the-study-start-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="can-app-blockers-save-the-study-start-study-timer" target="_blank" rel="sponsored noopener noreferrer">Timer Study Reminder Stopwatch Alarm Clock With Silent Flashing Light UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-app-blockers-save-the-study-start-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="can-app-blockers-save-the-study-start-study-timer" target="_blank" rel="sponsored noopener noreferrer">Visual Timer Rechargeable Digital Silcent Timers for Kids Study Kitchen Teaching</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-app-blockers-save-the-study-start-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="can-app-blockers-save-the-study-start-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
@@ -779,14 +780,6 @@ For most students, a high-value configuration is surprisingly simple:
 })();
 </script>
 </section>
-1. Schedule Focus mode to activate before study time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://appblock.app/focus-mode-app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appblock.app">[appblock.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appblock.app</span><span class="citation-popover-title">Focus mode app</span><span class="citation-popover-snippet">App &amp; Website Blocker for...Boost your focus with AppBlock&#x27;s Focus Mode. ✔️ Block distracting apps and websites. ✔️ Create cu...</span></span></span>
-2. Pause social media, entertainment and gaming apps.
-3. Silence non-essential notifications.
-4. Leave academic and practical tools available.
-5. Place the phone out of immediate reach.
-6. Start a clearly defined first study task within the first minute.
-
-This approach does not depend on becoming perfectly disciplined. It depends on making the first scroll slightly harder and the first study action slightly easier. For protecting the start of a study session, that small difference is often enough to change what happens next. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.22657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/android/answer/9346420?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">· Tap Digital Wellbeing &amp; parental controls and then · Choose which apps you want to pause. When Focus mode is on, you can&#x27;t use...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/android/answer/9346420?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">· Tap Digital Wellbeing &amp; parental controls and then · Choose which apps you want to pause. When Focus mode is on, you can&#x27;t use...</span></span></span>
 
 ## Endnotes
 

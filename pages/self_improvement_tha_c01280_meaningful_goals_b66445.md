@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: Meaning
 title: What Makes a Goal Worth Repeating?
-title_full: What Makes a Goal Worth Repeating? | Better Change
+title_full: What Makes a Goal Worth Repeating?
 display_title_short: Meaning
 display_title: Meaning
 heading_title: What Makes a Goal Worth Repeating?
@@ -504,7 +504,6 @@ image: /assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-overvi
 
 A meaningful goal is one you can keep returning to after the exciting beginning has gone. It gives repetition a reason: the early mornings, awkward practice, dull admin, slow savings, repeated workouts, difficult conversations or quiet study sessions feel less like random self-punishment and more like service to something you genuinely value. This does not mean every step feels inspiring. It means the goal is connected strongly enough to your values, [identity]({{ 'identity/' | relative_url }}), relationships or life stage that boredom becomes a signal to adjust the method, not a reason to abandon the direction.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-overview.webp" | relative_url }}" alt="Overview image for Meaning" loading="eager" decoding="sync" fetchpriority="high">
 This is why meaningful goals matter in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}). Behaviour-change research supports [goal setting]({{ 'goal-setting/' | relative_url }}) as an effective technique, but goals are more durable when they are specific enough to guide action and personally endorsed enough to survive friction. A goal that only borrows energy from novelty, comparison or guilt often fades when progress becomes repetitive. A goal linked to autonomous motivation, competence, relationships or a valued future has more to draw on when the work becomes ordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Goal setting is an effective behavior change t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Self determination theory</span><span class="citation-popover-snippet">Self determination theory</span></span></span>
 
@@ -528,7 +527,6 @@ The self-concordance model makes this more specific. Kennon Sheldon and Andrew E
 
 A goal worth repeating usually has three features:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **It is personally owned.** The person can say why it matters without relying entirely on outside approval.
@@ -538,7 +536,6 @@ A goal worth repeating usually has three features:
 </div>
 
 That last point is often overlooked. Meaning is not a one-time slogan. It has to be revisited, especially when progress slows.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-Illustration-1-dark.svg" | relative_url }}" alt="Meaning illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Values and personal reasons
@@ -553,7 +550,6 @@ For personal [self improvement]({{ 'self-improvement-that-works/' | relative_url
 
 A useful values test is to complete three sentences:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. “This goal matters because…”
@@ -563,7 +559,6 @@ A useful values test is to complete three sentences:
 </div>
 
 The answers do not need to be poetic. In fact, plain answers often work better: “I want fewer money panics,” “I want to be strong enough to play with my children,” “I want to become reliable at finishing what I start,” or “I want my evenings to reflect what I say I care about.”
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PZ7lDrwYdZc" title="How to become 37.78 times better at anything | Atomic Habits summary (by James Clear)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PZ7lDrwYdZc" target="_blank" rel="noopener noreferrer">How to become 37.78 times better at anything | Atomic Habits summary (by James Clear)</a></p><p class="youtube-embed-meta">Channel: Escaping Ordinary (B.C Marx) &middot; Views: 22.0M &middot; Uploaded: October 2021 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PZ7lDrwYdZc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PZ7lDrwYdZc">Open on YouTube</a></p></div></div></div>
 
@@ -577,7 +572,6 @@ The same principle applies throughout life. A goal that was meaningful at 22 may
 
 This does not mean abandoning hard things whenever they are inconvenient. It means distinguishing between **boredom**, **misalignment** and **overload**:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Boredom** says the action has become under-stimulating or emotionally flat.
@@ -587,7 +581,6 @@ This does not mean abandoning hard things whenever they are inconvenient. It mea
 </div>
 
 A good goal can survive boredom, but it should not require denial of reality. If a person with a demanding caring role sets a goal to train six days a week, failure may not reveal poor character; it may reveal poor matching. The meaningful version may be two focused sessions, daily mobility or a walking routine that protects health without pretending life has no constraints.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-Illustration-2-dark.svg" | relative_url }}" alt="Meaning illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Specific goals still need a meaningful “why”
@@ -603,7 +596,6 @@ The strongest goals often combine two layers:
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “I want to be a calmer parent” becomes “I will put my phone away for the first 20 minutes after getting home.”
@@ -615,8 +607,7 @@ For example:
 
 The action layer keeps the goal honest. The meaning layer keeps the action from becoming empty.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6fm1gt5YAM" title="Edward Deci - Self-Determination Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6fm1gt5YAM" target="_blank" rel="noopener noreferrer">Edward Deci - Self-Determination Theory</a></p><p class="youtube-embed-meta">Channel: The Brainwaves Video Anthology &middot; Views: 292.5K &middot; Uploaded: October 2017 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6fm1gt5YAM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6fm1gt5YAM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1gdkBt9it84" title="ATOMIC HABITS - Tiny Changes that Create Remarkable Results - James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1gdkBt9it84" target="_blank" rel="noopener noreferrer">ATOMIC HABITS - Tiny Changes that Create Remarkable Results - James Clear</a></p><p class="youtube-embed-meta">Channel: After Skool &middot; Views: 1.6M &middot; Uploaded: November 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1gdkBt9it84" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1gdkBt9it84">Open on YouTube</a></p></div></div></div>
 
 ## Boredom is a design problem, not always a motivation problem
 
@@ -635,7 +626,6 @@ Three adjustments are especially useful:
 **Reconnect the task to a beneficiary.** Ask who benefits from the repeated action: present self, future self, family, colleagues, students, clients, community or a craft tradition. This restores purpose without pretending the task is entertaining.
 
 This is not about turning every serious goal into a game. It is about preventing unnecessary dullness from masquerading as moral failure.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-Illustration-3-dark.svg" | relative_url }}" alt="Meaning illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The danger of goals that depend on novelty
@@ -656,7 +646,6 @@ Mental contrasting with implementation intentions offers one useful structure. M
 
 For meaningful goals, a monthly or seasonal review can be simple:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Value:** Does this still serve something I genuinely care about?
@@ -669,8 +658,7 @@ For meaningful goals, a monthly or seasonal review can be simple:
 
 The goal is not endless self-analysis. It is to keep the reason close enough that repetition does not become empty compliance.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1gdkBt9it84" title="ATOMIC HABITS - Tiny Changes that Create Remarkable Results - James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1gdkBt9it84" target="_blank" rel="noopener noreferrer">ATOMIC HABITS - Tiny Changes that Create Remarkable Results - James Clear</a></p><p class="youtube-embed-meta">Channel: After Skool &middot; Views: 1.6M &middot; Uploaded: November 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1gdkBt9it84" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1gdkBt9it84">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U_nzqnXWvSo" title="Atomic Habits: How to Get 1% Better Every Day - James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U_nzqnXWvSo" target="_blank" rel="noopener noreferrer">Atomic Habits: How to Get 1% Better Every Day - James Clear</a></p><p class="youtube-embed-meta">Channel: APB Speakers &middot; Views: 2.9M &middot; Uploaded: August 2018 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U_nzqnXWvSo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U_nzqnXWvSo">Open on YouTube</a></p></div></div></div>
 
 ## What makes a goal worth repeating?
 
@@ -795,15 +783,15 @@ The best goals are often modest in appearance and deep in function. They make a 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Basketball Goal Set Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/bKwAAeSwZSxpZSlz/s-l225.jpg" alt="Listing image for Basketball Goal Set Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fitness Goal Planner Sheet – Habit &amp; Body Measurement Tracker (4 Pack) A4"><img src="https://i.ebayimg.com/images/g/oCMAAeSwtchplyjP/s-l225.jpg" alt="Listing image for Fitness Goal Planner Sheet – Habit &amp; Body Measurement Tracker (4 Pack) A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Basketball Goal Set Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">Fitness Goal Planner Sheet – Habit &amp; Body Measurement Tracker (4 Pack) A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -811,15 +799,15 @@ The best goals are often modest in appearance and deep in function. They make a 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set Goals Quote Print Black &amp; Gold Wall Art Picture"><img src="https://i.ebayimg.com/images/g/iQQAAOSwn4da3xHw/s-l225.jpg" alt="Listing image for Set Goals Quote Print Black &amp; Gold Wall Art Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star St"><img src="https://i.ebayimg.com/images/g/hSEAAeSwXcZoxGPE/s-l225.jpg" alt="Listing image for Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star St" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Set Goals Quote Print Black &amp; Gold Wall Art Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star St</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -827,15 +815,15 @@ The best goals are often modest in appearance and deep in function. They make a 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set Goals And Demolish Them Quote Print Black &amp; Gold Wall Art Picture"><img src="https://i.ebayimg.com/images/g/yM8AAOSwbE9a3xHt/s-l225.jpg" alt="Listing image for Set Goals And Demolish Them Quote Print Black &amp; Gold Wall Art Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star S"><img src="https://i.ebayimg.com/images/g/h1EAAeSwrgtpRZe3/s-l225.jpg" alt="Listing image for Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star S" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Set Goals And Demolish Them Quote Print Black &amp; Gold Wall Art Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star S</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -843,15 +831,15 @@ The best goals are often modest in appearance and deep in function. They make a 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set Goals Quote Print Watercolour Wall Art"><img src="https://i.ebayimg.com/images/g/5msAAOSwH~ta3ypr/s-l225.jpg" alt="Listing image for Set Goals Quote Print Watercolour Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Pcs Fundraising Thermometer Goal Charts 11&quot; X 46.5&quot; Dry Erase Goal Trackers Ch"><img src="https://i.ebayimg.com/images/g/KfQAAeSwFrRqHkw2/s-l225.jpg" alt="Listing image for 3 Pcs Fundraising Thermometer Goal Charts 11&quot; X 46.5&quot; Dry Erase Goal Trackers Ch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Set Goals Quote Print Watercolour Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">3 Pcs Fundraising Thermometer Goal Charts 11&quot; X 46.5&quot; Dry Erase Goal Trackers Ch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -859,7 +847,7 @@ The best goals are often modest in appearance and deep in function. They make a 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1069,6 +1057,7 @@ The best goals are often modest in appearance and deep in function. They make a 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1271,4 +1260,4 @@ The best goals are often modest in appearance and deep in function. They make a 
 
 45. <a id="endnote-45"></a>
    Source: sammatla.com  
-   Link: <a href="https://sammatla.com/how-to-grind-through-the-boring-work/" target="_blank" rel="noopener noreferrer nofollow">https://sammatla.com/how-to-grind-through-the-boring-work/</a>  
+   Link: <a href="https://sammatla.com/how-to-grind-through-the-boring-work/" target="_blank" rel="noopener noreferrer nofollow">https://sammatla.com/how-to-grind-through-the-boring-work/</a>

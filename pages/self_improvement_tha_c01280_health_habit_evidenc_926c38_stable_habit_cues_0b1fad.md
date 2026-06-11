@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /health-habits/
 nav_short_title: Stable Cues
 title: The cue that makes a habit easier
-title_full: The cue that makes a habit easier | Health Habits
+title_full: The cue that makes a habit easier
 display_title_short: Stable Cues
 display_title: Stable Cues
 heading_title: The cue that makes a habit easier
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:39:05'
-parent_title: What Health Habits Teach About Change | Better Change
+parent_title: What Health Habits Teach About Change
 parent_permalink: /health-habits/
 parent_nav_short_title: Health Habits
 parent_heading_title: What Health Habits Teach About Change
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_st
 
 One of the strongest findings in health habit research is that repetition alone is not what makes a behaviour automatic. A habit becomes automatic when repetition happens in the presence of a stable cue that reliably signals when the behaviour should begin. In other words, the brain learns a link between a specific context and a specific action. Over time, encountering the cue starts to trigger the behaviour with less conscious effort, planning, or [motivation]({{ 'motivation/' | relative_url }}). Research on health behaviours consistently describes habits as cue-dependent automatic responses rather than merely behaviours performed frequently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlinePromoting habit formation: Health Psychology Reviewby P Lally · 2013 · Cited by 1243 — Habits are automatic behavi...</span></span></span> ResearchGate For people interested in self-improvement that works <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Bas-Verplanken/publication/45364462_The_Automatic_Component_of_Habit_in_Health_Behavior_Habit_as_Cue-Contingent_Automaticity/links/5535045b0cf2df9ea6a42a91/The-Automatic-Component-of-Habit-in-Health-Behavior-Habit-as-Cue-Contingent-Automaticity.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The Automatic Component of Habit in Health BehaviorObjective: Habit might be usefully characterized as a form of automaticity that involv...</span></span></span>, this distinction matters. Many failed health plans rely on intentions such as “exercise more” or “eat healthier” without defining a stable cue. The evidence suggests that a recognisable cue is often the missing mechanism that turns effortful behaviour into something that feels increasingly natural. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlinePromoting habit formation: Health Psychology Reviewby P Lally · 2013 · Cited by 1243 — Habits are automatic behavi...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_stable_habit_cues_0b1fad-Illustration-1-dark.svg" | relative_url }}" alt="Stable Cues illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_stable_habit_cues_0b1fad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_stable_habit_cues_0b1fad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why repetition needs a recognisable cue
 
@@ -306,7 +305,6 @@ Existing actions are among the strongest candidates for habit cues because they 
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * After brushing teeth, floss.
@@ -318,7 +316,6 @@ Examples include:
 
 These cues benefit from being embedded within routines that already exist. The behaviour does not require remembering a new time slot; it is attached to something that is already part of daily life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralA review and analysis of the use of &#x27;habit&#x27; in understanding...by B Gardner · 2014 · Cited by 1340 — The mechanism that un...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kclpure.kcl.ac.uk/portal/en/publications/experiences-of-habit-formation-a-qualitative-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kclpure.kcl.ac.uk">[King&#x27;s College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kclpure.kcl.ac.uk</span><span class="citation-popover-title">experiences of habit formation a qualitative study</span><span class="citation-popover-snippet">King&#x27;s College LondonExperiences of habit formation: A qualitative studyby P Lally · 2011 · Cited by 365 — Results showed that behaviour...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/idhDz9miZ3w" title="The Science of How Your Brain Forms Habits (and How to Take Control)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=idhDz9miZ3w" target="_blank" rel="noopener noreferrer">The Science of How Your Brain Forms Habits (and How to Take Control)</a></p><p class="youtube-embed-meta">Channel: Dr. Tracey Marks &middot; Views: 178.5K &middot; Uploaded: April 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=idhDz9miZ3w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=idhDz9miZ3w">Open on YouTube</a></p></div></div></div>
 
 ### Places
@@ -326,7 +323,6 @@ These cues benefit from being embedded within routines that already exist. The b
 Locations can also become powerful cues.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -344,7 +340,6 @@ Behavioural transitions are often overlooked but highly reliable.
 
 Transitions include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Finishing work.
@@ -357,14 +352,12 @@ Transitions include:
 
 These moments naturally divide the day into segments. Because they occur repeatedly, they can serve as dependable signals for health behaviours. Habit researchers often describe previous actions and routine sequences as important contextual triggers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.com/articles/science-of-habit-formation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.com">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.com</span><span class="citation-popover-title">Simply Psychology The Science of Habit Formation</span><span class="citation-popover-snippet">Simply PsychologyThe Science of Habit Formation - Simply Psychology6 days ago — Cue — A trigger that initiates the behavior (location, ti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlinePromoting habit formation: Health Psychology Reviewby P Lally · 2013 · Cited by 1243 — Habits are automatic behavi...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_stable_habit_cues_0b1fad-Illustration-2-dark.svg" | relative_url }}" alt="Stable Cues illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_stable_habit_cues_0b1fad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_stable_habit_cues_0b1fad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Objects
 
 Visible objects can act as environmental prompts.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -383,7 +376,6 @@ Many habit plans fail because the chosen cue sounds good in theory but disappear
 
 The key question is not whether a cue is memorable on an ideal day. The key question is whether it still appears on busy days, stressful days, travel days, and ordinary days.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CbtvMTlEfwM" title="How Does Habit Formation Impact UX Design Choices" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CbtvMTlEfwM" target="_blank" rel="noopener noreferrer">How Does Habit Formation Impact UX Design Choices</a></p><p class="youtube-embed-meta">Channel: IxDF - Interaction Design Foundation &middot; Views: 300 &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CbtvMTlEfwM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CbtvMTlEfwM">Open on YouTube</a></p></div></div></div>
 
 ### Prefer cues that already happen
@@ -400,14 +392,12 @@ A cue based on an existing routine is usually more robust than a cue that requir
 
 A useful cue is observable and specific. It should occur whether enthusiasm is present or absent. Habits become valuable precisely because they reduce dependence on fluctuating motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlinePromoting habit formation: Health Psychology Reviewby P Lally · 2013 · Cited by 1243 — Habits are automatic behavi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehps.net">[EHPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehps.net</span><span class="citation-popover-snippet">Habit as automaticity, not frequencyby B Gardner · 2012 · Cited by 257 — Empirical work has demonstrated that, because habits are trigger...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_stable_habit_cues_0b1fad-Illustration-3-dark.svg" | relative_url }}" alt="Stable Cues illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_stable_habit_cues_0b1fad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_stable_habit_cues_0b1fad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Match the cue to the behaviour
 
 The cue should make practical sense for the action.
 
 Examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -427,7 +417,6 @@ One mistake is treating [reminders]({{ 'reminders/' | relative_url }}) as cues. 
 A second mistake is using cues that occur inconsistently. A habit attached to an event that only happens twice a week will have fewer opportunities to strengthen than one attached to a daily routine. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlinePromoting habit formation: Health Psychology Reviewby P Lally · 2013 · Cited by 1243 — Habits are automatic behavi...</span></span></span>
 
 A third mistake is changing cues too often. If someone alternates between morning, afternoon, and evening depending on convenience, the brain receives mixed signals about when the behaviour belongs. Context stability research suggests that predictable contexts support stronger growth in automaticity than constantly changing ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 18 — In this paper, we investiga...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralA review and analysis of the use of &#x27;habit&#x27; in understanding...by B Gardner · 2014 · Cited by 1340 — The mechanism that un...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PvU2oC7mfEQ" title="Habit Stacking: The Science of Linking Habits for Automatic Behavior" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PvU2oC7mfEQ" target="_blank" rel="noopener noreferrer">Habit Stacking: The Science of Linking Habits for Automatic Behavior</a></p><p class="youtube-embed-meta">Channel: Habits, Backed by Science &middot; Views: 3 &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PvU2oC7mfEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PvU2oC7mfEQ">Open on YouTube</a></p></div></div></div>
 
@@ -554,15 +543,15 @@ The evidence across habit-formation research points to the same conclusion: stab
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker"><img src="https://i.ebayimg.com/images/g/XZ8AAeSwsrlqIctB/s-l225.jpg" alt="Listing image for Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..."><img src="https://i.ebayimg.com/images/g/ZPgAAeSwOzRpzAz2/s-l225.jpg" alt="Listing image for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +559,15 @@ The evidence across habit-formation research points to the same conclusion: stab
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Law of Attraction Planner Deluxe with Vision Board"><img src="https://i.ebayimg.com/images/g/A6cAAeSwmvtqFUNt/s-l225.jpg" alt="Listing image for 2026 Law of Attraction Planner Deluxe with Vision Board" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/bcYAAeSw7cJqHb1X/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Law of Attraction Planner Deluxe with Vision Board</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,15 +575,15 @@ The evidence across habit-formation research points to the same conclusion: stab
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cork Pin Notice Board 3 types of Pins to choose 40x60 cm - Habit tracker"><img src="https://i.ebayimg.com/images/g/tzsAAOSwj8pk~wL6/s-l225.jpg" alt="Listing image for Cork Pin Notice Board 3 types of Pins to choose 40x60 cm - Habit tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer"><img src="https://i.ebayimg.com/images/g/xEIAAeSwfyppqhG~/s-l225.jpg" alt="Listing image for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Cork Pin Notice Board 3 types of Pins to choose 40x60 cm - Habit tracker</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -602,15 +591,15 @@ The evidence across habit-formation research points to the same conclusion: stab
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corkboard Notes Bulletin Board Office School 60x40 cm - Modern habit tracker"><img src="https://i.ebayimg.com/images/g/vxkAAOSwzPxk-G5h/s-l225.jpg" alt="Listing image for Corkboard Notes Bulletin Board Office School 60x40 cm - Modern habit tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl"><img src="https://i.ebayimg.com/images/g/8ooAAeSwoVBpDl1R/s-l225.jpg" alt="Listing image for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Corkboard Notes Bulletin Board Office School 60x40 cm - Modern habit tracker</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -618,7 +607,7 @@ The evidence across habit-formation research points to the same conclusion: stab
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-cue-that-makes-a-habit-easier-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-cue-that-makes-a-habit-easier-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -828,6 +817,7 @@ The evidence across habit-formation research points to the same conclusion: stab
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

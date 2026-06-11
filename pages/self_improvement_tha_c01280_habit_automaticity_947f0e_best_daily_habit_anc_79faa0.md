@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /automaticity/
 nav_short_title: Daily Anchors
 title: Which Daily Cues Make Habits Stick?
-title_full: Which Daily Cues Make Habits Stick? | Automaticity
+title_full: Which Daily Cues Make Habits Stick?
 display_title_short: Daily Anchors
 display_title: Daily Anchors
 heading_title: Which Daily Cues Make Habits Stick?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:19:12'
-parent_title: How Repetition Becomes Automatic | Better Change
+parent_title: How Repetition Becomes Automatic
 parent_permalink: /automaticity/
 parent_nav_short_title: Automaticity
 parent_heading_title: How Repetition Becomes Automatic
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_best
 
 New habits often fail for a simple reason: there is no dependable moment that tells you when to begin. [Motivation]({{ 'motivation/' | relative_url }}) varies from day to day, but certain daily routines happen with remarkable consistency. When a new behaviour is attached to one of these existing routines, the routine acts as an anchor that reminds you to perform the new action. Habit researchers describe this as context-dependent repetition: the same cue repeatedly triggers the same behaviour until the connection becomes increasingly automatic. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">When encountered, cues activate a single, specific well-learned behavioral response.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_best_daily_habit_anc_79faa0-Illustration-1-dark.svg" | relative_url }}" alt="Daily Anchors illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_best_daily_habit_anc_79faa0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_best_daily_habit_anc_79faa0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For most people, the best anchors are not alarms, inspirational quotes, or vague intentions such as “sometime this morning”. They are ordinary actions that already happen every day: brushing teeth, making coffee, sitting at a desk, finishing lunch, getting into bed, or turning off a light. These routines are stable, frequent, and easy to notice, making them powerful starting points for new habits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3pje2TsLrsQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">3 Build the Perfect Routine, Change Habits Effectively, and Improve at Anything...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrivestreetadvisors.com/leadership-library/tiny-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrivestreetadvisors.com">[Thrive Street Advisors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrivestreetadvisors.com</span><span class="citation-popover-snippet">Tiny HabitsThe Anatomy of Tiny Habits. 1. ANCHOR MOMENT: “An existing routine (like brushing your teeth) or an event that happens (like a...</span></span></span>
 
@@ -287,7 +286,6 @@ A good anchor solves the remembering problem before it solves the motivation pro
 Research on habit formation consistently emphasises the importance of repeating behaviour in the same context. [Stable cues]({{ 'stable-cues/' | relative_url }}) help create a direct association between a situation and a response, reducing the need for conscious decision-making over time. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlinePromoting habit formation: Health Psychology Reviewby P Lally · 2013 · Cited by 1248 — To promote habit formation...</span></span></span>
 
 Existing routines work especially well because they already have three qualities that new habits lack:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -304,7 +302,6 @@ Brushing your teeth every evening is a stronger anchor than “when I have time 
 Not every routine makes an equally useful anchor. The best cue is usually the one that already occurs immediately before the behaviour you want.
 
 A simple way to evaluate an anchor is to ask three questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -332,7 +329,6 @@ This structure has become widely known through habit-stacking and Tiny Habits ap
 
 The strongest anchors tend to come from routines that are already deeply embedded in daily life.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/37cbpZFhFU8" title="TINY HABITS Audiobook | Book Summary in English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=37cbpZFhFU8" target="_blank" rel="noopener noreferrer">TINY HABITS Audiobook | Book Summary in English</a></p><p class="youtube-embed-meta">Channel: Audiobook 101 &middot; Views: 10.6K &middot; Uploaded: March 2025 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=37cbpZFhFU8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=37cbpZFhFU8">Open on YouTube</a></p></div></div></div>
 
 ### Morning Anchors
@@ -340,7 +336,6 @@ The strongest anchors tend to come from routines that are already deeply embedde
 Morning routines are often highly stable because they occur before the day's unpredictability begins.
 
 Effective examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -359,7 +354,6 @@ Transitions between activities are often overlooked but powerful.
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * After arriving home, change into walking shoes.
@@ -371,14 +365,12 @@ Examples include:
 
 Transitions already signal that one activity has ended and another is about to begin, making them natural points for behavioural change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2024/01/neal.wood_.labrecque.lally_.2012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dornsife.usc.edu">[USC Dornsife]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dornsife.usc.edu</span><span class="citation-popover-title">Dornsife How do habits guide behavior?</span><span class="citation-popover-snippet">Perceived and actual triggers...by DT Neal · 2011 · Cited by 675 — What are the psychological mechanisms that trigger habits in daily li...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_best_daily_habit_anc_79faa0-Illustration-2-dark.svg" | relative_url }}" alt="Daily Anchors illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_best_daily_habit_anc_79faa0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_best_daily_habit_anc_79faa0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Evening Anchors
 
 Evening routines are useful for habits related to recovery, reflection, and sleep.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -395,7 +387,6 @@ Because these routines often occur in the same order every night, they provide s
 
 Different habits benefit from different anchors. Matching the habit to the surrounding routine increases the chance of repetition.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3pje2TsLrsQ" title="Tiny Habits - BJ Fogg PhD [Mind Map Book Summary]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3pje2TsLrsQ" target="_blank" rel="noopener noreferrer">Tiny Habits - BJ Fogg PhD [Mind Map Book Summary]</a></p><p class="youtube-embed-meta">Channel: Ethan Schwandt &middot; Views: 21.0K &middot; Uploaded: July 2020 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3pje2TsLrsQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3pje2TsLrsQ">Open on YouTube</a></p></div></div></div>
 
 ### Reading
@@ -403,7 +394,6 @@ Different habits benefit from different anchors. Matching the habit to the surro
 Reading often succeeds when attached to a quiet existing activity rather than a vague aspiration to “read more”.
 
 Good anchors include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -426,7 +416,6 @@ Examples:
 * After putting on trainers, walk around the block.
 
 The cue should make movement the obvious next step. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlinePromoting habit formation: Health Psychology Reviewby P Lally · 2013 · Cited by 1248 — To promote habit formation...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_best_daily_habit_anc_79faa0-Illustration-3-dark.svg" | relative_url }}" alt="Daily Anchors illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_best_daily_habit_anc_79faa0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_best_daily_habit_anc_79faa0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Food Habits
@@ -452,7 +441,6 @@ Examples:
 * After changing into sleepwear, begin a wind-down routine.
 
 These anchors help create a predictable sequence leading into sleep rather than relying on [willpower]({{ 'willpower/' | relative_url }}) late at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Applying the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 56 — Also, implementation intentions to pe...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LhFpU04idLA" title="Habit Stacking - Build the Perfect Routine, Change Habits Effectively, and Improve at Anything!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LhFpU04idLA" target="_blank" rel="noopener noreferrer">Habit Stacking - Build the Perfect Routine, Change Habits Effectively, and Improve at Anything!</a></p><p class="youtube-embed-meta">Channel: Upgraded Mentality &middot; Views: 8.8K &middot; Uploaded: August 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LhFpU04idLA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LhFpU04idLA">Open on YouTube</a></p></div></div></div>
 

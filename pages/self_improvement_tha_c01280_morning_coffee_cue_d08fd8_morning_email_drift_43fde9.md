@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /coffee-cue/
 nav_short_title: Email Drift
 title: How Coffee Turns Into Inbox Drift
-title_full: How Coffee Turns Into Inbox Drift | Coffee Cue
+title_full: How Coffee Turns Into Inbox Drift
 display_title_short: Email Drift
 display_title: Email Drift
 heading_title: How Coffee Turns Into Inbox Drift
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:40:42'
-parent_title: How Coffee Can Trigger the First Work Task | Better Change
+parent_title: How Coffee Can Trigger the First Work Task
 parent_permalink: /coffee-cue/
 parent_nav_short_title: Coffee Cue
 parent_heading_title: How Coffee Can Trigger the First Work Task
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morn
 
 Coffee can be a useful productivity cue, but only if it leads into the work that matters. One of the most common failure modes is inbox drift: you sit down with a coffee intending to start a meaningful task, open email “for a minute”, and find that the first hour has been reorganised around other people’s requests.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-1-dark.svg" | relative_url }}" alt="Email Drift illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is not that email is unimportant. The problem is sequencing. Email is a reactive [environment]({{ 'environment/' | relative_url }}). It presents decisions, requests, updates and problems chosen by other people. When it becomes the first cue after coffee, it can replace your own priorities before you have made progress on them. Research on interruptions, attention switching and email habits consistently suggests that frequent task switching increases stress and fragments attention, while more deliberate handling of email can reduce interruptions and emotional exhaustion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ics.uci.edu/~gmark/chi08-mark.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ics.uci.edu">[UCI Bren School of ICS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ics.uci.edu</span><span class="citation-popover-snippet">UCI Bren School of ICSThe Cost of Interrupted Work: More Speed and Stressby G Mark · Cited by 1279 — We performed an empirical study to i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/1357054.1357072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryThe cost of interrupted work: more speed and stressby G Mark · 2008 · Cited by 1277 — Our data suggests that people co...</span></span></span>
 
@@ -306,8 +305,7 @@ The inbox also encourages self-interruption. You may enter to check one message 
 
 That is why email drift often feels productive while producing surprisingly little of what people intended to accomplish.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DmtyjU4C7Pc" title="How To Build A Morning Routine That Works | Cal Newport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DmtyjU4C7Pc" target="_blank" rel="noopener noreferrer">How To Build A Morning Routine That Works | Cal Newport</a></p><p class="youtube-embed-meta">Channel: Cal Newport &middot; Views: 31.5K &middot; Uploaded: February 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DmtyjU4C7Pc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DmtyjU4C7Pc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZvZw9yWiJ-k" title="EVERYTHING DONE BY 11AM: how to manage your time &amp; be productive in the mornings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZvZw9yWiJ-k" target="_blank" rel="noopener noreferrer">EVERYTHING DONE BY 11AM: how to manage your time &amp; be productive in the mornings</a></p><p class="youtube-embed-meta">Channel: Kübra Memiş &middot; Views: 7.3K &middot; Uploaded: January 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZvZw9yWiJ-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZvZw9yWiJ-k">Open on YouTube</a></p></div></div></div>
 
 ## Sequencing Email After One Concrete Action
 
@@ -316,7 +314,6 @@ A practical solution is not necessarily to ban email. It is to change the order.
 The key principle is simple: complete one concrete action on the priority task before opening communication tools.
 
 The action should be so small that it is difficult to avoid:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -343,7 +340,6 @@ Notice the difference between these two plans:
 * “After my first sip of coffee, I will work on the proposal until I have written one section.”
 
 The second removes negotiation.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-2-dark.svg" | relative_url }}" alt="Email Drift illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Building a Realistic Rule for Jobs That Need Early Checking
@@ -373,8 +369,7 @@ Many productive professionals effectively use a version of this approach. They d
 
 A useful test is whether the inbox session produces new commitments. If five minutes of checking regularly turns into thirty minutes of responses, task creation and follow-up work, the morning scan is no longer a scan.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9P9u7mZOfu0" title="4 Simple Steps to Managing Email" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9P9u7mZOfu0" target="_blank" rel="noopener noreferrer">4 Simple Steps to Managing Email</a></p><p class="youtube-embed-meta">Channel: Dave Crenshaw &middot; Views: 23.6K &middot; Uploaded: May 2014 &middot; Length: 3 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9P9u7mZOfu0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9P9u7mZOfu0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DmtyjU4C7Pc" title="How To Build A Morning Routine That Works | Cal Newport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DmtyjU4C7Pc" target="_blank" rel="noopener noreferrer">How To Build A Morning Routine That Works | Cal Newport</a></p><p class="youtube-embed-meta">Channel: Cal Newport &middot; Views: 31.5K &middot; Uploaded: February 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DmtyjU4C7Pc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DmtyjU4C7Pc">Open on YouTube</a></p></div></div></div>
 
 ## The Hidden Reward That Keeps the Habit Alive
 
@@ -388,8 +383,7 @@ Many people unconsciously use email as a form of productive procrastination. The
 
 This is why simply telling yourself to “have more discipline” often fails. The inbox provides a real reward. Replacing the habit works better than suppressing it. Coffee becomes the cue, but the first reward comes from completing a meaningful work action rather than clearing a few messages.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-Aoqe254_xw" title="How to Get Your Email Inbox Under Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-Aoqe254_xw" target="_blank" rel="noopener noreferrer">How to Get Your Email Inbox Under Control</a></p><p class="youtube-embed-meta">Channel: Redeeming Productivity &middot; Views: 4.9K &middot; Uploaded: February 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-Aoqe254_xw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-Aoqe254_xw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9P9u7mZOfu0" title="4 Simple Steps to Managing Email" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9P9u7mZOfu0" target="_blank" rel="noopener noreferrer">4 Simple Steps to Managing Email</a></p><p class="youtube-embed-meta">Channel: Dave Crenshaw &middot; Views: 23.6K &middot; Uploaded: May 2014 &middot; Length: 3 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9P9u7mZOfu0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9P9u7mZOfu0">Open on YouTube</a></p></div></div></div>
 
 ## A Practical Coffee-to-Work Sequence
 
@@ -404,7 +398,6 @@ For most knowledge workers, a simple sequence is enough:
 The goal is not inbox avoidance. It is preventing the inbox from claiming the first and often clearest attention of the day.
 
 When coffee becomes a cue for starting meaningful work rather than opening communication tools, the morning shifts from reactive to intentional. That small change in sequence often matters more than any productivity app, because it determines whose priorities shape the opening hour of the workday.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-3-dark.svg" | relative_url }}" alt="Email Drift illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

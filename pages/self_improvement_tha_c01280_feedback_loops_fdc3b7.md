@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: Feedback
 title: The Feedback Loop Behind Real Progress
-title_full: The Feedback Loop Behind Real Progress | Better Change
+title_full: The Feedback Loop Behind Real Progress
 display_title_short: Feedback
 display_title: Feedback
 heading_title: The Feedback Loop Behind Real Progress
@@ -504,7 +504,6 @@ image: /assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7-overview
 
 Feedback loops are the part of [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) that stop a plan from becoming a private fantasy. A useful loop asks: what did I intend to do, what actually happened, what made it easier or harder, and what should change next? That matters because effective self improvement is not just about setting goals; it is about building a system that can notice reality and adjust.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7-overview.webp" | relative_url }}" alt="Overview image for Feedback" loading="eager" decoding="sync" fetchpriority="high">
 The best evidence does not say that all feedback is automatically helpful. It says that monitoring progress can improve goal attainment, especially when progress is recorded and made visible, but feedback can also backfire when it turns into vague self-judgement or pulls attention away from the task. A good loop therefore treats behaviour as information. Missing a workout, overspending, losing focus or sleeping badly is not proof of personal failure. It is a signal that the cue, plan, reward, [environment]({{ 'environment/' | relative_url }}) or level of difficulty may need redesigning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91437/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">by B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when the out...</span></span></span>
 
@@ -525,7 +524,6 @@ The strongest feedback has four qualities:
 
 This is why a small habit tracker can be more powerful than a dramatic annual resolution. The tracker does not improve the person by magic. It makes the system visible.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7-Illustration-1-dark.svg" | relative_url }}" alt="Feedback illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Monitoring Progress Helps
 
@@ -545,7 +543,6 @@ A weekly review is different. It is not a productivity ritual for its own sake; 
 
 A useful weekly review can stay short:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **Look at the record.** What did I actually do?
@@ -558,7 +555,6 @@ A useful weekly review can stay short:
 
 The phrase “next test” is important. It keeps self improvement experimental. Instead of “I failed to become a morning runner,” the review becomes “the 6.30 am plan failed when I slept late; this week I will test a lunchtime walk.” That small shift changes the emotional meaning of feedback. The person is no longer on trial; the design is.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XL8iOXow0vQ" title="How Feedback Loops Control Your Life (Learn to Manipulate Them)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XL8iOXow0vQ" target="_blank" rel="noopener noreferrer">How Feedback Loops Control Your Life (Learn to Manipulate Them)</a></p><p class="youtube-embed-meta">Channel: Dante Borgese &middot; Views: 312 &middot; Uploaded: February 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XL8iOXow0vQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XL8iOXow0vQ">Open on YouTube</a></p></div></div></div>
 
 ## Change the System, Not the Self-Image
@@ -570,7 +566,6 @@ Feedback Intervention Theory helps explain why. A major meta-analysis of feedbac
 For self improvement, this means the wording of feedback matters. “You are failing” is a poor intervention. “The plan depends on you having energy at 9 pm, but your energy is gone by then” is much better. It turns the same evidence into a design problem.
 
 A system-focused review asks questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -585,7 +580,6 @@ A system-focused review asks questions such as:
 
 This is not an excuse-making exercise. It is a responsibility upgrade. Blame ends the investigation too early. System diagnosis keeps going until it finds a lever that can be moved.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7-Illustration-2-dark.svg" | relative_url }}" alt="Feedback illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Feedback Becomes Noise
 
@@ -596,7 +590,6 @@ The evidence on digital feedback is mixed enough to justify caution. A 2024 syst
 The practical danger is that feedback becomes either too abstract or too constant. Too abstract means it says “do better” without showing how. Too constant means the person never gets to act without evaluating themselves. Both can make the system brittle.
 
 A healthier feedback loop has a clear rhythm. Track only the few signals that affect the next decision. Review often enough to catch drift, but not so often that every normal variation becomes a crisis. For many self-improvement goals, one daily tick and one weekly review is enough.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7-Illustration-3-dark.svg" | relative_url }}" alt="Feedback illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Best Loops Adjust One Lever at a Time
@@ -617,8 +610,7 @@ A better loop changes one lever at a time:
 
 The point is not to create a perfect system. It is to create a system that learns. Small adjustments compound because they reduce repeated failure at the source.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DbbE_METIGA" title="BEHAVIOR CHANGE | Part 13: Organizing support: Use self-monitoring of behavior" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DbbE_METIGA" target="_blank" rel="noopener noreferrer">BEHAVIOR CHANGE | Part 13: Organizing support: Use self-monitoring of behavior</a></p><p class="youtube-embed-meta">Channel: Dr. Ben &#x27;Tyler&#x27; Tiggelaar &middot; Views: 437 &middot; Uploaded: June 2022 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DbbE_METIGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DbbE_METIGA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U-5XhSDk6L8" title="Carver and Scheier&#x27;s &quot;On the Self-Regulation of Behaviour&quot; - book summary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U-5XhSDk6L8" target="_blank" rel="noopener noreferrer">Carver and Scheier&#x27;s &quot;On the Self-Regulation of Behaviour&quot; - book summary</a></p><p class="youtube-embed-meta">Channel: Kieran Lyon &middot; Views: 1.3K &middot; Uploaded: February 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U-5XhSDk6L8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U-5XhSDk6L8">Open on YouTube</a></p></div></div></div>
 
 ## A Practical Feedback Loop for Real Life
 
@@ -632,9 +624,7 @@ At the end of the week, look for the pattern and choose one adjustment. If the a
 
 This is the feedback loop behind real progress: not endless measurement, not motivational self-criticism, and not a fantasy of perfect consistency. It is a regular conversation between intention and reality. The plan speaks first. Behaviour answers. The system improves when the person is willing to listen without turning every answer into a verdict on their worth.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U-5XhSDk6L8" title="Carver and Scheier&#x27;s &quot;On the Self-Regulation of Behaviour&quot; - book summary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U-5XhSDk6L8" target="_blank" rel="noopener noreferrer">Carver and Scheier&#x27;s &quot;On the Self-Regulation of Behaviour&quot; - book summary</a></p><p class="youtube-embed-meta">Channel: Kieran Lyon &middot; Views: 1.3K &middot; Uploaded: February 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U-5XhSDk6L8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U-5XhSDk6L8">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DbbE_METIGA" title="BEHAVIOR CHANGE | Part 13: Organizing support: Use self-monitoring of behavior" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DbbE_METIGA" target="_blank" rel="noopener noreferrer">BEHAVIOR CHANGE | Part 13: Organizing support: Use self-monitoring of behavior</a></p><p class="youtube-embed-meta">Channel: Dr. Ben &#x27;Tyler&#x27; Tiggelaar &middot; Views: 437 &middot; Uploaded: June 2022 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DbbE_METIGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DbbE_METIGA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1219,4 +1209,4 @@ This is the feedback loop behind real progress: not endless measurement, not mot
 
 37. <a id="endnote-37"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf</a>  
+   Link: <a href="https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf</a>

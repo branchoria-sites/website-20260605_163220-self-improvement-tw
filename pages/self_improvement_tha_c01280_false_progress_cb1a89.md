@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: False Progress
 title: When Self Improvement Feels Productive but Fails
-title_full: When Self Improvement Feels Productive but Fails | Better Change
+title_full: When Self Improvement Feels Productive but Fails
 display_title_short: False Progress
 display_title: False Progress
 heading_title: When Self Improvement Feels Productive but Fails
@@ -504,7 +504,6 @@ image: /assets/images/self_improvement_tha_c01280_false_progress_cb1a89-overview
 
 Self-improvement theatre is the performance of change without the friction of change. It is what happens when reading, planning, organising, tracking apps, morning routines, productivity videos and identity language create a convincing sense of progress while ordinary behaviour stays much the same. The problem is not that learning or planning are useless. Both can help when they lead quickly into specific action, [feedback]({{ 'feedback/' | relative_url }}) and adjustment. The risk is that they can also become a safer substitute for the thing that would actually test the goal: writing the page, making the call, going for the walk, apologising, sleeping earlier, practising the skill, or changing the [environment]({{ 'environment/' | relative_url }}) that keeps pulling behaviour back to default.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89-overview.webp" | relative_url }}" alt="Overview image for False Progress" loading="eager" decoding="sync" fetchpriority="high">
 This matters because [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}) is usually observable. It changes what a person does under real conditions, not just what they understand, intend or admire. Behaviour-change research repeatedly points towards active ingredients such as action planning, [goal setting]({{ 'goal-setting/' | relative_url }}), self-monitoring, prompts, feedback, problem-solving and graded tasks, all of which become meaningful only when they touch actual conduct. The gap between “I am working on myself” and “my daily pattern is changing” is where false progress lives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -520,7 +519,6 @@ The same pattern appears in intellectual goals. Reading books about writing can 
 
 There is also a measurement problem. Real behaviour has awkward evidence. Did the action happen? How often? Under what conditions? What got in the way? Did the plan survive tiredness, boredom, social pressure or a bad mood? By contrast, self-improvement theatre is measured by internal states: inspiration, clarity, identity, motivation, aesthetic order. Those states are not worthless, but they are unstable evidence. A method that makes someone feel transformed on Sunday night may still fail at 4.30 pm on Wednesday.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89-Illustration-1-dark.svg" | relative_url }}" alt="False Progress illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Planning as avoidance
 
@@ -534,7 +532,6 @@ The planning fallacy adds a second trap. Classic work by Buehler, Griffin and Ro
 
 A better plan is not the one that feels most complete. It is the one that has made contact with reality soonest. A two-minute test often beats a two-hour redesign. For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Instead of planning a perfect morning routine, test putting the phone outside the bedroom tonight.
@@ -545,7 +542,6 @@ A better plan is not the one that feels most complete. It is the one that has ma
 </div>
 
 These are not small because ambition is bad. They are small because they produce evidence. Once behaviour has happened, the person can adjust from reality rather than fantasy.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lo7dtGrbxf8" title="The Self-Improvement Trap: Why Trying to Fix Yourself Makes Everything Worse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lo7dtGrbxf8" target="_blank" rel="noopener noreferrer">The Self-Improvement Trap: Why Trying to Fix Yourself Makes Everything Worse</a></p><p class="youtube-embed-meta">Channel: Lumen Theory™ &middot; Views: 2.0K &middot; Uploaded: January 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lo7dtGrbxf8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lo7dtGrbxf8">Open on YouTube</a></p></div></div></div>
 
@@ -561,7 +557,6 @@ That distinction is visible in everyday use. Logging meals can support better ea
 
 The safest rule is to treat self-improvement content as a prompt, not a product. Its value is proven downstream. After reading, watching or planning, the next question should be: what behaviour is now easier, more specific, more likely, better supported or better measured?
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89-Illustration-2-dark.svg" | relative_url }}" alt="False Progress illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tests that reveal real change
 
@@ -576,7 +571,6 @@ The “bad-day test” may be the most revealing. A plan that only works when li
 The “review test” asks whether tracking changes decisions. Self-monitoring is not magic by itself. It matters because it creates feedback. If a person tracks sleep, spending, studying or exercise but never asks what pattern the data reveals, tracking has become decoration. In behaviour-change terms, monitoring should reveal discrepancy between current behaviour and the goal, then lead to changed strategy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The “transfer test” asks whether improvement shows up outside the self-improvement setting. Someone may feel disciplined in a productivity app but still avoid the one task that matters. Someone may speak fluently about emotional maturity but still respond defensively in conflict. Someone may know the science of habits but still leave every cue unchanged. Real change transfers from the study of improvement into the ordinary scene where the old pattern used to run.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OoFM5dBSjVU" title="Behavior Change Methods and Practical Applications (Intervention Mapping step 3, part 1; 2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OoFM5dBSjVU" target="_blank" rel="noopener noreferrer">Behavior Change Methods and Practical Applications (Intervention Mapping step 3, part 1; 2024)</a></p><p class="youtube-embed-meta">Channel: Gjalt-Jorn Peters &middot; Views: 207 &middot; Uploaded: November 2024 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OoFM5dBSjVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OoFM5dBSjVU">Open on YouTube</a></p></div></div></div>
 
@@ -602,7 +596,6 @@ The strongest plans also include adjustment. The [Behaviour Change]({{ 'behaviou
 
 A simple weekly review can keep self improvement honest:
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89-Illustration-3-dark.svg" | relative_url }}" alt="False Progress illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -623,9 +616,7 @@ The cleanest signal is not motivation, insight, organisation or identity. It is 
 
 Self-improvement theatre asks, “Do I feel like someone who is improving?” Self improvement that works asks, “What did I do differently, what did I learn from the result, and what will I adjust next?” The second question is less glamorous, but it is harder to fake.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MkgnlM9OPjQ" title="Psychology of People Who Dream Big But Fake Progress" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MkgnlM9OPjQ" target="_blank" rel="noopener noreferrer">Psychology of People Who Dream Big But Fake Progress</a></p><p class="youtube-embed-meta">Channel: Quiet Minds &middot; Views: 26 &middot; Uploaded: May 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MkgnlM9OPjQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MkgnlM9OPjQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -744,15 +735,15 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven"><img src="https://i.ebayimg.com/images/g/2VQAAeSw7PJof5NW/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -760,15 +751,15 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary"><img src="https://i.ebayimg.com/images/g/-agAAeSw5bBqDMPx/s-l225.jpg" alt="Listing image for Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -776,15 +767,15 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wellness Journal 90 Day Fitness Planner Gratitude Mood Habit Tracker A5"><img src="https://i.ebayimg.com/images/g/g14AAeSwTpVp7~9B/s-l225.jpg" alt="Listing image for Wellness Journal 90 Day Fitness Planner Gratitude Mood Habit Tracker A5" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Wellness Journal 90 Day Fitness Planner Gratitude Mood Habit Tracker A5</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -792,15 +783,15 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Journal: Habit Tracker Log Book, Habit Tracker Planner"><img src="https://i.ebayimg.com/images/g/LKQAAOSw~nNnS0A~/s-l225.jpg" alt="Listing image for Habit Tracker Journal: Habit Tracker Log Book, Habit Tracker Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Journal: Habit Tracker Log Book, Habit Tracker Planner</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -808,7 +799,7 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-self-improvement-feels-productive-but-fails-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1018,6 +1009,7 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1104,4 +1096,4 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/15577534_Goal_Setting_as_a_Strategy_for_Health_Behavior_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/15577534_Goal_Setting_as_a_Strategy_for_Health_Behavior_Change</a>  
+   Link: <a href="https://www.researchgate.net/publication/15577534_Goal_Setting_as_a_Strategy_for_Health_Behavior_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/15577534_Goal_Setting_as_a_Strategy_for_Health_Behavior_Change</a>

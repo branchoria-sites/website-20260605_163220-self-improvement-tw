@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sleep-first/
 nav_short_title: Autoplay
 title: Should You Turn Off Autoplay at Night?
-title_full: Should You Turn Off Autoplay at Night? | Sleep First
+title_full: Should You Turn Off Autoplay at Night?
 display_title_short: Autoplay
 display_title: Autoplay
 heading_title: Should You Turn Off Autoplay at Night?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 04:43:27'
-parent_title: How to Stop the Next Episode Trap | Better Change
+parent_title: How to Stop the Next Episode Trap
 parent_permalink: /sleep-first/
 parent_nav_short_title: Sleep First
 parent_heading_title: How to Stop the Next Episode Trap
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_be
 
 Yes, turning off autoplay at night is often one of the simplest self-improvement changes that actually works. It does not rely on greater [willpower]({{ 'willpower/' | relative_url }}) or a perfectly disciplined bedtime routine. Instead, it changes the default setting that keeps many people watching after they intended to stop.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-1-dark.svg" | relative_url }}" alt="Autoplay illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key insight is that autoplay removes the moment of decision. When the next episode starts automatically, continuing requires no action, while stopping requires interrupting the experience. Restoring that decision point can make it easier to notice the time, remember your sleep goal and end a viewing session before it extends by another episode. Streaming platforms provide autoplay controls precisely because the feature influences viewing behaviour rather than merely displaying content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.netflix.com">[Netflix Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.netflix.com</span><span class="citation-popover-snippet">Your preference will update automatically. You may need to refresh your device to...Read more...</span></span></span>
 
@@ -299,7 +298,6 @@ Recent research examining autoplay as a digital design feature has highlighted c
 
 The practical consequence is simple: if sleep is the goal, autoplay often places the burden on a tired brain to interrupt a process that is already underway.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wkr2n5Fs_NA" title="How to Autoplay Videos on YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wkr2n5Fs_NA" target="_blank" rel="noopener noreferrer">How to Autoplay Videos on YouTube</a></p><p class="youtube-embed-meta">Channel: YouTube Viewers &middot; Views: 2.3M &middot; Uploaded: January 2021 &middot; Length: 1 minute 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wkr2n5Fs_NA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wkr2n5Fs_NA">Open on YouTube</a></p></div></div></div>
 
 ## Where Playback Settings Create a Stopping Point
@@ -312,7 +310,6 @@ Once disabled, the end of an episode becomes a small checkpoint. Instead of imme
 
 That moment can be surprisingly powerful because it allows several questions to surface:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Is it already later than planned?
@@ -324,7 +321,6 @@ That moment can be surprisingly powerful because it allows several questions to 
 
 Many self-improvement strategies fail because they require effort throughout the behaviour. Turning off autoplay concentrates the intervention at a single high-leverage moment: the transition between episodes.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-2-dark.svg" | relative_url }}" alt="Autoplay illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Test Whether Autoplay Is Delaying Your Sleep
 
@@ -334,13 +330,43 @@ For one or two weeks, disable autoplay on the services you use most often and ob
 
 A useful experiment is:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KQ_faXlQI8A" title="How to Turn Off Autoplay on YouTube on iPhone, iPad or Android" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KQ_faXlQI8A" target="_blank" rel="noopener noreferrer">How to Turn Off Autoplay on YouTube on iPhone, iPad or Android</a></p><p class="youtube-embed-meta">Channel: Max Dalton &middot; Views: 58.4K &middot; Uploaded: June 2024 &middot; Length: 1 minute 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KQ_faXlQI8A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KQ_faXlQI8A">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Keep your normal viewing habits.
+2. Turn off autoplay for all evening streaming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pocket-lint.com/youtube-autoplay-turn-off/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pocket-lint.com">[pocket-lint.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pocket-lint.com</span><span class="citation-popover-title">youtube autoplay turn off</span><span class="citation-popover-snippet">This YouTube feature is ruining your experience, so turn it off3 Mar 2026 — The simplest solution I have is to open up the YouTube app on...</span></span></span>
+3. Decide in advance when you intend to stop watching.
+4. Record:
+
+</div>
+Bedtime.
+Number of episodes watched.
+Whether you watched beyond your original plan.
+How rested you feel the next morning.
+
+Pay particular attention to nights when you intended to watch a single episode. If disabling autoplay consistently helps you stop where you planned, then the setting was acting as a hidden extension of your viewing time.
+
+If nothing changes, autoplay may not be the main issue. In that case, the delay is probably being driven by other factors such as the choice of programme, late-night phone use or an intentionally flexible bedtime.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qJCTE7BXWg4" title="How To Turn Off Autoplay on YouTube [Desktop and Mobile]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qJCTE7BXWg4" target="_blank" rel="noopener noreferrer">How To Turn Off Autoplay on YouTube [Desktop and Mobile]</a></p><p class="youtube-embed-meta">Channel: Alan Spicer &middot; Views: 198.2K &middot; Uploaded: September 2021 &middot; Length: 1 minute 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qJCTE7BXWg4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qJCTE7BXWg4">Open on YouTube</a></p></div></div></div>
+
+## When Turning Off Autoplay Works Best
+
+The intervention is most effective for people who already want to stop but frequently continue.
+
+Common signs include:
+
+* Reaching bedtime and thinking, “I'll stop after this episode.”
+* Realising another episode has already started.
+* Losing track of time during serialised dramas or suspense-heavy shows.
+* Regularly sleeping later than intended because of streaming.
+
+It is less useful for someone who consciously chooses to watch several episodes regardless of bedtime. In that situation, autoplay is not driving the behaviour; the viewing plan itself is.
+
+The strength of this change lies in its simplicity. It does not ask for [motivation]({{ 'motivation/' | relative_url }}) at midnight. It changes the [environment]({{ 'environment/' | relative_url }}) so that stopping becomes the obvious next action rather than the difficult one. For a habit as specific as sleeping before the next episode, that small shift in default settings can be enough to restore a meaningful bedtime boundary.
+
+<img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-3-dark.svg" | relative_url }}" alt="Autoplay illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -456,71 +482,75 @@ A useful experiment is:
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+      <div class="fr-books-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-self-improvement-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster -book -books -dvd" data-ebay-reference="autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-self-improvement-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open self improvement poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20self%20improvement%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESelf%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EImprovement%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESelf%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EImprovement%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for self improvement poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">self improvement poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Self</span><span class="fr-search-tag">Improvement</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-self-improvement-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster -book -books -dvd" data-ebay-reference="autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-self-improvement-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Bodyclock Starter 30 Sunrise &amp; Sunset Wake Up SAD Light Alarm Clock VGC"><img src="https://i.ebayimg.com/images/g/~4oAAeSwBY1qJu4b/s-l225.jpg" alt="Listing image for Lumie Bodyclock Starter 30 Sunrise &amp; Sunset Wake Up SAD Light Alarm Clock VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Bodyclock Starter 30 Sunrise &amp; Sunset Wake Up SAD Light Alarm Clock VGC</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-self-improvement-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement memorabilia -book -books -dvd" data-ebay-reference="autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-self-improvement-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open self improvement memorabilia on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20self%20improvement%20memorabilia%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESelf%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EImprovement%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMemorabilia%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESelf%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EImprovement%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemorabilia%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for self improvement memorabilia on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">self improvement memorabilia</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Self</span><span class="fr-search-tag">Improvement</span><span class="fr-search-tag">Memorabilia</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-self-improvement-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement memorabilia -book -books -dvd" data-ebay-reference="autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-self-improvement-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ecozy Sunrise Alarm Clock, White Noise Machine, Bluetooth Sync, 26 Sound, 17 Nig"><img src="https://i.ebayimg.com/images/g/u6IAAeSw1pFpRxNN/s-l225.jpg" alt="Listing image for ecozy Sunrise Alarm Clock, White Noise Machine, Bluetooth Sync, 26 Sound, 17 Nig" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">ecozy Sunrise Alarm Clock, White Noise Machine, Bluetooth Sync, 26 Sound, 17 Nig</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+collectible+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-self-improvement-collectible-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement collectible -book -books -dvd" data-ebay-reference="autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-self-improvement-collectible-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open self improvement collectible on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20self%20improvement%20collectible%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESelf%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EImprovement%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECollectible%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESelf%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EImprovement%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECollectible%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for self improvement collectible on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">self improvement collectible</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Self</span><span class="fr-search-tag">Improvement</span><span class="fr-search-tag">Collectible</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+collectible+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-self-improvement-collectible-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement collectible -book -books -dvd" data-ebay-reference="autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-self-improvement-collectible-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Sunrise Alarm Sunrise Wake-up Alarm, Sunset Sleep Feature, Sounds &amp; Mood"><img src="https://i.ebayimg.com/images/g/GuUAAeSwQdhp6hlK/s-l225.jpg" alt="Listing image for Lumie Sunrise Alarm Sunrise Wake-up Alarm, Sunset Sleep Feature, Sounds &amp; Mood" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Sunrise Alarm Sunrise Wake-up Alarm, Sunset Sleep Feature, Sounds &amp; Mood</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open you poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20you%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EYou%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EYou%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for you poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">you poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">You</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night"><img src="https://i.ebayimg.com/images/g/-LMAAeSwUEFqJS65/s-l225.jpg" alt="Listing image for Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autoplay-should-you-turn-off-autoplay-at-night-self-improvement-that-works-self-improvement-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -730,40 +760,6 @@ A useful experiment is:
 </script>
 </section>
 
-2. Turn off autoplay for all evening streaming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pocket-lint.com/youtube-autoplay-turn-off/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pocket-lint.com">[pocket-lint.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pocket-lint.com</span><span class="citation-popover-title">youtube autoplay turn off</span><span class="citation-popover-snippet">This YouTube feature is ruining your experience, so turn it off3 Mar 2026 — The simplest solution I have is to open up the YouTube app on...</span></span></span>
-3. Decide in advance when you intend to stop watching.
-4. Record:
-
-</div>
-Bedtime.
-Number of episodes watched.
-Whether you watched beyond your original plan.
-How rested you feel the next morning.
-
-Pay particular attention to nights when you intended to watch a single episode. If disabling autoplay consistently helps you stop where you planned, then the setting was acting as a hidden extension of your viewing time.
-
-If nothing changes, autoplay may not be the main issue. In that case, the delay is probably being driven by other factors such as the choice of programme, late-night phone use or an intentionally flexible bedtime.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qJCTE7BXWg4" title="How To Turn Off Autoplay on YouTube [Desktop and Mobile]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qJCTE7BXWg4" target="_blank" rel="noopener noreferrer">How To Turn Off Autoplay on YouTube [Desktop and Mobile]</a></p><p class="youtube-embed-meta">Channel: Alan Spicer &middot; Views: 198.2K &middot; Uploaded: September 2021 &middot; Length: 1 minute 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qJCTE7BXWg4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qJCTE7BXWg4">Open on YouTube</a></p></div></div></div>
-
-## When Turning Off Autoplay Works Best
-
-The intervention is most effective for people who already want to stop but frequently continue.
-
-Common signs include:
-
-* Reaching bedtime and thinking, “I'll stop after this episode.”
-* Realising another episode has already started.
-* Losing track of time during serialised dramas or suspense-heavy shows.
-* Regularly sleeping later than intended because of streaming.
-
-It is less useful for someone who consciously chooses to watch several episodes regardless of bedtime. In that situation, autoplay is not driving the behaviour; the viewing plan itself is.
-
-The strength of this change lies in its simplicity. It does not ask for [motivation]({{ 'motivation/' | relative_url }}) at midnight. It changes the [environment]({{ 'environment/' | relative_url }}) so that stopping becomes the obvious next action rather than the difficult one. For a habit as specific as sleeping before the next episode, that small shift in default settings can be enough to restore a meaningful bedtime boundary.
-
-
-<img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-3-dark.svg" | relative_url }}" alt="Autoplay illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Endnotes
 
 1. <a id="endnote-1"></a>

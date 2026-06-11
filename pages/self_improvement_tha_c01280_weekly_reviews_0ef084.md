@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: Weekly Review
 title: The Weekly Review That Fixes the Plan
-title_full: The Weekly Review That Fixes the Plan | Better Change
+title_full: The Weekly Review That Fixes the Plan
 display_title_short: Weekly Review
 display_title: Weekly Review
 heading_title: The Weekly Review That Fixes the Plan
@@ -504,7 +504,6 @@ image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084-overview
 
 A weekly review is the behaviour-change version of debugging: it turns missed days into evidence about what happened, rather than proof that the person “failed”. In [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), the point is not to stare at a habit tracker and feel guilty. It is to look once a week at the gap between the plan and real life, identify the cue, friction or assumption that broke, and make one practical adjustment for the next seven days.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084-overview.webp" | relative_url }}" alt="Overview image for Weekly Review" loading="eager" decoding="sync" fetchpriority="high">
 This matters because effective [behaviour change]({{ 'behaviour-change/' | relative_url }}) is rarely a single burst of motivation. Research on behaviour-change techniques repeatedly points to active ingredients such as [goal setting]({{ 'goal-setting/' | relative_url }}), action planning, self-monitoring, feedback, reviewing goals, prompts and problem solving. The weekly review is where those ingredients meet: the person checks the data, notices the weakest link, and updates the plan before drift becomes abandonment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8935 — Objectives: The objective of this study i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[2digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesReview outcome goal(s); if feedback is provided, also code 2.2, Feedback on...</span></span></span>
 
@@ -534,7 +533,6 @@ That means the weekly review should not become a ritual of recording for its own
 
 The distinction between behaviour and outcome is also important. “Meditated for five minutes” is behaviour data; “felt calm all day” is outcome data. “Wrote 300 words” is behaviour data; “felt like a writer” is not. Outcomes matter, but weekly debugging works best when the reviewed object is the controllable action.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084-Illustration-1-dark.svg" | relative_url }}" alt="Weekly Review illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Finding the weakest link
 
@@ -545,7 +543,6 @@ Habit research gives this point real bite. Habits are strongly tied to recurring
 For weekly review purposes, that means the question is not just “How motivated was I?” It is “What was the cue, and what did it make easy?” If the phone is on the bedside table, the cue may make scrolling easier than sleeping. If running shoes are by the door, the cue may make a short walk easier than postponement. If the study document is buried under twenty browser tabs, the plan may fail before effort even begins.
 
 A useful debugging sequence is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -561,8 +558,7 @@ This resembles the practical logic behind behaviour-design approaches that focus
 
 The weakest link may be surprisingly small. A person who misses morning reading may not need “more discipline”; they may need to put the book on top of the phone. A person who avoids a weekly budget review may not need a new money philosophy; they may need a ten-minute version, a recurring calendar cue, and the bank app already installed.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zjKUX7sHEGI" title="From Chaos to Clarity: My 4-Step Weekly Review System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zjKUX7sHEGI" target="_blank" rel="noopener noreferrer">From Chaos to Clarity: My 4-Step Weekly Review System</a></p><p class="youtube-embed-meta">Channel: Tiago Forte &middot; Views: 74.9K &middot; Uploaded: January 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zjKUX7sHEGI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zjKUX7sHEGI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QLgH5_mqX28" title="How to Train Yourself to be Less Reactive or Impulsive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QLgH5_mqX28" target="_blank" rel="noopener noreferrer">How to Train Yourself to be Less Reactive or Impulsive</a></p><p class="youtube-embed-meta">Channel: Therapy in a Nutshell &middot; Views: 102.7K &middot; Uploaded: March 2026 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QLgH5_mqX28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QLgH5_mqX28">Open on YouTube</a></p></div></div></div>
 
 ## The weekly review should produce one adjustment
 
@@ -571,7 +567,6 @@ The most common review mistake is to end with a larger plan than the one that ju
 A stronger weekly review ends with one adjustment that changes the conditions for next week. This is where action planning and coping planning become useful. Action planning specifies what will happen, when, where and how. Coping planning anticipates barriers and decides what to do when they appear. Reviews of planning-based interventions find action planning to be a brief and useful behaviour-change technique, while implementation-intention research has repeatedly examined “if-then” plans as a way to connect situations with responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralSelf-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 116 — Inclusion of 14 self...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralSelf-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 116 — Inclusion of 14 self...</span></span></span>
 
 The adjustment should be concrete enough to test. For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -600,7 +595,6 @@ The next step is to describe the pattern in plain language. For example: “I do
 
 This is where missed days become useful. A missed day with a reason is not wasted; it points to an intervention. If the cue failed, strengthen the cue. If friction was too high, shrink the action or prepare the environment. If the plan was unrealistic, reduce the minimum. If an old routine took over, change the context or insert a new response at the cue.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084-Illustration-2-dark.svg" | relative_url }}" alt="Weekly Review illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### 3. Choose the smallest useful fix
 
@@ -628,15 +622,13 @@ There are several common repeating failure modes.
 
 Digital behaviour-change research makes a related warning: tools can optimise engagement with the app or intervention rather than sustained engagement with the underlying behaviour. A weekly review should therefore ask whether tracking is helping the action, not whether the tracker itself looks impressive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QLgH5_mqX28" title="How to Train Yourself to be Less Reactive or Impulsive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QLgH5_mqX28" target="_blank" rel="noopener noreferrer">How to Train Yourself to be Less Reactive or Impulsive</a></p><p class="youtube-embed-meta">Channel: Therapy in a Nutshell &middot; Views: 102.7K &middot; Uploaded: March 2026 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QLgH5_mqX28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QLgH5_mqX28">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zjKUX7sHEGI" title="From Chaos to Clarity: My 4-Step Weekly Review System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zjKUX7sHEGI" target="_blank" rel="noopener noreferrer">From Chaos to Clarity: My 4-Step Weekly Review System</a></p><p class="youtube-embed-meta">Channel: Tiago Forte &middot; Views: 74.9K &middot; Uploaded: January 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zjKUX7sHEGI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zjKUX7sHEGI">Open on YouTube</a></p></div></div></div>
 
 ## The difference between review and rumination
 
 Weekly reviews can go wrong when they become rumination: repeated thinking that circles around regret without changing the next action. The difference is simple. Review converts reflection into a testable adjustment. Rumination repeats the emotional story.
 
 A review asks:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -647,7 +639,6 @@ A review asks:
 </div>
 
 Rumination asks:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -660,7 +651,6 @@ Rumination asks:
 The first set produces information. The second set usually produces exhaustion. This distinction matters because [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) that works is not a weekly trial in which the person is both defendant and judge. It is a feedback loop.
 
 Recent research on reflection-to-action systems makes the same broad point in a different setting: reflection becomes more useful when it helps people generate concrete alternatives and if-then plans, rather than merely revisit regrets. The evidence base for such newer digital systems is still emerging, but the practical lesson fits the older behaviour-change literature: awareness needs a bridge to action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084-Illustration-3-dark.svg" | relative_url }}" alt="Weekly Review illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A worked example: fixing a study habit
@@ -688,7 +678,6 @@ The notes show that Monday and Wednesday worked because dinner ended early and t
 The weakest link is not intelligence or ambition. It is timing and task clarity. The revised plan might be: “On weekdays, study for twenty minutes before dinner, with the exact task written on a sticky note at lunchtime. If the evening is already booked, do a five-minute review of flashcards before leaving.”
 
 That adjustment is modest, but it is behaviourally sharper. It moves the action before the evening energy crash, reduces decision-making, and adds a coping plan for booked evenings. It also creates a better test for the next review.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PnERVA3nQZM" title="#1: How to Optimize your behavior design (B = MAP!!) (Note: Start with Trigger-Prompts!) (#31)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PnERVA3nQZM" target="_blank" rel="noopener noreferrer">#1: How to Optimize your behavior design (B = MAP!!) (Note: Start with Trigger-Prompts!) (#31)</a></p><p class="youtube-embed-meta">Channel: Brian Johnson &middot; Views: 16.8K &middot; Uploaded: September 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PnERVA3nQZM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PnERVA3nQZM">Open on YouTube</a></p></div></div></div>
 
@@ -1258,4 +1247,4 @@ The final test of a weekly review is not whether it feels profound. It is whethe
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
+   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>

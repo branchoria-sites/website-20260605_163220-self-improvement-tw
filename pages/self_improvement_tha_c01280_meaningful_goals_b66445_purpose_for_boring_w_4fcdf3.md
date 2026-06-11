@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /meaning/
 nav_short_title: Purpose Link
 title: Can Purpose Make Boring Work Easier?
-title_full: Can Purpose Make Boring Work Easier? | Meaning
+title_full: Can Purpose Make Boring Work Easier?
 display_title_short: Purpose Link
 display_title: Purpose Link
 heading_title: Can Purpose Make Boring Work Easier?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:08:49'
-parent_title: What Makes a Goal Worth Repeating? | Better Change
+parent_title: What Makes a Goal Worth Repeating?
 parent_permalink: /meaning/
 parent_nav_short_title: Meaning
 parent_heading_title: What Makes a Goal Worth Repeating?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_purpos
 
 Boring work is not usually defeated by enthusiasm. Most worthwhile goals eventually involve repetition: reviewing notes, answering emails, logging expenses, practising fundamentals, completing paperwork, or following routines that no longer feel novel. The question is not whether boredom appears, but whether there is a reason to continue when it does.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_purpose_for_boring_w_4fcdf3-Illustration-1-dark.svg" | relative_url }}" alt="Purpose Link illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_purpose_for_boring_w_4fcdf3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_purpose_for_boring_w_4fcdf3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research suggests that one of the most reliable reasons is a self-transcendent purpose: a goal that connects effort to helping other people, contributing to something larger, or creating future value beyond immediate personal gain. Purpose does not make repetitive tasks enjoyable. Instead, it changes how people interpret the effort. A task can still feel dull while simultaneously feeling worthwhile. For goals that must survive months or years of routine work, that distinction matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25222648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Boring but important: a self-transcendent purpose for learning...by DS Yeager · 2014 · Cited by 851 — This research proposed that...</span></span></span>
 
@@ -313,7 +312,6 @@ The behaviour remains identical. The meaning changes.
 
 Research on purpose in learning argues that this broader connection creates a sense of significance that helps people tolerate tedious effort. The task becomes part of a contribution rather than merely an obstacle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by DS Yeager · 2014 · Cited by 871 — This research proposed that promoting a prosocial, self-transcendent purpose could improve academ...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jCcaTfUSgQo" title="How to Get Motivated About Things You Don&#x27;t Want to Do | Dr. Adam Grant &amp; Dr. Andrew Huberman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jCcaTfUSgQo" target="_blank" rel="noopener noreferrer">How to Get Motivated About Things You Don&#x27;t Want to Do | Dr. Adam Grant &amp; Dr. Andrew Huberman</a></p><p class="youtube-embed-meta">Channel: Huberman Lab Clips &middot; Views: 127.4K &middot; Uploaded: March 2024 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jCcaTfUSgQo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jCcaTfUSgQo">Open on YouTube</a></p></div></div></div>
 
 ## What the Academic Persistence Evidence Actually Shows
@@ -340,7 +338,6 @@ This does not eliminate boredom. Instead, it changes the psychological calculati
 
 That shift may sound subtle, but it is precisely the type of reframing that research links to greater persistence on low-interest but high-value activities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25222648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Boring but important: a self-transcendent purpose for learning...by DS Yeager · 2014 · Cited by 851 — This research proposed that...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_purpose_for_boring_w_4fcdf3-Illustration-2-dark.svg" | relative_url }}" alt="Purpose Link illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_purpose_for_boring_w_4fcdf3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_purpose_for_boring_w_4fcdf3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Connect Private Routines to People, Contribution or Future Usefulness
 
@@ -362,7 +359,6 @@ Ask what becomes possible because this task is done well.
 
 Maintenance often feels meaningless because its benefits are indirect. Making those benefits visible can strengthen [motivation]({{ 'motivation/' | relative_url }}) without pretending the task is exciting.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VuR1S0QfJ4Y" title="How To Inspire Your Team (Meaning + Impact)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VuR1S0QfJ4Y" target="_blank" rel="noopener noreferrer">How To Inspire Your Team (Meaning + Impact)</a></p><p class="youtube-embed-meta">Channel: David Burkus &middot; Views: 4.6K &middot; Uploaded: March 2024 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VuR1S0QfJ4Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VuR1S0QfJ4Y">Open on YouTube</a></p></div></div></div>
 
 ### Use specific people rather than abstract humanity
@@ -370,7 +366,6 @@ Maintenance often feels meaningless because its benefits are indirect. Making th
 Purpose becomes more psychologically powerful when attached to identifiable people.
 
 “Helping others” is vague. “Being prepared to help my clients,” “supporting my family,” or “being a reliable teammate” creates a more immediate connection between today's effort and tomorrow's impact.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZT53lmRZKzU" title="How to Think Like a Child (with David Yeager) | Dr Laurie Santos&#x27; The Happiness Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZT53lmRZKzU" target="_blank" rel="noopener noreferrer">How to Think Like a Child (with David Yeager) | Dr Laurie Santos&#x27; The Happiness Lab</a></p><p class="youtube-embed-meta">Channel: Dr. Laurie Santos &middot; Views: 2.2K &middot; Uploaded: May 2025 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZT53lmRZKzU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZT53lmRZKzU">Open on YouTube</a></p></div></div></div>
 
@@ -387,7 +382,6 @@ The evidence does not show that purpose removes boredom, eliminates fatigue, or 
 Purpose can also become ineffective if it is vague, imposed by others, or disconnected from reality. Simply telling yourself that every task is meaningful rarely works. The connection must feel credible and personally endorsed.
 
 The strongest interpretation of the research is narrower but more useful: when important work becomes repetitive, linking it to contribution, usefulness, or a beyond-the-self reason can increase the likelihood that people stay engaged. The task remains boring. The reason for doing it becomes stronger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25222648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Boring but important: a self-transcendent purpose for learning...by DS Yeager · 2014 · Cited by 851 — This research proposed that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by DS Yeager · 2014 · Cited by 871 — This research proposed that promoting a prosocial, self-transcendent purpose could improve academ...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_purpose_for_boring_w_4fcdf3-Illustration-3-dark.svg" | relative_url }}" alt="Purpose Link illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_purpose_for_boring_w_4fcdf3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_purpose_for_boring_w_4fcdf3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Takeaway for Goals That Must Survive Boredom

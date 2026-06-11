@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: Techniques
 title: What Are the Active Ingredients of Change?
-title_full: What Are the Active Ingredients of Change? | Better Change
+title_full: What Are the Active Ingredients of Change?
 display_title_short: Techniques
 display_title: Techniques
 heading_title: What Are the Active Ingredients of Change?
@@ -504,7 +504,6 @@ image: /assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-ov
 
 The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy, often shortened to BCT Taxonomy or BCTTv1, is a practical way to translate self-improvement advice into testable ingredients. Instead of saying “be more disciplined”, it asks what is actually being used: goal setting, action planning, prompts, self-monitoring, feedback, [social support]({{ 'social-support/' | relative_url }}), rewards, environmental restructuring, or something else. That shift matters because everyday change is easier to improve when it can be named, observed and adjusted.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-overview.webp" | relative_url }}" alt="Overview image for Techniques" loading="eager" decoding="sync" fetchpriority="high">
 For non-specialists, the taxonomy is best understood as a labelled parts list for behaviour change. Its first major version organised 93 behaviour change techniques into 16 groups, giving researchers and practitioners a shared language for describing what an intervention contains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8911 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span> Used well, it helps people separate the active ingredient from the slogan. Used badly, it can become a long menu of impressive-sounding techniques with no clear diagnosis of the behaviour problem.
 
@@ -517,7 +516,6 @@ That is why BCTTv1 became influential. The original taxonomy was developed becau
 For self improvement, this changes the quality of the question. “Why can’t I stick to this?” becomes “Which ingredient is missing?” A person trying to exercise after work may not need more inspiration; they may need an action plan, a cue, reduced friction, social support, or feedback that makes progress visible. A person trying to spend less at night may not need a new identity; they may need to remove saved card details, set a spending rule, monitor purchases, or create a competing routine.
 
 This also makes self-help claims more honest. A book, app, course or coach can be asked: which behaviour change techniques are being used, and why those ones? NICE guidance on individual behaviour-change approaches explicitly names groups such as goals and planning, feedback and monitoring, and social support as relevant intervention components, rather than treating behaviour change as a matter of persuasion alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Open source on nice.org.uk.</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-Illustration-1-dark.svg" | relative_url }}" alt="Techniques illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples from the taxonomy
@@ -538,8 +536,7 @@ The taxonomy is large, but non-specialists do not need to memorise 93 labels. Th
 
 The point is not to collect techniques. It is to identify the smallest plausible ingredient that changes what happens next. That is why the official BCT training site presents the taxonomy as a way to familiarise users with labels, definitions and examples, and to apply those labels more reliably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bct-taxonomy.com">[bct-taxonomy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bct-taxonomy.com</span><span class="citation-popover-snippet">Behaviour Change Technique TaxonomyThus BCTTv1 offers a generally reliable method for specifying, interpreting and implementing the activ...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TJXUkSPNihc" title="BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer">BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)</a></p><p class="youtube-embed-meta">Channel: UCL Centre for Behaviour Change &middot; Views: 6.9K &middot; Uploaded: September 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TJXUkSPNihc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/44YPG97nt_c" title="BCT workshop 2021 Session 2: The Development of the BCTTv1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=44YPG97nt_c" target="_blank" rel="noopener noreferrer">BCT workshop 2021 Session 2: The Development of the BCTTv1</a></p><p class="youtube-embed-meta">Channel: UCL Centre for Behaviour Change &middot; Views: 1.1K &middot; Uploaded: September 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=44YPG97nt_c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=44YPG97nt_c">Open on YouTube</a></p></div></div></div>
 
 ## What the evidence says
 
@@ -553,14 +550,12 @@ The evidence is not perfectly tidy. Techniques do not operate in isolation from 
 
 A good non-specialist reading of the evidence is therefore cautious but practical. Techniques such as goal setting, self-monitoring, feedback, action planning, prompts and social support are worth knowing because they recur across evidence-based interventions. But the taxonomy does not say “use all of these” or “this one always works”. It says: name the ingredient, apply it deliberately, observe whether behaviour changes, and revise.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-Illustration-2-dark.svg" | relative_url }}" alt="Techniques illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Combining ingredients wisely
 
 The biggest mistake non-specialists make with the taxonomy is treating it like a buffet. If one technique is good, ten must be better. In practice, a crowded self-improvement system can become too hard to maintain: a person tries to set goals, track five metrics, use an app, join a group, reward themselves, journal daily, block websites and review progress every night. The intervention becomes the burden.
 
 A better approach is to start with a behavioural diagnosis. Ask what is blocking the behaviour:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -579,8 +574,7 @@ A concrete example shows the difference. Suppose someone wants to read before be
 
 The same logic applies to unwanted behaviours. Someone trying to reduce impulse takeaway orders might use self-monitoring to identify the pattern, problem solving to spot the trigger, restructuring to remove food delivery apps from the home screen, and action planning to prepare a default low-effort meal. The change is not a moral lecture. It is a redesign of the conditions under which the decision happens.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/44YPG97nt_c" title="BCT workshop 2021 Session 2: The Development of the BCTTv1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=44YPG97nt_c" target="_blank" rel="noopener noreferrer">BCT workshop 2021 Session 2: The Development of the BCTTv1</a></p><p class="youtube-embed-meta">Channel: UCL Centre for Behaviour Change &middot; Views: 1.1K &middot; Uploaded: September 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=44YPG97nt_c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=44YPG97nt_c">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L7YfgDozRAU" title="BCT workshop 2021 Session 3: Uses of the BCTTv1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L7YfgDozRAU" target="_blank" rel="noopener noreferrer">BCT workshop 2021 Session 3: Uses of the BCTTv1</a></p><p class="youtube-embed-meta">Channel: UCL Centre for Behaviour Change &middot; Views: 918 &middot; Uploaded: September 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L7YfgDozRAU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L7YfgDozRAU">Open on YouTube</a></p></div></div></div>
 
 ## What non-specialists should not overclaim
 
@@ -594,12 +588,10 @@ Third, self-improvement settings are messy. A technique that works in a structur
 
 The safest conclusion is not “the taxonomy proves this technique will work”. It is “the taxonomy gives you a better language for designing and testing change.”
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-Illustration-3-dark.svg" | relative_url }}" alt="Techniques illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical way to use the taxonomy
 
 For non-specialists, the most useful version of BCTTv1 is not the full technical table. It is a habit of asking precise questions before adding effort. A simple sequence works well:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -613,9 +605,7 @@ For non-specialists, the most useful version of BCTTv1 is not the full technical
 
 This is the practical payoff of the taxonomy for [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}). It turns vague advice into a small experiment. Instead of asking whether a person is motivated enough, it asks whether the behaviour has a clear cue, a feasible plan, a supportive context, useful feedback and a reason to repeat. That is less glamorous than a self-help slogan, but it is far more useful when life is busy, imperfect and real.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L7YfgDozRAU" title="BCT workshop 2021 Session 3: Uses of the BCTTv1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L7YfgDozRAU" target="_blank" rel="noopener noreferrer">BCT workshop 2021 Session 3: Uses of the BCTTv1</a></p><p class="youtube-embed-meta">Channel: UCL Centre for Behaviour Change &middot; Views: 918 &middot; Uploaded: September 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L7YfgDozRAU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L7YfgDozRAU">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TJXUkSPNihc" title="BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer">BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)</a></p><p class="youtube-embed-meta">Channel: UCL Centre for Behaviour Change &middot; Views: 6.9K &middot; Uploaded: September 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TJXUkSPNihc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1201,4 +1191,4 @@ This is the practical payoff of the taxonomy for [self improvement that works]({
 
 39. <a id="endnote-39"></a>
    Source: iresp.net  
-   Link: <a href="https://www.iresp.net/wp-content/uploads/2019/01/Michie-Workshop-France-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iresp.net/wp-content/uploads/2019/01/Michie-Workshop-France-2016.pdf</a>  
+   Link: <a href="https://www.iresp.net/wp-content/uploads/2019/01/Michie-Workshop-France-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iresp.net/wp-content/uploads/2019/01/Michie-Workshop-France-2016.pdf</a>

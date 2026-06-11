@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /techniques/
 nav_short_title: Real Support
 title: What kind of support do you really need?
-title_full: What kind of support do you really need? | Techniques
+title_full: What kind of support do you really need?
 display_title_short: Real Support
 display_title: Real Support
 heading_title: What kind of support do you really need?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:13:54'
-parent_title: What Are the Active Ingredients of Change? | Better Change
+parent_title: What Are the Active Ingredients of Change?
 parent_permalink: /techniques/
 parent_nav_short_title: Techniques
 parent_heading_title: What Are the Active Ingredients of Change?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_so
 
 [Social support]({{ 'social-support/' | relative_url }}) is one of the most commonly recommended [behaviour change]({{ 'behaviour-change/' | relative_url }}) techniques, but it is also one of the most misunderstood. People often assume that “having accountability” will solve a motivation problem. In practice, support only works reliably when it matches the obstacle that is stopping the behaviour.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_social_support_types_6d0398-Illustration-1-dark.svg" | relative_url }}" alt="Real Support illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_social_support_types_6d0398-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_social_support_types_6d0398-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The Behaviour Change Technique Taxonomy does not treat [support]({{ 'support/' | relative_url }}) as a single idea. It distinguishes between emotional support, practical support and unspecified social support. That distinction matters because encouragement helps with some problems, while practical assistance helps with others. When people receive the wrong type of support, they often conclude that support itself does not work, when the real issue is that the support was poorly matched to the behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-title">Social support (practical) Advise on, arrange, or provide practical.Read more</span><span class="citation-popover-snippet">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesThe definitions of Behavior Change Techniques (BCTs): i) contain verbs (e.g...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://theoryandtechniquetool.humanbehaviourchange.org/tool" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theoryandtechniquetool.humanbehaviourchange.org">[Theory and Techniques Tool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theoryandtechniquetool.humanbehaviourchange.org</span><span class="citation-popover-snippet">Explore the links between 74 Behaviour Change Techniques (BCTs)... Social support (practical). +. 3.3. Social support (emotional).Read more...</span></span></span>
 
@@ -302,8 +301,7 @@ The difference is important because many behaviour failures are not motivational
 
 Research across behaviour-change interventions consistently finds social support among the most frequently used intervention components, often appearing alongside goal setting, self-monitoring and problem solving rather than operating alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8365685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">social support, instruction on how to perform behavior, prompts/cues, self... Self‐regulatory behaviour change techniques in interventio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11297736/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Behavioral change interventions, theories, and techniques to...by H El Kirat · 2024 · Cited by 35 — Most behavior change intervention...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DMaI2BWGpZI" title="The Psychology of Change: Finding Support for Health Goals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DMaI2BWGpZI" target="_blank" rel="noopener noreferrer">The Psychology of Change: Finding Support for Health Goals</a></p><p class="youtube-embed-meta">Channel: Mayo Clinic &middot; Views: 509 &middot; Uploaded: October 2025 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DMaI2BWGpZI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DMaI2BWGpZI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xwAm7EtdRGA" title="This is the SCIENTIFICALLY PROVEN way to build habits in 2026." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xwAm7EtdRGA" target="_blank" rel="noopener noreferrer">This is the SCIENTIFICALLY PROVEN way to build habits in 2026.</a></p><p class="youtube-embed-meta">Channel: Spencer Greenberg &middot; Views: 3.5K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xwAm7EtdRGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xwAm7EtdRGA">Open on YouTube</a></p></div></div></div>
 
 ## Why accountability is often too vague
 
@@ -323,7 +321,6 @@ More effective accountability systems usually contain additional behaviour-chang
 This helps explain why exercise partners often outperform exercise cheerleaders. The exercise partner does not merely ask whether the workout happened. They become part of the situation in which the workout occurs. Their presence reduces the effort required to initiate the behaviour.
 
 The same principle appears in many successful interventions. Social support tends to work best when it is attached to a specific behaviour and a specific context rather than existing as a general expectation to “do better”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8365685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">social support, instruction on how to perform behavior, prompts/cues, self... Self‐regulatory behaviour change techniques in interventio...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_social_support_types_6d0398-Illustration-2-dark.svg" | relative_url }}" alt="Real Support illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_social_support_types_6d0398-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_social_support_types_6d0398-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Design support around the hard moment
@@ -346,15 +343,13 @@ The evening procrastinator may benefit from a shared routine: a friend waiting a
 
 Calling all three situations “accountability” hides the real mechanism. The support becomes effective only when it addresses the actual failure point.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xwAm7EtdRGA" title="This is the SCIENTIFICALLY PROVEN way to build habits in 2026." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xwAm7EtdRGA" target="_blank" rel="noopener noreferrer">This is the SCIENTIFICALLY PROVEN way to build habits in 2026.</a></p><p class="youtube-embed-meta">Channel: Spencer Greenberg &middot; Views: 3.5K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xwAm7EtdRGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xwAm7EtdRGA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DMaI2BWGpZI" title="The Psychology of Change: Finding Support for Health Goals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DMaI2BWGpZI" target="_blank" rel="noopener noreferrer">The Psychology of Change: Finding Support for Health Goals</a></p><p class="youtube-embed-meta">Channel: Mayo Clinic &middot; Views: 509 &middot; Uploaded: October 2025 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DMaI2BWGpZI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DMaI2BWGpZI">Open on YouTube</a></p></div></div></div>
 
 ## Shared routines often outperform encouragement alone
 
 One of the strongest forms of support is participation in the behaviour itself.
 
 When people share a routine, several useful things happen simultaneously:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -370,7 +365,6 @@ This is why walking groups, [study groups]({{ 'study-groups/' | relative_url }})
 
 The practical lesson is that support becomes stronger when it is embedded in the performance of the behaviour rather than discussed separately from it.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_social_support_types_6d0398-Illustration-3-dark.svg" | relative_url }}" alt="Real Support illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_social_support_types_6d0398-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_social_support_types_6d0398-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common mistakes when seeking support
 
@@ -385,7 +379,6 @@ Several patterns repeatedly reduce the effectiveness of social support.
 **Expecting one person to provide everything.** Different people can provide different forms of support. A spouse might offer practical help, while a friend provides encouragement and a training partner provides shared participation.
 
 **Leaving requests vague.** “Please keep me accountable” is less useful than “Text me at 7 p.m. if I have not logged today's workout.”
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R4wr3kwR94I" title="The Science of Accountability Partners: What Research Actually Shows | Habits, Backed by Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R4wr3kwR94I" target="_blank" rel="noopener noreferrer">The Science of Accountability Partners: What Research Actually Shows | Habits, Backed by Science</a></p><p class="youtube-embed-meta">Channel: Habits, Backed by Science &middot; Views: 10 &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R4wr3kwR94I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R4wr3kwR94I">Open on YouTube</a></p></div></div></div>
 

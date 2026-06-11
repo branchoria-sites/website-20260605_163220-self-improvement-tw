@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /weekly-review/
 nav_short_title: Miss Reasons
 title: What Your Missed Days Are Really Saying
-title_full: What Your Missed Days Are Really Saying | Weekly Review
+title_full: What Your Missed Days Are Really Saying
 display_title_short: Miss Reasons
 display_title: Miss Reasons
 heading_title: What Your Missed Days Are Really Saying
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:20:21'
-parent_title: The Weekly Review That Fixes the Plan | Better Change
+parent_title: The Weekly Review That Fixes the Plan
 parent_permalink: /weekly-review/
 parent_nav_short_title: Weekly Review
 parent_heading_title: The Weekly Review That Fixes the Plan
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_miss_rea
 
 A missed habit day becomes far more useful when it ends with a single sentence explaining why it happened. The goal is not to justify the miss or judge yourself. It is to create a small piece of evidence. Over a week or two, those short notes often reveal recurring failure patterns that are invisible in a simple streak tracker.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_miss_reasons_pattern_8eab54-Illustration-1-dark.svg" | relative_url }}" alt="Miss Reasons illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_miss_reasons_pattern_8eab54-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_miss_reasons_pattern_8eab54-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Behaviour-change research consistently highlights self-monitoring, [feedback]({{ 'feedback/' | relative_url }}), action planning and problem solving as core ingredients of successful change. A one-line miss reason combines all four: it captures what happened, creates feedback, and points directly to the next adjustment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralSelf-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — The most commonly exa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-title">Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1</span><span class="citation-popover-snippet">City Research OnlineMichie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Tax...</span></span></span>
 
@@ -281,7 +280,6 @@ In a [weekly review]({{ 'weekly-review/' | relative_url }}), missed days are not
 The best miss notes are short and factual. They describe the obstacle rather than your character.
 
 Useful examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,13 +307,11 @@ Research on implementation intentions—plans that specify when, where and how a
 
 A week of one-line explanations often reveals that many missed days fall into only a few categories.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DUAB-BW-gZ8" title="How To Actually Get Things Done (implementation intentions)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DUAB-BW-gZ8" target="_blank" rel="noopener noreferrer">How To Actually Get Things Done (implementation intentions)</a></p><p class="youtube-embed-meta">Channel: Better Than Yesterday &middot; Views: 1.4M &middot; Uploaded: June 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DUAB-BW-gZ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DUAB-BW-gZ8">Open on YouTube</a></p></div></div></div>
 
 ### Timing failures
 
 Typical notes:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -334,7 +330,6 @@ The lesson is usually not “try harder”. It is “attach the habit to a more 
 
 Typical notes:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * “Needed equipment.”
@@ -352,7 +347,6 @@ In behaviour-change research, barrier identification and problem solving are rep
 
 Typical notes:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * “Exhausted after work.”
@@ -366,12 +360,10 @@ Energy-related misses often get mislabelled as motivation problems. Yet the note
 
 A useful review question is whether the behaviour should happen earlier, be scaled down, or be linked to a lower-energy version on difficult days.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_miss_reasons_pattern_8eab54-Illustration-2-dark.svg" | relative_url }}" alt="Miss Reasons illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_miss_reasons_pattern_8eab54-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_miss_reasons_pattern_8eab54-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Cue failures
 
 Typical notes:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -388,7 +380,6 @@ Habits depend heavily on cues and context. When misses repeatedly mention forget
 
 Typical notes:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * “Family emergency.”
@@ -401,7 +392,6 @@ Typical notes:
 These notes reveal competition rather than resistance. The habit lost a scheduling contest.
 
 The review question becomes: should the habit have a backup version for busy days, or does it need a protected time slot?
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GjXY-l1EnhQ" title="Why Bad Habits Stick (and How to Finally Break Free)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GjXY-l1EnhQ" target="_blank" rel="noopener noreferrer">Why Bad Habits Stick (and How to Finally Break Free)</a></p><p class="youtube-embed-meta">Channel: Dr. Tracey Marks &middot; Views: 657.2K &middot; Uploaded: April 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GjXY-l1EnhQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GjXY-l1EnhQ">Open on YouTube</a></p></div></div></div>
 
@@ -429,7 +419,6 @@ Person A likely has a cue problem. Person B may have a habit that works under no
 
 This distinction matters because [behaviour change]({{ 'behaviour-change/' | relative_url }}) [techniques]({{ 'techniques/' | relative_url }}) work best when matched to the actual obstacle. Self-monitoring is useful not because it records behaviour, but because it helps identify the mechanism behind success or failure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phwwhocc.co.uk">[WHO Collaborating Centre for Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phwwhocc.co.uk</span><span class="citation-popover-snippet">Establish a method for the person to monitor and record their behaviour(s) as part of a behaviour change strategy.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralSelf-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — The most commonly exa...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_miss_reasons_pattern_8eab54-Illustration-3-dark.svg" | relative_url }}" alt="Miss Reasons illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_miss_reasons_pattern_8eab54-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_miss_reasons_pattern_8eab54-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Turning one repeated reason into next week's test
 
@@ -451,9 +440,7 @@ When the same one-line reason appears three or four times in a week, it usually 
 
 A weekly review turns those recurring notes into evidence. Instead of asking, “Why can't I stay disciplined?”, the better question becomes, “What pattern keeps appearing in the data?” Once that pattern is visible, the next experiment is usually obvious. That is how missed days become information rather than failure.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WQ40hNdZmfQ" title="Hacking Your Brain’s “Reward System” to Change Habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WQ40hNdZmfQ" target="_blank" rel="noopener noreferrer">Hacking Your Brain’s “Reward System” to Change Habits</a></p><p class="youtube-embed-meta">Channel: DrJud &middot; Views: 327.5K &middot; Uploaded: February 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WQ40hNdZmfQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WQ40hNdZmfQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

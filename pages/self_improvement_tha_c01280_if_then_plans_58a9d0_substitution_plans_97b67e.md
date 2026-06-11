@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /if-then-plans/
 nav_short_title: Substitution
 title: What Should You Do Instead of Giving In?
-title_full: What Should You Do Instead of Giving In? | If Then Plans
+title_full: What Should You Do Instead of Giving In?
 display_title_short: Substitution
 display_title: Substitution
 heading_title: What Should You Do Instead of Giving In?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:16:19'
-parent_title: Can One Sentence Change Your Follow Through? | Better Change
+parent_title: Can One Sentence Change Your Follow Through?
 parent_permalink: /if-then-plans/
 parent_nav_short_title: If Then Plans
 parent_heading_title: Can One Sentence Change Your Follow Through?
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitut
 
 When a craving appears, many people create a plan that sounds like resistance: “If I want a biscuit, I will not eat one.” The problem is that this leaves a behavioural vacuum. In the moment of temptation, the mind still wants something to do. Substitution plans work differently. They specify a concrete alternative: “If I want a biscuit with my afternoon tea, then I will eat fruit first,” or “If I want to check social media while working, then I will stand up and walk for two minutes.” The goal is not merely to suppress an unwanted action but to replace it with a more useful one. Research on implementation intentions and habit change suggests that linking a tempting cue to a specific alternative response can help people override habitual behaviours and improve follow-through on desired goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0146167211399102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsBreaking Habits With Implementation Intentions: A Test of...Implementation intentions specifying the replacement of a habit...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-1-dark.svg" | relative_url }}" alt="Substitution illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within if-then planning, substitution is often the most practical response to recurring temptations because it gives the craving somewhere to go. Rather than arguing with the urge, the plan redirects it.
 
@@ -299,7 +298,6 @@ Many cravings serve a purpose. Some provide stimulation, some relieve boredom, s
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * If stress triggers smoking, take a short walk or perform a brief breathing exercise rather than merely repeating “don't smoke”.
@@ -310,7 +308,6 @@ Examples include:
 
 Health and habit-change guidance often emphasises replacing unhealthy behaviours with alternatives that interrupt the old pattern while still meeting part of the underlying need. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heart.org/en/healthy-living/healthy-lifestyle/mental-health-and-wellbeing/how-to-break-bad-habits-and-change-behaviors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heart.org">[www.heart.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heart.org</span><span class="citation-popover-title">how to break bad habits and change behaviors</span><span class="citation-popover-snippet">to Break Bad Habits and Change Behaviors14 Dec 2023 — Research shows that replacing a bad behavior with a good one is more effective than...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-snippet">Mayo ClinicWeight loss: Gain control of emotional eatingInstead of snacking when you&#x27;re not hungry, distract yourself and substitute a he...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OMbsGBlpP30" title="The Power of Habit: Charles Duhigg at TEDxTeachersCollege" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OMbsGBlpP30" target="_blank" rel="noopener noreferrer">The Power of Habit: Charles Duhigg at TEDxTeachersCollege</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 1.6M &middot; Uploaded: August 2013 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OMbsGBlpP30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OMbsGBlpP30">Open on YouTube</a></p></div></div></div>
 
 ### Make the Alternative Easier Than You Think
@@ -320,7 +317,6 @@ People often choose substitutes that are too ambitious. Someone trying to reduce
 Implementation-intention research repeatedly finds that plans work best when the response is specific, practical, and executable at the moment the cue appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfluence of a Planning Intervention on Physical Activity</span><span class="citation-popover-snippet">by I Pfeffer · 2020 · Cited by 21 — There is evidence from several studies for the mediating role of action and coping planning cognit...</span></span></span>
 
 Good substitutes are usually small:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -335,7 +331,6 @@ Good substitutes are usually small:
 </div>
 
 The replacement action can always lead to something larger, but it should be easy enough to begin immediately.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-2-dark.svg" | relative_url }}" alt="Substitution illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Keep the Timing Tight
@@ -357,7 +352,6 @@ TemptationSubstitution PlanMindless snackingIf I open the cupboard after dinner,
 
 The important feature is not the exact substitute. It is the cue-to-action link. Research on implementation intentions suggests that these links help translate intentions into behaviour by preparing a response before temptation arrives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lme-5_bW0V4" title="How to Break BAD HABITS in 5 Easy steps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lme-5_bW0V4" target="_blank" rel="noopener noreferrer">How to Break BAD HABITS in 5 Easy steps</a></p><p class="youtube-embed-meta">Channel: Jim Kwik &middot; Views: 21.8K &middot; Uploaded: September 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lme-5_bW0V4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lme-5_bW0V4">Open on YouTube</a></p></div></div></div>
 
 ## When Substitution Plans Become Unrealistic
@@ -377,7 +371,6 @@ The substitute should be better than the original behaviour, but only slightly b
 If loneliness drives social media use, replacing it with a glass of water may not help much. If exhaustion drives overeating, replacing food with more work may make the problem worse.
 
 Effective substitution begins with identifying what the craving is doing for you. Research on unhealthy snacking and habit disruption highlights the importance of identifying the relevant cue before creating the response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Combining implementation intentions with cue-monitoring...6 Aug 2014 — Abstract Implementation intentions aimed at changing...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-3-dark.svg" | relative_url }}" alt="Substitution illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Plan Depends on Motivation
@@ -400,9 +393,7 @@ Implementation-intention research shows that people can use planned cue-response
 
 The most effective replacement is usually not the most impressive one. It is the one that can be performed immediately, repeatedly, and with little debate when temptation appears. Over time, those repeated substitutions can begin to compete with, and sometimes replace, the old habit itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Breaking and creating habits on the working floor: A field-...by RW Holland · 2006 · Cited by 476 — The present study aimed...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MVUg6aR7e6A" title="How to Replace BAD HABITS with GOOD HABITS? Learn how to Develop your DISCIPLINE in 7 DAYS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MVUg6aR7e6A" target="_blank" rel="noopener noreferrer">How to Replace BAD HABITS with GOOD HABITS? Learn how to Develop your DISCIPLINE in 7 DAYS</a></p><p class="youtube-embed-meta">Channel: DopaMind — Rewire Your Brain &middot; Views: 4 &middot; Uploaded: April 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MVUg6aR7e6A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MVUg6aR7e6A">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

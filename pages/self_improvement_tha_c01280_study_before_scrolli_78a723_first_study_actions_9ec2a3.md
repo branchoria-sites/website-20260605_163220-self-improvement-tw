@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /study-first/
 nav_short_title: First Action
 title: The Tiny Study Step That Beats Scrolling
-title_full: The Tiny Study Step That Beats Scrolling | Study First
+title_full: The Tiny Study Step That Beats Scrolling
 display_title_short: First Action
 display_title: First Action
 heading_title: The Tiny Study Step That Beats Scrolling
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:19:35'
-parent_title: How to Study Before You Start Scrolling | Better Change
+parent_title: How to Study Before You Start Scrolling
 parent_permalink: /study-first/
 parent_nav_short_title: Study First
 parent_heading_title: How to Study Before You Start Scrolling
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_fi
 
 When students say, “I need to do some revision,” they often believe they have made a plan. In practice, they have only named a goal. The gap between a goal and a concrete first action creates a moment of uncertainty, and that uncertainty is exactly where scrolling tends to win. Research on implementation intentions—specific plans that define what action will happen in a particular situation—shows that people are more likely to follow through when they decide in advance precisely what they will do, when they will do it, and how they will begin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kops.uni-konstanz.de/bitstreams/14cc2a36-5f01-4dc1-b9ca-f2d0ca0c8930/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kops.uni-konstanz.de">[KOPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kops.uni-konstanz.de</span><span class="citation-popover-snippet">Implementation Intentions: Strong Effects of Simple Plansby PM Gollwitzer · 1999 · Cited by 8519 — Implementation intention participa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">While the science of habit formation has long been of interest to psychological scientists...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_first_study_actions_9ec2a3-Illustration-1-dark.svg" | relative_url }}" alt="First Action illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_first_study_actions_9ec2a3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_first_study_actions_9ec2a3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For studying before scrolling, the critical question is not “What subject am I revising today?” but “What is the first thing I will physically do when I sit down?” A tiny, clearly defined action removes negotiation, lowers resistance, and creates momentum. The first step does not need to be impressive. It needs to be obvious.
 
@@ -309,7 +308,6 @@ Third, it is **connected to real study work**. The goal is not to create a produ
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Writing the answer to the first maths problem.
@@ -326,7 +324,6 @@ The value of these actions comes from reducing the activation energy needed to b
 
 The most effective first action depends on the nature of the subject. The principle stays the same: make the first move concrete and easy.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RWvUl-aovqE" title="Stop procrastinating by using implementation intentions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RWvUl-aovqE" target="_blank" rel="noopener noreferrer">Stop procrastinating by using implementation intentions</a></p><p class="youtube-embed-meta">Channel: Presenting Psychology &middot; Views: 2.2K &middot; Uploaded: November 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RWvUl-aovqE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RWvUl-aovqE">Open on YouTube</a></p></div></div></div>
 
 ### Mathematics
@@ -336,7 +333,6 @@ Poor first action:
 * “Do maths revision.”
 
 Better first actions:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -356,7 +352,6 @@ Poor first action:
 
 Better first actions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Draw one labelled diagram.
@@ -375,7 +370,6 @@ Poor first action:
 
 Better first actions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Write three causes from memory.
@@ -386,7 +380,6 @@ Better first actions:
 
 These actions immediately reveal what is remembered and what needs attention.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_first_study_actions_9ec2a3-Illustration-2-dark.svg" | relative_url }}" alt="First Action illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_first_study_actions_9ec2a3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_first_study_actions_9ec2a3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Languages
 
@@ -395,7 +388,6 @@ Poor first action:
 * “Practise vocabulary.”
 
 Better first actions:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -407,8 +399,7 @@ Better first actions:
 
 The task is clear enough to begin without further planning.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NzMCIPrjZlo" title="How I Make the PERFECT Revision Timetable with Spaced Repetition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NzMCIPrjZlo" target="_blank" rel="noopener noreferrer">How I Make the PERFECT Revision Timetable with Spaced Repetition</a></p><p class="youtube-embed-meta">Channel: Zain Asif &middot; Views: 53.1K &middot; Uploaded: January 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NzMCIPrjZlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NzMCIPrjZlo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SbWtYLd-cJk" title="How To Make A GCSE Revision Timetable That Works!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SbWtYLd-cJk" target="_blank" rel="noopener noreferrer">How To Make A GCSE Revision Timetable That Works!</a></p><p class="youtube-embed-meta">Channel: The Exam Coach &middot; Views: 31.0K &middot; Uploaded: January 2019 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SbWtYLd-cJk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SbWtYLd-cJk">Open on YouTube</a></p></div></div></div>
 
 ### Literature
 
@@ -417,7 +408,6 @@ Poor first action:
 * “Revise Macbeth.”
 
 Better first actions:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -428,7 +418,6 @@ Better first actions:
 </div>
 
 A specific action prevents endless re-reading without engagement.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_first_study_actions_9ec2a3-Illustration-3-dark.svg" | relative_url }}" alt="First Action illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_first_study_actions_9ec2a3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_first_study_actions_9ec2a3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Make the Step Real but Small
@@ -453,8 +442,7 @@ Behaviour-change research repeatedly shows that planning works best when it iden
 
 Importantly, the first action is not the entire study session. It is a doorway. Once through it, students can continue if they wish. The purpose is to overcome the hardest part: beginning.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SbWtYLd-cJk" title="How To Make A GCSE Revision Timetable That Works!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SbWtYLd-cJk" target="_blank" rel="noopener noreferrer">How To Make A GCSE Revision Timetable That Works!</a></p><p class="youtube-embed-meta">Channel: The Exam Coach &middot; Views: 31.0K &middot; Uploaded: January 2019 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SbWtYLd-cJk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SbWtYLd-cJk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NzMCIPrjZlo" title="How I Make the PERFECT Revision Timetable with Spaced Repetition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NzMCIPrjZlo" target="_blank" rel="noopener noreferrer">How I Make the PERFECT Revision Timetable with Spaced Repetition</a></p><p class="youtube-embed-meta">Channel: Zain Asif &middot; Views: 53.1K &middot; Uploaded: January 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NzMCIPrjZlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NzMCIPrjZlo">Open on YouTube</a></p></div></div></div>
 
 ## Why Tiny Starts Often Lead to Longer Sessions
 
@@ -601,11 +589,11 @@ This approach reflects the broader evidence behind implementation intentions: pe
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pomodoro Timer for Focus &amp; Productivity | Study &amp; Desk Timer Ideal for ADHD Adul"><img src="https://i.ebayimg.com/images/g/4o4AAeSwysJqDXZk/s-l225.jpg" alt="Listing image for Pomodoro Timer for Focus &amp; Productivity | Study &amp; Desk Timer Ideal for ADHD Adul" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Time Timer 8&quot; - 60 minute visual pomodoro study timer - V Good Cond."><img src="https://i.ebayimg.com/images/g/xvcAAeSwNF5qF1Gf/s-l225.jpg" alt="Listing image for Time Timer 8&quot; - 60 minute visual pomodoro study timer - V Good Cond." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Pomodoro Timer for Focus &amp; Productivity | Study &amp; Desk Timer Ideal for ADHD Adul</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Time Timer 8&quot; - 60 minute visual pomodoro study timer - V Good Cond.</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
@@ -617,11 +605,11 @@ This approach reflects the broader evidence behind implementation intentions: pe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Visual Timer Rechargeable 99-Min Countdown Clock for Kids Study"><img src="https://i.ebayimg.com/images/g/gRMAAeSweGNqFuyH/s-l225.jpg" alt="Listing image for Digital Visual Timer Rechargeable 99-Min Countdown Clock for Kids Study" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cube Pomodoro Timer - Flip to Start Countdown Rechargeable Mini Timer for Study"><img src="https://i.ebayimg.com/images/g/5uAAAeSwGFJqKCu1/s-l225.jpg" alt="Listing image for Cube Pomodoro Timer - Flip to Start Countdown Rechargeable Mini Timer for Study" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Digital Visual Timer Rechargeable 99-Min Countdown Clock for Kids Study</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Cube Pomodoro Timer - Flip to Start Countdown Rechargeable Mini Timer for Study</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
@@ -633,11 +621,11 @@ This approach reflects the broader evidence behind implementation intentions: pe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60 Min Visual Timer Countdown Clock LED Study Timer Pomodoro ADHD Kids Desk UK"><img src="https://i.ebayimg.com/images/g/NEIAAeSwwZhp2xQm/s-l225.jpg" alt="Listing image for 60 Min Visual Timer Countdown Clock LED Study Timer Pomodoro ADHD Kids Desk UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Professional Magnetic Digital Kitchen Timer for Cooking and Study 1 Pack"><img src="https://i.ebayimg.com/images/g/3fgAAeSw8lFqKnG7/s-l225.jpg" alt="Listing image for Professional Magnetic Digital Kitchen Timer for Cooking and Study 1 Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">60 Min Visual Timer Countdown Clock LED Study Timer Pomodoro ADHD Kids Desk UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Professional Magnetic Digital Kitchen Timer for Cooking and Study 1 Pack</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
@@ -649,11 +637,11 @@ This approach reflects the broader evidence behind implementation intentions: pe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Kitchen Timer Magnetic Countdown Stopwatch Loud Alarm UK"><img src="https://i.ebayimg.com/images/g/TQUAAeSwNBlp33OJ/s-l225.jpg" alt="Listing image for Digital Kitchen Timer Magnetic Countdown Stopwatch Loud Alarm UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Timer Study Reminder Stopwatch Alarm Clock With Silent Flashing Light UK"><img src="https://i.ebayimg.com/images/g/c6sAAeSwEKZpyrVD/s-l225.jpg" alt="Listing image for Timer Study Reminder Stopwatch Alarm Clock With Silent Flashing Light UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Digital Kitchen Timer Magnetic Countdown Stopwatch Loud Alarm UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Timer Study Reminder Stopwatch Alarm Clock With Silent Flashing Light UK</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
@@ -875,6 +863,7 @@ This approach reflects the broader evidence behind implementation intentions: pe
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

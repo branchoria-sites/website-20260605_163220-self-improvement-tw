@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /meaning/
 nav_short_title: Life Fit
 title: When a Good Goal No Longer Fits
-title_full: When a Good Goal No Longer Fits | Meaning
+title_full: When a Good Goal No Longer Fits
 display_title_short: Life Fit
 display_title: Life Fit
 heading_title: When a Good Goal No Longer Fits
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:09:42'
-parent_title: What Makes a Goal Worth Repeating? | Better Change
+parent_title: What Makes a Goal Worth Repeating?
 parent_permalink: /meaning/
 parent_nav_short_title: Meaning
 parent_heading_title: What Makes a Goal Worth Repeating?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_s
 
 A meaningful goal is not automatically the right goal. In [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), the test is not only whether a goal reflects your values, but whether it fits the realities of your current life. A goal that matched your circumstances at twenty may become destructive at forty. A target that was ambitious and healthy before illness, parenthood, caregiving responsibilities or a demanding career transition may become a source of chronic frustration later.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-1-dark.svg" | relative_url }}" alt="Life Fit illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is one reason some people mistake misalignment for boredom. They assume they have lost discipline when the deeper problem is that the goal no longer fits their available time, energy, obligations or opportunities. Research on goal adjustment, lifespan development and self-concordant goals suggests that successful goal pursuit is not simply persistence. It also involves repeatedly redesigning goals to fit changing life conditions while staying connected to underlying values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carleton.ca">[Carleton University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carleton.ca</span><span class="citation-popover-snippet">Carleton UniversityWhy do people set more self-concordant goals in...January 29, 2015 — by M Milyavskaya · 2015 · Cited by 35 — Goal sel...</span><span class="citation-popover-meta">Published: January 29, 2015</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Selection, optimization and compensation strategies and their...by L Zając-Lamparska · 2021 · Cited by 13 — The model of selection, o...</span></span></span>
 
@@ -287,7 +286,6 @@ The idea that goals should change across life stages is not a modern excuse for 
 The same underlying value may therefore require different goal designs at different points in life.
 
 Consider someone who values learning:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -315,8 +313,7 @@ In these cases, the goal may still fit perfectly. The challenge is tolerating re
 
 The solution is often changing methods, adding variety or reconnecting with the larger purpose behind the work rather than abandoning the goal itself.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6Y9jH0CooTY" title="Baltes&#x27; Characteristics of Life Span Development" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6Y9jH0CooTY" target="_blank" rel="noopener noreferrer">Baltes&#x27; Characteristics of Life Span Development</a></p><p class="youtube-embed-meta">Channel: Buzz Matta &middot; Views: 16.1K &middot; Uploaded: January 2016 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6Y9jH0CooTY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6Y9jH0CooTY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nGv6q6nt_Rk" title="How to enjoy exercise (and be consistent)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nGv6q6nt_Rk" target="_blank" rel="noopener noreferrer">How to enjoy exercise (and be consistent).</a></p><p class="youtube-embed-meta">Channel: Emma Eglinton &middot; Views: 1.6K &middot; Uploaded: August 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nGv6q6nt_Rk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nGv6q6nt_Rk">Open on YouTube</a></p></div></div></div>
 
 ### When the problem is misalignment
 
@@ -340,7 +337,6 @@ The lifespan development literature repeatedly emphasises adaptation under chang
 
 Many abandoned goals are not victims of boredom. They are victims of overload disguised as a motivation problem.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-2-dark.svg" | relative_url }}" alt="Life Fit illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why successful people narrow their focus over time
 
@@ -362,8 +358,7 @@ The person who temporarily chooses family stability over rapid promotion may be 
 
 Meaningful goals survive boredom more easily when they compete with fewer equally demanding commitments.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nGv6q6nt_Rk" title="How to enjoy exercise (and be consistent)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nGv6q6nt_Rk" target="_blank" rel="noopener noreferrer">How to enjoy exercise (and be consistent).</a></p><p class="youtube-embed-meta">Channel: Emma Eglinton &middot; Views: 1.6K &middot; Uploaded: August 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nGv6q6nt_Rk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nGv6q6nt_Rk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6Y9jH0CooTY" title="Baltes&#x27; Characteristics of Life Span Development" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6Y9jH0CooTY" target="_blank" rel="noopener noreferrer">Baltes&#x27; Characteristics of Life Span Development</a></p><p class="youtube-embed-meta">Channel: Buzz Matta &middot; Views: 16.1K &middot; Uploaded: January 2016 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6Y9jH0CooTY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6Y9jH0CooTY">Open on YouTube</a></p></div></div></div>
 
 ## How to revise a goal without treating adjustment as failure
 
@@ -372,7 +367,6 @@ One of the strongest findings in goal-adjustment research is that wellbeing is o
 This is especially important during major life transitions.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -405,7 +399,6 @@ The value continues. The target adapts.
 
 Research on goal re-engagement suggests that finding meaningful alternative goals after letting go of an unattainable one is particularly important for wellbeing and sense of purpose. Adjustment works best when something new replaces what was lost. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmu.edu">[Carnegie Mellon University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmu.edu</span><span class="citation-popover-title">GAS article</span><span class="citation-popover-snippet">Carnegie Mellon UniversityAdaptive Self-Regulation of Unattainable Goalsby C Wrosch · 2003 · Cited by 1570 — The overall aim of the prese...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11031-022-09941-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">for psychological well-being during COVID-19by JM Hamm · 2022 · Cited by 36 — Goal adjustment capacities (ie, goal disengagement and goal...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-3-dark.svg" | relative_url }}" alt="Life Fit illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hidden cost of chasing an outdated version of yourself
 
@@ -421,9 +414,7 @@ The most durable meaningful goals are therefore not rigid targets fixed for life
 
 That flexibility is not a compromise with self-improvement. It is one of the reasons self-improvement continues working long after novelty has disappeared.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gqgyFcbq-K4" title="5 Tips for Goal Adjustment, Embracing Change, Building Resilience, Problem-Solving &amp; Personal Growth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gqgyFcbq-K4" target="_blank" rel="noopener noreferrer">5 Tips for Goal Adjustment, Embracing Change, Building Resilience, Problem-Solving &amp; Personal Growth</a></p><p class="youtube-embed-meta">Channel: NextGenMillen &middot; Views: 16 &middot; Uploaded: May 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gqgyFcbq-K4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gqgyFcbq-K4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -542,15 +533,15 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Responsibility Charts for Kids &amp; Adults - Dry Erase Family Chore Boa..."><img src="https://i.ebayimg.com/images/g/e2oAAeSwxhNoj77H/s-l225.jpg" alt="Listing image for Magnetic Responsibility Charts for Kids &amp; Adults - Dry Erase Family Chore Boa..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fundraising Thermometer Chart Goal Tracker Decal - 48&quot;x12&quot; - Dry Erase Goal S..."><img src="https://i.ebayimg.com/images/g/L1wAAOSw8zJm4Ai~/s-l225.jpg" alt="Listing image for Fundraising Thermometer Chart Goal Tracker Decal - 48&quot;x12&quot; - Dry Erase Goal S..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">Magnetic Responsibility Charts for Kids &amp; Adults - Dry Erase Family Chore Boa...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">Fundraising Thermometer Chart Goal Tracker Decal - 48&quot;x12&quot; - Dry Erase Goal S...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +549,15 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 30 Pcs Cash Savings Tracking Templates Piggy Bank Planner Goals Charts"><img src="https://i.ebayimg.com/images/g/hLQAAeSw129p~Yr1/s-l225.jpg" alt="Listing image for 30 Pcs Cash Savings Tracking Templates Piggy Bank Planner Goals Charts" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weight Loss Progress Tracker Chart, 6 Stone Goal, A4 Size with Gold Star Sticker"><img src="https://i.ebayimg.com/images/g/e7IAAeSwKv1oxGNN/s-l225.jpg" alt="Listing image for Weight Loss Progress Tracker Chart, 6 Stone Goal, A4 Size with Gold Star Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">30 Pcs Cash Savings Tracking Templates Piggy Bank Planner Goals Charts</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">Weight Loss Progress Tracker Chart, 6 Stone Goal, A4 Size with Gold Star Sticker</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,15 +565,15 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat..."><img src="https://i.ebayimg.com/images/g/h-cAAeSwhrZp8V5P/s-l225.jpg" alt="Listing image for Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROGRESS TRACKER POSTER &amp; 2 A4 Sheets PINK HEART STICKERS Chart Weight YOUR GOAL"><img src="https://i.ebayimg.com/images/g/5mcAAOSwW6Nc7qZF/s-l225.jpg" alt="Listing image for PROGRESS TRACKER POSTER &amp; 2 A4 Sheets PINK HEART STICKERS Chart Weight YOUR GOAL" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">PROGRESS TRACKER POSTER &amp; 2 A4 Sheets PINK HEART STICKERS Chart Weight YOUR GOAL</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -590,15 +581,15 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personal Development and Goal Planning Guide: Habit Tracking Charts by Mustafa N"><img src="https://i.ebayimg.com/images/g/TxoAAeSwdHtpcNuP/s-l225.jpg" alt="Listing image for Personal Development and Goal Planning Guide: Habit Tracking Charts by Mustafa N" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Pcs Fundraising Thermometer Goal Charts 11 X 46.5 Dry Erase Goal Tra"><img src="https://i.ebayimg.com/images/g/7bUAAOSw831me2rN/s-l225.jpg" alt="Listing image for 3 Pcs Fundraising Thermometer Goal Charts 11 X 46.5 Dry Erase Goal Tra" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">Personal Development and Goal Planning Guide: Habit Tracking Charts by Mustafa N</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">3 Pcs Fundraising Thermometer Goal Charts 11 X 46.5 Dry Erase Goal Tra</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -606,7 +597,7 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -816,6 +807,7 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

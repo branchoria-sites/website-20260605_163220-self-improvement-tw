@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sleep-first/
 nav_short_title: Last Episode
 title: Pick the Last Episode Before You Start
-title_full: Pick the Last Episode Before You Start | Sleep First
+title_full: Pick the Last Episode Before You Start
 display_title_short: Last Episode
 display_title: Last Episode
 heading_title: Pick the Last Episode Before You Start
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 04:44:30'
-parent_title: How to Stop the Next Episode Trap | Better Change
+parent_title: How to Stop the Next Episode Trap
 parent_permalink: /sleep-first/
 parent_nav_short_title: Sleep First
 parent_heading_title: How to Stop the Next Episode Trap
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_la
 
 Choosing the last episode before you start watching is a simple form of pre-commitment: you decide the stopping point while you are alert rather than asking your tired evening self to negotiate later. Within the broader goal of sleeping before the next episode, this small decision changes the structure of the evening. Instead of an open-ended viewing session that ends only when [motivation]({{ 'motivation/' | relative_url }}) runs out, it becomes a planned activity with a defined finish line.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_last_episode_plan_4c1ad6-Illustration-1-dark.svg" | relative_url }}" alt="Last Episode illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_last_episode_plan_4c1ad6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_last_episode_plan_4c1ad6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The value of this approach is not that it increases [willpower]({{ 'willpower/' | relative_url }}). It reduces the need for willpower at the moment when it is least reliable. Research on self-control consistently finds that changing the situation in advance is often more effective than relying on in-the-moment resistance. Situational strategies work because they prevent a conflict from becoming a live battle in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Situational Strategies for Self-Control</span><span class="citation-popover-snippet">PubMed CentralSituational Strategies for Self-Control - PMC - NIHby AL Duckworth · 2016 · Cited by 828 — Because impulses tend to grow st...</span></span></span>
 
@@ -290,7 +289,6 @@ This matters because the question asked at midnight is different from the questi
 
 At 8 p.m., the viewer may think:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “I want enough sleep for tomorrow.”
@@ -300,7 +298,6 @@ At 8 p.m., the viewer may think:
 </div>
 
 At midnight, after a cliffhanger:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,7 +317,6 @@ The most effective boundary is specific enough that there is no ambiguity when t
 
 Instead of deciding to “watch a bit”, decide exactly where the session ends:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “I will watch episodes 1 and 2.”
@@ -334,15 +330,13 @@ Specific commitments tend to work better than vague intentions because they conv
 
 A useful test is whether someone else could tell when the session is supposed to end. If the answer is yes, the boundary is probably clear enough.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z1Oy8HrL4ug" title="Netflix Google TV App | How to Turn OFF / ON Auto Play Next Episode on Smart TV, Android TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z1Oy8HrL4ug" target="_blank" rel="noopener noreferrer">Netflix Google TV App | How to Turn OFF / ON Auto Play Next Episode on Smart TV, Android TV</a></p><p class="youtube-embed-meta">Channel: ShareIT &middot; Views: 140 &middot; Uploaded: June 2025 &middot; Length: 2 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z1Oy8HrL4ug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z1Oy8HrL4ug">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KZQtsHvd4ss" title="How To Stop Autoplay in Netflix | Turn Off Autoplay | Netflix Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KZQtsHvd4ss" target="_blank" rel="noopener noreferrer">How To Stop Autoplay in Netflix | Turn Off Autoplay | Netflix Tutorial</a></p><p class="youtube-embed-meta">Channel: Checkmark Tutorials &middot; Views: 3.1K &middot; Uploaded: October 2024 &middot; Length: 1 minute 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KZQtsHvd4ss" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KZQtsHvd4ss">Open on YouTube</a></p></div></div></div>
 
 ### Make the Last Episode Visible
 
 Many people decide mentally but never mark the decision.
 
 A stronger version is to make the stopping point explicit:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -363,7 +357,6 @@ Choosing after the first episode has ended is much weaker. By then, the narrativ
 
 Think of it as deciding the destination before starting the journey rather than trying to choose it at every crossroads.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_last_episode_plan_4c1ad6-Illustration-2-dark.svg" | relative_url }}" alt="Last Episode illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_last_episode_plan_4c1ad6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_last_episode_plan_4c1ad6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why an Episode Boundary Works Better Than a Bedtime Promise
 
@@ -379,7 +372,6 @@ This distinction matters because habits often follow [defaults]({{ 'defaults/' |
 
 A predetermined final episode works especially well when combined with disabling autoplay. The boundary and the technology reinforce each other:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * The viewer knows where the session ends.
@@ -388,8 +380,7 @@ A predetermined final episode works especially well when combined with disabling
 
 </div>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KZQtsHvd4ss" title="How To Stop Autoplay in Netflix | Turn Off Autoplay | Netflix Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KZQtsHvd4ss" target="_blank" rel="noopener noreferrer">How To Stop Autoplay in Netflix | Turn Off Autoplay | Netflix Tutorial</a></p><p class="youtube-embed-meta">Channel: Checkmark Tutorials &middot; Views: 3.1K &middot; Uploaded: October 2024 &middot; Length: 1 minute 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KZQtsHvd4ss" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KZQtsHvd4ss">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VBEOpOWA_XA" title="How to Turn Off Auto-Play on Netflix app ⏹️ (step-by-step for beginners)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VBEOpOWA_XA" target="_blank" rel="noopener noreferrer">How to Turn Off Auto-Play on Netflix app ⏹️ (step-by-step for beginners)</a></p><p class="youtube-embed-meta">Channel: Mr. Tech Tips &middot; Views: 181 &middot; Uploaded: December 2025 &middot; Length: 1 minute 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VBEOpOWA_XA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VBEOpOWA_XA">Open on YouTube</a></p></div></div></div>
 
 ## Best Fallback Plans When the Plan Slips
 
@@ -405,7 +396,6 @@ A practical fallback rule is:
 * After the unplanned episode, stop regardless of the ending.
 
 Without a fallback rule, a single lapse often becomes three or four additional episodes.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_last_episode_plan_4c1ad6-Illustration-3-dark.svg" | relative_url }}" alt="Last Episode illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_last_episode_plan_4c1ad6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_last_episode_plan_4c1ad6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Use a Hard Ceiling
@@ -427,7 +417,6 @@ More often, the boundary is unrealistic.
 
 Common adjustments include:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Starting the series earlier in the evening.
@@ -439,8 +428,7 @@ Common adjustments include:
 
 The objective is to create a boundary that succeeds most nights, not one that sounds ambitious.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VBEOpOWA_XA" title="How to Turn Off Auto-Play on Netflix app ⏹️ (step-by-step for beginners)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VBEOpOWA_XA" target="_blank" rel="noopener noreferrer">How to Turn Off Auto-Play on Netflix app ⏹️ (step-by-step for beginners)</a></p><p class="youtube-embed-meta">Channel: Mr. Tech Tips &middot; Views: 181 &middot; Uploaded: December 2025 &middot; Length: 1 minute 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VBEOpOWA_XA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VBEOpOWA_XA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z1Oy8HrL4ug" title="Netflix Google TV App | How to Turn OFF / ON Auto Play Next Episode on Smart TV, Android TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z1Oy8HrL4ug" target="_blank" rel="noopener noreferrer">Netflix Google TV App | How to Turn OFF / ON Auto Play Next Episode on Smart TV, Android TV</a></p><p class="youtube-embed-meta">Channel: ShareIT &middot; Views: 140 &middot; Uploaded: June 2025 &middot; Length: 2 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z1Oy8HrL4ug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z1Oy8HrL4ug">Open on YouTube</a></p></div></div></div>
 
 ## The Small Decision That Removes a Bigger One
 
@@ -562,71 +550,75 @@ A pre-chosen final episode turns viewing from an open-ended activity into a sche
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+      <div class="fr-books-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pick+last+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-last-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pick last poster -book -books -dvd" data-ebay-reference="last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-last-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open pick last poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20pick%20last%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPick%20Last%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELast%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for pick last poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">pick last poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Last</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=pick+last+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-last-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pick last poster -book -books -dvd" data-ebay-reference="last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-last-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60-Minute Visual Timer- Clock Timer For Kids Perfect Time Management Tools"><img src="https://i.ebayimg.com/images/g/cJsAAeSw5GFps-cn/s-l225.jpg" alt="Listing image for 60-Minute Visual Timer- Clock Timer For Kids Perfect Time Management Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer">60-Minute Visual Timer- Clock Timer For Kids Perfect Time Management Tools</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pick+last+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-last-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pick last memorabilia -book -books -dvd" data-ebay-reference="last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-last-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open pick last memorabilia on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20pick%20last%20memorabilia%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPick%20Last%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMemorabilia%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELast%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemorabilia%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for pick last memorabilia on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">pick last memorabilia</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Last</span><span class="fr-search-tag">Memorabilia</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=pick+last+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-last-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pick last memorabilia -book -books -dvd" data-ebay-reference="last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-last-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60 Minutes Visual Analog Timer Countdown Clock Time Management Kid &amp; Adult Tool"><img src="https://i.ebayimg.com/images/g/EKMAAeSwqZVp6zFr/s-l225.jpg" alt="Listing image for 60 Minutes Visual Analog Timer Countdown Clock Time Management Kid &amp; Adult Tool" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer">60 Minutes Visual Analog Timer Countdown Clock Time Management Kid &amp; Adult Tool</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pick+last+collectible+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-last-collectible-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pick last collectible -book -books -dvd" data-ebay-reference="last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-last-collectible-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open pick last collectible on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20pick%20last%20collectible%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPick%20Last%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECollectible%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELast%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECollectible%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for pick last collectible on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">pick last collectible</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Last</span><span class="fr-search-tag">Collectible</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=pick+last+collectible+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-last-collectible-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pick last collectible -book -books -dvd" data-ebay-reference="last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-last-collectible-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Visual Timer 60 Minute Countdown Digital Silent Timer Time Management Tool"><img src="https://i.ebayimg.com/images/g/AlkAAeSwFCdp4SxC/s-l225.jpg" alt="Listing image for Visual Timer 60 Minute Countdown Digital Silent Timer Time Management Tool" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer">Visual Timer 60 Minute Countdown Digital Silent Timer Time Management Tool</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pick+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pick poster -book -books -dvd" data-ebay-reference="last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open pick poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20pick%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPick%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for pick poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">pick poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=pick+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pick poster -book -books -dvd" data-ebay-reference="last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Visual Countdown Timer with Night Light 60-Minute Pomodoro Timer for Kids/Cookin"><img src="https://i.ebayimg.com/images/g/uSIAAeSwFjVpX3IV/s-l225.jpg" alt="Listing image for Visual Countdown Timer with Night Light 60-Minute Pomodoro Timer for Kids/Cookin" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer">Visual Countdown Timer with Night Light 60-Minute Pomodoro Timer for Kids/Cookin</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pick+last+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=last-episode-pick-the-last-episode-before-you-start-self-improvement-that-works-pick-last-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /saving/
 nav_short_title: Spending friction
 title: The tiny barriers that stop impulse buys
-title_full: The tiny barriers that stop impulse buys | Saving
+title_full: The tiny barriers that stop impulse buys
 display_title_short: Spending friction
 display_title: Spending friction
 heading_title: The tiny barriers that stop impulse buys
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 04:42:07'
-parent_title: How to Save Before You Spend | Better Change
+parent_title: How to Save Before You Spend
 parent_permalink: /saving/
 parent_nav_short_title: Saving
 parent_heading_title: How to Save Before You Spend
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_im
 
 [Saving]({{ 'saving/' | relative_url }}) before spending works best when saved money is protected from the same forces that encourage unplanned purchases. Modern shopping systems are designed to remove delays: one-click checkout, stored payment cards, digital wallets and personalised recommendations all reduce the time between wanting something and buying it. The result is that a momentary urge can become a completed transaction before reflection has a chance to occur. Research on digital purchasing consistently finds that reducing payment friction increases impulse buying, while deliberate barriers can interrupt that process and restore conscious decision-making. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">From Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acr-journal.com">[Advances in Consumer Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acr-journal.com</span><span class="citation-popover-snippet">Advances in Consumer ResearchThe Silent Wallet: How Payment Mode Transparency...by K Karthikeyan · 2025 — Findings reveal that reduced t...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c-Illustration-1-dark.svg" | relative_url }}" alt="Spending friction illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Friction rules are therefore not punishments. They are small obstacles placed between impulse and action. A few extra seconds, a mandatory wait or a separate account can be enough to protect money that has already been saved.
 
@@ -288,7 +287,6 @@ For someone following a save-first system, this creates a specific risk. Money t
 
 The most effective friction rules tend to be simple enough to maintain yet inconvenient enough to interrupt automatic behaviour.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2dTUbyI7LII" title="Stop Impulse Buying in 2026 (5 Simple Tricks)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2dTUbyI7LII" target="_blank" rel="noopener noreferrer">Stop Impulse Buying in 2026 (5 Simple Tricks)</a></p><p class="youtube-embed-meta">Channel: Primerica &middot; Views: 524 &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2dTUbyI7LII" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2dTUbyI7LII">Open on YouTube</a></p></div></div></div>
 
 ### Removing stored payment details
@@ -305,7 +303,6 @@ A 24-hour rule works well for routine purchases. More expensive items may justif
 
 Many purchases lose their appeal surprisingly quickly. If the desire disappears after a day or two, the friction rule has served its purpose.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c-Illustration-2-dark.svg" | relative_url }}" alt="Spending friction illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Separate banks and account distance
 
@@ -314,7 +311,6 @@ Another form of friction involves physical or digital separation.
 Instead of keeping savings beside everyday spending money, some savers place emergency funds in a different institution. Access remains available when genuinely needed, but transfers are no longer instantaneous or invisible. This separation reduces accidental spending and creates a brief pause before money is moved. Financial guidance on emergency savings frequently recommends keeping reserves in dedicated accounts rather than mixing them with everyday spending balances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerfinance.gov</span><span class="citation-popover-title">an essential guide to building an emergency fund</span><span class="citation-popover-snippet">Consumer Financial Protection BureauAn essential guide to building an emergency fund29 Oct 2025 — In general, emergency savings can be us...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://servicecu.org/resources/blog/detail/checking-and-savings/emergency-savings-why-every-first-responder-needs-a-fund/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: servicecu.org">[Service Credit Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">servicecu.org</span><span class="citation-popover-snippet">Service Credit UnionEmergency Savings: Why Every First Responder Needs a...22 Feb 2024 — Opt for a higher-yield savings account, keeping...</span></span></span>
 
 The key is that the money remains accessible but not effortlessly spendable.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c-Illustration-3-dark.svg" | relative_url }}" alt="Spending friction illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to avoid making emergency money too hard to reach
@@ -327,7 +323,6 @@ An emergency fund exists for unexpected expenses such as car repairs, medical co
 
 A practical distinction is:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * **High friction for wants:** fashion purchases, gadgets, entertainment spending, food delivery and other impulse-prone categories.
@@ -336,7 +331,6 @@ A practical distinction is:
 </div>
 
 The most successful systems often combine the two. Saving and investing are automated so that beneficial actions happen effortlessly, while discretionary spending receives additional checkpoints and pauses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.investopedia.com/friction-maxxing-goes-viral-here-s-what-it-means-for-your-spending-11947155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investopedia.com">[Investopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investopedia.com</span><span class="citation-popover-title">Friction Maxxing&#x27; Goes Viral-Here&#x27;s What It Means For Your Spending</span><span class="citation-popover-snippet">Triggered by easy digital checkout methods such as one-click purchasing, Face ID, and mobile payments, impulse buys have surged, with a L...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2OTeiruHMYg" title="The Pain of Paying: Why Spending Money Literally Hurts | Brainfluence Brief" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2OTeiruHMYg" target="_blank" rel="noopener noreferrer">The Pain of Paying: Why Spending Money Literally Hurts | Brainfluence Brief</a></p><p class="youtube-embed-meta">Channel: Roger Dooley &middot; Views: 241 &middot; Uploaded: December 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2OTeiruHMYg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2OTeiruHMYg">Open on YouTube</a></p></div></div></div>
 
@@ -348,9 +342,7 @@ A person who creates a twenty-step approval process for every purchase will even
 
 The strength of spending friction is not that it guarantees perfect decisions. Its value comes from restoring a moment of choice. In a marketplace built to eliminate hesitation, even a brief pause can protect savings from becoming spending. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theweek.com/personal-finance/friction-maxxing-save-money-overspending-impulse-buying" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theweek.com">[theweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theweek.com</span><span class="citation-popover-snippet">How &#x27;friction maxxing&#x27; can help you stop impulse buyingApril 24, 2026 — Apr 24, 2026 — Slow down and be more intentional about your finances...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slowmoneymovement.com/blog/stop-impulse-spending" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slowmoneymovement.com">[2slowmoneymovement.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slowmoneymovement.com</span><span class="citation-popover-snippet">How To Stop Impulse Spending - The Slow Money Movement18 Mar 2026 — But by deliberately adding friction back into the process, people can...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wAGf8x4KCoc" title="Friction Maxxing: The Psychological Trick to Stop Impulse Spending with Hanna Horvath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wAGf8x4KCoc" target="_blank" rel="noopener noreferrer">Friction Maxxing: The Psychological Trick to Stop Impulse Spending with Hanna Horvath</a></p><p class="youtube-embed-meta">Channel: Moolala: Money Made Simple - Bruce Sellery &middot; Views: 116 &middot; Uploaded: March 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wAGf8x4KCoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wAGf8x4KCoc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

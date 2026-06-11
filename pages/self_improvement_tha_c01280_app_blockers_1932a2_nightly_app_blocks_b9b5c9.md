@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /app-blockers/
 nav_short_title: Night Blocks
 title: Stop the bedtime scroll before it starts
-title_full: Stop the bedtime scroll before it starts | App Blockers
+title_full: Stop the bedtime scroll before it starts
 display_title_short: Night Blocks
 display_title: Night Blocks
 heading_title: Stop the bedtime scroll before it starts
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 14:53:59'
-parent_title: Do App Blockers Actually Help? | Better Change
+parent_title: Do App Blockers Actually Help?
 parent_permalink: /app-blockers/
 parent_nav_short_title: App Blockers
 parent_heading_title: Do App Blockers Actually Help?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_ap
 
 Nightly app blocks work best when they prevent the bedtime scroll before it begins, not when they try to stop it after thirty minutes of scrolling. For many people, the problem is not a conscious decision to sacrifice sleep. It is a sequence of small actions: checking one message, opening one social app, watching one video, then discovering that an hour has disappeared. Research on smartphone use, bedtime procrastination and digital self-control suggests that changing the [environment]({{ 'environment/' | relative_url }}) around this vulnerable time window is often more effective than relying on [willpower]({{ 'willpower/' | relative_url }}) alone. A scheduled evening block creates friction at the moment of temptation and protects the period between “I should start winding down” and “I need to be asleep”. PNAS <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — In sum, one sec decreased users&#x27; ac...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-1-dark.svg" | relative_url }}" alt="Night Blocks illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Setting the wind-down window
 
@@ -287,7 +286,6 @@ A more effective approach is to create a wind-down window that starts before bed
 Sleep organisations commonly recommend a dedicated wind-down period, often around 30 minutes or more, devoted to calmer activities and a consistent bedtime routine. Research and sleep-health guidance also link evening device use with longer sleep onset, poorer sleep quality and delayed bedtimes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/sleep-hygiene" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-title">sleep hygiene</span><span class="citation-popover-snippet">Sleep FoundationMastering Sleep Hygiene: Your Path to Quality Sleep7 Jul 2025 — Budget 30 Minutes For Winding Down: Take advantage of wha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Sleep]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralThe Association Between Bedtime Procrastination, Sleep...by A Bozkurt · 2024 · Cited by 36 — This study investigated the r...</span></span></span>
 
 For late-night scrolling specifically, the timing matters more than the severity of the block:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,7 +307,6 @@ Evidence from the self-nudge app *one sec* illustrates the value of interrupting
 
 The lesson for bedtime routines is straightforward: the first tap is often the most important moment to interrupt. Once someone is immersed in an infinite feed, the effort required to stop becomes much greater.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rVTcUe2aKlk" title="How I Lowered My Screen Time By 83% - Here’s How" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rVTcUe2aKlk" target="_blank" rel="noopener noreferrer">How I Lowered My Screen Time By 83% - Here’s How</a></p><p class="youtube-embed-meta">Channel: Natalies Outlet &middot; Views: 18.8K &middot; Uploaded: May 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rVTcUe2aKlk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rVTcUe2aKlk">Open on YouTube</a></p></div></div></div>
 
 ## Keeping emergency access available
@@ -321,7 +318,6 @@ One reason some blocking systems fail is that they feel absolute. People worry a
 A more sustainable setup usually distinguishes between high-risk scrolling apps and genuinely important communication tools.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -336,7 +332,6 @@ This approach aligns with findings from research on digital self-control tools. 
 
 The objective is not to make the phone unusable. It is to remove the pathways most likely to lead into an hour of unplanned scrolling.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-2-dark.svg" | relative_url }}" alt="Night Blocks illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Pairing blocks with phone placement
 
@@ -348,7 +343,6 @@ Sleep researchers and clinicians frequently recommend reducing or eliminating ph
 
 Practical combinations include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Charging the phone across the room rather than beside the bed.
@@ -359,7 +353,6 @@ Practical combinations include:
 </div>
 
 These measures matter because late-night scrolling is not only a screen problem. It is also a proximity problem. The easier the phone is to reach, the easier it is to restart the habit loop.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AwYV6grk3VU" title="Beat Phone Addiction with THESE 3 Apps!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AwYV6grk3VU" target="_blank" rel="noopener noreferrer">Beat Phone Addiction with THESE 3 Apps!</a></p><p class="youtube-embed-meta">Channel: Tool Finder &middot; Views: 7.1K &middot; Uploaded: January 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AwYV6grk3VU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AwYV6grk3VU">Open on YouTube</a></p></div></div></div>
 
@@ -373,7 +366,6 @@ The goal is not simply reducing exposure to screens. The goal is preventing bedt
 
 A nightly block therefore succeeds when it removes the apps most associated with “just a few more minutes” behaviour:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Infinite social feeds.
@@ -386,12 +378,10 @@ A nightly block therefore succeeds when it removes the apps most associated with
 
 The block protects sleep not because the apps are inherently bad, but because they are particularly effective at extending wakefulness.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-3-dark.svg" | relative_url }}" alt="Night Blocks illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical nightly setup
 
 For most people, a simple arrangement is sufficient:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -406,9 +396,7 @@ For most people, a simple arrangement is sufficient:
 
 This combination works because it addresses the entire late-night sequence. The app block removes immediate temptation, the wind-down window creates space for sleep preparation, and phone placement reduces opportunities to restart the scrolling cycle. Together, they transform bedtime from a nightly battle of self-control into a routine that runs with less effort.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9dgegVSYPtA" title="How to Stop Doomscrolling Without Deleting Social Media FINALLY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9dgegVSYPtA" target="_blank" rel="noopener noreferrer">How to Stop Doomscrolling Without Deleting Social Media FINALLY</a></p><p class="youtube-embed-meta">Channel: Natalies Outlet &middot; Views: 11.1K &middot; Uploaded: March 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9dgegVSYPtA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9dgegVSYPtA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

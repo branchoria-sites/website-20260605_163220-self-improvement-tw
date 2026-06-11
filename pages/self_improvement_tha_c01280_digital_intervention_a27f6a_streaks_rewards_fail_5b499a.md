@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /digital-tools/
 nav_short_title: Streaks
 title: Do streaks motivate or set you up to quit?
-title_full: Do streaks motivate or set you up to quit? | Digital Tools
+title_full: Do streaks motivate or set you up to quit?
 display_title_short: Streaks
 display_title: Streaks
 heading_title: Do streaks motivate or set you up to quit?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 16:12:55'
-parent_title: What Makes a Self Improvement App Useful? | Better Change
+parent_title: What Makes a Self Improvement App Useful?
 parent_permalink: /digital-tools/
 parent_nav_short_title: Digital Tools
 parent_heading_title: What Makes a Self Improvement App Useful?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_st
 
 Streaks, badges, levels and progress bars are among the most common features in self-improvement apps because they make progress visible. Used well, they can increase repetition, strengthen routines and provide a satisfying sense of momentum. Used badly, they can turn one missed day into a perceived failure and shift attention from the behaviour itself to protecting a number on a screen. Research on gamification and habit formation suggests that [rewards]({{ 'rewards/' | relative_url }}) can support [behaviour change]({{ 'behaviour-change/' | relative_url }}), but their effects depend heavily on how they are designed and what they encourage people to value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-1-dark.svg" | relative_url }}" alt="Streaks illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key question is not whether streaks work. They often do. The more important question is whether they help people return after an interruption. Real life includes illness, travel, family [emergencies]({{ 'emergencies/' | relative_url }}) and simple forgetfulness. A reward system that only works under perfect conditions may increase engagement for a while but can undermine long-term self-improvement.
 
@@ -287,7 +286,6 @@ Progress indicators work because they provide immediate evidence that effort is 
 Research on gamification has found that elements such as badges, performance graphs and visible progress can increase feelings of competence and make tasks feel more meaningful. Rather than [motivation]({{ 'motivation/' | relative_url }}) appearing from nowhere, these features help people see that their actions are having an effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</span></span></span>
 
 Several mechanisms are at work:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -314,7 +312,6 @@ Studies of streak-based behaviour show both benefits and risks. Research on runn
 
 Several common failure patterns emerge:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6RJDwrVkkO4" title="Gamifying Health, full interview with Amy Bucher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6RJDwrVkkO4" target="_blank" rel="noopener noreferrer">Gamifying Health, full interview with Amy Bucher</a></p><p class="youtube-embed-meta">Channel: Game Thinking TV &middot; Views: 425 &middot; Uploaded: November 2022 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6RJDwrVkkO4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6RJDwrVkkO4">Open on YouTube</a></p></div></div></div>
 
 ### When the streak becomes the goal
@@ -331,11 +328,87 @@ Broken streaks often create a disproportionate emotional response. Psychological
 
 This can trigger a familiar pattern:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A person maintains a streak.
 2. They miss one day.
+3. The streak resets to zero. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40milanicreative/the-art-of-sustainable-progress-why-habit-tracking-your-streaks-is-killing-your-motivation-46db12933e3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+4. The reset feels like losing months of effort.
+5. They stop altogether.
+
+</div>
+
+The behavioural damage comes not from missing the day but from how the missed day is interpreted.
+
+<img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-2-dark.svg" | relative_url }}" alt="Streaks illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Obsession and anxiety
+
+Long streaks can create pressure. Journalistic reporting and qualitative research have documented cases where users continue behaviours primarily to avoid losing a streak, even after [enjoyment]({{ 'enjoyment/' | relative_url }}) or value has diminished. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Don&#x27;t break the streak!</span><span class="citation-popover-snippet">How a daily ritual can enrich your life - or become an unhealthy obsessionThe article examines the concept of &quot;streaks&quot;—consistent, unbro...</span></span></span>
+
+At that point, the reward system is no longer supporting the behaviour. The behaviour is serving the reward system.
+
+### Behaviour distortion
+
+Evidence from online platforms suggests that streak counters can influence behaviour in unexpected ways. When GitHub removed public streak indicators, some streak-oriented activity patterns declined, indicating that users had been altering behaviour to maintain visible streaks rather than purely for productive reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The lesson is not that streaks are harmful. It is that people adapt to whatever is measured. If the metric becomes more important than the outcome, behaviour can drift away from the original goal.
+
+## Better reward designs for real life
+
+The strongest behaviour-change systems recognise that consistency matters more than perfection.
+
+A useful reward structure should encourage people to come back after interruptions rather than punish them for being human. Several design approaches appear more resilient than strict all-or-nothing streaks.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FJWc4j9FnpE" title="Why Is Gamification So Effective For Changing Behavior? - Strange Science HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FJWc4j9FnpE" target="_blank" rel="noopener noreferrer">Why Is Gamification So Effective For Changing Behavior? - Strange Science HQ</a></p><p class="youtube-embed-meta">Channel: Strange Science HQ &middot; Views: 6 &middot; Uploaded: October 2025 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FJWc4j9FnpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FJWc4j9FnpE">Open on YouTube</a></p></div></div></div>
+
+### Reward recovery, not perfection
+
+A system can celebrate returning after a missed day rather than treating the interruption as catastrophic.
+
+Instead of asking, “Did you maintain an unbroken chain?”, a better question is, “How quickly did you resume?”
+
+This shifts attention from failure to recovery, which is often a more important skill for long-term self-improvement.
+
+### Use completion rates alongside streaks
+
+A person who exercises on 27 of the last 30 days is doing extremely well, regardless of whether those days were consecutive.
+
+Percentage-based tracking captures consistency without making a single missed day erase visible progress. Several designers and behaviour-change researchers have proposed adherence rates, heat maps and rolling averages as alternatives that preserve motivation while reducing all-or-nothing thinking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: professorgame.com">[Professor Game]</a><span class="citation-popover" role="note"><span class="citation-popover-source">professorgame.com</span><span class="citation-popover-snippet">Professor GameWhy streaks backfire and what works &#124; Ep 42314 Dec 2025 — Examining why streak mechanics (borrowed from Duolingo and medita...</span></span></span>
+
+<img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-3-dark.svg" | relative_url }}" alt="Streaks illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Build in grace periods
+
+Many successful systems now include mechanisms that acknowledge unavoidable interruptions.
+
+Features such as “streak freezes” recognise that missing one day does not erase the habit that has already been established. Duolingo's implementation is a well-known example of this approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.duolingo.com">[Duolingo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.duolingo.com</span><span class="citation-popover-title">how duolingo streak builds habit</span><span class="citation-popover-snippet">Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Duolingo streak was designed with habit-building in...</span></span></span>
+
+The underlying behavioural insight is simple: habits are patterns, not perfect records.
+
+### Reward meaningful actions
+
+Rewards work best when they reinforce the target behaviour rather than mere app engagement.
+
+A reading app might reward books completed rather than consecutive log-ins. A fitness app might highlight improvements in strength, endurance or training volume rather than only counting days.
+
+Research on motivation suggests that gamification is most effective when it supports feelings of competence, autonomy and genuine progress instead of relying solely on external rewards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</span></span></span> 2arXiv
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1fNDnfJxAFE" title="You’re Using Streaks Wrong – Here’s What Actually Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1fNDnfJxAFE" target="_blank" rel="noopener noreferrer">You’re Using Streaks Wrong – Here’s What Actually Works</a></p><p class="youtube-embed-meta">Channel: Professor Game &middot; Views: 14 &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1fNDnfJxAFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1fNDnfJxAFE">Open on YouTube</a></p></div></div></div>
+
+### Make the minimum action tiny
+
+One practical way to reduce streak fragility is to define success very broadly.
+
+A daily writing habit might require one sentence rather than five hundred words. A reading habit might require one page. A fitness habit might require five minutes of movement.
+
+When the threshold is small, interruptions become less likely and recovery becomes easier. This preserves the behavioural identity without creating excessive pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://habit-streak.com/en/blog/habit-tracking/why-streaks-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: habit-streak.com">[Habit Streak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">habit-streak.com</span><span class="citation-popover-title">why streaks work</span><span class="citation-popover-snippet">Phillippa Lally&#x27;s research found that missing a single day had no measurable effect on habit formation.Read more...</span></span></span>
+
+## The most useful question to ask of any streak
+
+The value of a streak is not whether it produces a large number. The value is whether it helps a person continue a behaviour months later.
+
+A good reward system makes progress visible, celebrates effort and provides momentum. A poor reward system convinces people that one missed day wipes out months of success.
+
+For self-improvement that works, the most robust design is usually not the one that demands perfection. It is the one that makes restarting feel normal. Streaks can be powerful motivational tools, but they are most effective when they measure persistence without turning ordinary interruptions into reasons to quit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8037535/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of Gamification on Behavioral Change in Educationby J Kim · 2021 · Cited by 333 — The following gamification elements were examined withi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/gb/blog/ulterior-motives/202306/how-broken-streaks-sap-motivation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">how broken streaks sap motivation</span><span class="citation-popover-snippet">Psychology TodayHow Broken Streaks Sap Motivation12 Jun 2023 — Keeping up a streak can be motivating above and beyond the task itself. Br...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -753,88 +826,6 @@ This can trigger a familiar pattern:
 })();
 </script>
 </section>
-
-3. The streak resets to zero. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40milanicreative/the-art-of-sustainable-progress-why-habit-tracking-your-streaks-is-killing-your-motivation-46db12933e3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-4. The reset feels like losing months of effort.
-5. They stop altogether.
-
-</div>
-
-The behavioural damage comes not from missing the day but from how the missed day is interpreted.
-
-
-<img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-2-dark.svg" | relative_url }}" alt="Streaks illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-### Obsession and anxiety
-
-Long streaks can create pressure. Journalistic reporting and qualitative research have documented cases where users continue behaviours primarily to avoid losing a streak, even after [enjoyment]({{ 'enjoyment/' | relative_url }}) or value has diminished. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Don&#x27;t break the streak!</span><span class="citation-popover-snippet">How a daily ritual can enrich your life - or become an unhealthy obsessionThe article examines the concept of &quot;streaks&quot;—consistent, unbro...</span></span></span>
-
-At that point, the reward system is no longer supporting the behaviour. The behaviour is serving the reward system.
-
-### Behaviour distortion
-
-Evidence from online platforms suggests that streak counters can influence behaviour in unexpected ways. When GitHub removed public streak indicators, some streak-oriented activity patterns declined, indicating that users had been altering behaviour to maintain visible streaks rather than purely for productive reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
-The lesson is not that streaks are harmful. It is that people adapt to whatever is measured. If the metric becomes more important than the outcome, behaviour can drift away from the original goal.
-
-## Better reward designs for real life
-
-The strongest behaviour-change systems recognise that consistency matters more than perfection.
-
-A useful reward structure should encourage people to come back after interruptions rather than punish them for being human. Several design approaches appear more resilient than strict all-or-nothing streaks.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1fNDnfJxAFE" title="You’re Using Streaks Wrong – Here’s What Actually Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1fNDnfJxAFE" target="_blank" rel="noopener noreferrer">You’re Using Streaks Wrong – Here’s What Actually Works</a></p><p class="youtube-embed-meta">Channel: Professor Game &middot; Views: 14 &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1fNDnfJxAFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1fNDnfJxAFE">Open on YouTube</a></p></div></div></div>
-
-### Reward recovery, not perfection
-
-A system can celebrate returning after a missed day rather than treating the interruption as catastrophic.
-
-Instead of asking, “Did you maintain an unbroken chain?”, a better question is, “How quickly did you resume?”
-
-This shifts attention from failure to recovery, which is often a more important skill for long-term self-improvement.
-
-### Use completion rates alongside streaks
-
-A person who exercises on 27 of the last 30 days is doing extremely well, regardless of whether those days were consecutive.
-
-Percentage-based tracking captures consistency without making a single missed day erase visible progress. Several designers and behaviour-change researchers have proposed adherence rates, heat maps and rolling averages as alternatives that preserve motivation while reducing all-or-nothing thinking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: professorgame.com">[Professor Game]</a><span class="citation-popover" role="note"><span class="citation-popover-source">professorgame.com</span><span class="citation-popover-snippet">Professor GameWhy streaks backfire and what works &#124; Ep 42314 Dec 2025 — Examining why streak mechanics (borrowed from Duolingo and medita...</span></span></span>
-
-
-<img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-3-dark.svg" | relative_url }}" alt="Streaks illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-### Build in grace periods
-
-Many successful systems now include mechanisms that acknowledge unavoidable interruptions.
-
-Features such as “streak freezes” recognise that missing one day does not erase the habit that has already been established. Duolingo's implementation is a well-known example of this approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.duolingo.com">[Duolingo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.duolingo.com</span><span class="citation-popover-title">how duolingo streak builds habit</span><span class="citation-popover-snippet">Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Duolingo streak was designed with habit-building in...</span></span></span>
-
-The underlying behavioural insight is simple: habits are patterns, not perfect records.
-
-### Reward meaningful actions
-
-Rewards work best when they reinforce the target behaviour rather than mere app engagement.
-
-A reading app might reward books completed rather than consecutive log-ins. A fitness app might highlight improvements in strength, endurance or training volume rather than only counting days.
-
-Research on motivation suggests that gamification is most effective when it supports feelings of competence, autonomy and genuine progress instead of relying solely on external rewards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</span></span></span> 2arXiv
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FJWc4j9FnpE" title="Why Is Gamification So Effective For Changing Behavior? - Strange Science HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FJWc4j9FnpE" target="_blank" rel="noopener noreferrer">Why Is Gamification So Effective For Changing Behavior? - Strange Science HQ</a></p><p class="youtube-embed-meta">Channel: Strange Science HQ &middot; Views: 6 &middot; Uploaded: October 2025 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FJWc4j9FnpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FJWc4j9FnpE">Open on YouTube</a></p></div></div></div>
-
-### Make the minimum action tiny
-
-One practical way to reduce streak fragility is to define success very broadly.
-
-A daily writing habit might require one sentence rather than five hundred words. A reading habit might require one page. A fitness habit might require five minutes of movement.
-
-When the threshold is small, interruptions become less likely and recovery becomes easier. This preserves the behavioural identity without creating excessive pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://habit-streak.com/en/blog/habit-tracking/why-streaks-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: habit-streak.com">[Habit Streak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">habit-streak.com</span><span class="citation-popover-title">why streaks work</span><span class="citation-popover-snippet">Phillippa Lally&#x27;s research found that missing a single day had no measurable effect on habit formation.Read more...</span></span></span>
-
-## The most useful question to ask of any streak
-
-The value of a streak is not whether it produces a large number. The value is whether it helps a person continue a behaviour months later.
-
-A good reward system makes progress visible, celebrates effort and provides momentum. A poor reward system convinces people that one missed day wipes out months of success.
-
-For self-improvement that works, the most robust design is usually not the one that demands perfection. It is the one that makes restarting feel normal. Streaks can be powerful motivational tools, but they are most effective when they measure persistence without turning ordinary interruptions into reasons to quit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8037535/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of Gamification on Behavioral Change in Educationby J Kim · 2021 · Cited by 333 — The following gamification elements were examined withi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/gb/blog/ulterior-motives/202306/how-broken-streaks-sap-motivation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">how broken streaks sap motivation</span><span class="citation-popover-snippet">Psychology TodayHow Broken Streaks Sap Motivation12 Jun 2023 — Keeping up a streak can be motivating above and beyond the task itself. Br...</span></span></span>
 
 ## Endnotes
 

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /environment/
 nav_short_title: Phone Place
 title: Should your phone sleep outside the bedroom?
-title_full: Should your phone sleep outside the bedroom? | Environment
+title_full: Should your phone sleep outside the bedroom?
 display_title_short: Phone Place
 display_title: Phone Place
 heading_title: Should your phone sleep outside the bedroom?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:18:17'
-parent_title: Why Your Room May Matter More Than Willpower | Better Change
+parent_title: Why Your Room May Matter More Than Willpower
 parent_permalink: /environment/
 parent_nav_short_title: Environment
 parent_heading_title: Why Your Room May Matter More Than Willpower
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_environment_design_133edb_phon
 
 If the goal is better sleep and deeper focus, one of the most effective changes is often not an app, a productivity system or a stronger commitment to self-control. It is moving the phone.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_phone_placement_slee_9e8ca6-Illustration-1-dark.svg" | relative_url }}" alt="Phone Place illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_phone_placement_slee_9e8ca6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_phone_placement_slee_9e8ca6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Phone placement matters because smartphones are not neutral objects. They combine communication, entertainment, novelty, social rewards and alerts in a single device that is usually within arm’s reach. When the phone is close, checking it becomes easy and often automatic. When it is physically separated from the places where you sleep or concentrate, the [behaviour changes]({{ 'behaviour-change/' | relative_url }}) because the [environment]({{ 'environment/' | relative_url }}) changes. Research on smartphone presence, attention and sleep suggests that distance can reduce both bedtime scrolling and distraction during focused work. UT Austin News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-36256-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The mere presence of a smartphone reduces basal...by J Skowronek · 2023 · Cited by 112 — The mere presence of a smartphone results in lo...</span></span></span> Within an environment-design approach to self-improvement, phone placement is a simple example of making the desired behaviour easier and the unwanted behaviour harder.
 
@@ -300,7 +299,6 @@ This does not mean every study finds identical effects. Some researchers have re
 
 The most effective phone-placement systems usually rely on physical separation rather than self-control.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rRyrge3HXeI" title="How Light Impacts Your Sleep, Recovery, and Health" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rRyrge3HXeI" target="_blank" rel="noopener noreferrer">How Light Impacts Your Sleep, Recovery, and Health</a></p><p class="youtube-embed-meta">Channel: The Ready State &middot; Views: 562 &middot; Uploaded: March 2026 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rRyrge3HXeI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rRyrge3HXeI">Open on YouTube</a></p></div></div></div>
 
 ### The charging station approach
@@ -317,7 +315,6 @@ Some people treat the bedroom as a sleep-only environment.
 
 In this arrangement:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Phones do not enter the bedroom after a chosen evening time.
@@ -329,14 +326,12 @@ In this arrangement:
 
 This approach aligns with broader sleep-hygiene recommendations that encourage limiting electronic devices in the bedroom and reducing light-emitting screens before sleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/bedroom-environment/blue-light" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-title">blue light</span><span class="citation-popover-snippet">The most effective way to reduce exposure to blue light in the evening is to simply turn off the sources.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleep.me/post/phone-scrolling-before-bed-and-sleep?srsltid=AfmBOooE9d-d2vhcwTUiCf_8_x0WMX-YrpHUMUE1_vbnFt9legCNERCq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleep.me">[Sleep]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleep.me</span><span class="citation-popover-title">phone scrolling before bed and sleep</span><span class="citation-popover-snippet">Scrolling in Bed Ruins Sleep Quality &amp; How to Stop It12 Jan 2026 — Late night phone scrolling delays sleep, raises stress &amp; cuts into dee...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_phone_placement_slee_9e8ca6-Illustration-2-dark.svg" | relative_url }}" alt="Phone Place illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_phone_placement_slee_9e8ca6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_phone_placement_slee_9e8ca6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Lockboxes and timed barriers
 
 For people who repeatedly override their own intentions, physical barriers can help.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -355,7 +350,6 @@ The same logic applies outside the bedroom.
 
 During deep work, study sessions or reading periods, many people benefit from placing the phone:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * In another room.
@@ -366,7 +360,6 @@ During deep work, study sessions or reading periods, many people benefit from pl
 </div>
 
 Research on smartphone presence suggests that moving the device entirely out of sight and reach may be more effective than simply turning it face down. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.utexas.edu">[UT Austin News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.utexas.edu</span><span class="citation-popover-title">the mere presence of your smartphone reduces brain power</span><span class="citation-popover-snippet">UT Austin NewsThe Mere Presence of Your Smartphone Reduces Brain...26 Jun 2017 — The findings suggest that the mere presence of one&#x27;s sm...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.journals.uchicago.edu/doi/full/10.1086/691462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.uchicago.edu">[Chicago Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.uchicago.edu</span><span class="citation-popover-snippet">Chicago JournalsBrain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF Ward · 2017 · Cited by 1416 — In two experiments, we test...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EurFYCWm0wg" title="How do you make your habits stick? Environmental Design &amp; Implementation Intention - James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EurFYCWm0wg" target="_blank" rel="noopener noreferrer">How do you make your habits stick? Environmental Design &amp; Implementation Intention - James Clear</a></p><p class="youtube-embed-meta">Channel: GoodVibesAreHereToStay &middot; Views: 403 &middot; Uploaded: February 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EurFYCWm0wg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EurFYCWm0wg">Open on YouTube</a></p></div></div></div>
 
@@ -379,7 +372,6 @@ In many cases, this is a convenience issue rather than a necessity.
 A dedicated alarm clock creates a clean separation between waking up and accessing digital content. Because there are no messages, feeds or notifications attached to the alarm, the morning starts with less distraction.
 
 If replacing the phone alarm is not practical, there are still useful alternatives:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -395,7 +387,6 @@ These arrangements are not as strong as removing the phone entirely, but they in
 
 The morning effect may be particularly important. Many people reach for their phone within minutes of waking, turning the first moments of the day into a stream of notifications, news and social media. Sleep specialists and behavioural researchers increasingly recommend keeping phones outside the bedroom to protect both sleep transitions and attentional stability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomsguide.com/wellness/sleep/stop-doing-this-one-thing-the-second-you-wake-up-to-end-morning-grogginess-for-good-say-experts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomsguide.com">[Tom&#x27;s Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomsguide.com</span><span class="citation-popover-snippet">Nearly half of Americans check their phones within 10 minutes of waking, a habit that spikes and then crashes dopamine, increases stress...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_phone_placement_slee_9e8ca6-Illustration-3-dark.svg" | relative_url }}" alt="Phone Place illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_phone_placement_slee_9e8ca6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_phone_placement_slee_9e8ca6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The goal is distance, not perfection
 
@@ -407,9 +398,7 @@ If the device sleeps beside your pillow, it becomes the default response to bore
 
 That is the central lesson of environment design: behaviour often changes not because people become stronger, but because the cues around them become weaker. A few metres of distance can sometimes achieve what months of self-discipline struggles do not. UT Austin News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-36256-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The mere presence of a smartphone reduces basal...by J Skowronek · 2023 · Cited by 112 — The mere presence of a smartphone results in lo...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b2dgsYJUFiM" title="I Quit My Phone Addiction in 20 Seconds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b2dgsYJUFiM" target="_blank" rel="noopener noreferrer">I Quit My Phone Addiction in 20 Seconds</a></p><p class="youtube-embed-meta">Channel: Wisdom &middot; Views: 78 &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b2dgsYJUFiM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b2dgsYJUFiM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -528,11 +517,43 @@ That is the central lesson of environment design: behaviour often changes not be
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mobile Phone Lock Box Portable Phone Lock Box with Timer Lightweight Box"><img src="https://i.ebayimg.com/images/g/CAkAAOSwImdn-f1H/s-l225.jpg" alt="Listing image for Mobile Phone Lock Box Portable Phone Lock Box with Timer Lightweight Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Phone Lock Box Timer Bag Portable Mobile Phone Safe Locking Case Lockbox"><img src="https://i.ebayimg.com/images/g/ZTIAAeSwhLRp~xz3/s-l225.jpg" alt="Listing image for Smart Phone Lock Box Timer Bag Portable Mobile Phone Safe Locking Case Lockbox" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Mobile Phone Lock Box Portable Phone Lock Box with Timer Lightweight Box</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Smart Phone Lock Box Timer Bag Portable Mobile Phone Safe Locking Case Lockbox</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Safe Timed Lock Box, Phone Lock Box with Timer Unplug from Phones, Standard Self"><img src="https://i.ebayimg.com/images/g/ykEAAeSwO6Vp8l39/s-l225.jpg" alt="Listing image for Safe Timed Lock Box, Phone Lock Box with Timer Unplug from Phones, Standard Self" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Safe Timed Lock Box, Phone Lock Box with Timer Unplug from Phones, Standard Self</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phone Lock Box with Timer Phone Jail | Phone Jail | -Purpose Lock Box Kitchen St"><img src="https://i.ebayimg.com/images/g/XNsAAeSw2HBqHemQ/s-l225.jpg" alt="Listing image for Phone Lock Box with Timer Phone Jail | Phone Jail | -Purpose Lock Box Kitchen St" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Phone Lock Box with Timer Phone Jail | Phone Jail | -Purpose Lock Box Kitchen St</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
@@ -549,38 +570,6 @@ That is the central lesson of environment design: behaviour often changes not be
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Smart Phone Lock Box Timer Bag Portable Mobile Phone Safe Locking Case Lockbox</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LookAway Portable Phone Lock Box, a device designed to help reduce screen time a"><img src="https://i.ebayimg.com/images/g/zDEAAeSwcE5p45Xe/s-l225.jpg" alt="Listing image for LookAway Portable Phone Lock Box, a device designed to help reduce screen time a" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">LookAway Portable Phone Lock Box, a device designed to help reduce screen time a</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mobile Phone Jail Cell Prison Lock Up Limit Kids Screen Family Dinner Time Box"><img src="https://i.ebayimg.com/images/g/LGwAAOSwFvVnJPJY/s-l225.jpg" alt="Listing image for Mobile Phone Jail Cell Prison Lock Up Limit Kids Screen Family Dinner Time Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Mobile Phone Jail Cell Prison Lock Up Limit Kids Screen Family Dinner Time Box</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-phone-sleep-outside-the-bedroom-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="should-your-phone-sleep-outside-the-bedroom-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
@@ -802,6 +791,7 @@ That is the central lesson of environment design: behaviour often changes not be
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

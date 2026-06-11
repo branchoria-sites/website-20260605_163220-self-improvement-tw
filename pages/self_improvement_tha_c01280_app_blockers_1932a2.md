@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: App Blockers
 title: Do App Blockers Actually Help?
-title_full: Do App Blockers Actually Help? | Better Change
+title_full: Do App Blockers Actually Help?
 display_title_short: App Blockers
 display_title: App Blockers
 heading_title: Do App Blockers Actually Help?
@@ -504,7 +504,6 @@ image: /assets/images/self_improvement_tha_c01280_app_blockers_1932a2-overview-s
 
 App [blockers]({{ 'blockers/' | relative_url }}) help when they turn a vague intention — “I should stop checking this” — into a boundary that is already in place when attention is weakest. They are not magic discipline apps, and they do not solve every cause of overuse. Their practical value is narrower and more useful: they add friction at the exact moment when a distracting app, site or feed would otherwise be opened automatically.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-overview.webp" | relative_url }}" alt="Overview image for App Blockers" loading="eager" decoding="sync" fetchpriority="high">
 The evidence is strongest for app blockers as part of behaviour design, not as a moral cure for distraction. Studies of digital self-control tools suggest that blocking, delays, scheduling and usage [feedback]({{ 'feedback/' | relative_url }}) can reduce unwanted use, especially when the person has chosen the target apps and the block fits a real routine. The main risk is either too little friction, which is easy to ignore, or too much prohibition, which feels punitive and gets abandoned. The best version is a planned, adjustable barrier that protects a specific time, place or activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — The intervention effect of the app is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
 
@@ -517,7 +516,6 @@ This is why “digital friction” is often more realistic than pure prohibition
 A clear example comes from research on the “one sec” app, a self-nudge tool that inserts a short delay before selected apps open. In a large field study, the app reduced actual openings of target apps by 57% after six consecutive weeks. The intervention combined delay, a breathing cue and a prompt to reconsider the intended app use, so the effect should not be attributed to delay alone; still, it shows the practical power of interrupting the first tap rather than relying on later regret. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — The intervention effect of the app is...</span></span></span>
 
 The same logic appears in broader reviews of digital self-control tools. Researchers have found that these tools use several mechanisms: blocking access, setting goals, showing usage data, adding [reminders]({{ 'reminders/' | relative_url }}), rewarding restraint, or making distraction socially visible. The evidence base is still uneven, but interventions that change the action [environment]({{ 'environment/' | relative_url }}) tend to be more promising than tools that merely increase awareness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryDigital self‐control interventions for distracting media...13 Aug 2021 — These interventions use different approache...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-Illustration-1-dark.svg" | relative_url }}" alt="App Blockers illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Friction versus prohibition
@@ -532,7 +530,6 @@ Apple and Google’s built-in tools illustrate the tradeoff. Apple’s Screen Ti
 
 A practical way to choose the level of friction is to match it to the failure pattern:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Autopilot opening:** use a short delay, breathing prompt or app-opening confirmation.
@@ -544,8 +541,7 @@ A practical way to choose the level of friction is to match it to the failure pa
 
 </div>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v5Zc8cwr1Pw" title="The Most Powerful App To Block Digital Distractions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v5Zc8cwr1Pw" target="_blank" rel="noopener noreferrer">The Most Powerful App To Block Digital Distractions</a></p><p class="youtube-embed-meta">Channel: Irfan Bhanji &middot; Views: 4.9K &middot; Uploaded: March 2025 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v5Zc8cwr1Pw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v5Zc8cwr1Pw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HWYOC7zwvgs" title="Password Locker with Max Gazeroglu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HWYOC7zwvgs" target="_blank" rel="noopener noreferrer">Password Locker with Max Gazeroglu</a></p><p class="youtube-embed-meta">Channel: Jose Briones - Dumbphone Reviews &middot; Views: 85 &middot; Uploaded: January 2025 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HWYOC7zwvgs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HWYOC7zwvgs">Open on YouTube</a></p></div></div></div>
 
 ## Scheduling blocks
 
@@ -569,7 +565,6 @@ For implementation, the strongest schedules tend to be concrete:
 
 **Keep an escape route for genuine needs.** Blocks should not prevent emergency calls, essential maps, banking, travel tickets or two-factor authentication. Overly broad blocks train people to disable the system.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-Illustration-2-dark.svg" | relative_url }}" alt="App Blockers illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence can and cannot promise
 
@@ -583,15 +578,13 @@ That makes the practical lesson more modest than “delete the internet”. The 
 
 There is also evidence that soft commitment devices can reduce use. In an experimental study of 629 participants, people tended to spend more time on phones and social media than they predicted or wanted, and those who adopted limits significantly reduced phone and Facebook use. This fits a common lived experience: the problem is not always ignorance. Many people already know what they want; they need a system that makes the chosen limit easier to keep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HWYOC7zwvgs" title="Password Locker with Max Gazeroglu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HWYOC7zwvgs" target="_blank" rel="noopener noreferrer">Password Locker with Max Gazeroglu</a></p><p class="youtube-embed-meta">Channel: Jose Briones - Dumbphone Reviews &middot; Views: 85 &middot; Uploaded: January 2025 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HWYOC7zwvgs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HWYOC7zwvgs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1We3iNJoTVY" title="A Health Coach’s Guide to Managing Client Screen Time &amp; Mental Wellbeing | HCA Talks Health" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1We3iNJoTVY" target="_blank" rel="noopener noreferrer">A Health Coach’s Guide to Managing Client Screen Time &amp; Mental Wellbeing | HCA Talks Health</a></p><p class="youtube-embed-meta">Channel: Health Coaches Academy &middot; Views: 69 &middot; Uploaded: April 2026 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1We3iNJoTVY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1We3iNJoTVY">Open on YouTube</a></p></div></div></div>
 
 ## What to do after bypassing
 
 Bypassing a blocker is not proof that the method has failed. It is diagnostic information. The important question is not “Why am I so weak?” but “What did the bypass teach me about the system?”
 
 There are several common bypass patterns, and each points to a different fix:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -608,14 +601,12 @@ A useful rule is to revise the blocker once, not repeatedly, in the moment. If t
 
 The most robust systems also distinguish between a lapse and an exception. A lapse is an unplanned bypass that weakens the rule. An exception is planned in advance: “I can use YouTube for a recipe while cooking”, “I can use Instagram for posting my business update between 4.00 and 4.15”, or “I can unblock maps while travelling.” Clear exceptions reduce the temptation to treat every urge as a special case.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-Illustration-3-dark.svg" | relative_url }}" alt="App Blockers illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical setup that usually works better than a blanket ban
 
 The most effective app-blocking setup is usually layered. It does not rely on one heroic setting. It combines light friction for ordinary moments, stronger blocks for danger zones, and a recovery plan for bypasses.
 
 Start with a one-week experiment:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -632,9 +623,7 @@ This approach fits the broader evidence on [behaviour change]({{ 'behaviour-chan
 
 The best test is behavioural, not aesthetic. A blocker is helping if the desired action becomes more likely on a tired day: the essay opens before the feed, sleep begins before the next video, the walk happens before the news spiral, and breaks become deliberate rather than hijacked. When digital friction produces that shift, it is not a gimmick. It is a small piece of environment design doing exactly what self improvement needs it to do.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1We3iNJoTVY" title="A Health Coach’s Guide to Managing Client Screen Time &amp; Mental Wellbeing | HCA Talks Health" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1We3iNJoTVY" target="_blank" rel="noopener noreferrer">A Health Coach’s Guide to Managing Client Screen Time &amp; Mental Wellbeing | HCA Talks Health</a></p><p class="youtube-embed-meta">Channel: Health Coaches Academy &middot; Views: 69 &middot; Uploaded: April 2026 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1We3iNJoTVY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1We3iNJoTVY">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v5Zc8cwr1Pw" title="The Most Powerful App To Block Digital Distractions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v5Zc8cwr1Pw" target="_blank" rel="noopener noreferrer">The Most Powerful App To Block Digital Distractions</a></p><p class="youtube-embed-meta">Channel: Irfan Bhanji &middot; Views: 4.9K &middot; Uploaded: March 2025 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v5Zc8cwr1Pw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v5Zc8cwr1Pw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1299,4 +1288,4 @@ The best test is behavioural, not aesthetic. A blocker is helping if the desired
 
 56. <a id="endnote-56"></a>
    Source: freedom.to  
-   Link: <a href="https://freedom.to/" target="_blank" rel="noopener noreferrer nofollow">https://freedom.to/</a>  
+   Link: <a href="https://freedom.to/" target="_blank" rel="noopener noreferrer nofollow">https://freedom.to/</a>

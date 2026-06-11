@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /action-plans/
 nav_short_title: Coping Plans
 title: Action Plan or Coping Plan?
-title_full: Action Plan or Coping Plan? | Action Plans
+title_full: Action Plan or Coping Plan?
 display_title_short: Coping Plans
 display_title: Coping Plans
 heading_title: Action Plan or Coping Plan?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:15:47'
-parent_title: The Plan That Still Works When You Are Tired | Better Change
+parent_title: The Plan That Still Works When You Are Tired
 parent_permalink: /action-plans/
 parent_nav_short_title: Action Plans
 parent_heading_title: The Plan That Still Works When You Are Tired
@@ -270,14 +270,12 @@ image: /assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_ac
 
 When people talk about habit change, they often focus on [action plans]({{ 'action-plans/' | relative_url }}): the decisions that specify what behaviour will happen, when it will happen and where it will happen. Action plans are important, but they solve only half of the problem. The other half is coping planning: deciding in advance what to do when the predictable obstacle arrives. In behaviour-change research, action planning starts behaviour, while coping planning helps behaviour survive disruption. The distinction matters most on busy, tired days, because habits rarely fail in ideal conditions. They fail when work runs late, [motivation]({{ 'motivation/' | relative_url }}) drops, the weather changes, a child gets sick or a routine is interrupted. Evidence from health-behaviour and rehabilitation research suggests that combining both forms of planning is often more effective than relying on action planning alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBehaviour change techniques that constitute effective</span><span class="citation-popover-snippet">by H Lin · 2022 · Cited by 44 — Action planning is a brief and effective behaviour change technique (BCT) to improve physical activity...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abdn.elsevierpure.com">[2abdn.elsevierpure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abdn.elsevierpure.com</span><span class="citation-popover-title">action planning and coping planning for long term lifestyle chang</span><span class="citation-popover-snippet">It bridges the gap between behavioural intentions and health behaviour To...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_action_vs_coping_pla_98f4bd-Illustration-1-dark.svg" | relative_url }}" alt="Coping Plans illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_action_vs_coping_pla_98f4bd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_action_vs_coping_pla_98f4bd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The difference between doing and recovering
 
 Action planning answers the question: **“What will I do?”**
 
 A typical action plan might be:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -293,7 +291,6 @@ Coping planning answers a different question: **“What will I do if the plan is
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “If it is raining, I will walk inside the shopping centre.”
@@ -303,7 +300,6 @@ Examples include:
 </div>
 
 Rather than specifying the desired behaviour itself, coping plans identify likely barriers and predetermined responses. Researchers describe coping planning as anticipating obstacles and mentally rehearsing how to overcome them. Its purpose is to protect the original action plan from being derailed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBehaviour change techniques that constitute effective</span><span class="citation-popover-snippet">by H Lin · 2022 · Cited by 44 — Action planning is a brief and effective behaviour change technique (BCT) to improve physical activity...</span></span></span> ScienceDirect A useful way to think about the distinction is that action plans create a route <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/coping-planning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Coping Planning</span><span class="citation-popover-snippet">Coping Planning - an overviewCoping planning (CP) involves identifying how one will cope with potential barriers or obstacles that could...</span></span></span>, while coping plans create detours. The route gets you moving. The detours stop a temporary blockage from becoming [abandonment]({{ 'abandonment/' | relative_url }}).
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aTJ-yUl2TdE" title="hapa2014" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aTJ-yUl2TdE" target="_blank" rel="noopener noreferrer">hapa2014</a></p><p class="youtube-embed-meta">Channel: Ralf Schwarzer &middot; Views: 21.8K &middot; Uploaded: October 2014 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aTJ-yUl2TdE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aTJ-yUl2TdE">Open on YouTube</a></p></div></div></div>
 
@@ -334,7 +330,6 @@ In practical terms:
 
 This does not mean coping plans should be delayed. Rather, rehabilitation research suggests that action and coping planning work best as complementary tools rather than competing alternatives. The initial plan creates momentum; the coping plan protects that momentum when reality intervenes. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.1348%2F135910705x43804" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamonitor.ireland.openaire.eu">[OA Monitor Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamonitor.ireland.openaire.eu</span><span class="citation-popover-snippet">OA Monitor IrelandAction plans and coping plans for physical exerciseObjectives The aim of the present study was to test two brief planni...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_action_vs_coping_pla_98f4bd-Illustration-2-dark.svg" | relative_url }}" alt="Coping Plans illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_action_vs_coping_pla_98f4bd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_action_vs_coping_pla_98f4bd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What broader evidence says about effectiveness
 
@@ -345,7 +340,6 @@ Meta-analyses and systematic reviews of planning interventions for physical acti
 Reviews focused specifically on coping planning conclude that anticipating barriers can [support]({{ 'support/' | relative_url }}) health-related behaviour change, although the size of the effect differs across studies and contexts. Researchers note that coping plans appear most useful when they target realistic, personally relevant obstacles rather than generic problems. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBehaviour change techniques that constitute effective</span><span class="citation-popover-snippet">by H Lin · 2022 · Cited by 44 — Action planning is a brief and effective behaviour change technique (BCT) to improve physical activity...</span></span></span>
 
 Another consistent finding is that planning quality matters. A vague coping plan such as “I will try harder if I get busy” is far less useful than a concrete response linked to a specific barrier. Likewise, a vague action plan such as “exercise more” provides little guidance when fatigue or competing demands appear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBehaviour change techniques that constitute effective</span><span class="citation-popover-snippet">by H Lin · 2022 · Cited by 44 — Action planning is a brief and effective behaviour change technique (BCT) to improve physical activity...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBehaviour change techniques that constitute effective</span><span class="citation-popover-snippet">by H Lin · 2022 · Cited by 44 — Action planning is a brief and effective behaviour change technique (BCT) to improve physical activity...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_action_vs_coping_pla_98f4bd-Illustration-3-dark.svg" | relative_url }}" alt="Coping Plans illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_action_vs_coping_pla_98f4bd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_action_vs_coping_pla_98f4bd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to pair both plans in daily life
@@ -364,7 +358,6 @@ Notice that the coping plan does not replace the habit. It preserves it by offer
 
 The most effective coping plans usually share three characteristics:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **They address a specific obstacle rather than a vague possibility.**
@@ -374,7 +367,6 @@ The most effective coping plans usually share three characteristics:
 </div>
 
 For example, “If I miss my workout, I will do ten press-ups before bed” maintains continuity better than “I will get back on track tomorrow”.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zYKmRCQQjsk" title="How to achieve your goals with the WOOP Method" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zYKmRCQQjsk" target="_blank" rel="noopener noreferrer">How to achieve your goals with the WOOP Method</a></p><p class="youtube-embed-meta">Channel: Hearts and Bones Pilates &middot; Views: 547 &middot; Uploaded: March 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zYKmRCQQjsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zYKmRCQQjsk">Open on YouTube</a></p></div></div></div>
 
@@ -388,9 +380,7 @@ If a person already knows what to do but repeatedly abandons the behaviour after
 
 For most habits, especially those pursued during demanding periods of life, the strongest approach is to combine the two. The action plan defines the intended behaviour. The coping plan defines the recovery path when that behaviour encounters resistance. Together they transform habit change from a one-route journey into a system that can survive detours. Research across health behaviour, physical activity and rehabilitation consistently suggests that this combination is more realistic than expecting motivation alone to carry behaviour through every disruption. KOPS <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBehaviour change techniques that constitute effective</span><span class="citation-popover-snippet">by H Lin · 2022 · Cited by 44 — Action planning is a brief and effective behaviour change technique (BCT) to improve physical activity...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abdn.elsevierpure.com">[3abdn.elsevierpure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abdn.elsevierpure.com</span><span class="citation-popover-title">action planning and coping planning for long term lifestyle chang</span><span class="citation-popover-snippet">It bridges the gap between behavioural intentions and health behaviour To...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IKNNKi0I6bs" title="Coping Skill Series: Planning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IKNNKi0I6bs" target="_blank" rel="noopener noreferrer">Coping Skill Series: Planning</a></p><p class="youtube-embed-meta">Channel: Imagine Life Therapy &middot; Views: 91 &middot; Uploaded: August 2020 &middot; Length: 3 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IKNNKi0I6bs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IKNNKi0I6bs">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zbI30ZHMHeM" title="How to Get Motivated With Implementation Intentions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zbI30ZHMHeM" target="_blank" rel="noopener noreferrer">How to Get Motivated With Implementation Intentions</a></p><p class="youtube-embed-meta">Channel: TheMotivationMindset &middot; Views: 2.4K &middot; Uploaded: April 2017 &middot; Length: 4 minutes 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zbI30ZHMHeM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zbI30ZHMHeM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

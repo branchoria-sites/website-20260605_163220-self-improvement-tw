@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /techniques/
 nav_short_title: Restructure
 title: Can changing the setup beat temptation?
-title_full: Can changing the setup beat temptation? | Techniques
+title_full: Can changing the setup beat temptation?
 display_title_short: Restructure
 display_title: Restructure
 heading_title: Can changing the setup beat temptation?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:14:28'
-parent_title: What Are the Active Ingredients of Change? | Better Change
+parent_title: What Are the Active Ingredients of Change?
 parent_permalink: /techniques/
 parent_nav_short_title: Techniques
 parent_heading_title: What Are the Active Ingredients of Change?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_en
 
 Can changing the setup beat temptation? In many cases, yes. Environmental restructuring is a [behaviour change]({{ 'behaviour-change/' | relative_url }}) technique that works by altering the physical [environment]({{ 'environment/' | relative_url }}) so that the desired action becomes easier, more obvious or more convenient, while the tempting action becomes harder, slower or less automatic. Rather than relying on willpower in the moment, it changes the conditions under which decisions are made. In the Behaviour Change Technique Taxonomy, this is captured through techniques such as restructuring the physical environment and reducing exposure to cues that trigger unwanted behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[openaccess.city.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-title">Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1</span><span class="citation-popover-snippet">Michie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Taxonomy (v1) of 93 hie...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_environmental_restru_8b89cc-Illustration-1-dark.svg" | relative_url }}" alt="Restructure illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_environmental_restru_8b89cc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_environmental_restru_8b89cc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key insight is simple: temptation is not only a problem inside the person. It is also a property of the environment. What is visible, nearby, pre-selected and easy tends to happen more often than what is hidden, distant or inconvenient. Environmental restructuring works by shifting those odds before [motivation]({{ 'motivation/' | relative_url }}) has to fight a battle. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">Choice Architecture by Richard H</span><span class="citation-popover-snippet">Thaler, Cass...by RH Thaler · 2010 · Cited by 1311 — In this paper we analyze some of the tools that are available to choice architects...</span></span></span>
 
@@ -288,7 +287,6 @@ Researchers studying behaviour change and habit formation repeatedly point to th
 
 Three mechanisms matter most:
 
-
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
 * **Cues:** signals that remind or prompt a behaviour.
@@ -299,7 +297,6 @@ Three mechanisms matter most:
 
 A tempting behaviour that is visible, immediately available and effortless has a major advantage. Environmental restructuring removes that advantage or gives it to the behaviour you actually want. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_environmental_restru_8b89cc-Illustration-3-dark.svg" | relative_url }}" alt="Restructure illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_environmental_restru_8b89cc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_environmental_restru_8b89cc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Make wanted behaviours easier to start
 
@@ -308,7 +305,6 @@ One of the most reliable uses of environmental restructuring is reducing the eff
 Behaviour scientist BJ Fogg argues that ability and ease are often more important than trying to increase motivation. When a desired action becomes easier, it requires less motivation to occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://boldist.co/marketing-strategy/fogg-behavior-model/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boldist.co">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boldist.co</span><span class="citation-popover-snippet">Using the Fogg Behavior Model to Create Change and Clicks14 Aug 2023 — The Fogg Behavior Model shows how to instigate desired action—an e...</span></span></span>
 
 Consider a few everyday examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,7 +317,6 @@ Consider a few everyday examples:
 </div>
 
 These changes may seem trivial, but they alter the first few seconds of action. Starting is often the point where intentions fail. By making the first step easier, environmental restructuring lowers the activation energy required for behaviour. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanohabits.com/learn/designing-environment-for-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanohabits.com">[nanohabits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanohabits.com</span><span class="citation-popover-snippet">Designing an Environment Where Good Habits HappenBehavior is shaped by what is visible, close, and easy. Learn how small enviro...</span></span></span> This explains why many successful habits depend less on motivation than on preparation. A person who has already arranged the environment does not need to make as many decisions when the moment arrives.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uGWELW82Eoc" title="How Your Environment Quietly Controls Your Habits | James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uGWELW82Eoc" target="_blank" rel="noopener noreferrer">How Your Environment Quietly Controls Your Habits | James Clear</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 19.8K &middot; Uploaded: December 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uGWELW82Eoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uGWELW82Eoc">Open on YouTube</a></p></div></div></div>
 
@@ -341,7 +336,6 @@ The principle is straightforward: every extra step creates friction.
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Moving snacks out of immediate reach.
@@ -356,7 +350,6 @@ None of these changes makes the behaviour impossible. Instead, they interrupt au
 
 Research on habit formation and behavioural friction suggests that even small increases in effort can meaningfully reduce undesirable behaviours because many habits operate on the path of least resistance. When the unwanted option becomes less convenient, people often choose differently without requiring stronger self-control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">2015) propose introducing behavioral friction to existing contexts that make it harder for people to follow their unhealthy habits.Read...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_environmental_restru_8b89cc-Illustration-2-dark.svg" | relative_url }}" alt="Restructure illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_environmental_restru_8b89cc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_environmental_restru_8b89cc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The route matters as much as the destination
 
@@ -366,8 +359,7 @@ Someone trying to avoid impulse purchases may stop browsing shopping sites durin
 
 In each case, the environment is redesigned so temptation appears less often in the first place. Prevention can be easier than resistance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nanohabits.com/learn/designing-environment-for-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nanohabits.com">[Nanohabits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nanohabits.com</span><span class="citation-popover-snippet">Designing an Environment Where Good Habits HappenBehavior is shaped by what is visible, close, and easy. Learn how small enviro...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h35hy4LcVFw" title="Behavioral scientist BJ Fogg on building lasting habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer">Behavioral scientist BJ Fogg on building lasting habits</a></p><p class="youtube-embed-meta">Channel: Stanford &middot; Views: 14.9K &middot; Uploaded: January 2024 &middot; Length: 2 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h35hy4LcVFw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TJXUkSPNihc" title="BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer">BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)</a></p><p class="youtube-embed-meta">Channel: UCL Centre for Behaviour Change &middot; Views: 6.9K &middot; Uploaded: September 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TJXUkSPNihc">Open on YouTube</a></p></div></div></div>
 
 ## Use friction without making life miserable
 
@@ -385,8 +377,7 @@ The best environmental changes are usually modest. If friction becomes excessive
 
 The aim is a gentle tilt rather than a prison.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TJXUkSPNihc" title="BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer">BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)</a></p><p class="youtube-embed-meta">Channel: UCL Centre for Behaviour Change &middot; Views: 6.9K &middot; Uploaded: September 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TJXUkSPNihc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h35hy4LcVFw" title="Behavioral scientist BJ Fogg on building lasting habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer">Behavioral scientist BJ Fogg on building lasting habits</a></p><p class="youtube-embed-meta">Channel: Stanford &middot; Views: 14.9K &middot; Uploaded: January 2024 &middot; Length: 2 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h35hy4LcVFw">Open on YouTube</a></p></div></div></div>
 
 ## Why this often beats willpower
 

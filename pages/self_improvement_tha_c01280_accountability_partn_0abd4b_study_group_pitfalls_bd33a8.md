@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /accountability/
 nav_short_title: A Study Group
 title: When study groups stop being useful
-title_full: When study groups stop being useful | Accountability
+title_full: When study groups stop being useful
 display_title_short: A Study Group
 display_title: A Study Group
 heading_title: When study groups stop being useful
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 16:04:44'
-parent_title: What Makes an Accountability Partner Useful? | Better Change
+parent_title: What Makes an Accountability Partner Useful?
 parent_permalink: /accountability/
 parent_nav_short_title: Accountability
 parent_heading_title: What Makes an Accountability Partner Useful?
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_st
 
 A study group becomes ineffective when learning is replaced by dependency. The most common failure pattern is not open conflict but a quieter arrangement in which one person prepares the material, explains everything, organises meetings and answers questions while everyone else consumes the benefit. The group may still meet regularly, yet learning quality falls because some members stop preparing and the strongest member spends more time teaching than studying. Research on collaborative learning repeatedly identifies this problem as a form of free-riding or social loafing: people contribute less when responsibility is unclear, effort is difficult to see, or [rewards]({{ 'rewards/' | relative_url }}) are shared regardless of contribution. IRRODL <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/08832320309598613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFree Riding in Group Projects and the Effects of Timing...by CM Brooks · 2003 · Cited by 546 — The free-rider pro...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-1-dark.svg" | relative_url }}" alt="A Study Group illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The solution is usually not to abolish the group. Well-structured peer learning can improve understanding and accountability. The challenge is to redesign the group so that every member arrives with work already done and a visible contribution to make. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cte.tamu.edu/resources/practical-guide-effective-group-work.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cte.tamu.edu">[cte.tamu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cte.tamu.edu</span><span class="citation-popover-snippet">A Practical Guide to Effective Group WorkIndividual Accountability: Each member demonstrates learning and effort. Interaction: Students a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bokcenter.harvard.edu/group-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bokcenter.harvard.edu">[Harvard Bok Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bokcenter.harvard.edu</span><span class="citation-popover-snippet">Harvard Bok CenterGroup Work &#124; The Derek Bok Center for Teaching and LearningThis guide is intended to be short and simply written for st...</span></span></span>
 
@@ -286,7 +285,6 @@ A second problem is that apparent free-riding is not always laziness. Research o
 
 The [warning signs]({{ 'warning-signs/' | relative_url }}) are usually visible before the group collapses:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The same person always explains the reading.
@@ -300,8 +298,7 @@ The [warning signs]({{ 'warning-signs/' | relative_url }}) are usually visible b
 
 When these patterns appear, the group is no longer creating accountability. It is creating dependency.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UZaoZZnJFoU" title="How To Hold a Team Member Accountable (without damaging the relationship) #accountability #teamwork" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UZaoZZnJFoU" target="_blank" rel="noopener noreferrer">How To Hold a Team Member Accountable (without damaging the relationship) #accountability #teamwork</a></p><p class="youtube-embed-meta">Channel: Let&#x27;s Grow Leaders &middot; Views: 1.0K &middot; Uploaded: December 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UZaoZZnJFoU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UZaoZZnJFoU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kj0Sb2GZIEk" title="Social Loafing: The Effort Gap in Teamwork (2-Minute Explainer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kj0Sb2GZIEk" target="_blank" rel="noopener noreferrer">Social Loafing: The Effort Gap in Teamwork (2-Minute Explainer)</a></p><p class="youtube-embed-meta">Channel: The Business Learning Hub &middot; Views: 163 &middot; Uploaded: December 2024 &middot; Length: 2 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kj0Sb2GZIEk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kj0Sb2GZIEk">Open on YouTube</a></p></div></div></div>
 
 ## Preparation Rules That Share the Work
 
@@ -310,7 +307,6 @@ The most effective fix is to move responsibility before the meeting rather than 
 Research and teaching guidance on collaborative learning consistently emphasise individual accountability: every member must have a visible responsibility that cannot be outsourced to the group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cte.tamu.edu/resources/practical-guide-effective-group-work.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cte.tamu.edu">[cte.tamu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cte.tamu.edu</span><span class="citation-popover-snippet">A Practical Guide to Effective Group WorkIndividual Accountability: Each member demonstrates learning and effort. Interaction: Students a...</span></span></span>
 
 A practical structure is to require preparation evidence before each session. For example:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -329,7 +325,6 @@ Groups also benefit from replacing passive review with retrieval practice. Rathe
 
 A simple meeting structure often works better than an open-ended discussion:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Five minutes: each member reports preparation completed.
@@ -341,7 +336,6 @@ A simple meeting structure often works better than an open-ended discussion:
 </div>
 
 This format makes contribution visible and reduces opportunities for passive attendance.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-2-dark.svg" | relative_url }}" alt="A Study Group illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Accountability Must Be Visible
@@ -362,8 +356,7 @@ The second arrangement makes absence of preparation obvious. It also creates pos
 
 Importantly, accountability should focus on actions rather than intelligence. Members should be expected to prepare, attend and participate. They should not be judged for finding material difficult. Difficulty is often the reason the group exists in the first place.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kj0Sb2GZIEk" title="Social Loafing: The Effort Gap in Teamwork (2-Minute Explainer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kj0Sb2GZIEk" target="_blank" rel="noopener noreferrer">Social Loafing: The Effort Gap in Teamwork (2-Minute Explainer)</a></p><p class="youtube-embed-meta">Channel: The Business Learning Hub &middot; Views: 163 &middot; Uploaded: December 2024 &middot; Length: 2 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kj0Sb2GZIEk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kj0Sb2GZIEk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UZaoZZnJFoU" title="How To Hold a Team Member Accountable (without damaging the relationship) #accountability #teamwork" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UZaoZZnJFoU" target="_blank" rel="noopener noreferrer">How To Hold a Team Member Accountable (without damaging the relationship) #accountability #teamwork</a></p><p class="youtube-embed-meta">Channel: Let&#x27;s Grow Leaders &middot; Views: 1.0K &middot; Uploaded: December 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UZaoZZnJFoU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UZaoZZnJFoU">Open on YouTube</a></p></div></div></div>
 
 ## When to Repair the Group
 
@@ -375,7 +368,6 @@ This approach addresses the structure rather than attacking personalities.
 
 Repair is most likely when:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Members still attend consistently.
@@ -386,7 +378,6 @@ Repair is most likely when:
 </div>
 
 Research on free-riding suggests that perceived fairness matters greatly. When expectations are explicit and workloads are visible, participation often improves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1473837621000150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Exploring antecedents of social loafing in students&#x27; group...by Z Luo · 2021 · Cited by 56 — This study explored antecedent...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/14697874221118864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReducing free-riding in group projects in line with students&#x27;...by TM Benning · 2024 · Cited by 37 — In this study, we meas...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-3-dark.svg" | relative_url }}" alt="A Study Group illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_study_group_pitfalls_bd33a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When to Resize the Group
@@ -411,7 +402,6 @@ For the person carrying everyone else, staying can become costly. Explaining mat
 
 Leaving is particularly reasonable when:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Attempts to clarify expectations have failed.
@@ -426,9 +416,7 @@ A study group is valuable only when it improves learning for everyone involved. 
 
 In self-improvement that works, accountability should distribute effort, not concentrate it. The best study groups make preparation visible, give every member a clear role and create conditions where contribution is expected from everyone. When those conditions disappear, repairing, shrinking or leaving the group is often more productive than carrying it alone.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6KAvyP7LwSs" title="Managing Social Loafing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6KAvyP7LwSs" target="_blank" rel="noopener noreferrer">Managing Social Loafing</a></p><p class="youtube-embed-meta">Channel: B2Bwhiteboard &middot; Views: 37 &middot; Uploaded: November 2023 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6KAvyP7LwSs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6KAvyP7LwSs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -547,11 +535,11 @@ In self-improvement that works, accountability should distribute effort, not con
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kitchen Silent Timer 60 Minute Count-Down Cooking Kids Study Time Management"><img src="https://i.ebayimg.com/images/g/Wt8AAOSwPMdnaefI/s-l225.jpg" alt="Listing image for Kitchen Silent Timer 60 Minute Count-Down Cooking Kids Study Time Management" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pomodoro Cube Flip Timer Gravity Sensor Digital Workout Cooking Management Study"><img src="https://i.ebayimg.com/images/g/tfAAAeSwomRpEY5K/s-l225.jpg" alt="Listing image for Pomodoro Cube Flip Timer Gravity Sensor Digital Workout Cooking Management Study" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer">Kitchen Silent Timer 60 Minute Count-Down Cooking Kids Study Time Management</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer">Pomodoro Cube Flip Timer Gravity Sensor Digital Workout Cooking Management Study</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
@@ -563,11 +551,11 @@ In self-improvement that works, accountability should distribute effort, not con
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital 9999-Days Countdown Timer for Retirement Vacation Exam Wedding Study"><img src="https://i.ebayimg.com/images/g/KbEAAeSwkPhpntSv/s-l225.jpg" alt="Listing image for Digital 9999-Days Countdown Timer for Retirement Vacation Exam Wedding Study" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Timer Flip Digital LED Countdown Kitchen Study Pomodoro Gravity Timer"><img src="https://i.ebayimg.com/images/g/Y~MAAeSw2nhpwdem/s-l225.jpg" alt="Listing image for Smart Timer Flip Digital LED Countdown Kitchen Study Pomodoro Gravity Timer" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer">Digital 9999-Days Countdown Timer for Retirement Vacation Exam Wedding Study</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer">Smart Timer Flip Digital LED Countdown Kitchen Study Pomodoro Gravity Timer</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
@@ -579,11 +567,11 @@ In self-improvement that works, accountability should distribute effort, not con
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Time Timer Countdown Visual Timer Classroom Kitchen Office Study Timer New"><img src="https://i.ebayimg.com/images/g/S8kAAeSwHRZp1MnF/s-l225.jpg" alt="Listing image for Time Timer Countdown Visual Timer Classroom Kitchen Office Study Timer New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small Digital Kitchen Timer w/ Magnetic Back Large Display Cooking Study Timer"><img src="https://i.ebayimg.com/images/g/Lp0AAeSw-wlqHR1n/s-l225.jpg" alt="Listing image for Small Digital Kitchen Timer w/ Magnetic Back Large Display Cooking Study Timer" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer">Time Timer Countdown Visual Timer Classroom Kitchen Office Study Timer New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer">Small Digital Kitchen Timer w/ Magnetic Back Large Display Cooking Study Timer</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
@@ -595,11 +583,11 @@ In self-improvement that works, accountability should distribute effort, not con
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LCD Kitchen Cooking Digital Timer Count Down Up, Alarm Study UK"><img src="https://i.ebayimg.com/images/g/SN4AAeSwqZdpHFAb/s-l225.jpg" alt="Listing image for LCD Kitchen Cooking Digital Timer Count Down Up, Alarm Study UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Visual Timer Rechargeable 99-Min Countdown Clock for Kids Study"><img src="https://i.ebayimg.com/images/g/gRMAAeSweGNqFuyH/s-l225.jpg" alt="Listing image for Digital Visual Timer Rechargeable 99-Min Countdown Clock for Kids Study" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer">LCD Kitchen Cooking Digital Timer Count Down Up, Alarm Study UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer">Digital Visual Timer Rechargeable 99-Min Countdown Clock for Kids Study</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-study-groups-stop-being-useful-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="when-study-groups-stop-being-useful-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
         <div class="fr-book-actions">
@@ -821,6 +809,7 @@ In self-improvement that works, accountability should distribute effort, not con
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

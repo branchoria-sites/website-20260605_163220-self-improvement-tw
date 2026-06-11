@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /expert-help/
 nav_short_title: Repeat failure
 title: When Repeating the Same Goal Means Get Help
-title_full: When Repeating the Same Goal Means Get Help | Expert Help
+title_full: When Repeating the Same Goal Means Get Help
 display_title_short: Repeat failure
 display_title: Repeat failure
 heading_title: When Repeating the Same Goal Means Get Help
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:24:34'
-parent_title: When Should You Get Outside Help? | Better Change
+parent_title: When Should You Get Outside Help?
 parent_permalink: /expert-help/
 parent_nav_short_title: Expert Help
 parent_heading_title: When Should You Get Outside Help?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_repeate
 
 A common mistake in self-improvement is treating repeated failure as proof that more effort is needed. In many cases, the opposite is true. When the same goal has failed three or four times in roughly the same way, the most useful question is no longer “How can I try harder?” but “What am I unable to see?”
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_repeated_failed_goal_c1b2e1-Illustration-1-dark.svg" | relative_url }}" alt="Repeat failure illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_repeated_failed_goal_c1b2e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_repeated_failed_goal_c1b2e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Repeated failure is often a diagnostic signal. It suggests that the obstacle is not a temporary lack of [motivation]({{ 'motivation/' | relative_url }}) but a hidden bottleneck in skills, planning, [environment]({{ 'environment/' | relative_url }}), habits, emotional regulation, health, or decision-making. Research on goal pursuit consistently shows that good intentions alone do not reliably produce action and that feedback is essential for correcting the gap between goals and behaviour. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
@@ -294,7 +293,6 @@ Behaviour-change research often describes a gap between intentions and actions. 
 
 Typical examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Always abandoning a fitness programme after missing one session.
@@ -308,7 +306,6 @@ Typical examples include:
 
 The repeated outcome suggests that the current explanation is incomplete. More effort applied to an incorrect explanation often produces more frustration rather than better results.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kMj6mvOm_wU" title="The Science of Why You Keep Failing Your Goals (And How to Fix It)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kMj6mvOm_wU" target="_blank" rel="noopener noreferrer">The Science of Why You Keep Failing Your Goals (And How to Fix It)</a></p><p class="youtube-embed-meta">Channel: Think Fast Talk Smart &middot; Views: 216 &middot; Uploaded: September 2024 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kMj6mvOm_wU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kMj6mvOm_wU">Open on YouTube</a></p></div></div></div>
 
 ## Why More Willpower Often Stops Working
@@ -320,7 +317,6 @@ Research on habits and [behaviour change]({{ 'behaviour-change/' | relative_url 
 This helps explain why repeated failures can survive multiple bursts of determination.
 
 Someone may repeatedly renew their commitment, buy new tools, make fresh promises and consume more self-help content while leaving the underlying mechanism untouched. The visible failure appears to be a motivation problem, but the real issue may be:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -337,7 +333,6 @@ Someone may repeatedly renew their commitment, buy new tools, make fresh promise
 Research on goal failure also shows that repeated failure can damage self-perception. People may begin to interpret failure as evidence that they lack ability or character rather than treating it as [feedback]({{ 'feedback/' | relative_url }}) about the system they are using. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.704790/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersGoal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...September 21, 2021 — by J Höpfner · 2021 · Cited by 104 — Failin...</span><span class="citation-popover-meta">Published: September 21, 2021</span></span></span>
 
 At that point, simply pushing harder can worsen the problem because the person is reinforcing discouragement instead of generating new information.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_repeated_failed_goal_c1b2e1-Illustration-2-dark.svg" | relative_url }}" alt="Repeat failure illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_repeated_failed_goal_c1b2e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_repeated_failed_goal_c1b2e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a Coach or Expert Can Diagnose
@@ -366,7 +361,6 @@ Repeated failures around sleep, energy, concentration or mood may reflect medica
 
 In each case, the repeated failure is not the diagnosis itself. It is the signal that a diagnosis is needed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wRznDebARdU" title="Why You Keep Failing at Goals (Even When You Try Hard)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wRznDebARdU" target="_blank" rel="noopener noreferrer">Why You Keep Failing at Goals (Even When You Try Hard)</a></p><p class="youtube-embed-meta">Channel: Legend Life After 40 &middot; Views: 388 &middot; Uploaded: January 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wRznDebARdU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wRznDebARdU">Open on YouTube</a></p></div></div></div>
 
 ## The Third or Fourth Failure Threshold
@@ -374,7 +368,6 @@ In each case, the repeated failure is not the diagnosis itself. It is the signal
 There is no universal number of failures that requires outside help. However, waiting until the situation becomes dramatic is often unnecessary.
 
 A practical rule is to pay attention when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -395,14 +388,12 @@ The question is not whether failure occurred. The question is whether the failur
 
 If every attempt teaches the same lesson, it is usually time for another perspective.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_repeated_failed_goal_c1b2e1-Illustration-3-dark.svg" | relative_url }}" alt="Repeat failure illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_repeated_failed_goal_c1b2e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_repeated_failed_goal_c1b2e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Turning Review Into the Next Experiment
 
 The most productive response to repeated failure is not self-judgement. It is investigation.
 
 An expert review should ideally answer three questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -415,7 +406,6 @@ An expert review should ideally answer three questions:
 Notice that this approach turns failure into a source of information.
 
 Instead of saying, “I failed to maintain the habit again,” the review becomes more precise:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -433,9 +423,7 @@ Research on goal attainment and planning repeatedly finds that successful behavi
 
 The practical value of outside help is therefore not that it rescues people from failure. It helps them stop running the same failed experiment. When the same goal keeps collapsing in the same place, expert feedback can identify the bottleneck, redesign the approach and convert repetition from a cycle of frustration into a source of useful evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BtKN4y-59Ic" title="EXPOSING The Hesitator Mindset (And How You Can Finally Break Free)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BtKN4y-59Ic" target="_blank" rel="noopener noreferrer">EXPOSING The Hesitator Mindset (And How You Can Finally Break Free)</a></p><p class="youtube-embed-meta">Channel: Therapy Tips &middot; Views: 744 &middot; Uploaded: July 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BtKN4y-59Ic" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BtKN4y-59Ic">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -530,7 +518,7 @@ The practical value of outside help is therefore not that it rescues people from
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -554,15 +542,15 @@ The practical value of outside help is therefore not that it rescues people from
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Laminated Motivational Inspirational Funny Quote Posters Wall Art Decor #b2"><img src="https://i.ebayimg.com/images/g/aMcAAOSwGdtcqjp-/s-l225.jpg" alt="Listing image for A4 Laminated Motivational Inspirational Funny Quote Posters Wall Art Decor #b2" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Undated A5 Productivity Planner - 90-Day Goal Tracker for Personal Growth"><img src="https://i.ebayimg.com/images/g/3a8AAeSwW2BqKy8X/s-l225.jpg" alt="Listing image for Undated A5 Productivity Planner - 90-Day Goal Tracker for Personal Growth" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">A4 Laminated Motivational Inspirational Funny Quote Posters Wall Art Decor #b2</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer">Undated A5 Productivity Planner - 90-Day Goal Tracker for Personal Growth</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +558,15 @@ The practical value of outside help is therefore not that it rescues people from
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Workout Fitness Posters Motivational Exercise Quotes Wall Art Prints Decor"><img src="https://i.ebayimg.com/images/g/MlsAAOSwyVVkKuYx/s-l225.jpg" alt="Listing image for Gym Workout Fitness Posters Motivational Exercise Quotes Wall Art Prints Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DAILY/HOURLY Planner - Timetable, To Do List And Priorities. Set Goals and Memo"><img src="https://i.ebayimg.com/images/g/t-0AAeSwlDtouCzP/s-l225.jpg" alt="Listing image for DAILY/HOURLY Planner - Timetable, To Do List And Priorities. Set Goals and Memo" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Gym Workout Fitness Posters Motivational Exercise Quotes Wall Art Prints Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer">DAILY/HOURLY Planner - Timetable, To Do List And Priorities. Set Goals and Memo</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,15 +574,15 @@ The practical value of outside help is therefore not that it rescues people from
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monopoly Motivational Inspirational Quote Art Wall Art Print Picture Home Decor"><img src="https://i.ebayimg.com/images/g/s0sAAOSwUdRnNIvs/s-l225.jpg" alt="Listing image for Monopoly Motivational Inspirational Quote Art Wall Art Print Picture Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yop &amp; Tom Undated Goal Planner Power of 3 The Weekly Productivity Planner"><img src="https://i.ebayimg.com/images/g/8BgAAeSwtIppUrJ8/s-l225.jpg" alt="Listing image for Yop &amp; Tom Undated Goal Planner Power of 3 The Weekly Productivity Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Monopoly Motivational Inspirational Quote Art Wall Art Print Picture Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer">Yop &amp; Tom Undated Goal Planner Power of 3 The Weekly Productivity Planner</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -602,15 +590,15 @@ The practical value of outside help is therefore not that it rescues people from
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/xfgAAeSwe6dopJsu/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook"><img src="https://i.ebayimg.com/images/g/ogYAAeSwQW9p7oHN/s-l225.jpg" alt="Listing image for Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer">Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -618,7 +606,7 @@ The practical value of outside help is therefore not that it rescues people from
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -828,6 +816,7 @@ The practical value of outside help is therefore not that it rescues people from
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

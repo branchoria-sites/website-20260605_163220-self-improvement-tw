@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /lunch-walks/
 nav_short_title: Workday Cue
 title: How to make lunch trigger the walk
-title_full: How to make lunch trigger the walk | Lunch Walks
+title_full: How to make lunch trigger the walk
 display_title_short: Workday Cue
 display_title: Workday Cue
 heading_title: How to make lunch trigger the walk
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 04:39:07'
-parent_title: Why a Ten Minute Walk Can Stick | Better Change
+parent_title: Why a Ten Minute Walk Can Stick
 parent_permalink: /lunch-walks/
 parent_nav_short_title: Lunch Walks
 parent_heading_title: Why a Ten Minute Walk Can Stick
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lun
 
 A lunch walk becomes reliable not when you feel motivated, but when lunch itself becomes the trigger. Research on habit formation consistently shows that behaviours are more likely to become automatic when they are repeated in the same context and linked to a stable cue. The practical lesson for a workday lunch walk is simple: remove as many decisions as possible before lunch starts. Decide where you will walk, what shoes you will wear, how long the route is, and what marks the moment of departure. Over time, the end of lunch stops being a point of choice and becomes a launch signal. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">When encountered, cues activate a single, specific well-learned behavioral response.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-1-dark.svg" | relative_url }}" alt="Workday Cue illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For people trying to make walking after lunch a lasting self-improvement habit, the challenge is rarely understanding the benefits. The challenge is surviving busy calendars, unexpected meetings, working from home, office distractions, and the temptation to return straight to a chair. A durable cue system is designed specifically for those disruptions.
 
@@ -279,7 +278,6 @@ For people trying to make walking after lunch a lasting self-improvement habit, 
 Habit researchers describe habits as cue-driven behaviours that become increasingly automatic through repetition in a consistent context. The cue matters because it reduces the need for conscious decision-making. Rather than asking, “Should I walk today?”, the person follows a pre-set rule triggered by a familiar event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersSelf-Efficacy in Habit Building: How General and...by M Stojanovic · 2021 · Cited by 41 — A habit is an automized behavioral pa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/20658824/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">automatic component of habit in health behaviorby S Orbell · 2010 · Cited by 707 — Objective: Habit might be usefully characterized as a...</span></span></span>
 
 For a lunch walk, the strongest cues tend to be concrete and observable:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -298,7 +296,6 @@ A useful rule is to define lunch as incomplete until the walk starts. In practic
 ## Pre-deciding the route and launch sequence
 
 Many workday walks fail because the person reaches the cue and then faces several small decisions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -328,9 +325,7 @@ The goal is not route optimisation. The goal is eliminating deliberation.
 
 The same principle applies to the launch sequence. A reliable sequence might be:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yhLHfPZEKgU" title="360 ‒ How to change your habits: why they form and how to build or break them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yhLHfPZEKgU" target="_blank" rel="noopener noreferrer">360 ‒ How to change your habits: why they form and how to build or break them</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 85.5K &middot; Uploaded: August 2025 &middot; Length: 2 hours 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yhLHfPZEKgU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yhLHfPZEKgU">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -354,7 +349,6 @@ A practical solution is to treat the walk as part of lunch rather than an option
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Block 30 minutes for lunch and 10 minutes for walking rather than a single 40-minute lunch period.
@@ -368,7 +362,6 @@ This approach works because it removes competition between the walk and afternoo
 
 From a habit perspective, consistency matters more than duration. A five- or ten-minute walk completed nearly every workday strengthens the cue-response relationship more effectively than an occasional ambitious walk that is frequently skipped. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 81 — The determinants affecting habit form...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby B Gardner · 2014 · Cited by 1305 — This paper examines use of the term in the context of health-related behaviour, and explor...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-2-dark.svg" | relative_url }}" alt="Workday Cue illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Designing for desk lunches
 
@@ -379,7 +372,6 @@ When lunch happens at the workstation, the easiest action after eating is simply
 To counter this, create a visible separation between eating and working.
 
 Useful approaches include:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -394,8 +386,7 @@ The key is that the cue should direct attention outward. If the cue leaves you f
 
 Research on habit formation emphasises the importance of contextual cues. Small environmental adjustments can make the desired behaviour more likely to occur when the cue appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviouralleeway.com/behaviour-frameworks-to-[support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviouralleeway.com">[Behavioural Leeway]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviouralleeway.com</span><span class="citation-popover-snippet">Behavioural LeewayBehaviour Frameworks to Support Habit Formation8 May 2024 — Habits form through repeated behaviours in stable contexts...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersSelf-Efficacy in Habit Building: How General and...by M Stojanovic · 2021 · Cited by 41 — A habit is an automized behavioral pa...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogkpuEqwjoQ" title="How to Build a Walking Habit That ACTUALLY Sticks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogkpuEqwjoQ" target="_blank" rel="noopener noreferrer">How to Build a Walking Habit That ACTUALLY Sticks</a></p><p class="youtube-embed-meta">Channel: Walking for Health and Fitness &middot; Views: 548 &middot; Uploaded: June 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogkpuEqwjoQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogkpuEqwjoQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wJisQL506pI" title="Tiny Habits: The Small Changes that Change Everything by BJ Fogg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wJisQL506pI" target="_blank" rel="noopener noreferrer">Tiny Habits: The Small Changes that Change Everything by BJ Fogg</a></p><p class="youtube-embed-meta">Channel: Life Beyond The Covers &middot; Views: 13 &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wJisQL506pI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wJisQL506pI">Open on YouTube</a></p></div></div></div>
 
 ## Designing for café and restaurant lunches
 
@@ -404,7 +395,6 @@ External lunches create a different challenge: the walk is no longer attached to
 The simplest solution is to connect the walk to the return journey.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -418,7 +408,6 @@ Examples include:
 The payment receipt, departure from the café, or exit through the restaurant door can become the cue.
 
 This works because the behaviour is attached to an event that already occurs every time the meal happens. Habit theory suggests that stable, repeated cues are more important than elaborate motivational strategies. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">When encountered, cues activate a single, specific well-learned behavioral response.Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-3-dark.svg" | relative_url }}" alt="Workday Cue illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Designing for home-working days
@@ -439,8 +428,7 @@ Notice that the cue is not merely finishing lunch. It includes a physical transi
 
 Studies of habit formation suggest that context stability strengthens automaticity. Repeating the same door, route, and departure sequence can help create a dependable association between lunch and walking. Frontiers <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/10144814/1/23311908.2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery How does habit form?</span><span class="citation-popover-snippet">Guidelines for tracking realby B Gardner · 2022 · Cited by 104 — Habit develops when a behaviour is repeated in a consistent context (Fou...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wJisQL506pI" title="Tiny Habits: The Small Changes that Change Everything by BJ Fogg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wJisQL506pI" target="_blank" rel="noopener noreferrer">Tiny Habits: The Small Changes that Change Everything by BJ Fogg</a></p><p class="youtube-embed-meta">Channel: Life Beyond The Covers &middot; Views: 13 &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wJisQL506pI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wJisQL506pI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eXM2lIRCjc0" title="BJ Fogg: Why Big Change Starts With Tiny Habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eXM2lIRCjc0" target="_blank" rel="noopener noreferrer">BJ Fogg: Why Big Change Starts With Tiny Habits</a></p><p class="youtube-embed-meta">Channel: FranklinCovey &middot; Views: 458 &middot; Uploaded: January 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eXM2lIRCjc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eXM2lIRCjc0">Open on YouTube</a></p></div></div></div>
 
 ## Common failure modes and how to prevent them
 

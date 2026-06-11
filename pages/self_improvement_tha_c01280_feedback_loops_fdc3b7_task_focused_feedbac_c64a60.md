@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /feedback/
 nav_short_title: No Shame
 title: Why Better Feedback Sounds Less Personal
-title_full: Why Better Feedback Sounds Less Personal | Feedback
+title_full: Why Better Feedback Sounds Less Personal
 display_title_short: No Shame
 display_title: No Shame
 heading_title: Why Better Feedback Sounds Less Personal
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:17:56'
-parent_title: The Feedback Loop Behind Real Progress | Better Change
+parent_title: The Feedback Loop Behind Real Progress
 parent_permalink: /feedback/
 parent_nav_short_title: Feedback
 parent_heading_title: The Feedback Loop Behind Real Progress
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_foc
 
 Many self-improvement systems fail at the [feedback]({{ 'feedback/' | relative_url }}) stage, not because the information is wrong, but because the interpretation becomes personal. A missed workout turns into “I am lazy”. A poor presentation becomes “I am not good enough”. Once feedback is treated as a verdict on character, it often triggers shame, avoidance, and defensive thinking rather than useful adjustment.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-1-dark.svg" | relative_url }}" alt="No Shame illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Task-focused feedback works differently. It keeps attention on what happened, what influenced the result, and what can change next time. Instead of asking, “What does this say about me?”, it asks, “What does this say about the process?” Research on feedback, self-regulation, self-compassion, and learning consistently suggests that people cope better with setbacks and persist longer when feedback targets strategies, effort allocation, or task execution rather than personal worth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Person versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — Inclusion of 14 self-regulatory...</span></span></span>
 
@@ -296,7 +295,6 @@ A useful feedback loop requires accurate observation. Shame often interrupts tha
 When people anticipate feeling judged by their own data, they frequently stop collecting it. They avoid stepping on the scale, checking spending, reviewing study results, or opening the habit tracker. The problem is no longer the behaviour itself; it becomes the discomfort associated with seeing evidence.
 
 This creates a damaging cycle:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -338,7 +336,7 @@ For example:
 
 > “I have no self-control.”
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/361410794_Learning_from_Failure_with_Self_vs_Task_Focused_Feedback" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[**Task-focused interpretation**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">361410794 Learning from Failure with Self vs Task Focused Feedback</span><span class="citation-popover-snippet">Learning from Failure with Self vs Task Focused Feedback19 Jun 2022 — Decades of feedback research have suggested that feedback is more e...</span></span></span>
+**Task-focused interpretation** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/361410794_Learning_from_Failure_with_Self_vs_Task_Focused_Feedback" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">361410794 Learning from Failure with Self vs Task Focused Feedback</span><span class="citation-popover-snippet">Learning from Failure with Self vs Task Focused Feedback19 Jun 2022 — Decades of feedback research have suggested that feedback is more e...</span></span></span>
 
 > “My plan relied on resisting distractions rather than removing them.”
 
@@ -348,7 +346,6 @@ Task-focused feedback also reduces the tendency to overgeneralise. A failed stud
 
 The key mechanism is specificity. The narrower and more observable the feedback, the easier it becomes to adjust behaviour on the next attempt.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NWv1VdDeoRY" title="Carol Dweck - A Study on Praise and Mindsets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NWv1VdDeoRY" target="_blank" rel="noopener noreferrer">Carol Dweck - A Study on Praise and Mindsets</a></p><p class="youtube-embed-meta">Channel: Trevor Ragan &middot; Views: 1.2M &middot; Uploaded: January 2014 &middot; Length: 4 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NWv1VdDeoRY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NWv1VdDeoRY">Open on YouTube</a></p></div></div></div>
 
 ## What Research Says About Person-Focused and Process-Focused Feedback
@@ -356,7 +353,6 @@ The key mechanism is specificity. The narrower and more observable the feedback,
 One of the most influential lines of research on feedback comes from studies comparing person-focused and process-focused responses.
 
 Person-focused feedback targets traits or identity:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -368,7 +364,6 @@ Person-focused feedback targets traits or identity:
 </div>
 
 Process-focused feedback targets actions, strategies, or methods:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -385,7 +380,6 @@ The important lesson for self-improvement is that people can deliver person-focu
 
 Many internal monologues sound like this:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “I am not disciplined.”
@@ -395,7 +389,6 @@ Many internal monologues sound like this:
 </div>
 
 These statements mirror the same identity-focused pattern that research associates with poorer coping after setbacks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Person versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</span></span></span> ScienceDirect Replacing them with process-focused observations keeps attention on changeable variables. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2666915325000204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A network approach to shame: The central roles of self...by B ShamsAlam · 2025 · Cited by 4 — This network analysis provides a precise u...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-2-dark.svg" | relative_url }}" alt="No Shame illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples That Turn Blame Into System Diagnosis
@@ -416,7 +409,6 @@ The easiest way to apply task-focused feedback is to rewrite self-blaming conclu
 
 Move exercise earlier or reduce session length.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IbXof945dx4" title="The Science of Self-Compassion: How to Stop Negative Self-Talk - Kristin Neff, PhD | FitMind Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IbXof945dx4" target="_blank" rel="noopener noreferrer">The Science of Self-Compassion: How to Stop Negative Self-Talk - Kristin Neff, PhD | FitMind Podcast</a></p><p class="youtube-embed-meta">Channel: FitMind &middot; Views: 20.9K &middot; Uploaded: May 2025 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IbXof945dx4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IbXof945dx4">Open on YouTube</a></p></div></div></div>
 
 ### Writing
@@ -432,7 +424,6 @@ Move exercise earlier or reduce session length.
 **Possible adjustment**
 
 Define the [first action]({{ 'first-action/' | relative_url }}) before ending the previous session.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-3-dark.svg" | relative_url }}" alt="No Shame illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Spending
@@ -464,7 +455,6 @@ Remove shopping apps or set a waiting period.
 Switch from rereading to retrieval practice.
 
 Notice that none of the revised versions excuse the problem. They simply describe it in a form that can influence the next attempt.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/11U0h0DPu7k" title="Kristin Neff: The Three Components of Self-Compassion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=11U0h0DPu7k" target="_blank" rel="noopener noreferrer">Kristin Neff: The Three Components of Self-Compassion</a></p><p class="youtube-embed-meta">Channel: Greater Good Science Center &middot; Views: 777.5K &middot; Uploaded: October 2014 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=11U0h0DPu7k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=11U0h0DPu7k">Open on YouTube</a></p></div></div></div>
 

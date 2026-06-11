@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /meaning/
 nav_short_title: Values Test
 title: The Three Questions That Strengthen a Goal
-title_full: The Three Questions That Strengthen a Goal | Meaning
+title_full: The Three Questions That Strengthen a Goal
 display_title_short: Values Test
 display_title: Values Test
 heading_title: The Three Questions That Strengthen a Goal
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:09:17'
-parent_title: What Makes a Goal Worth Repeating? | Better Change
+parent_title: What Makes a Goal Worth Repeating?
 parent_permalink: /meaning/
 parent_nav_short_title: Meaning
 parent_heading_title: What Makes a Goal Worth Repeating?
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_values
 
 A goal survives boredom when its daily actions continue to prove something that matters to you. Many goals fail not because the method is wrong, but because the person loses contact with the reason behind the repetition. A values test is a simple way to check whether a goal is anchored in a genuine priority rather than in excitement, guilt, comparison or temporary enthusiasm.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_values_test_goals_227752-Illustration-1-dark.svg" | relative_url }}" alt="Values Test illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_values_test_goals_227752-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_values_test_goals_227752-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on self-concordant goals suggests that people make better progress when their goals are aligned with their deeper interests and values. Goals that fit who a person wants to be tend to attract more sustained effort, especially when the work becomes routine. Autonomous [motivation]({{ 'motivation/' | relative_url }})—the feeling that a goal is personally endorsed rather than externally imposed—is also linked to greater persistence when tasks become difficult or monotonous. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Integrated regulation is the most autonomous form of extrinsic motivation in SD...</span></span></span>
 
@@ -322,7 +321,6 @@ Stronger answer:
 
 Values become real when they create observable behaviour. If today's action cannot plausibly demonstrate the value, the connection between goal and [meaning]({{ 'meaning/' | relative_url }}) is weak.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZpAwJKq8TOc" title="Self-Determination Theory Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZpAwJKq8TOc" target="_blank" rel="noopener noreferrer">Self-Determination Theory Explained</a></p><p class="youtube-embed-meta">Channel: Psychology Exposed &middot; Views: 7.7K &middot; Uploaded: February 2025 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZpAwJKq8TOc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZpAwJKq8TOc">Open on YouTube</a></p></div></div></div>
 
 ### Question 3: Would this value still matter if progress were slow?
@@ -361,7 +359,6 @@ to:
 
 The second question often survives boredom better than the first.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_values_test_goals_227752-Illustration-2-dark.svg" | relative_url }}" alt="Values Test illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_values_test_goals_227752-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_values_test_goals_227752-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Money
 
@@ -387,8 +384,7 @@ Research on purpose and learning suggests that connecting tedious academic work 
 
 A difficult revision session then becomes evidence of commitment to learning rather than merely a hurdle before an exam.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nt8jr9XRnF0" title="Are You Driven by Purpose — or Running From Something?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nt8jr9XRnF0" target="_blank" rel="noopener noreferrer">Are You Driven by Purpose — or Running From Something?</a></p><p class="youtube-embed-meta">Channel: optYOUmize &middot; Views: 4 &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nt8jr9XRnF0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nt8jr9XRnF0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YNMj6Puizyo" title="How to Find Your Purpose in Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YNMj6Puizyo" target="_blank" rel="noopener noreferrer">How to Find Your Purpose in Life</a></p><p class="youtube-embed-meta">Channel: Beggi Olafsson &middot; Views: 568 &middot; Uploaded: November 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YNMj6Puizyo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YNMj6Puizyo">Open on YouTube</a></p></div></div></div>
 
 ### Creative Practice
 
@@ -403,7 +399,6 @@ as:
 > “I value expression, craftsmanship and making ideas tangible.”
 
 Under this framing, producing work regularly remains worthwhile even before recognition arrives. The daily practice demonstrates the value directly.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_values_test_goals_227752-Illustration-3-dark.svg" | relative_url }}" alt="Values Test illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_values_test_goals_227752-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_values_test_goals_227752-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common Ways the Test Exposes Weak Goals
@@ -430,8 +425,7 @@ The value sounds admirable but never translates into behaviour. The person says 
 
 When these patterns appear, the solution is often not greater discipline. It is redesigning the goal so that the daily action clearly expresses something genuinely important.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uo5Ds1fd8ig" title="How to Align Your Life with Your Values" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uo5Ds1fd8ig" target="_blank" rel="noopener noreferrer">How to Align Your Life with Your Values</a></p><p class="youtube-embed-meta">Channel: Marie Vakakis &middot; Views: 274 &middot; Uploaded: January 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uo5Ds1fd8ig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uo5Ds1fd8ig">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nt8jr9XRnF0" title="Are You Driven by Purpose — or Running From Something?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nt8jr9XRnF0" target="_blank" rel="noopener noreferrer">Are You Driven by Purpose — or Running From Something?</a></p><p class="youtube-embed-meta">Channel: optYOUmize &middot; Views: 4 &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nt8jr9XRnF0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nt8jr9XRnF0">Open on YouTube</a></p></div></div></div>
 
 ## A Good Goal Can Be Explained in One Breath
 
@@ -570,15 +564,15 @@ When the connection between behaviour and value is obvious, boredom loses some o
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fundraising Thermometer Chart Dry Erase Goal Tracker with Ribbon 46x12"><img src="https://i.ebayimg.com/images/g/zoAAAeSwApNorir4/s-l225.jpg" alt="Listing image for Fundraising Thermometer Chart Dry Erase Goal Tracker with Ribbon 46x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Undated Daily Planner Pro Guided Journal Organization Productivity Goals Book"><img src="https://i.ebayimg.com/images/g/pc4AAOSwxQllyner/s-l225.jpg" alt="Listing image for A5 Undated Daily Planner Pro Guided Journal Organization Productivity Goals Book" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Fundraising Thermometer Chart Dry Erase Goal Tracker with Ribbon 46x12</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer">A5 Undated Daily Planner Pro Guided Journal Organization Productivity Goals Book</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,15 +580,15 @@ When the connection between behaviour and value is obvious, boredom loses some o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gloomhaven Jaws Of The Lion | Hit Point XP Dial Tracker - 2 Each"><img src="https://i.ebayimg.com/images/g/VGMAAOSwOlBl-zGc/s-l225.jpg" alt="Listing image for Gloomhaven Jaws Of The Lion | Hit Point XP Dial Tracker - 2 Each" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly &amp; Monthly Life Planner | Goal Tracker &amp; Organizer Notebook | A5 Rose Gold"><img src="https://i.ebayimg.com/images/g/3LYAAeSwZIZqJAvw/s-l225.jpg" alt="Listing image for Weekly &amp; Monthly Life Planner | Goal Tracker &amp; Organizer Notebook | A5 Rose Gold" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Gloomhaven Jaws Of The Lion | Hit Point XP Dial Tracker - 2 Each</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer">Weekly &amp; Monthly Life Planner | Goal Tracker &amp; Organizer Notebook | A5 Rose Gold</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -602,15 +596,15 @@ When the connection between behaviour and value is obvious, boredom loses some o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fundraising Thermometer Chart Dry Erase Goal Tracker with Ribbon 46x12"><img src="https://i.ebayimg.com/images/g/zoAAAeSwApNorir4/s-l225.jpg" alt="Listing image for Fundraising Thermometer Chart Dry Erase Goal Tracker with Ribbon 46x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goals Space Daily Planner 365 Productive Days, DAILY Productivity. Plan EVERYDAY"><img src="https://i.ebayimg.com/images/g/GFEAAeSwo9ZoEnwu/s-l225.jpg" alt="Listing image for Goals Space Daily Planner 365 Productive Days, DAILY Productivity. Plan EVERYDAY" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Fundraising Thermometer Chart Dry Erase Goal Tracker with Ribbon 46x12</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer">Goals Space Daily Planner 365 Productive Days, DAILY Productivity. Plan EVERYDAY</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -618,15 +612,15 @@ When the connection between behaviour and value is obvious, boredom loses some o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Task Planner Tracker Goal for Women Chores Board Kids"><img src="https://i.ebayimg.com/images/g/DBkAAeSwNQlpwhXC/s-l225.jpg" alt="Listing image for Weekly Task Planner Tracker Goal for Women Chores Board Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PAPERCHASE GOAL PLANNER , 224 Pages, A5 SIZE, 100 GSM with 2 Book Marks"><img src="https://i.ebayimg.com/images/g/jqAAAeSwmpBpCOh1/s-l225.jpg" alt="Listing image for PAPERCHASE GOAL PLANNER , 224 Pages, A5 SIZE, 100 GSM with 2 Book Marks" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Weekly Task Planner Tracker Goal for Women Chores Board Kids</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer">PAPERCHASE GOAL PLANNER , 224 Pages, A5 SIZE, 100 GSM with 2 Book Marks</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -634,7 +628,7 @@ When the connection between behaviour and value is obvious, boredom loses some o
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -844,6 +838,7 @@ When the connection between behaviour and value is obvious, boredom loses some o
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /cycle-commute/
 nav_short_title: Ride Days
 title: Which Workdays Should You Cycle First?
-title_full: Which Workdays Should You Cycle First? | Cycle Commute
+title_full: Which Workdays Should You Cycle First?
 display_title_short: Ride Days
 display_title: Ride Days
 heading_title: Which Workdays Should You Cycle First?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:21:10'
-parent_title: Why the Habit Starts the Night Before | Better Change
+parent_title: Why the Habit Starts the Night Before
 parent_permalink: /cycle-commute/
 parent_nav_short_title: Cycle Commute
 parent_heading_title: Why the Habit Starts the Night Before
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosin
 
 The easiest [cycle commute]({{ 'cycle-commute/' | relative_url }}) to maintain is rarely the most ambitious one. Many new commuters assume success means riding to work every day from the start. In practice, habits tend to survive when they fit real schedules, energy levels and workplace demands. Choosing the right days matters more than choosing the perfect route.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-1-dark.svg" | relative_url }}" alt="Ride Days illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Cycle commuting is a habit-building exercise as much as a transport choice. Research on implementation intentions and action planning shows that people are more likely to follow through when they decide in advance exactly when and under what conditions they will act. Consistent, realistic plans outperform vague ambitions. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">by MAV da Silva · 2018 · Cited by 103 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</span></span></span>
 
@@ -306,7 +305,6 @@ Cycling UK recommends avoiding weeks dominated by major deadlines and avoiding f
 
 Many riders find that midweek days with predictable starts work better than Mondays or Fridays. A Wednesday with no early meetings may be a much safer choice than a Monday packed with commitments.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2c5_nzNwwyY" title="Make commuting by bike first choice | Cycling UK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2c5_nzNwwyY" target="_blank" rel="noopener noreferrer">Make commuting by bike first choice | Cycling UK</a></p><p class="youtube-embed-meta">Channel: Cycling UK &middot; Views: 369 &middot; Uploaded: September 2020 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2c5_nzNwwyY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2c5_nzNwwyY">Open on YouTube</a></p></div></div></div>
 
 ### Weather Exposure
@@ -323,7 +321,6 @@ People often overestimate how much [motivation]({{ 'motivation/' | relative_url 
 
 Pay attention to your personal rhythm:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * If Mondays are mentally exhausting, avoid making them ride days initially.
@@ -334,14 +331,12 @@ Pay attention to your personal rhythm:
 
 This approach aligns with broader evidence on exercise adherence, which suggests that behaviours are maintained more successfully when they fit existing routines and recovery patterns rather than competing against them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">by MAV da Silva · 2018 · Cited by 103 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-2-dark.svg" | relative_url }}" alt="Ride Days illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Which Days Usually Work Best?
 
 There is no universal answer, but several patterns appear repeatedly among successful commuters.
 
 **Good first choices often include:**
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -355,7 +350,6 @@ There is no universal answer, but several patterns appear repeatedly among succe
 
 **Higher-risk starter days often include:**
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Mondays after busy weekends.
@@ -367,8 +361,7 @@ There is no universal answer, but several patterns appear repeatedly among succe
 
 This does not mean those days can never become commuting days. It simply means they are poor places to begin.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DFklEXl18pY" title="Supercharge your commute! | Top tips for commuting success" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DFklEXl18pY" target="_blank" rel="noopener noreferrer">Supercharge your commute! | Top tips for commuting success</a></p><p class="youtube-embed-meta">Channel: road.cc &middot; Views: 15.8K &middot; Uploaded: March 2021 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DFklEXl18pY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DFklEXl18pY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T6XCmzUTtdY" title="10 cycle commuting mistakes, and how to fix them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T6XCmzUTtdY" target="_blank" rel="noopener noreferrer">10 cycle commuting mistakes, and how to fix them</a></p><p class="youtube-embed-meta">Channel: road.cc &middot; Views: 34.2K &middot; Uploaded: November 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T6XCmzUTtdY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T6XCmzUTtdY">Open on YouTube</a></p></div></div></div>
 
 ## A Gradual Progression from Trial Ride to Routine
 
@@ -388,7 +381,6 @@ Once one day feels routine, add a second day that has similar characteristics.
 
 Many people find that two non-consecutive days work better than two back-to-back days. The gap allows recovery, reduces pressure and provides flexibility when schedules change.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-3-dark.svg" | relative_url }}" alt="Ride Days illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_choosing_commute_day_347715-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Stage 3: The Stable Pattern
 
@@ -406,9 +398,7 @@ The strongest cycle commuting schedule is not the one with the most ride days on
 
 A rider who successfully cycles every Tuesday and Thursday for six months builds a far more durable habit than someone who attempts five days per week, struggles for three weeks and stops. Commuting behaviour is highly habitual, and long-term change depends on repeatedly executing a realistic plan until it becomes part of normal life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">by MAV da Silva · 2018 · Cited by 103 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed When choosing workdays to cycle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — For self-efficacious individuals who...</span></span></span>, the question is not, “How many days can I manage at my most motivated?” The better question is, “Which days will I still ride when work becomes complicated?” That answer usually marks the beginning of a commuting habit that lasts.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T6XCmzUTtdY" title="10 cycle commuting mistakes, and how to fix them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T6XCmzUTtdY" target="_blank" rel="noopener noreferrer">10 cycle commuting mistakes, and how to fix them</a></p><p class="youtube-embed-meta">Channel: road.cc &middot; Views: 34.2K &middot; Uploaded: November 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T6XCmzUTtdY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T6XCmzUTtdY">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PyNG52q4Om4" title="5 Tips For Commuting By Bike" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PyNG52q4Om4" target="_blank" rel="noopener noreferrer">5 Tips For Commuting By Bike</a></p><p class="youtube-embed-meta">Channel: Onemorecyclist &middot; Views: 1.9K &middot; Uploaded: March 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PyNG52q4Om4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PyNG52q4Om4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /self-help-myths/
 nav_short_title: If Then Plans
 title: The If Then Plan That Beats Good Intentions
-title_full: The If Then Plan That Beats Good Intentions | Self Help Myths
+title_full: The If Then Plan That Beats Good Intentions
 display_title_short: If Then Plans
 display_title: If Then Plans
 heading_title: The If Then Plan That Beats Good Intentions
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 14:53:27'
-parent_title: Which Self Help Promises Should You Doubt? | Better Change
+parent_title: Which Self Help Promises Should You Doubt?
 parent_permalink: /self-help-myths/
 parent_nav_short_title: Self Help Myths
 parent_heading_title: Which Self Help Promises Should You Doubt?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_if_then
 
 One of the most persistent myths in self-help is that wanting change strongly enough is the same as being prepared to change. People set goals such as “exercise more”, “stop procrastinating”, “eat better” or “use my phone less”, then interpret failure as a lack of [motivation]({{ 'motivation/' | relative_url }}) when those goals do not survive contact with everyday life.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_if_then_plans_58a9d0-Illustration-1-dark.svg" | relative_url }}" alt="If Then Plans illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_if_then_plans_58a9d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_if_then_plans_58a9d0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on implementation intentions suggests a different explanation. A goal tells you what you want. An implementation intention specifies what you will do when a particular situation occurs. Instead of “I will study more”, the plan becomes “If it is 7:00 p.m. on weekdays, then I will sit at my desk and work on my coursework for 30 minutes.” This seemingly small shift helps close the gap between intention and action by linking a cue to a specific response. Across dozens of studies, implementation intentions have consistently improved goal attainment compared with relying on goal intentions alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitate...</span></span></span>
 
@@ -306,7 +305,6 @@ The “if” identifies a cue. The “then” identifies a response.
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * If I finish breakfast, then I will take my vitamins.
@@ -318,7 +316,6 @@ For example:
 Research suggests that these plans work because they make critical situations more mentally accessible and reduce the need for deliberation in the moment. Rather than asking, “Should I do the thing now?”, the cue automatically triggers the planned response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitate...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 125 — This distinction between goal intentions and im...</span></span></span>
 
 This is a fundamentally different approach from motivational self-help. Motivation tries to increase desire. Implementation intentions focus on execution.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UI8Mlh99QGg" title="James Clear Explains How to Build Habits That Stick With One Simple Planning Trick || MasterClass" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UI8Mlh99QGg" target="_blank" rel="noopener noreferrer">James Clear Explains How to Build Habits That Stick With One Simple Planning Trick || MasterClass</a></p><p class="youtube-embed-meta">Channel: MasterClass &middot; Views: 30.6K &middot; Uploaded: March 2026 &middot; Length: 3 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UI8Mlh99QGg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UI8Mlh99QGg">Open on YouTube</a></p></div></div></div>
 
@@ -340,7 +337,6 @@ A major meta-analysis covering 94 studies found that forming implementation inte
 
 Researchers have observed benefits in areas including:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Exercise and physical activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — Relative to regular encoding methods that do not employ the if-then format, implementation intenti...</span></span></span>
@@ -361,12 +357,11 @@ A vague goal:
 
 > I want to work out more.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[An implementation intention:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intentionAn implementation intention is a self-regulatory strategy in the form of if-then-plans that can lead to better...</span></span></span>
+An implementation intention: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intentionAn implementation intention is a self-regulatory strategy in the form of if-then-plans that can lead to better...</span></span></span>
 
 > If it is Monday, Wednesday or Friday at 6:00 p.m., then I will go directly from work to the gym before returning home.
 
 Notice that the cue is specific and observable. There is little room for negotiation.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_if_then_plans_58a9d0-Illustration-2-dark.svg" | relative_url }}" alt="If Then Plans illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_if_then_plans_58a9d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_if_then_plans_58a9d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Studying
@@ -375,7 +370,7 @@ A vague goal:
 
 > I need to stop procrastinating.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[An implementation intention:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intentionAn implementation intention is a self-regulatory strategy in the form of if-then-plans that can lead to better...</span></span></span>
+An implementation intention: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intentionAn implementation intention is a self-regulatory strategy in the form of if-then-plans that can lead to better...</span></span></span>
 
 > If I sit down at my desk after dinner, then I will work on my assignment for 25 minutes before checking any messages.
 
@@ -387,12 +382,11 @@ A vague goal:
 
 > I will eat healthier.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[An implementation intention:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intentionAn implementation intention is a self-regulatory strategy in the form of if-then-plans that can lead to better...</span></span></span>
+An implementation intention: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intentionAn implementation intention is a self-regulatory strategy in the form of if-then-plans that can lead to better...</span></span></span>
 
 > If I prepare lunch for work, then I will include one piece of fruit and one serving of vegetables.
 
 Research suggests implementation intentions are particularly effective at increasing healthy food choices, though the effects are somewhat stronger for adding healthy behaviours than for eliminating unhealthy ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Implementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5043 — The idea tested in the...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5g2Kyc8Ra5U" title="Habit Stacking: Structure Your Day for Peak Focus | James Clear &amp; Dr. Andrew Huberman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5g2Kyc8Ra5U" target="_blank" rel="noopener noreferrer">Habit Stacking: Structure Your Day for Peak Focus | James Clear &amp; Dr. Andrew Huberman</a></p><p class="youtube-embed-meta">Channel: Huberman Lab Clips &middot; Views: 349.2K &middot; Uploaded: April 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5g2Kyc8Ra5U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5g2Kyc8Ra5U">Open on YouTube</a></p></div></div></div>
 
@@ -402,7 +396,7 @@ A vague goal:
 
 > I should spend less time on my phone.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[An implementation intention:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intentionAn implementation intention is a self-regulatory strategy in the form of if-then-plans that can lead to better...</span></span></span>
+An implementation intention: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intentionAn implementation intention is a self-regulatory strategy in the form of if-then-plans that can lead to better...</span></span></span>
 
 > If I pick up my phone during focused work hours, then I will check whether it relates to the task and put it down if it does not.
 
@@ -426,14 +420,12 @@ Or:
 
 Researchers sometimes refer to these as coping plans because they anticipate barriers rather than merely scheduling action. The central idea remains the same: identify the cue and decide the response before the situation occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment39</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</span></span></span> University Press & Assessment
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_if_then_plans_58a9d0-Illustration-3-dark.svg" | relative_url }}" alt="If Then Plans illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_if_then_plans_58a9d0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_if_then_plans_58a9d0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Limits of If-Then Planning
 
 Implementation intentions are powerful, but they are not a substitute for motivation, resources or realistic goals.
 
 Research suggests they work best when people already possess a genuine goal they care about. An if-then plan cannot create commitment where none exists. It helps translate commitment into action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> ResearchGate They are also less useful when: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitate...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -452,9 +444,7 @@ The contrast between vague goals and implementation intentions captures a broade
 
 The self-help myth says success comes from wanting something badly enough. The evidence points elsewhere. People are more likely to change when they decide in advance what they will do when the critical moment arrives. An if-then plan may feel less inspiring than a grand declaration, but it is far closer to how behaviour actually changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Implementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5043 — The idea tested in the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitate...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v2T0d2NE9q0" title="How to Actually Stick to Your Goals: The Psychology of Implementation Intentions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v2T0d2NE9q0" target="_blank" rel="noopener noreferrer">How to Actually Stick to Your Goals: The Psychology of Implementation Intentions</a></p><p class="youtube-embed-meta">Channel: Mindset Psychology &middot; Views: 185 &middot; Uploaded: June 2025 &middot; Length: 4 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v2T0d2NE9q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v2T0d2NE9q0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1034,4 +1024,4 @@ The self-help myth says success comes from wanting something badly enough. The e
    Title: Implementation Intentions (If-Then Planning)  
    Link: <a href="https://habitdex.com/methods/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://habitdex.com/methods/implementation-intentions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 May 2026 — Gollwitzer and Sheeran&#x27;s 2006 meta-analysis reviewed 94 studies with over 8,000 participants and found a medium-to...</p></details>
-   Published: May 2026  
+   Published: May 2026

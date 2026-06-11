@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /environment/
 nav_short_title: Friction Audit
 title: Find the hidden friction breaking your habits
-title_full: Find the hidden friction breaking your habits | Environment
+title_full: Find the hidden friction breaking your habits
 display_title_short: Friction Audit
 display_title: Friction Audit
 heading_title: Find the hidden friction breaking your habits
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:18:35'
-parent_title: Why Your Room May Matter More Than Willpower | Better Change
+parent_title: Why Your Room May Matter More Than Willpower
 parent_permalink: /environment/
 parent_nav_short_title: Environment
 parent_heading_title: Why Your Room May Matter More Than Willpower
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_environment_design_133edb_fric
 
 A friction audit is a simple investigation into why a habit fails at the exact moment it is supposed to happen. Instead of asking, “Why am I not motivated?”, it asks, “What made this action slightly harder than it needed to be?”
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_friction_audit_habit_54488d-Illustration-1-dark.svg" | relative_url }}" alt="Friction Audit illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_friction_audit_habit_54488d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_friction_audit_habit_54488d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because many habits collapse long before [motivation]({{ 'motivation/' | relative_url }}) becomes the main problem. A workout routine fails because gym clothes are buried in a drawer. A reading habit fails because choosing a book takes longer than opening a social media app. A healthy lunch plan fails because ingredients were not prepared the night before. Each obstacle is tiny on its own, yet repeated daily it becomes decisive.
 
@@ -285,7 +284,6 @@ Most people notice obvious obstacles but miss the small forms of friction that a
 **Effort barriers** involve physical action.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -302,7 +300,6 @@ Each extra action increases the chance of abandoning the habit. Research and beh
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Waiting for software to load.
@@ -318,7 +315,6 @@ People often assume a five-minute delay is insignificant. In practice, habits ar
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Which exercise should I do?
@@ -332,7 +328,6 @@ Every unresolved choice creates cognitive effort. The person has not failed the 
 
 A common mistake is assuming that a habit failed because of low commitment when the real problem was a chain of minor effort, time and decision costs that appeared together.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cPpO5GQHFsc" title="Nudge / Nudging - Changing behavior through choice architecture : Part 1 | JDM Week 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cPpO5GQHFsc" target="_blank" rel="noopener noreferrer">Nudge / Nudging - Changing behavior through choice architecture : Part 1 | JDM Week 4</a></p><p class="youtube-embed-meta">Channel: Gilad Feldman &middot; Views: 191 &middot; Uploaded: September 2022 &middot; Length: 1 hour 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cPpO5GQHFsc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cPpO5GQHFsc">Open on YouTube</a></p></div></div></div>
 
 ## Mapping the first thirty seconds of a habit
@@ -344,7 +339,6 @@ People typically analyse the entire habit. The better question is what happens i
 Suppose the intended habit is reading before bed.
 
 The audit might look like this:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -361,7 +355,6 @@ The audit might look like this:
 The failure did not occur because reading was impossible. It failed because several small obstacles appeared before the desired behaviour gained momentum.
 
 Now consider the same habit after an audit:
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_friction_audit_habit_54488d-Illustration-2-dark.svg" | relative_url }}" alt="Friction Audit illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_friction_audit_habit_54488d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_friction_audit_habit_54488d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -385,7 +378,6 @@ Consider someone who plans to exercise each morning.
 
 They might conclude:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * "I am inconsistent."
@@ -408,7 +400,6 @@ This perspective aligns with broader research on choice architecture and environ
 
 The risk is not that friction is dramatic. The risk is that it is easy to overlook.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y56WxOQAzoA" title="How to Train Your Brain to Crave Doing Hard Things" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y56WxOQAzoA" target="_blank" rel="noopener noreferrer">How to Train Your Brain to Crave Doing Hard Things</a></p><p class="youtube-embed-meta">Channel: Dr. Izzy Sealey &middot; Views: 178.9K &middot; Uploaded: May 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y56WxOQAzoA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y56WxOQAzoA">Open on YouTube</a></p></div></div></div>
 
 ## Removing one obstacle without redesigning your life
@@ -425,7 +416,6 @@ Behaviour-design research consistently emphasises making desired actions easier.
 
 One removed obstacle is often more valuable than a new productivity system.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_friction_audit_habit_54488d-Illustration-3-dark.svg" | relative_url }}" alt="Friction Audit illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_friction_audit_habit_54488d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_friction_audit_habit_54488d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The friction audit question that changes behaviour
 
@@ -441,9 +431,7 @@ That question shifts attention from personal shortcomings to environmental desig
 
 In practice, successful habits are often less a triumph of [willpower]({{ 'willpower/' | relative_url }}) than the result of removing enough friction that the desired action becomes the easiest thing to do next. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviormodel.org">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviormodel.org</span><span class="citation-popover-snippet">Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.suebehaviouraldesign.com/en/blog/friction-in-behavioural-design-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: suebehaviouraldesign.com">[2suebehaviouraldesign.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">suebehaviouraldesign.com</span><span class="citation-popover-snippet">Friction in Behavioural Design: Good friction and sludge20 Feb 2026 — Reducing friction makes desired behaviour more likely; adding frict...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BC457w90GxU" title="Use AI to Build Discipline, Not Motivation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BC457w90GxU" target="_blank" rel="noopener noreferrer">Use AI to Build Discipline, Not Motivation</a></p><p class="youtube-embed-meta">Channel: Izak Hatton &middot; Views: 121 &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BC457w90GxU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BC457w90GxU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

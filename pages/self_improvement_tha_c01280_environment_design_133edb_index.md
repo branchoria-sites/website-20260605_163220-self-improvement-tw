@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280/
 description: Focused pages that expand on Environment.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: self_improvement_tha_c01280_environment_design_133edb
-parent_title: Environment | Self Improvement That Works
+parent_title: Environment
 parent_nav_short_title: Environment
 parent_permalink: /environment/
 ---

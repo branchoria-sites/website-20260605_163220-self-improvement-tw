@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /tracking/
 nav_short_title: Warning Signs
 title: When tracking starts running your life
-title_full: When tracking starts running your life | Tracking
+title_full: When tracking starts running your life
 display_title_short: Warning Signs
 display_title: Warning Signs
 heading_title: When tracking starts running your life
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:17:12'
-parent_title: What Should You Track to Actually Change? | Better Change
+parent_title: What Should You Track to Actually Change?
 parent_permalink: /tracking/
 parent_nav_short_title: Tracking
 parent_heading_title: What Should You Track to Actually Change?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_self_monitoring_416032_trackin
 
 Self-monitoring is supposed to [support]({{ 'support/' | relative_url }}) [behaviour change]({{ 'behaviour-change/' | relative_url }}). It helps you notice patterns, stay honest about what you are doing and make adjustments when something is not working. The problem begins when the tracking system becomes more important than the behaviour it was designed to support. Instead of creating clarity, it creates anxiety. Instead of informing decisions, it demands constant attention.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_tracking_warning_sig_33b9fa-Illustration-1-dark.svg" | relative_url }}" alt="Warning Signs illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_tracking_warning_sig_33b9fa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_tracking_warning_sig_33b9fa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on self-tracking consistently finds benefits when monitoring increases awareness and supports action. At the same time, researchers and clinicians have identified downsides when tracking becomes a source of stress, obligation, compulsive checking or self-judgement. The warning signs are often subtle at first: more checking, more rules, more emotional dependence on the numbers, and less attention to real-world behaviour and outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11897847/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAdherence to self‐monitoring and behavioral goals is</span><span class="citation-popover-snippet">by LE Burke · 2025 · Cited by 11 — Providing proximal feedback (FB) to self‐monitoring (SM) can improve adherence, as well as adherenc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10508422.2022.2082969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">Taylor &amp; Francis Online The ethics of self-tracking</span><span class="citation-popover-snippet">A comprehensive review...by M Wieczorek · 2023 · Cited by 52 — This paper presents a literature review on the ethics of self-tracking te...</span></span></span>
 
@@ -310,7 +309,6 @@ Common examples include:
 
 The warning sign is not [frequency]({{ 'frequency/' | relative_url }}) alone. It is frequency without action. If checking has become disconnected from decision-making, the monitoring system may be consuming attention without creating value.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B-kaXpCSfQA" title="ACT for OCD: Behavior Tracking and the Self-Monitoring Form" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B-kaXpCSfQA" target="_blank" rel="noopener noreferrer">ACT for OCD: Behavior Tracking and the Self-Monitoring Form</a></p><p class="youtube-embed-meta">Channel: Psychotherapy Academy &middot; Views: 1.2K &middot; Uploaded: September 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B-kaXpCSfQA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B-kaXpCSfQA">Open on YouTube</a></p></div></div></div>
 
 ### When the numbers control your mood
@@ -335,7 +333,6 @@ Researchers studying self-quantification have observed that self-tracking can sh
 
 Several warning signs tend to appear together:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Untracked behaviour feels meaningless.
@@ -348,7 +345,6 @@ Several warning signs tend to appear together:
 
 When this happens, the metric has stopped being a tool and started becoming a substitute for judgement.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_tracking_warning_sig_33b9fa-Illustration-2-dark.svg" | relative_url }}" alt="Warning Signs illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_tracking_warning_sig_33b9fa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_tracking_warning_sig_33b9fa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Rigid rules are replacing adaptation
 
@@ -357,7 +353,6 @@ Behaviour change requires flexibility. Life changes, environments change and goa
 Obsessive tracking often produces the opposite effect. The system becomes increasingly rigid. Rules that began as helpful reminders become requirements. Exceptions become failures.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -372,8 +367,7 @@ Research on the "dark side" of health and fitness technologies has highlighted c
 
 The practical warning sign is simple: the system becomes harder to bend than the behaviour it is supposed to support.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OjJj2Ilrtpg" title="Has Monitoring Health Data With Fitness Trackers Gone Too Far?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OjJj2Ilrtpg" target="_blank" rel="noopener noreferrer">Has Monitoring Health Data With Fitness Trackers Gone Too Far?</a></p><p class="youtube-embed-meta">Channel: TODAY &middot; Views: 2.7K &middot; Uploaded: June 2025 &middot; Length: 4 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OjJj2Ilrtpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OjJj2Ilrtpg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sfvkTAbWkE0" title="Food Anxiety: Is It OCD, ARFID, or an Eating Disorder? (Find Your Diagnosis)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sfvkTAbWkE0" target="_blank" rel="noopener noreferrer">Food Anxiety: Is It OCD, ARFID, or an Eating Disorder? (Find Your Diagnosis)</a></p><p class="youtube-embed-meta">Channel: Your Anxiety Toolkit &middot; Views: 1.1K &middot; Uploaded: July 2025 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sfvkTAbWkE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sfvkTAbWkE0">Open on YouTube</a></p></div></div></div>
 
 ## When the cost of tracking exceeds the value
 
@@ -384,7 +378,6 @@ It takes time to enter data, review information, maintain devices and interpret 
 People engaged in long-term self-tracking frequently report burden, emotional effort and fatigue associated with maintaining records and interpreting data. Some studies describe self-tracking as requiring substantial ongoing cognitive and emotional work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11897847/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAdherence to self‐monitoring and behavioral goals is</span><span class="citation-popover-snippet">by LE Burke · 2025 · Cited by 11 — Providing proximal feedback (FB) to self‐monitoring (SM) can improve adherence, as well as adherenc...</span></span></span>
 
 Warning signs include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -397,7 +390,6 @@ Warning signs include:
 </div>
 
 A useful metric earns its place. If removing a metric would not change any decisions, it may no longer deserve attention.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_tracking_warning_sig_33b9fa-Illustration-3-dark.svg" | relative_url }}" alt="Warning Signs illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_tracking_warning_sig_33b9fa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_tracking_warning_sig_33b9fa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to reset the system around signals, not scores
@@ -424,9 +416,7 @@ A simple rule captures the difference between healthy and obsessive tracking:
 
 If removing the tracker would stop the behaviour, the tracker has become too important. If removing the tracker would merely reduce your awareness, the tracker is probably still serving its intended role.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sfvkTAbWkE0" title="Food Anxiety: Is It OCD, ARFID, or an Eating Disorder? (Find Your Diagnosis)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sfvkTAbWkE0" target="_blank" rel="noopener noreferrer">Food Anxiety: Is It OCD, ARFID, or an Eating Disorder? (Find Your Diagnosis)</a></p><p class="youtube-embed-meta">Channel: Your Anxiety Toolkit &middot; Views: 1.1K &middot; Uploaded: July 2025 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sfvkTAbWkE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sfvkTAbWkE0">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OjJj2Ilrtpg" title="Has Monitoring Health Data With Fitness Trackers Gone Too Far?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OjJj2Ilrtpg" target="_blank" rel="noopener noreferrer">Has Monitoring Health Data With Fitness Trackers Gone Too Far?</a></p><p class="youtube-embed-meta">Channel: TODAY &middot; Views: 2.7K &middot; Uploaded: June 2025 &middot; Length: 4 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OjJj2Ilrtpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OjJj2Ilrtpg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -545,15 +535,15 @@ If removing the tracker would stop the behaviour, the tracker has become too imp
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reward Chart &amp; Progress Tracker A4 Goal and Habit Tracking Chart for Home Study"><img src="https://i.ebayimg.com/images/g/OtUAAeSwmgFpfDHa/s-l225.jpg" alt="Listing image for Reward Chart &amp; Progress Tracker A4 Goal and Habit Tracking Chart for Home Study" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Essential Easy Tarot Cards Kit Includes Jumbo Deck Card and 64 Page i | Top That"><img src="https://i.ebayimg.com/images/g/2j8AAOSwXwtmx7iQ/s-l225.jpg" alt="Listing image for Essential Easy Tarot Cards Kit Includes Jumbo Deck Card and 64 Page i | Top That" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">Reward Chart &amp; Progress Tracker A4 Goal and Habit Tracking Chart for Home Study</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" target="_blank" rel="sponsored noopener noreferrer">Essential Easy Tarot Cards Kit Includes Jumbo Deck Card and 64 Page i | Top That</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mindfulness cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: mindfulness cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,15 +551,15 @@ If removing the tracker would stop the behaviour, the tracker has become too imp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elegant Pink Weight Loss Chart - Personalised A4 Motivation for Success"><img src="https://i.ebayimg.com/images/g/-3cAAeSwxO5ptLzR/s-l225.jpg" alt="Listing image for Elegant Pink Weight Loss Chart - Personalised A4 Motivation for Success" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 50 Positive Affirmation Cards Self Care Mindfulness Deck Gift"><img src="https://i.ebayimg.com/images/g/ICAAAeSwmzZpoHyV/s-l225.jpg" alt="Listing image for 50 Positive Affirmation Cards Self Care Mindfulness Deck Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">Elegant Pink Weight Loss Chart - Personalised A4 Motivation for Success</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" target="_blank" rel="sponsored noopener noreferrer">50 Positive Affirmation Cards Self Care Mindfulness Deck Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mindfulness cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: mindfulness cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -577,15 +567,15 @@ If removing the tracker would stop the behaviour, the tracker has become too imp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Workout Chart Track Fitness Goal Printable A4 Personalised"><img src="https://i.ebayimg.com/images/g/O84AAOSws~FmQOvp/s-l225.jpg" alt="Listing image for Weekly Workout Chart Track Fitness Goal Printable A4 Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Tapping Solution&#x27;s Daily Guidance by Jessica Ortner Cards"><img src="https://i.ebayimg.com/images/g/MfoAAeSwu3hob3V8/s-l225.jpg" alt="Listing image for The Tapping Solution&#x27;s Daily Guidance by Jessica Ortner Cards" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">Weekly Workout Chart Track Fitness Goal Printable A4 Personalised</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" target="_blank" rel="sponsored noopener noreferrer">The Tapping Solution&#x27;s Daily Guidance by Jessica Ortner Cards</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mindfulness cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: mindfulness cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -593,15 +583,15 @@ If removing the tracker would stop the behaviour, the tracker has become too imp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dry Erase Goal Setting Fundraising Thermometer Chart Blue 50&quot; x 12&quot;,"><img src="https://i.ebayimg.com/images/g/s08AAeSwTpdpdTGN/s-l225.jpg" alt="Listing image for Dry Erase Goal Setting Fundraising Thermometer Chart Blue 50&quot; x 12&quot;," loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mindful Talk - 50 Question Cards | Emotional Intelligence Family Game UK Seller"><img src="https://i.ebayimg.com/images/g/GLkAAeSwEjNoiKzx/s-l225.jpg" alt="Listing image for Mindful Talk - 50 Question Cards | Emotional Intelligence Family Game UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">Dry Erase Goal Setting Fundraising Thermometer Chart Blue 50&quot; x 12&quot;,</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" target="_blank" rel="sponsored noopener noreferrer">Mindful Talk - 50 Question Cards | Emotional Intelligence Family Game UK Seller</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mindfulness cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: mindfulness cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -609,7 +599,7 @@ If removing the tracker would stop the behaviour, the tracker has become too imp
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="when-tracking-starts-running-your-life-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mindfulness+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tracking-starts-running-your-life-mindfulness-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mindfulness cards" data-ebay-reference="when-tracking-starts-running-your-life-mindfulness-cards" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -819,6 +809,7 @@ If removing the tracker would stop the behaviour, the tracker has become too imp
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

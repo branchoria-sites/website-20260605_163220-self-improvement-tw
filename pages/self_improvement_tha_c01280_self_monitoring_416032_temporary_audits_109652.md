@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /tracking/
 nav_short_title: Temporary Audits
 title: Track intensely, then stop
-title_full: Track intensely, then stop | Tracking
+title_full: Track intensely, then stop
 display_title_short: Temporary Audits
 display_title: Temporary Audits
 heading_title: Track intensely, then stop
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:17:06'
-parent_title: What Should You Track to Actually Change? | Better Change
+parent_title: What Should You Track to Actually Change?
 parent_permalink: /tracking/
 parent_nav_short_title: Tracking
 parent_heading_title: What Should You Track to Actually Change?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_self_monitoring_416032_tempora
 
 Self-monitoring works best when it solves a specific mystery and then gets out of the way. Many people assume that lasting improvement requires permanent tracking of spending, screen time or food intake. In practice, a short, focused audit is often enough. A temporary audit creates a burst of visibility: it reveals where money disappears, when screen use becomes automatic, or which situations trigger overeating. Once the pattern is clear, the tracking can usually be simplified or stopped.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_temporary_audits_109652-Illustration-1-dark.svg" | relative_url }}" alt="Temporary Audits illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_temporary_audits_109652-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_temporary_audits_109652-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This approach fits the broader principle of self-monitoring without obsession. The goal is not to collect endless data. The goal is to gather enough evidence to identify a leverage point, make a change, and return attention to living rather than measuring. Research on self-monitoring consistently finds that recording behaviour increases awareness and often changes behaviour by itself, but maintaining intensive tracking indefinitely can become burdensome and reduce adherence over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2855299/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Experiences of Self-Monitoring: Successes and Struggles...by LE Burke · 2009 · Cited by 220 — Participants provided retrospective ref...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/17/20/7488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Promotion of Eating Behaviour Change through Digital...by Y Chen · 2020 · Cited by 90 — The conventional and most common manner of s...</span></span></span>
 
@@ -285,7 +284,6 @@ This approach fits the broader principle of self-monitoring without obsession. T
 A temporary audit is most useful when a problem feels vague.
 
 People often say:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,7 +299,6 @@ A brief audit replaces assumptions with evidence. Instead of asking, “Why am I
 
 A useful audit usually lasts long enough to capture normal life but not so long that recording becomes a second job. For many habits, one to four weeks is sufficient to reveal recurring patterns. The purpose is diagnosis, not lifelong surveillance.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HfO8CDrXWLQ" title="How to Run a Monthly Life Audit (The Routine That Helped Me Quit My Job)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HfO8CDrXWLQ" target="_blank" rel="noopener noreferrer">How to Run a Monthly Life Audit (The Routine That Helped Me Quit My Job)</a></p><p class="youtube-embed-meta">Channel: Jennifer Madison &middot; Views: 6.8K &middot; Uploaded: May 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HfO8CDrXWLQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HfO8CDrXWLQ">Open on YouTube</a></p></div></div></div>
 
 ## Spending Audits: Finding the Leak Rather Than Tracking Forever
@@ -309,7 +306,6 @@ A useful audit usually lasts long enough to capture normal life but not so long 
 Many spending problems are driven less by large purchases than by recurring frictionless expenses. A two- or three-week spending audit can expose patterns that bank statements alone may not make obvious.
 
 The most useful version is often simple:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -322,7 +318,6 @@ The most useful version is often simple:
 The goal is not detailed accounting. It is identifying triggers.
 
 For example, an audit may reveal that most unplanned spending occurs:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -337,7 +332,6 @@ Once the pattern appears, the intervention usually becomes obvious. The solution
 
 The audit succeeds when it uncovers the handful of behaviours producing most of the result.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LsAbONAwkpo" title="Here&#x27;s How to Do a Life Audit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LsAbONAwkpo" target="_blank" rel="noopener noreferrer">Here&#x27;s How to Do a Life Audit</a></p><p class="youtube-embed-meta">Channel: Owen Fitzpatrick &middot; Views: 706 &middot; Uploaded: December 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LsAbONAwkpo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LsAbONAwkpo">Open on YouTube</a></p></div></div></div>
 
 ## Screen-Time Audits: Measuring Automatic Use
@@ -347,7 +341,6 @@ Screen habits are particularly difficult to estimate accurately because much dev
 A screen-time audit works best when it focuses on context rather than total hours alone.
 
 Useful questions include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -366,14 +359,12 @@ Short-term reductions in screen use have also been associated with improvements 
 
 The key insight usually arrives before the tracking period ends: a person discovers the moments that generate most of the unnecessary use.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_temporary_audits_109652-Illustration-2-dark.svg" | relative_url }}" alt="Temporary Audits illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_temporary_audits_109652-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_temporary_audits_109652-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Food Audits: Looking for Patterns, Not Perfect Records
 
 Food tracking can be valuable when the goal is discovery rather than control.
 
 A temporary food audit is especially useful when someone wants to understand:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -388,7 +379,6 @@ Food diaries have long been used in behavioural nutrition because recording inta
 
 For a short diagnostic period, recording a few additional details often matters more than counting every calorie:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * Time of eating.
@@ -402,7 +392,6 @@ For a short diagnostic period, recording a few additional details often matters 
 A person may discover that evening overeating follows skipped lunches, or that afternoon fatigue appears on days with very little protein, or that snacking increases during specific work tasks.
 
 Research on dietary self-monitoring shows that it is a powerful behaviour-change tool, but sustained detailed logging can become difficult to maintain. Many interventions therefore seek ways to reduce monitoring burden once useful awareness has been established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7350526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Because of this, diet assessment is an important component of public</span><span class="citation-popover-snippet">Self-Reported Dietary Instruments Are Prone to...by MN Ravelli · 2020 · Cited by 401 — Background: Diet is a modifiable behavior that in...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/17/20/7488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Promotion of Eating Behaviour Change through Digital...by Y Chen · 2020 · Cited by 90 — The conventional and most common manner of s...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yB1L81EVPog" title="How To Do A Food Waste Audit At Home" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yB1L81EVPog" target="_blank" rel="noopener noreferrer">How To Do A Food Waste Audit At Home</a></p><p class="youtube-embed-meta">Channel: Love Food Hate Waste New Zealand &middot; Views: 908 &middot; Uploaded: February 2018 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yB1L81EVPog" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yB1L81EVPog">Open on YouTube</a></p></div></div></div>
 
@@ -427,7 +416,6 @@ Audit findingSimplified ongoing approachMost overspending happens after workWeek
 The shift is important because the goal of self-monitoring is behaviour change, not data collection. Research on dietary monitoring and other forms of self-tracking repeatedly finds that adherence falls as tracking becomes more demanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3269781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">However, the effects are generally</span><span class="citation-popover-snippet">and its association with body mass index across...by SI Kirkpatrick · 2012 · Cited by 15 — The results suggest inconsistent reactivity a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2072-6643/13/4/1135" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Relative Validity of MijnEetmeter: A Food Diary App for Self...by M Ocké · 2021 · Cited by 31 — This study aimed to evaluate the relativ...</span></span></span>
 
 A good rule is this: when new entries stop producing new insights, the audit phase is probably finished.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_temporary_audits_109652-Illustration-3-dark.svg" | relative_url }}" alt="Temporary Audits illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_temporary_audits_109652-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_temporary_audits_109652-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Track Until You Learn Something

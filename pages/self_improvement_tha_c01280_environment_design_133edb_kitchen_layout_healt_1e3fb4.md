@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /environment/
 nav_short_title: Kitchen Cues
 title: Can your kitchen make eating well easier?
-title_full: Can your kitchen make eating well easier? | Environment
+title_full: Can your kitchen make eating well easier?
 display_title_short: Kitchen Cues
 display_title: Kitchen Cues
 heading_title: Can your kitchen make eating well easier?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:18:24'
-parent_title: Why Your Room May Matter More Than Willpower | Better Change
+parent_title: Why Your Room May Matter More Than Willpower
 parent_permalink: /environment/
 parent_nav_short_title: Environment
 parent_heading_title: Why Your Room May Matter More Than Willpower
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_environment_design_133edb_kitc
 
 Healthy eating often begins before a person consciously decides what to eat. The layout of a kitchen influences what gets noticed first, what is easiest to reach, and what feels convenient enough to repeat. In practice, this means that the position of foods, containers and snacks can shape daily eating patterns with far less effort than most people realise. Research on food environments consistently finds that visibility, proximity and ease of access influence consumption, while healthier home food environments are associated with better dietary quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0013916512442892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsProximity and Visibility of Fruits and Vegetables Influence...17 Apr 2012 — The results showed that placing apple slices an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Home food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-1-dark.svg" | relative_url }}" alt="Kitchen Cues illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader idea of designing environments instead of relying on [willpower]({{ 'willpower/' | relative_url }}), the kitchen is one of the most powerful places to intervene. Small layout changes can make healthy foods the default option and create useful friction around less nutritious choices.
 
@@ -287,7 +286,6 @@ The key principle is simple: foods that are visible and convenient tend to be ea
 This does not mean every visible food becomes irresistible. Rather, kitchen layouts subtly guide attention. When a person walks into the kitchen, the first foods they encounter become candidates for consumption before deliberate decision-making fully engages. Over weeks and months, those small nudges accumulate into meaningful differences in eating habits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Home food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</span></span></span>
 
 A useful way to think about kitchen design is to ask three questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,7 +303,6 @@ The healthiest kitchens tend to make the answers align with healthy intentions.
 
 Visibility is one of the strongest kitchen cues. Studies examining food environments have repeatedly found that the availability and visibility of foods influence eating behaviour. Homes with greater availability of fruits and vegetables tend to [support]({{ 'support/' | relative_url }}) healthier dietary patterns, while greater availability of sweets and highly processed snacks is associated with less healthy eating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news-medical.net/news/20241218/Home-food-environment-shapes-adolescent-dietary-choices.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news-medical.net">[News-Medical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news-medical.net</span><span class="citation-popover-title">Home food environment shapes adolescent dietary choices</span><span class="citation-popover-snippet">Home food environment shapes adolescent dietary choicesDecember 19, 2024 — 18 Dec 2024 — Key findings reveal that home availa...</span><span class="citation-popover-meta">Published: December 19, 2024</span></span></span> MDPI The practical implication is straightforward: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/21/9/1187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[mdpi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Fostering a...Read more...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Keep fruit visible on a worktop or kitchen table.
@@ -317,7 +314,6 @@ Visibility is one of the strongest kitchen cues. Studies examining food environm
 
 When healthy foods occupy prime visual territory, they become the default option. A bowl of apples on the counter competes effectively for attention because it is seen repeatedly throughout the day. By contrast, vegetables hidden in opaque drawers are easier to forget until they spoil.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ker5wz0jmK0" title="How Your Kitchen Design Influences Your Eating Habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ker5wz0jmK0" target="_blank" rel="noopener noreferrer">How Your Kitchen Design Influences Your Eating Habits</a></p><p class="youtube-embed-meta">Channel: baixu &middot; Views: 45.6K &middot; Uploaded: September 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ker5wz0jmK0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ker5wz0jmK0">Open on YouTube</a></p></div></div></div>
 
 ### What should be less visible?
@@ -327,7 +323,6 @@ The same principle works in reverse.
 Snack foods do not necessarily need to be banned, but moving them out of immediate sight changes the number of eating opportunities they create. Research on home food environments suggests that visible food availability is linked to dietary behaviour and weight-related outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedaily.com/releases/2015/04/150428105631.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedaily.com">[ScienceDaily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedaily.com</span><span class="citation-popover-snippet">Keeping food visible throughout the house is linked to obesity28 Apr 2015 — Researchers have identified two seemingly unrelat...</span></span></span>
 
 Useful changes include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -340,7 +335,6 @@ Useful changes include:
 
 The goal is not deprivation. It is to ensure that healthier foods win the competition for attention.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-2-dark.svg" | relative_url }}" alt="Kitchen Cues illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meal prep containers as friction reducers
 
@@ -349,7 +343,6 @@ A common reason healthy intentions fail is not lack of knowledge but excessive p
 Meal preparation reduces that friction by moving the effort to a planned time rather than a hungry moment. The kitchen layout can support this process by making prepared food highly accessible.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -362,7 +355,6 @@ For example:
 
 When healthy options are already prepared, the distance between intention and action becomes much smaller. This aligns with broader behaviour-design evidence showing that reducing effort increases the likelihood of a behaviour occurring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Home food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lPkkEnHx0I8" title="Simple routines for a healthful kitchen - habits that encourage healthy eating" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lPkkEnHx0I8" target="_blank" rel="noopener noreferrer">Simple routines for a healthful kitchen - habits that encourage healthy eating</a></p><p class="youtube-embed-meta">Channel: Healthy Elizabeth &middot; Views: 25.0K &middot; Uploaded: January 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lPkkEnHx0I8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lPkkEnHx0I8">Open on YouTube</a></p></div></div></div>
 
 ### Designing a "healthy default" shelf
@@ -370,7 +362,6 @@ When healthy options are already prepared, the distance between intention and ac
 One particularly effective arrangement is a dedicated shelf that contains foods requiring no further preparation.
 
 Imagine opening the refrigerator and immediately seeing:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -385,7 +376,6 @@ The decision becomes easier because the healthy option is not merely available; 
 
 This approach also reduces food waste. Foods that are visible and prepared are more likely to be consumed before they spoil, which reinforces the habit over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chear.ucsd.edu/blog/nourishing-spaces-the-art-of-organizing-your-home-for-healthy-eating-success" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chear.ucsd.edu">[Healthy Eating Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chear.ucsd.edu</span><span class="citation-popover-snippet">Healthy Eating ResearchThe Art of Organizing Your Home for Healthy Eating SuccessMarch 29, 2024 — 29 Mar 2024 — Prioritizing Visibility o...</span><span class="citation-popover-meta">Published: March 29, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-3-dark.svg" | relative_url }}" alt="Kitchen Cues illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Snack storage that creates a useful pause
 
@@ -394,7 +384,6 @@ Not every environmental change should make behaviour easier. Sometimes the most 
 The aim is not to make snacks inaccessible but to interrupt automatic consumption.
 
 A useful pause can be created by:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -408,7 +397,6 @@ A useful pause can be created by:
 These changes may seem trivial, yet they matter because many eating decisions are made quickly and with little conscious thought. Every additional step introduces a moment in which a person can decide whether they actually want the food.
 
 Importantly, the friction should remain small. If healthy foods are difficult to access and snacks are easy to access, the [environment]({{ 'environment/' | relative_url }}) is working against the desired habit. If healthy foods are easy and snacks require a brief pause, the environment is working in favour of it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xSr0MvOazIw" title="Setting up your kitchen for healthy eating" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xSr0MvOazIw" target="_blank" rel="noopener noreferrer">Setting up your kitchen for healthy eating</a></p><p class="youtube-embed-meta">Channel: 9NEWS &middot; Views: 311 &middot; Uploaded: January 2022 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xSr0MvOazIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xSr0MvOazIw">Open on YouTube</a></p></div></div></div>
 

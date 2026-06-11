@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-feedback/
 description: Focused pages that expand on Feedback.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: self_improvement_tha_c01280_feedback_loops_fdc3b7
-parent_title: Feedback | Self Improvement That Works
+parent_title: Feedback
 parent_nav_short_title: Feedback
 parent_permalink: /feedback/
 ---

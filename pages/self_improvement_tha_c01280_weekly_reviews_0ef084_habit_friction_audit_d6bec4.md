@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /weekly-review/
 nav_short_title: Friction Audit
 title: The Hidden Steps Breaking Your Habit
-title_full: The Hidden Steps Breaking Your Habit | Weekly Review
+title_full: The Hidden Steps Breaking Your Habit
 display_title_short: Friction Audit
 display_title: Friction Audit
 heading_title: The Hidden Steps Breaking Your Habit
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:18:40'
-parent_title: The Weekly Review That Fixes the Plan | Better Change
+parent_title: The Weekly Review That Fixes the Plan
 parent_permalink: /weekly-review/
 parent_nav_short_title: Weekly Review
 parent_heading_title: The Weekly Review That Fixes the Plan
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_habit_fr
 
 A friction audit is a [weekly review]({{ 'weekly-review/' | relative_url }}) tool for habits that keep feeling harder in real life than they looked on paper. Instead of asking, “Why am I not motivated?”, a friction audit asks, “What extra steps, decisions, delays, tools, or obstacles appeared between the intention and the action?”
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_habit_friction_audit_d6bec4-Illustration-1-dark.svg" | relative_url }}" alt="Friction Audit illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_habit_friction_audit_d6bec4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_habit_friction_audit_d6bec4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because many failed habits are not failing due to weak commitment. [Behaviour change]({{ 'behaviour-change/' | relative_url }}) research consistently shows that actions depend not only on [motivation]({{ 'motivation/' | relative_url }}) but also on how easy the behaviour is to perform in the moment. In the Fogg Behavior Model, behaviour occurs when motivation, ability, and a prompt come together. If a behaviour repeatedly does not happen, the problem is often hidden difficulty rather than a lack of desire. <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span>
 
@@ -291,7 +290,6 @@ A person may believe they failed because they did not go for a run. In reality, 
 This accumulation effect is what makes friction difficult to spot. Each barrier appears minor on its own, yet together they raise the effort required to act. Research and behaviour-design frameworks repeatedly highlight the importance of simplicity, ease, prompts, and environmental [support]({{ 'support/' | relative_url }}) in determining whether intended behaviours actually occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabThe COM-B Model for Behavior ChangeThe COM-B model for behavior change cites capability (C), opportunity (O), and motivat...</span></span></span>
 
 A friction audit therefore looks backwards from the missed habit and asks:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -333,7 +331,6 @@ Time friction occurs when the habit requires more uninterrupted time than real l
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Planning a 60-minute workout when most evenings allow only 20 minutes.
@@ -346,7 +343,6 @@ Research on exercise behaviour repeatedly identifies perceived lack of time as a
 
 During a review, the key question is not whether time existed in theory, but whether it existed at the moment the habit was supposed to happen.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k-TCLz37IPE" title="The Fogg Behavior Model: How to Turn Learning into Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k-TCLz37IPE" target="_blank" rel="noopener noreferrer">The Fogg Behavior Model: How to Turn Learning into Action</a></p><p class="youtube-embed-meta">Channel: Growth Engineering &middot; Views: 918 &middot; Uploaded: September 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k-TCLz37IPE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k-TCLz37IPE">Open on YouTube</a></p></div></div></div>
 
 ### Effort Friction
@@ -354,7 +350,6 @@ During a review, the key question is not whether time existed in theory, but whe
 Effort friction appears when the task demands more physical or mental energy than expected.
 
 Examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -371,7 +366,6 @@ The habit may still be reasonable on high-energy days but unrealistic on average
 Equipment friction comes from missing tools, materials, or preparation.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -394,7 +388,6 @@ Decision friction is especially damaging because it appears every time the habit
 
 Examples:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Deciding which workout to do.
@@ -407,7 +400,6 @@ Examples:
 Implementation-intention research suggests that specifying the when, where, and how of an action helps convert intentions into behaviour by reducing the need for in-the-moment decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2017/11/e397/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Human associative memory...Read more...</span></span></span>
 
 A habit that requires repeated decision-making remains vulnerable to postponement.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_habit_friction_audit_d6bec4-Illustration-2-dark.svg" | relative_url }}" alt="Friction Audit illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_habit_friction_audit_d6bec4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_habit_friction_audit_d6bec4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Social Friction
@@ -423,7 +415,6 @@ Examples:
 The habit itself may be simple, but the social effort required to perform it may be substantial.
 
 A friction audit treats these social realities as genuine constraints rather than excuses.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uGWELW82Eoc" title="How Your Environment Quietly Controls Your Habits | James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uGWELW82Eoc" target="_blank" rel="noopener noreferrer">How Your Environment Quietly Controls Your Habits | James Clear</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 19.8K &middot; Uploaded: December 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uGWELW82Eoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uGWELW82Eoc">Open on YouTube</a></p></div></div></div>
 
@@ -459,7 +450,6 @@ People discover friction and respond by creating elaborate routines, buying new 
 
 A better approach is to remove only one obstacle at a time.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_habit_friction_audit_d6bec4-Illustration-3-dark.svg" | relative_url }}" alt="Friction Audit illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_habit_friction_audit_d6bec4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_habit_friction_audit_d6bec4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reduce the Next Action
 
@@ -468,7 +458,6 @@ Ask:
 “What is the smallest change that makes starting easier?”
 
 Examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -501,7 +490,6 @@ Examples include:
 * Leaving notebooks open rather than packed away.
 
 These changes look trivial, but they directly increase opportunity and reduce effort, two factors repeatedly identified in behaviour-change frameworks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabThe COM-B Model for Behavior ChangeThe COM-B model for behavior change cites capability (C), opportunity (O), and motivat...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PZ7lDrwYdZc" title="How to become 37.78 times better at anything | Atomic Habits summary (by James Clear)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PZ7lDrwYdZc" target="_blank" rel="noopener noreferrer">How to become 37.78 times better at anything | Atomic Habits summary (by James Clear)</a></p><p class="youtube-embed-meta">Channel: Escaping Ordinary (B.C Marx) &middot; Views: 22.0M &middot; Uploaded: October 2021 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PZ7lDrwYdZc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PZ7lDrwYdZc">Open on YouTube</a></p></div></div></div>
 
@@ -656,15 +644,15 @@ When a habit feels mysteriously hard, the hidden steps are usually more informat
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/0V4AAeSwisJqA6tC/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Gear Organizer Basketball Bag Mesh Sports Sack Chest Buckle Stabilization"><img src="https://i.ebayimg.com/images/g/Y30AAeSwOrlpZfCO/s-l225.jpg" alt="Listing image for Gym Gear Organizer Basketball Bag Mesh Sports Sack Chest Buckle Stabilization" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" target="_blank" rel="sponsored noopener noreferrer">Gym Gear Organizer Basketball Bag Mesh Sports Sack Chest Buckle Stabilization</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym gear organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: gym gear organizer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -672,15 +660,15 @@ When a habit feels mysteriously hard, the hidden steps are usually more informat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/Y3UAAeSwjchpsun9/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Gear Organizer Basketball Bag Mesh Sports Sack Chest Buckle Stabilization"><img src="https://i.ebayimg.com/images/g/fz4AAeSw8Ghp7wwS/s-l225.jpg" alt="Listing image for Gym Gear Organizer Basketball Bag Mesh Sports Sack Chest Buckle Stabilization" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" target="_blank" rel="sponsored noopener noreferrer">Gym Gear Organizer Basketball Bag Mesh Sports Sack Chest Buckle Stabilization</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym gear organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: gym gear organizer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -688,15 +676,15 @@ When a habit feels mysteriously hard, the hidden steps are usually more informat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..."><img src="https://i.ebayimg.com/images/g/eq8AAeSwPxVpzAyC/s-l225.jpg" alt="Listing image for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rolling fitness Mat Holder Space Saving Gym gear Organizer Large Capacity"><img src="https://i.ebayimg.com/images/g/dAQAAeSwiqxpjggg/s-l225.jpg" alt="Listing image for Rolling fitness Mat Holder Space Saving Gym gear Organizer Large Capacity" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" target="_blank" rel="sponsored noopener noreferrer">Rolling fitness Mat Holder Space Saving Gym gear Organizer Large Capacity</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym gear organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: gym gear organizer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -704,15 +692,15 @@ When a habit feels mysteriously hard, the hidden steps are usually more informat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="https://i.ebayimg.com/images/g/RVoAAOSwSo9lDgFu/s-l225.jpg" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Gear Organizer Basketball Bag Mesh Sports Sack Thick PVC Construction"><img src="https://i.ebayimg.com/images/g/Vk8AAeSw-jpqJRl2/s-l225.jpg" alt="Listing image for Gym Gear Organizer Basketball Bag Mesh Sports Sack Thick PVC Construction" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" target="_blank" rel="sponsored noopener noreferrer">Gym Gear Organizer Basketball Bag Mesh Sports Sack Thick PVC Construction</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym gear organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: gym gear organizer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -720,7 +708,7 @@ When a habit feels mysteriously hard, the hidden steps are usually more informat
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="the-hidden-steps-breaking-your-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+gear+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-hidden-steps-breaking-your-habit-gym-gear-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="gym gear organizer" data-ebay-reference="the-hidden-steps-breaking-your-habit-gym-gear-organizer" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -930,6 +918,7 @@ When a habit feels mysteriously hard, the hidden steps are usually more informat
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

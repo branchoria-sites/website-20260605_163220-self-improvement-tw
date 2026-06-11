@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-goals-vs/
 description: Focused pages that expand on Goals vs Systems.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: self_improvement_tha_c01280_goals_vs_systems_2478d2
-parent_title: Goals vs Systems | Self Improvement That Works
+parent_title: Goals vs Systems
 parent_nav_short_title: Goals vs Systems
 parent_permalink: /goals-vs-systems/
 ---

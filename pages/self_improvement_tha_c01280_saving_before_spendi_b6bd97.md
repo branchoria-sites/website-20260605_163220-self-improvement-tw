@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: Saving
 title: How to Save Before You Spend
-title_full: How to Save Before You Spend | Better Change
+title_full: How to Save Before You Spend
 display_title_short: Saving
 display_title: Saving
 heading_title: How to Save Before You Spend
@@ -504,7 +504,6 @@ image: /assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-ov
 
 Saving before spending is a practical self-improvement policy: decide the saving rule in advance, automate it as close to payday as possible, and let the remaining balance become the money available for ordinary spending. It works because it changes the moment of choice. Instead of asking a tired future self to resist purchases after money is visible and tempting, it makes saving the default before those temptations arrive. The core tools are simple: split pay into savings and spending accounts, schedule transfers, add friction to impulse buys, and review balances often enough to adjust the system. Evidence from automatic enrolment, [payroll saving]({{ 'payroll-saving/' | relative_url }}), emergency-savings research and behavioural economics suggests that [defaults]({{ 'defaults/' | relative_url }}) can strongly increase participation in saving, though they can also leave people under-saving if the default amount is too low or if saving pushes them into avoidable debt. NBER <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Faer.20171676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-title">American Economic Association Why Do Defaults Affect Behavior?</span><span class="citation-popover-snippet">Experimental Evidence...by J Blumenstock · 2018 · Cited by 216 — We report on an experiment examining why default options impact behavio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">Payroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-overview.webp" | relative_url }}" alt="Overview image for Saving" loading="eager" decoding="sync" fetchpriority="high">
 This is not about moralising spending. It is about designing a money routine that survives ordinary life: delayed trains, tired evenings, online offers, [social pressure]({{ 'social-pressure/' | relative_url }}), irregular bills and the quiet optimism that “there will be something left at the end of the month”. Saving before spending replaces that hope with a working default.
 
@@ -518,7 +517,6 @@ The behavioural reason is straightforward. People are not equally disciplined at
 
 A useful saving-before-spending rule has three parts: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0304387824001548" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **A destination:** emergency fund, pension, ISA, debt overpayment, holiday fund, annual bills account or another named pot.
@@ -528,7 +526,6 @@ A useful saving-before-spending rule has three parts: <span class="citation-chip
 </div>
 
 The point is not that everyone can save the same amount. It is that the saving decision should not depend on whatever mood, memory or temptation is present at the end of the month.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-1-dark.svg" | relative_url }}" alt="Saving illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Defaults and transfers: make the desired action automatic
@@ -540,7 +537,6 @@ The UK’s workplace pension system shows the same principle at national scale. 
 For everyday self-improvement, the lesson is not “copy pension policy exactly”. It is that defaults work because they remove repeated effort. A person who has to choose saving every month faces twelve opportunities to forget, postpone or bargain down the amount. A person with an automatic transfer faces one setup decision, then occasional review.
 
 Practical default choices include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -554,7 +550,6 @@ Practical default choices include:
 Payroll-linked saving is especially relevant because it moves the saving decision upstream. The Money and Pensions Service describes payroll saving as an automatic deduction from wages that makes saving easy and routine, similar in feel to pension contributions. Nest Insight’s workplace emergency-savings programme found that opt-out payroll saving can be a powerful way to help workers save consistently, and evidence submitted to Parliament stated that building accessible emergency savings alongside pensions did not appear to increase pension opt-outs or reduce pension contributions in those trials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">Payroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The important implementation detail is timing. A transfer scheduled three weeks after payday is not the same intervention as one scheduled on payday morning. Saving before spending works because it reaches the money before the spending [environment]({{ 'environment/' | relative_url }}) does.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dqxQ3E1bubI" title="Behavioral Economics: Crash Course Economics #27" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dqxQ3E1bubI" target="_blank" rel="noopener noreferrer">Behavioral Economics: Crash Course Economics #27</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 1.1M &middot; Uploaded: March 2016 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dqxQ3E1bubI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dqxQ3E1bubI">Open on YouTube</a></p></div></div></div>
 
@@ -580,7 +575,6 @@ This is a self-improvement idea, not a purity test. Some people benefit from rem
 
 The boundary matters. Too much friction can backfire if money is genuinely needed quickly, especially for emergencies. An emergency fund should be harder to spend impulsively but still reachable when the boiler breaks, wages are delayed or a family member needs help. The design goal is “not casual”, not “impossible”.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-2-dark.svg" | relative_url }}" alt="Saving illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Feedback from balances: let accounts tell the truth
 
@@ -594,7 +588,6 @@ A 2025 Vanguard report found that having at least $2,000 in emergency savings wa
 
 Good balance feedback answers three questions:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * **Can I spend normally this week?** The current account should answer this without mental arithmetic.
@@ -604,7 +597,6 @@ Good balance feedback answers three questions:
 </div>
 
 This is why balance review should be routine but not obsessive. A weekly check is often enough for ordinary cash flow. A monthly review can adjust transfer amounts, close leaks, cancel unused subscriptions or increase savings after income rises. The behaviour to avoid is daily panic-checking without changing the system.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Bb_kQNvCS58" title="How to Save Money: Easy Ways to Pay Yourself First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Bb_kQNvCS58" target="_blank" rel="noopener noreferrer">How to Save Money: Easy Ways to Pay Yourself First</a></p><p class="youtube-embed-meta">Channel: Acorns &middot; Views: 92 &middot; Uploaded: January 2026 &middot; Length: 2 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Bb_kQNvCS58" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Bb_kQNvCS58">Open on YouTube</a></p></div></div></div>
 
@@ -618,7 +610,6 @@ There is also a default-rate problem. Defaults are powerful, but they can anchor
 
 A better design is adjustable by rule:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Start with an amount that does not cause new borrowing.
@@ -630,7 +621,6 @@ A better design is adjustable by rule:
 </div>
 
 The Save More Tomorrow approach is useful here. Thaler and Benartzi’s programme asked employees to commit in advance to increasing future saving, often timed with pay rises, so the increase did not feel like an immediate cut in take-home pay. The broader lesson is practical: future increases can be easier to accept than present sacrifices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/10.1086/380085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-3-dark.svg" | relative_url }}" alt="Saving illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this looks like in real life
@@ -654,7 +644,6 @@ The third mistake is using round-up saving as the main strategy. Round-ups can b
 The fourth mistake is ignoring debt. If automatic saving causes overdraft fees, missed payments or high-interest borrowing, the rule needs redesign. Saving before spending should improve resilience, not create a more complicated version of the same shortfall.
 
 The fifth mistake is treating the default as proof of virtue. A default is a tool. It needs observation. Balances, missed payments, debt levels and withdrawal [frequency]({{ 'frequency/' | relative_url }}) are feedback about whether the tool is working.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-ov2i-BFpN8" title="The One Money Habit Keeping You Broke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-ov2i-BFpN8" target="_blank" rel="noopener noreferrer">The One Money Habit Keeping You Broke</a></p><p class="youtube-embed-meta">Channel: The Financial Edge &middot; Views: 1 &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-ov2i-BFpN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-ov2i-BFpN8">Open on YouTube</a></p></div></div></div>
 
@@ -1283,4 +1272,4 @@ The result is a quieter form of self improvement: fewer dramatic resolutions, fe
 
 46. <a id="endnote-46"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/intervention/defaults-improve-savings" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/intervention/defaults-improve-savings</a>  
+   Link: <a href="https://thedecisionlab.com/intervention/defaults-improve-savings" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/intervention/defaults-improve-savings</a>

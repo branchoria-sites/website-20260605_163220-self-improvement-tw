@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-choice/
 description: Focused pages that expand on Defaults.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: self_improvement_tha_c01280_choice_architecture_214f66
-parent_title: Defaults | Self Improvement That Works
+parent_title: Defaults
 parent_nav_short_title: Defaults
 parent_permalink: /defaults/
 ---

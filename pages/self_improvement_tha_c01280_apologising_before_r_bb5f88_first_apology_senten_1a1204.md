@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /apologies/
 nav_short_title: First Sentence
 title: The First Sentence That Makes Repair Easier
-title_full: The First Sentence That Makes Repair Easier | Apologies
+title_full: The First Sentence That Makes Repair Easier
 display_title_short: First Sentence
 display_title: First Sentence
 heading_title: The First Sentence That Makes Repair Easier
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 16:08:30'
-parent_title: How to Apologise Before Resentment Grows | Better Change
+parent_title: How to Apologise Before Resentment Grows
 parent_permalink: /apologies/
 parent_nav_short_title: Apologies
 parent_heading_title: How to Apologise Before Resentment Grows
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_fi
 
 The first sentence of an apology often determines whether a conversation moves towards repair or further defensiveness. Many failed [apologies]({{ 'apologies/' | relative_url }}) do not fail because the person lacks regret; they fail because the opening line asks the other person to argue for why they were hurt. A useful first sentence reduces that burden. It identifies the action, acknowledges the impact, and accepts responsibility before moving into explanations.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_first_apology_senten_1a1204-Illustration-1-dark.svg" | relative_url }}" alt="First Sentence illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_first_apology_senten_1a1204-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_first_apology_senten_1a1204-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on apology effectiveness consistently finds that taking responsibility is among the most important elements of a successful apology, while vague regret without ownership is far less persuasive. Studies led by Roy Lewicki and colleagues found that acknowledgement of responsibility was one of the strongest components of an effective apology, alongside an offer of repair. Ohio State News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">Association for Psychological Science Effective Apologies Include Six Elements</span><span class="citation-popover-snippet">Association for Psychological ScienceEffective Apologies Include Six ElementsMay 24, 2016 — Across two studies Lewicki and colleagues fou...</span><span class="citation-popover-meta">Published: May 24, 2016</span></span></span>
 
@@ -288,7 +287,6 @@ A strong first sentence is usually short enough to say in one breath and specifi
 
 The most useful formula contains three parts:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **The apology itself** – a direct statement of regret.
@@ -298,7 +296,6 @@ The most useful formula contains three parts:
 </div>
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -312,7 +309,6 @@ This structure works because it demonstrates understanding. Rather than saying, 
 
 A useful test is simple: after hearing your first sentence, would the other person need to explain again what upset them? If so, the opening is probably too vague.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lpNH9SCegIE" title="3 Questions to Answer in an Apology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lpNH9SCegIE" target="_blank" rel="noopener noreferrer">3 Questions to Answer in an Apology</a></p><p class="youtube-embed-meta">Channel: Harvard Business Review &middot; Views: 7.0K &middot; Uploaded: July 2019 &middot; Length: 2 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lpNH9SCegIE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lpNH9SCegIE">Open on YouTube</a></p></div></div></div>
 
 ## Why Vague Apologies Often Fail
@@ -320,7 +316,6 @@ A useful test is simple: after hearing your first sentence, would the other pers
 Many apology openings sound polite but trigger resistance because they avoid ownership.
 
 Consider these examples:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -358,7 +353,6 @@ Three features tend to help:
 
 Notice what is absent: self-defence, requests for forgiveness, and detailed explanations. Those may have a place later. The opening sentence works best when it is simple enough that the other person does not need to decode it.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_first_apology_senten_1a1204-Illustration-2-dark.svg" | relative_url }}" alt="First Sentence illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_first_apology_senten_1a1204-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_first_apology_senten_1a1204-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples for Home, Work, and Friendship
 
@@ -380,7 +374,6 @@ Another example:
 
 These openings name behaviour and impact without immediately defending it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QohizOcrVJ0" title="How To Apologize When You Are Not Wrong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QohizOcrVJ0" target="_blank" rel="noopener noreferrer">How To Apologize When You Are Not Wrong</a></p><p class="youtube-embed-meta">Channel: Live On Purpose TV &middot; Views: 26.1K &middot; Uploaded: January 2021 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QohizOcrVJ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QohizOcrVJ0">Open on YouTube</a></p></div></div></div>
 
 ### At Work
@@ -401,7 +394,6 @@ Or:
 
 Specificity is especially important in professional settings because it signals accountability rather than damage control. Research on apologies in organisations similarly emphasises responsibility and corrective action as trust-building elements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hbs.edu/faculty/Pages/item.aspx?num=49586" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbs.edu">[Harvard Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbs.edu</span><span class="citation-popover-snippet">Was it core to our promise or mission? How will the public react? Are we committed to...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communiquepr.com/understanding-trust-part-ii-the-importance-of-an-effective-apology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communiquepr.com">[Communique PR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communiquepr.com</span><span class="citation-popover-snippet">The Importance of an Effective ApologyAccording to research, an effective apology meets three criteria: it&#x27;s credible, it works to restor...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_first_apology_senten_1a1204-Illustration-3-dark.svg" | relative_url }}" alt="First Sentence illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_first_apology_senten_1a1204-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_first_apology_senten_1a1204-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### With Friends
 
@@ -421,8 +413,7 @@ Or:
 
 These sentences show that the speaker has thought about the friend's experience rather than merely reacting to their disappointment.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gDwJhmzA4h0" title="Here Are Six Steps to Giving a Good Apology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gDwJhmzA4h0" target="_blank" rel="noopener noreferrer">Here Are Six Steps to Giving a Good Apology</a></p><p class="youtube-embed-meta">Channel: Tamron Hall Show &middot; Views: 3.1K &middot; Uploaded: October 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gDwJhmzA4h0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gDwJhmzA4h0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zybvV6dmkFA" title="How to Apologize | The Science of Happiness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zybvV6dmkFA" target="_blank" rel="noopener noreferrer">How to Apologize | The Science of Happiness</a></p><p class="youtube-embed-meta">Channel: Greater Good Science Center &middot; Views: 16.9K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zybvV6dmkFA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zybvV6dmkFA">Open on YouTube</a></p></div></div></div>
 
 ## The Goal Is Understanding, Not Instant Forgiveness
 

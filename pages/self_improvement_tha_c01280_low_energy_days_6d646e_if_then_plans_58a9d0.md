@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /low-energy/
 nav_short_title: If Then Plans
 title: Plan the tired day script before you need it
-title_full: Plan the tired day script before you need it | Low Energy
+title_full: Plan the tired day script before you need it
 display_title_short: If Then Plans
 display_title: If Then Plans
 heading_title: Plan the tired day script before you need it
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 14:52:55'
-parent_title: Build the Plan for Your Worst Day | Better Change
+parent_title: Build the Plan for Your Worst Day
 parent_permalink: /low-energy/
 parent_nav_short_title: Low Energy
 parent_heading_title: Build the Plan for Your Worst Day
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_if_then
 
 Low-energy days are rarely defeated by a lack of knowledge. Most people already know what they should do. The problem is that fatigue makes decision-making harder at exactly the moment a decision is required. An if-then plan solves this by making the decision in advance. Instead of asking, “What should I do now?” when tired, stressed or distracted, you follow a pre-written rule: “If this barrier appears, then I will do that response.”
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_if_then_plans_58a9d0-Illustration-1-dark.svg" | relative_url }}" alt="If Then Plans illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_if_then_plans_58a9d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_if_then_plans_58a9d0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Psychologists call these rules *implementation intentions*. Research has found that specifying an if-then response can substantially improve the chances that intentions become actions because the cue and response are linked ahead of time. Rather than relying on [motivation]({{ 'motivation/' | relative_url }}) in the moment, the plan creates a ready-made behavioural script. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Fashioning an if-then plan strategically automates goal striving (Gollwitzer &amp;...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Fashioning an if-then plan strategically automates goal striving (Gollwitzer &amp;...</span></span></span>
 
@@ -303,7 +302,6 @@ Those plans can help, but tired-day planning works best when the “if” descri
 
 A practical method is:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Identify a barrier that regularly appears when energy is low.
@@ -320,7 +318,6 @@ For example:
 The key is that the response remains goal-directed. The plan is not permission to quit. It is a predefined adaptation.
 
 Research reviews suggest implementation intentions are especially useful when people encounter self-regulatory problems, distractions, reluctance or competing impulses during goal pursuit. The strongest plans therefore anticipate the exact moments when goals usually fail. Cancer Control <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12168795/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralThe Role of Sleep and the Effects of Sleep Loss on Cognitive...by A Hyndych · 2025 · Cited by 33 — Executive functions, su...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zbI30ZHMHeM" title="How to Get Motivated With Implementation Intentions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zbI30ZHMHeM" target="_blank" rel="noopener noreferrer">How to Get Motivated With Implementation Intentions</a></p><p class="youtube-embed-meta">Channel: TheMotivationMindset &middot; Views: 2.4K &middot; Uploaded: April 2017 &middot; Length: 4 minutes 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zbI30ZHMHeM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zbI30ZHMHeM">Open on YouTube</a></p></div></div></div>
 
@@ -346,7 +343,6 @@ Mental fatigue frequently produces procrastination because starting feels expens
 
 Useful scripts include:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * If I avoid opening the project, then I will work on it for five minutes.
@@ -359,7 +355,6 @@ Useful scripts include:
 These rules preserve forward movement without demanding high cognitive performance.
 
 Recent workplace research suggests implementation intentions can help establish productive routines and [support]({{ 'support/' | relative_url }}) habit development in everyday work settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12540" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS Psych Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">BPS Psych HubPromoting new habits at work through implementation intentionsby N Trenz · 2024 · Cited by 12 — The results indicate that im...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_if_then_plans_58a9d0-Illustration-2-dark.svg" | relative_url }}" alt="If Then Plans illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_if_then_plans_58a9d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_if_then_plans_58a9d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Health and exercise
@@ -376,7 +371,6 @@ The response is intentionally smaller than the normal routine, but it keeps the 
 
 Implementation-intention research has repeatedly found benefits for physical activity and other health behaviours, particularly when plans specify exactly how obstacles will be handled. MDPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12168795/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralThe Role of Sleep and the Effects of Sleep Loss on Cognitive...by A Hyndych · 2025 · Cited by 33 — Executive functions, su...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tKVv5YlUcMI" title="What Is Implementation Intention For Building Habits? - The Time Management Pro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tKVv5YlUcMI" target="_blank" rel="noopener noreferrer">What Is Implementation Intention For Building Habits? - The Time Management Pro</a></p><p class="youtube-embed-meta">Channel: The Time Management Pro &middot; Views: 9 &middot; Uploaded: September 2025 &middot; Length: 3 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tKVv5YlUcMI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tKVv5YlUcMI">Open on YouTube</a></p></div></div></div>
 
 ### Evenings and recovery
@@ -384,7 +378,6 @@ Implementation-intention research has repeatedly found benefits for physical act
 Low-energy evenings often create a second challenge: people abandon recovery habits and then wake up even more depleted.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -412,14 +405,12 @@ A tired-day script should therefore answer one question:
 
 **What is the smallest action that still counts?**
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_if_then_plans_58a9d0-Illustration-3-dark.svg" | relative_url }}" alt="If Then Plans illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_if_then_plans_58a9d0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_if_then_plans_58a9d0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When if-then plans fail
 
 Not every implementation intention works.
 
 Common problems include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -433,7 +424,6 @@ Common problems include:
 Another limitation is that implementation intentions are not magic. Reviews generally find positive effects, but results vary across behaviours, settings and individuals. They work best when attached to goals that genuinely matter to the person and when the cue is likely to occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitated by forming...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12168795/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralThe Role of Sleep and the Effects of Sleep Loss on Cognitive...by A Hyndych · 2025 · Cited by 33 — Executive functions, su...</span></span></span>
 
 The solution is to treat tired-day scripts as experiments. Notice where goals repeatedly break down, write a response for that specific moment, and revise the plan if it proves unrealistic.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CrwqYp7rs7Y" title="The SECRET Brain Hack You&#x27;re Missing When It Comes To Making New Habits Stick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CrwqYp7rs7Y" target="_blank" rel="noopener noreferrer">The SECRET Brain Hack You&#x27;re Missing When It Comes To Making New Habits Stick</a></p><p class="youtube-embed-meta">Channel: Friederike Fabritius &middot; Views: 83 &middot; Uploaded: April 2026 &middot; Length: 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CrwqYp7rs7Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CrwqYp7rs7Y">Open on YouTube</a></p></div></div></div>
 

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /study-first/
 nav_short_title: Scroll Breaks
 title: When Should Scrolling Become the Reward?
-title_full: When Should Scrolling Become the Reward? | Study First
+title_full: When Should Scrolling Become the Reward?
 display_title_short: Scroll Breaks
 display_title: Scroll Breaks
 heading_title: When Should Scrolling Become the Reward?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 04:36:59'
-parent_title: How to Study Before You Start Scrolling | Better Change
+parent_title: How to Study Before You Start Scrolling
 parent_permalink: /study-first/
 parent_nav_short_title: Study First
 parent_heading_title: How to Study Before You Start Scrolling
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_sc
 
 A scroll break is least harmful when it comes after a clearly completed piece of study, not before one. In the context of studying before scrolling, the key question is not whether social media, news feeds or messaging apps are allowed at all. It is whether they are being used as a reward for progress or as an escape from effort.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scrolling_breaks_aft_76c973-Illustration-1-dark.svg" | relative_url }}" alt="Scroll Breaks illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scrolling_breaks_aft_76c973-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scrolling_breaks_aft_76c973-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because procrastination is strongly linked to task aversiveness and the attraction of [immediate rewards]({{ 'immediate-rewards/' | relative_url }}). When scrolling becomes the first response to discomfort, it reinforces avoidance. When it follows visible progress, it can function more like a planned reward attached to productive behaviour. Research on procrastination, habit formation and reward timing suggests that immediate [rewards]({{ 'rewards/' | relative_url }}) can support difficult tasks, but only when they are linked to task completion rather than replacing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/6598646_The_Nature_of_Procrastination_A_Meta-Analytic_and_Theoretical_Review_of_Quintessential_Self-Regulatory_Failure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Nature of Procrastination: A Meta-Analytic and...January 1, 2007 — Strong and consistent predictors of procrastina...</span><span class="citation-popover-meta">Published: January 1, 2007</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Present_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Present bias</span><span class="citation-popover-snippet">Present bias</span></span></span>
 
@@ -286,8 +285,7 @@ This matters because habits strengthen through repeated reward in stable context
 
 A practical consequence is that two students with identical daily screen time may experience very different outcomes. One scrolls before every study session and repeatedly struggles to start. The other studies first and uses a limited scroll break after visible progress. The total phone use may be similar, but the behavioural training effect is different.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e3s5M2icYVI" title="5 Study Breaks That Actually Make You Smarter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e3s5M2icYVI" target="_blank" rel="noopener noreferrer">5 Study Breaks That Actually Make You Smarter</a></p><p class="youtube-embed-meta">Channel: UnJaded Jade &middot; Views: 150.5K &middot; Uploaded: March 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e3s5M2icYVI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e3s5M2icYVI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UN4UL3zwAWE" title="How to Get ADDICTED to STUDYING | Rewire Your Brain for Focus &amp; Motivation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UN4UL3zwAWE" target="_blank" rel="noopener noreferrer">How to Get ADDICTED to STUDYING | Rewire Your Brain for Focus &amp; Motivation</a></p><p class="youtube-embed-meta">Channel: MindCompanion &middot; Views: 21.2K &middot; Uploaded: November 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UN4UL3zwAWE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UN4UL3zwAWE">Open on YouTube</a></p></div></div></div>
 
 ## Good Reward Rules After Visible Progress
 
@@ -317,7 +315,6 @@ Visible progress creates a clearer [feedback]({{ 'feedback/' | relative_url }}) 
 
 Visible progress also reduces a common student complaint: “I studied for hours but achieved nothing.” A reward system tied to completed units naturally encourages breaking large goals into concrete milestones that can actually be finished.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scrolling_breaks_aft_76c973-Illustration-2-dark.svg" | relative_url }}" alt="Scroll Breaks illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scrolling_breaks_aft_76c973-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scrolling_breaks_aft_76c973-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Break Mistakes That Turn Difficulty Into Escape
 
@@ -331,8 +328,7 @@ If every hard moment triggers a scroll session, the brain learns that discomfort
 
 The result is subtle. The student may still spend time studying, but concentration weakens because difficulty itself becomes a cue to leave the task.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UN4UL3zwAWE" title="How to Get ADDICTED to STUDYING | Rewire Your Brain for Focus &amp; Motivation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UN4UL3zwAWE" target="_blank" rel="noopener noreferrer">How to Get ADDICTED to STUDYING | Rewire Your Brain for Focus &amp; Motivation</a></p><p class="youtube-embed-meta">Channel: MindCompanion &middot; Views: 21.2K &middot; Uploaded: November 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UN4UL3zwAWE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UN4UL3zwAWE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oTanWThixE4" title="5 Ways to Make Studying Fun Without Sacrificing Effectiveness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oTanWThixE4" target="_blank" rel="noopener noreferrer">5 Ways to Make Studying Fun Without Sacrificing Effectiveness</a></p><p class="youtube-embed-meta">Channel: Scott Young &middot; Views: 5.3K &middot; Uploaded: February 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oTanWThixE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oTanWThixE4">Open on YouTube</a></p></div></div></div>
 
 ### Using Infinite Feeds as a Short Break
 
@@ -348,12 +344,10 @@ A study on break behaviour found that using a mobile phone during breaks did not
 
 This does not mean phone breaks are always harmful. It means they should not be assumed to be the best form of recovery. Sometimes a walk, stretching, water, fresh air or a brief conversation restores attention more effectively.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scrolling_breaks_aft_76c973-Illustration-3-dark.svg" | relative_url }}" alt="Scroll Breaks illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scrolling_breaks_aft_76c973-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scrolling_breaks_aft_76c973-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Most Reliable Pattern
 
 The most reliable sequence is simple:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -368,9 +362,7 @@ This structure preserves the central principle of studying before scrolling. The
 
 When scrolling becomes the reward for visible progress, it can coexist with productive study. When it becomes the response to every difficult moment, it gradually teaches the brain that effort is something to escape rather than complete.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oTanWThixE4" title="5 Ways to Make Studying Fun Without Sacrificing Effectiveness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oTanWThixE4" target="_blank" rel="noopener noreferrer">5 Ways to Make Studying Fun Without Sacrificing Effectiveness</a></p><p class="youtube-embed-meta">Channel: Scott Young &middot; Views: 5.3K &middot; Uploaded: February 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oTanWThixE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oTanWThixE4">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e3s5M2icYVI" title="5 Study Breaks That Actually Make You Smarter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e3s5M2icYVI" target="_blank" rel="noopener noreferrer">5 Study Breaks That Actually Make You Smarter</a></p><p class="youtube-embed-meta">Channel: UnJaded Jade &middot; Views: 150.5K &middot; Uploaded: March 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e3s5M2icYVI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e3s5M2icYVI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

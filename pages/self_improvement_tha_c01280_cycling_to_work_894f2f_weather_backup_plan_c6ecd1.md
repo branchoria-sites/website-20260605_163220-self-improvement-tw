@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /cycle-commute/
 nav_short_title: Weather Plan
 title: Can You Plan Around Bad Cycling Weather?
-title_full: Can You Plan Around Bad Cycling Weather? | Cycle Commute
+title_full: Can You Plan Around Bad Cycling Weather?
 display_title_short: Weather Plan
 display_title: Weather Plan
 heading_title: Can You Plan Around Bad Cycling Weather?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:08:30'
-parent_title: Why the Habit Starts the Night Before | Better Change
+parent_title: Why the Habit Starts the Night Before
 parent_permalink: /cycle-commute/
 parent_nav_short_title: Cycle Commute
 parent_heading_title: Why the Habit Starts the Night Before
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather
 
 A weather check the night before a [cycle commute]({{ 'cycle-commute/' | relative_url }}) is not about deciding whether it will rain. It is about turning a forecast into a practical plan. Research on bicycle commuting shows that precipitation, temperature, wind and snow all significantly affect whether people choose to ride to work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22155159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Weather factor impacts on commuting to work by bicycleby BS Flynn · 2012 · Cited by 194 — Conclusion: Precipitation, temperature, w...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-1-dark.svg" | relative_url }}" alt="Weather Plan illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The common mistake is treating weather as a simple yes-or-no question. In practice, most commuting problems come from details that are easy to miss: a strong headwind on the ride home, a temperature drop after sunset, poor visibility in fog, or heavy rain arriving during the return journey rather than the morning ride. Checking those factors the night before allows you to decide what to wear, what to pack, whether to leave earlier, whether to alter your route, or whether to use a backup transport option instead. The forecast becomes a planning tool rather than a source of morning uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclinguk.org/article/tips-cycling-wind-wet-and-leaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclinguk.org">[Cycling UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclinguk.org</span><span class="citation-popover-snippet">Forecasts are pretty accurate these days and provide detail on both wind strength and direction, precipitation and...Read more...</span></span></span>
 
@@ -279,7 +278,6 @@ The common mistake is treating weather as a simple yes-or-no question. In practi
 Usually, yes. Most forecasts do not require cancelling a ride; they require adapting the ride.
 
 A useful night-before check asks five questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -307,7 +305,6 @@ Some commuter cycling organisations recommend checking wind forecasts specifical
 
 The important detail is direction as well as speed:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A tailwind in the morning may become a headwind on the way home.
@@ -320,7 +317,6 @@ Cycling guidance aimed at commuters notes that around 20 mph winds become very n
 
 A night-before plan might therefore be:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Leave ten minutes earlier.
@@ -329,7 +325,6 @@ A night-before plan might therefore be:
 * Decide that public transport is the better option if severe wind warnings are issued.
 
 </div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pmn6zJqYD6E" title="How to commute by bike whatever the weather | Commute Smart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pmn6zJqYD6E" target="_blank" rel="noopener noreferrer">How to commute by bike whatever the weather | Commute Smart</a></p><p class="youtube-embed-meta">Channel: British Cycling &middot; Views: 179.3K &middot; Uploaded: March 2017 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pmn6zJqYD6E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pmn6zJqYD6E">Open on YouTube</a></p></div></div></div>
 
@@ -353,7 +348,6 @@ Heavy rain creates a similar problem. Reduced visibility affects both the cyclis
 
 A useful evening check therefore includes:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Sunrise and sunset times.
@@ -362,7 +356,6 @@ A useful evening check therefore includes:
 * Rain intensity rather than rain probability alone.
 
 </div>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-2-dark.svg" | relative_url }}" alt="Weather Plan illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Packing for Wind, Cold, Darkness, and Visibility
@@ -377,7 +370,6 @@ For cold or variable temperatures, packing beats guessing. A spare layer in a pa
 
 For darkness or poor visibility, check:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Front and rear light charge levels.
@@ -388,8 +380,7 @@ For darkness or poor visibility, check:
 
 The night-before advantage is that these items can be charged, packed and tested without rushing. A dead light discovered at 07:55 is a problem; a dead light discovered at 21:00 is a simple task.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZYKx-_sQIbs" title="Cycling in the Rain SUCKS Unless You Do This..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZYKx-_sQIbs" target="_blank" rel="noopener noreferrer">Cycling in the Rain SUCKS Unless You Do This...</a></p><p class="youtube-embed-meta">Channel: Global Cycling Network &middot; Views: 177.7K &middot; Uploaded: December 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZYKx-_sQIbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZYKx-_sQIbs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qENp2YX7xqI" title="How to BIKE COMMUTE in the RAIN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qENp2YX7xqI" target="_blank" rel="noopener noreferrer">How to BIKE COMMUTE in the RAIN</a></p><p class="youtube-embed-meta">Channel: Broadway Biker &middot; Views: 21.5K &middot; Uploaded: March 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qENp2YX7xqI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qENp2YX7xqI">Open on YouTube</a></p></div></div></div>
 
 ## Why the Return Journey Matters More Than Many Riders Expect
 
@@ -403,7 +394,6 @@ Cycling UK specifically highlights checking visibility, temperatures, precipitat
 
 This changes what gets packed:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Waterproofs may be unnecessary in the morning but essential later.
@@ -413,7 +403,6 @@ This changes what gets packed:
 </div>
 
 The rider who checks both journeys packs once and avoids mid-afternoon surprises.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-3-dark.svg" | relative_url }}" alt="Weather Plan illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Backup Plan Should Replace the Ride
@@ -441,9 +430,7 @@ This is where a coping plan becomes valuable. Instead of deciding at the last mi
 
 The forecast then serves a practical purpose. Rather than becoming a reason to abandon a commuting habit, it becomes information that helps preserve it safely and consistently. Most bad-weather days do not require abandoning the ride. They require replacing uncertainty with a plan.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DtAAjpggsFo" title="5 Tips For Wet Weather Cycling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DtAAjpggsFo" target="_blank" rel="noopener noreferrer">5 Tips For Wet Weather Cycling</a></p><p class="youtube-embed-meta">Channel: Global Cycling Network &middot; Views: 53.1K &middot; Uploaded: November 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DtAAjpggsFo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DtAAjpggsFo">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZYKx-_sQIbs" title="Cycling in the Rain SUCKS Unless You Do This..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZYKx-_sQIbs" target="_blank" rel="noopener noreferrer">Cycling in the Rain SUCKS Unless You Do This...</a></p><p class="youtube-embed-meta">Channel: Global Cycling Network &middot; Views: 177.7K &middot; Uploaded: December 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZYKx-_sQIbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZYKx-_sQIbs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

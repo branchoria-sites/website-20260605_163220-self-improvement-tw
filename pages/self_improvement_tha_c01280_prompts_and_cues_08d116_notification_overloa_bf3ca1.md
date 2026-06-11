@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /cues/
 nav_short_title: Cue Fatigue
 title: When Reminders Become Easy to Ignore
-title_full: When Reminders Become Easy to Ignore | Cues
+title_full: When Reminders Become Easy to Ignore
 display_title_short: Cue Fatigue
 display_title: Cue Fatigue
 heading_title: When Reminders Become Easy to Ignore
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:17:28'
-parent_title: Why Good Cues Beat Good Intentions | Better Change
+parent_title: Why Good Cues Beat Good Intentions
 parent_permalink: /cues/
 parent_nav_short_title: Cues
 parent_heading_title: Why Good Cues Beat Good Intentions
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notifi
 
 Digital [reminders]({{ 'reminders/' | relative_url }}) seem like an obvious way to make habits easier. If a prompt appears at the right moment, it can bridge the gap between intention and action. Yet many people discover the opposite outcome: the more reminders they create, the less attention they pay to any of them.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notification_overloa_bf3ca1-Illustration-1-dark.svg" | relative_url }}" alt="Cue Fatigue illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notification_overloa_bf3ca1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notification_overloa_bf3ca1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This problem is often called notification overload or cue fatigue. A reminder that was once useful becomes part of the background. The phone buzzes, a banner appears, a smartwatch vibrates, and the brain learns that most alerts do not require immediate action. Over time, even well-designed habit prompts can be dismissed automatically. Research on digital [behaviour change]({{ 'behaviour-change/' | relative_url }}) suggests that prompts and cues can support engagement, but their effectiveness depends heavily on timing, relevance, and user burden rather than sheer [frequency]({{ 'frequency/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">by G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span>
 
@@ -300,7 +299,6 @@ One reason habit reminders fail is that being aware of a task is not the same as
 
 Many digital prompts communicate only that a habit exists:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Drink water.
@@ -315,7 +313,6 @@ They do not necessarily create a realistic opportunity to act.
 Behaviour change research consistently finds that prompts work better when tied to a specific context, behaviour, or next step rather than serving as generic reminders. Effective interventions often combine prompts with clear behavioural targets, self-monitoring, or contextual triggers. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4723726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effectiveness of Prompts to Promote Engagement</span><span class="citation-popover-snippet">by G Alkhaldi · 2016 · Cited by 342 — Digital interventions have been effective in improving numerous health outcomes and health behav...</span></span></span>
 
 A reminder that says “Take a five-minute walk now” while the user is already standing up to make coffee has a stronger cue-action connection than a generic notification that appears during an unrelated activity.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gqTxyvI52v8" title="Barrage of Notifications Driving &quot;Alert Fatigue&quot;: Study | Vantage on Firstpost | N18G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gqTxyvI52v8" target="_blank" rel="noopener noreferrer">Barrage of Notifications Driving &quot;Alert Fatigue&quot;: Study | Vantage on Firstpost | N18G</a></p><p class="youtube-embed-meta">Channel: Firstpost &middot; Views: 12.2K &middot; Uploaded: June 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gqTxyvI52v8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gqTxyvI52v8">Open on YouTube</a></p></div></div></div>
 
@@ -333,7 +330,6 @@ The same pattern can appear in personal habit systems.
 
 Imagine someone who has reminders for:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Water intake every hour.
@@ -347,7 +343,6 @@ Imagine someone who has reminders for:
 </div>
 
 Individually, each reminder seems reasonable. Collectively, they create competition. Every alert reduces the distinctiveness of the others.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notification_overloa_bf3ca1-Illustration-2-dark.svg" | relative_url }}" alt="Cue Fatigue illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notification_overloa_bf3ca1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notification_overloa_bf3ca1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When Reminders Create Learned Dismissal
@@ -364,7 +359,6 @@ Researchers studying engagement with digital behaviour-change interventions have
 
 This helps explain why many habit-tracking applications initially feel motivating but lose influence after several weeks. The reminders remain, but the user's behavioural response has shifted from action to dismissal.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Vk8f9Zx09yI" title="Your Phone Wins Every Time (Unless You Do This) | Dr. Arif Khan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Vk8f9Zx09yI" target="_blank" rel="noopener noreferrer">Your Phone Wins Every Time (Unless You Do This) | Dr. Arif Khan</a></p><p class="youtube-embed-meta">Channel: Dr Arif Khan &middot; Views: 2.3K &middot; Uploaded: April 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Vk8f9Zx09yI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Vk8f9Zx09yI">Open on YouTube</a></p></div></div></div>
 
 ## How to Choose Fewer, Stronger Cues
@@ -372,7 +366,6 @@ This helps explain why many habit-tracking applications initially feel motivatin
 The most effective solution is usually not better wording or more motivational messages. It is reducing the number of cues competing for attention.
 
 A useful cue should satisfy three conditions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -392,7 +385,6 @@ For example, medication adherence, a scheduled workout, or a [weekly review]({{ 
 
 Lower-stakes habits often benefit more from environmental cues than digital alerts. Leaving a book on a pillow, placing vitamins beside a toothbrush, or keeping a water bottle on a desk creates a visible trigger without adding another interruption.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notification_overloa_bf3ca1-Illustration-3-dark.svg" | relative_url }}" alt="Cue Fatigue illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notification_overloa_bf3ca1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_notification_overloa_bf3ca1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Match the Cue to the Moment
 
@@ -408,7 +400,6 @@ The strongest reminder systems treat attention as a scarce resource.
 
 Each alert should earn its place by being:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Relevant.
@@ -419,7 +410,6 @@ Each alert should earn its place by being:
 </div>
 
 When people know that a notification usually matters, they respond differently. The cue retains credibility. Instead of becoming part of the digital background, it remains a genuine signal.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-orKftKmQ9k" title="Reset your relationship with your phone | Short course | Digital wellbeing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-orKftKmQ9k" target="_blank" rel="noopener noreferrer">Reset your relationship with your phone | Short course | Digital wellbeing</a></p><p class="youtube-embed-meta">Channel: Digital Skills Education &middot; Views: 243 &middot; Uploaded: April 2025 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-orKftKmQ9k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-orKftKmQ9k">Open on YouTube</a></p></div></div></div>
 

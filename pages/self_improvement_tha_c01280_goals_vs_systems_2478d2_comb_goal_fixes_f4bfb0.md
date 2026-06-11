@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /goals-vs-systems/
 nav_short_title: COM B Fixes
 title: Is Motivation Really the Missing Piece?
-title_full: Is Motivation Really the Missing Piece? | Goals vs Systems
+title_full: Is Motivation Really the Missing Piece?
 display_title_short: COM B Fixes
 display_title: COM B Fixes
 heading_title: Is Motivation Really the Missing Piece?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:16:48'
-parent_title: Do Goals or Systems Matter More? | Better Change
+parent_title: Do Goals or Systems Matter More?
 parent_permalink: /goals-vs-systems/
 parent_nav_short_title: Goals vs Systems
 parent_heading_title: Do Goals or Systems Matter More?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_g
 
 Many goals fail for a reason that is both frustrating and surprisingly ordinary: the problem is not a lack of determination. People often respond to stalled progress by trying to become more motivated, when the real obstacle is that they lack the capability, opportunity, or [support]({{ 'support/' | relative_url }}) needed to perform the behaviour consistently. The COM-B model was developed precisely to diagnose this problem. It proposes that behaviour depends on three interacting conditions: Capability, Opportunity, and [Motivation]({{ 'motivation/' | relative_url }}). If any of these are missing, the desired behaviour becomes difficult to sustain regardless of how strong the original goal may be. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-1-dark.svg" | relative_url }}" alt="COM B Fixes illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within a systems-design approach to self-improvement, COM-B shifts attention away from asking “How can I try harder?” and towards asking “What is preventing this behaviour from occurring reliably?” That change in perspective often reveals that repeated failure is less a character flaw than a design flaw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10095640/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-snippet">UCL DiscoveryA brief introduction to the COM-B Model of behaviour and the...by R West · 2020 · Cited by 635 — It identifies three factor...</span></span></span>
 
@@ -285,7 +284,6 @@ Within a systems-design approach to self-improvement, COM-B shifts attention awa
 The COM-B framework, developed by Susan Michie, Maartje van Stralen and Robert West, argues that behaviour emerges from the interaction of capability, opportunity and motivation. These factors influence one another over time rather than operating independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
 This matters because many people diagnose every failure as a motivation problem:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,7 +303,6 @@ In practice, motivation is often the most visible symptom but not the root cause
 
 Research examining COM-B in health-related behaviours has found that capability and opportunity often influence behaviour through their effects on motivation. In other words, people frequently become more motivated after barriers are removed rather than before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">In the physical activity model...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lC7UK_mSSVs" title="How to get ANYONE to do ANYTHING! (COM-B explained)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lC7UK_mSSVs" target="_blank" rel="noopener noreferrer">How to get ANYONE to do ANYTHING! (COM-B explained)</a></p><p class="youtube-embed-meta">Channel: Pete Judo &middot; Views: 20.7K &middot; Uploaded: September 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lC7UK_mSSVs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lC7UK_mSSVs">Open on YouTube</a></p></div></div></div>
 
 ## Capability Problems Disguised as Willpower
@@ -324,7 +321,6 @@ Consider several examples:
 
 A systems approach therefore asks different questions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Does the person know exactly how to perform the behaviour?
@@ -335,7 +331,6 @@ A systems approach therefore asks different questions:
 </div>
 
 Many “discipline” problems improve when the behaviour is made easier, smaller, or more structured. The goal remains the same, but capability is deliberately increased through training, education, repetition or simplification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.norfolk.gov.uk/article/42184/COM-B-and-the-behaviour-change-wheel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norfolk.gov.uk">[Norfolk County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norfolk.gov.uk</span><span class="citation-popover-snippet">Norfolk County CouncilCOM-B and the behaviour change wheelSo at the heart of the wheel are the sources of behaviour, which can be broken...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-2-dark.svg" | relative_url }}" alt="COM B Fixes illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Opportunity Problems in Everyday Environments
@@ -349,7 +344,6 @@ A person may set a goal to eat healthier while keeping highly processed snacks v
 The problem is not necessarily weak commitment. The environment is simply producing different behaviour than the goal requires.
 
 Opportunity failures commonly appear as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -369,7 +363,6 @@ GoalCommon ResponseCOM-B Opportunity FixExercise regularlyTry to be more discipl
 
 These interventions work because they redesign the environment instead of demanding continuous self-control.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4LjuiMymOCs" title="Want LASTING Change? Discover Robert Dilts Logical Levels of Change &amp; COM-B Model of Behavior Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4LjuiMymOCs" target="_blank" rel="noopener noreferrer">Want LASTING Change? Discover Robert Dilts Logical Levels of Change &amp; COM-B Model of Behavior Change</a></p><p class="youtube-embed-meta">Channel: Game of Life &middot; Views: 759 &middot; Uploaded: September 2024 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4LjuiMymOCs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4LjuiMymOCs">Open on YouTube</a></p></div></div></div>
 
 ## Turning a Stuck Goal into a System Redesign
@@ -384,7 +377,6 @@ Look for gaps in knowledge, skill, stamina, attention or planning.
 
 Examples:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Learn meal preparation before attempting a strict nutrition plan.
@@ -393,14 +385,12 @@ Examples:
 
 </div>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-3-dark.svg" | relative_url }}" alt="COM B Fixes illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What opportunity is missing?
 
 Look for environmental barriers, lack of resources, scheduling conflicts or social obstacles.
 
 Examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -425,7 +415,6 @@ Possible interventions include:
 * Building routines that reduce reliance on moment-to-moment decisions.
 
 The key insight is that motivation is often easier to maintain once capability and opportunity are improved. A person who knows exactly what to do and can do it in a supportive environment usually experiences less resistance than someone fighting constant barriers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">In the physical activity model...Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2-KvaIsb0fM" title="Dr. Susan Michie, The Behaviour Change Wheel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2-KvaIsb0fM" target="_blank" rel="noopener noreferrer">Dr. Susan Michie, The Behaviour Change Wheel</a></p><p class="youtube-embed-meta">Channel: Knowlege Translation &middot; Views: 11.7K &middot; Uploaded: January 2019 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2-KvaIsb0fM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2-KvaIsb0fM">Open on YouTube</a></p></div></div></div>
 
@@ -554,15 +543,15 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Gift Decorative Sign Acrylic for Office Desk Table Shelf employee"><img src="https://i.ebayimg.com/images/g/ifUAAeSwqExqGigG/s-l225.jpg" alt="Listing image for Motivational Gift Decorative Sign Acrylic for Office Desk Table Shelf employee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/~0oAAeSwKCNo8eh-/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer">Motivational Gift Decorative Sign Acrylic for Office Desk Table Shelf employee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk motivation sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +559,15 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Everything Is Figureoutable Inspirational Motivational Wooden Wall Desk Sign 5x5"><img src="https://i.ebayimg.com/images/g/yrQAAOSweRlmgF8q/s-l225.jpg" alt="Listing image for Everything Is Figureoutable Inspirational Motivational Wooden Wall Desk Sign 5x5" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4"><img src="https://i.ebayimg.com/images/g/LAMAAeSwng5pTtfM/s-l225.jpg" alt="Listing image for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer">Everything Is Figureoutable Inspirational Motivational Wooden Wall Desk Sign 5x5</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk motivation sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,15 +575,15 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational Acrylic Desk Decor: Little Reminders Motivational Plaque Sign"><img src="https://i.ebayimg.com/images/g/l4cAAeSw~9BqE~rV/s-l225.jpg" alt="Listing image for Inspirational Acrylic Desk Decor: Little Reminders Motivational Plaque Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review"><img src="https://i.ebayimg.com/images/g/eBAAAeSwAS9omOvh/s-l225.jpg" alt="Listing image for Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer">Inspirational Acrylic Desk Decor: Little Reminders Motivational Plaque Sign</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk motivation sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -602,15 +591,15 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Acrylic Desk Sign Positive Quote Gift Office Decor"><img src="https://i.ebayimg.com/images/g/VR4AAeSwCB9p60Ws/s-l225.jpg" alt="Listing image for Motivational Acrylic Desk Sign Positive Quote Gift Office Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Hero A4 Tear Off Pad"><img src="https://i.ebayimg.com/images/g/SrkAAeSwBUJo0Se7/s-l225.jpg" alt="Listing image for Habit Tracker Hero A4 Tear Off Pad" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer">Motivational Acrylic Desk Sign Positive Quote Gift Office Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Hero A4 Tear Off Pad</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk motivation sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -618,7 +607,7 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-desk-motivation-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk motivation sign" data-ebay-reference="is-motivation-really-the-missing-piece-desk-motivation-sign" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -828,6 +817,7 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

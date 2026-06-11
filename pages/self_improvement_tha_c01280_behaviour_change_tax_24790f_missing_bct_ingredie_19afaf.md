@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /techniques/
 nav_short_title: Missing Ingredient
 title: Which behaviour change ingredient is actually missing?
-title_full: Which behaviour change ingredient is actually missing? | Techniques
+title_full: Which behaviour change ingredient is actually missing?
 display_title_short: Missing Ingredient
 display_title: Missing Ingredient
 heading_title: Which behaviour change ingredient is actually missing?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:13:01'
-parent_title: What Are the Active Ingredients of Change? | Better Change
+parent_title: What Are the Active Ingredients of Change?
 parent_permalink: /techniques/
 parent_nav_short_title: Techniques
 parent_heading_title: What Are the Active Ingredients of Change?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_mi
 
 When a habit keeps failing, the default explanation is usually a lack of discipline. Behaviour-change research suggests a different possibility: the habit may be missing the right ingredient. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy was created partly to make these ingredients visible and distinguishable, rather than treating all behaviour problems as [motivation]({{ 'motivation/' | relative_url }}) problems. The practical question is not “How can I try harder?” but “What is stopping this behaviour from happening consistently?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-1-dark.svg" | relative_url }}" alt="Missing Ingredient illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This shift matters because different obstacles require different [techniques]({{ 'techniques/' | relative_url }}). A person who forgets to exercise needs a different intervention from someone who lacks the skills, faces environmental friction, or loses interest after a week. Adding more motivation to a problem caused by poor planning is often as ineffective as adding more planning to a problem caused by a hostile [environment]({{ 'environment/' | relative_url }}). Effective self-improvement begins with diagnosis before prescription. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabThe COM-B Model for Behavior ChangeIn the COM-B model, reflective motivation plays a critical role in guiding deliberate...</span></span></span>
 
@@ -320,7 +319,6 @@ This often signals a capability problem rather than a motivation problem.
 
 Relevant techniques include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Instruction on how to perform the behaviour
@@ -337,7 +335,6 @@ Many abandoned habits fail because the next step is unclear. “Start strength t
 This frequently indicates inadequate planning.
 
 Relevant techniques include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -358,7 +355,6 @@ This often reflects weak [feedback]({{ 'feedback/' | relative_url }}) loops.
 
 Relevant techniques include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Self-monitoring
@@ -370,14 +366,12 @@ Relevant techniques include:
 
 Without feedback, behaviour becomes psychologically invisible. Progress tracking does not create motivation by itself, but it creates information. Information makes adjustment possible.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-2-dark.svg" | relative_url }}" alt="Missing Ingredient illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### “The environment keeps defeating me”
 
 Many people underestimate environmental barriers.
 
 Relevant techniques include:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -396,7 +390,6 @@ This suggests a missing social ingredient.
 
 Relevant techniques include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Social support
@@ -408,7 +401,6 @@ Relevant techniques include:
 
 The obstacle is not necessarily personal motivation. The behaviour may depend on social opportunity that is absent when acting alone.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-3-dark.svg" | relative_url }}" alt="Missing Ingredient illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_missing_bct_ingredie_19afaf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Avoid adding techniques that solve the wrong problem
 
@@ -417,7 +409,6 @@ One of the most common self-improvement mistakes is technique stacking without d
 Imagine someone trying to establish a daily reading habit.
 
 They fail for a week and respond by:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -442,6 +433,22 @@ The Behaviour Change Technique Taxonomy is valuable precisely because it separat
 ## A practical diagnosis sequence
 
 When a habit repeatedly fails, work through these questions in order:
+
+1. **Did I remember at the right moment?** If not, add prompts, cues, or implementation intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Intentions &#124; Springer Nature LinkImplementation intentions and goal achievement: A meta-analysis of effects and processes...</span></span></span>
+2. **Did I know exactly what to do?**
+If not, add instruction, practice, or skill development.
+3. **Did I have a specific plan?**
+If not, create a detailed action plan.
+4. **Was the environment helping or hindering?**
+If hindering, redesign the environment.
+5. **Was progress visible?**
+If not, add monitoring and feedback.
+6. **Did I need other people?**
+If yes, add social support or accountability.
+7. **Did I genuinely want the outcome enough to persist?**
+Only after checking the previous questions should motivation become the primary suspect.
+
+This sequence prevents a common error in self-improvement: diagnosing every failure as a character flaw. Often the missing ingredient is not more effort. It is a better-matched behaviour-change technique aimed at the real obstacle in the routine.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -859,22 +866,6 @@ When a habit repeatedly fails, work through these questions in order:
 })();
 </script>
 </section>
-
-1. **Did I remember at the right moment?** If not, add prompts, cues, or implementation intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_1710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Intentions &#124; Springer Nature LinkImplementation intentions and goal achievement: A meta-analysis of effects and processes...</span></span></span>
-2. **Did I know exactly what to do?**
-If not, add instruction, practice, or skill development.
-3. **Did I have a specific plan?**
-If not, create a detailed action plan.
-4. **Was the environment helping or hindering?**
-If hindering, redesign the environment.
-5. **Was progress visible?**
-If not, add monitoring and feedback.
-6. **Did I need other people?**
-If yes, add social support or accountability.
-7. **Did I genuinely want the outcome enough to persist?**
-Only after checking the previous questions should motivation become the primary suspect.
-
-This sequence prevents a common error in self-improvement: diagnosing every failure as a character flaw. Often the missing ingredient is not more effort. It is a better-matched behaviour-change technique aimed at the real obstacle in the routine.
 
 ## Endnotes
 

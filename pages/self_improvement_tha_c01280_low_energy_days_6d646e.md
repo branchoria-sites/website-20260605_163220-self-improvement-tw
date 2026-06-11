@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: Low Energy
 title: Build the Plan for Your Worst Day
-title_full: Build the Plan for Your Worst Day | Better Change
+title_full: Build the Plan for Your Worst Day
 display_title_short: Low Energy
 display_title: Low Energy
 heading_title: Build the Plan for Your Worst Day
@@ -504,7 +504,6 @@ image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-overvie
 
 Self-improvement plans are most likely to last when they are designed for the day when energy is low, not the day when [motivation]({{ 'motivation/' | relative_url }}) is high. A good low-energy plan does not lower your standards permanently; it defines the smallest useful version of the behaviour, removes avoidable friction, and gives you a guilt-free route back after a missed day. This matters because many people abandon improvement plans at the first tired week, assuming the lapse proves a lack of discipline. Behaviour-change evidence points in a different direction: plans survive better when they specify what to do, where and when to do it, what cue will trigger it, and how to respond when predictable barriers appear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-overview.webp" | relative_url }}" alt="Overview image for Low Energy" loading="eager" decoding="sync" fetchpriority="high">
 The practical aim is to build a “worst day” version of the plan before the worst day arrives. That means deciding in advance what counts as enough: one paragraph instead of an hour of writing, five minutes outside instead of a full workout, opening the budgeting app instead of rebuilding your whole financial system. The low-energy version keeps the [identity]({{ 'identity/' | relative_url }}) of the habit alive while protecting recovery, sleep and self-respect.
 
@@ -526,7 +525,6 @@ This approach fits the evidence better than heroic consistency. Habit research e
 
 A useful minimum action has three qualities:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * **It preserves the cue.** If the full plan is “read after making tea”, the low-energy version is still attached to tea: read one page, not “read sometime”.
@@ -541,7 +539,6 @@ Implementation intentions make this floor more concrete. They are “if-then” 
 
 The strongest minimum actions are decided before the low-energy day. Deciding while tired creates another task. Deciding in advance turns the plan into a script.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-Illustration-1-dark.svg" | relative_url }}" alt="Low Energy illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Environmental shortcuts
 
@@ -550,7 +547,6 @@ Low-energy planning works best when the [environment]({{ 'environment/' | relati
 The shortcut should make the desired action easier at the exact moment it is likely to fail. A yoga mat in the cupboard is a possession. A yoga mat unrolled beside the bed is a prompt. A book on a shelf is an intention. A book on the pillow is an environmental cue. A budgeting app buried on the third screen of a phone is an aspiration. A direct shortcut on the home screen after payday is a practical nudge.
 
 Good shortcuts reduce one of three kinds of friction:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -563,7 +559,6 @@ Good shortcuts reduce one of three kinds of friction:
 This is where low-energy plans differ from ordinary productivity advice. The aim is not to create an immaculate lifestyle system. The aim is to arrange the next action so it asks less of you when you have less to give. In COM-B terms, the environment increases opportunity; in habit terms, it strengthens the cue; in ordinary language, it makes the right thing easier to do half-asleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">an across contexts empirical examination of the COM-B modelby TJ Willmott · 2021 · Cited by 346 — In the COM-B model, capability...</span></span></span>
 
 The shortcut should also be modest enough to maintain. If the environmental setup takes longer than the habit itself, it may become another barrier. A person trying to cook more on tired evenings may not need an elaborate meal-prep system. They may need three reliable low-effort meals, visible ingredients, and permission for “good enough” dinners that prevent takeaway becoming the only tired-day option.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VfGRTOIT9Z4" title="How to be productive (even when you’re tired) | tips to stay motivated during a 9-5 work day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VfGRTOIT9Z4" target="_blank" rel="noopener noreferrer">How to be productive (even when you’re tired) | tips to stay motivated during a 9-5 work day</a></p><p class="youtube-embed-meta">Channel: Rebekah Joy &middot; Views: 46.1K &middot; Uploaded: April 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VfGRTOIT9Z4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VfGRTOIT9Z4">Open on YouTube</a></p></div></div></div>
 
@@ -579,14 +574,12 @@ Relapse-prevention thinking, especially in health behaviour and addiction contex
 
 A simple recovery rule is: **never miss the return step**. The return step should be smaller than the full routine and scheduled clearly. For example: “Tomorrow after breakfast, I will do the two-minute version.” Not “I will restart properly on Monday.” The longer and grander the restart, the more likely it is to become another fantasy plan.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-Illustration-3-dark.svg" | relative_url }}" alt="Low Energy illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical worst-day template
 
 A low-energy self-improvement plan should be written while you are calm enough to think clearly. It can be short. The purpose is not to design a second life; it is to remove negotiation from predictable moments of fatigue.
 
 Use this structure:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -620,7 +613,7 @@ A finished example might look like this:
 
 The same pattern works for non-fitness goals:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[**Goal:** Read more consistently.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
+**Goal:** Read more consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[cancercontrol.cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 **Full version:** Thirty pages before bed.
 
@@ -636,7 +629,6 @@ The same pattern works for non-fitness goals:
 
 The point is not that one page or five minutes will transform your life by itself. The point is that the behaviour remains available even when your energy is not.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-Illustration-2-dark.svg" | relative_url }}" alt="Low Energy illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common mistakes on low-energy days
 
@@ -650,7 +642,6 @@ A fourth mistake is treating every tired day as a discipline problem. Sometimes 
 
 The final mistake is making the restart too dramatic. “From tomorrow I will do everything properly” sounds motivating, but it often recreates the original fragile plan. A better restart is deliberately boring: return to the cue, do the minimum action, record it, stop.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/11Vl35uvILs" title="How to Have a Productive Day When You Have No Energy (Gentle, Realistic Tips)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=11Vl35uvILs" target="_blank" rel="noopener noreferrer">How to Have a Productive Day When You Have No Energy (Gentle, Realistic Tips)</a></p><p class="youtube-embed-meta">Channel: Life of Amy June &middot; Views: 1.0K &middot; Uploaded: January 2026 &middot; Length: 4 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=11Vl35uvILs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=11Vl35uvILs">Open on YouTube</a></p></div></div></div>
 
 ## What changes when the plan assumes fatigue
@@ -661,9 +652,7 @@ The best low-energy plan is therefore not the easiest possible plan. It is the m
 
 For [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), this is the practical test: the plan should still make sense on your worst ordinary day. If it only works when you are rested, confident and uninterrupted, it is not yet a real plan.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/itp7Qo6L5Pc" title="15-minute Introduction to the Behaviour Change Wheel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=itp7Qo6L5Pc" target="_blank" rel="noopener noreferrer">15-minute Introduction to the Behaviour Change Wheel</a></p><p class="youtube-embed-meta">Channel: Unlocking Behaviour Change &middot; Views: 32.4K &middot; Uploaded: September 2022 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=itp7Qo6L5Pc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=itp7Qo6L5Pc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1162,4 +1151,4 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
 
 24. <a id="endnote-24"></a>
    Source: yukaichou.com  
-   Link: <a href="https://yukaichou.com/gamification-analysis/com-b-behavior-change-wheel-michie-capability-opportunity-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/com-b-behavior-change-wheel-michie-capability-opportunity-motivation/</a>  
+   Link: <a href="https://yukaichou.com/gamification-analysis/com-b-behavior-change-wheel-michie-capability-opportunity-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/com-b-behavior-change-wheel-michie-capability-opportunity-motivation/</a>

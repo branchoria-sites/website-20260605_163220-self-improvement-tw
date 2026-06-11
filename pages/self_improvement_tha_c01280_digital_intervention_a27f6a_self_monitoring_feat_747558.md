@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /digital-tools/
 nav_short_title: Tracking
 title: When does tracking actually change a habit?
-title_full: When does tracking actually change a habit? | Digital Tools
+title_full: When does tracking actually change a habit?
 display_title_short: Tracking
 display_title: Tracking
 heading_title: When does tracking actually change a habit?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 16:12:15'
-parent_title: What Makes a Self Improvement App Useful? | Better Change
+parent_title: What Makes a Self Improvement App Useful?
 parent_permalink: /digital-tools/
 parent_nav_short_title: Digital Tools
 parent_heading_title: What Makes a Self Improvement App Useful?
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_se
 
 Many behaviour-change apps ask people to track something: steps, sleep, spending, study time, mood, calories, screen use, or medication. Yet most tracking does not automatically produce change. The evidence from digital behaviour-change research points to a more specific conclusion: self-monitoring changes habits when it helps people notice a meaningful pattern, connects that pattern to a goal, and suggests a realistic next action. When tracking becomes a passive record of past behaviour, its impact is much weaker. Studies of digital habit-formation interventions consistently find self-monitoring among the most common and useful behaviour-change [techniques]({{ 'techniques/' | relative_url }}), but usually in combination with feedback, [goal setting]({{ 'goal-setting/' | relative_url }}), prompts, and reinforcement rather than as a standalone feature. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38787601/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior change...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-1-dark.svg" | relative_url }}" alt="Tracking illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For self-improvement, this distinction matters. The question is not whether tracking works. The question is which kinds of tracking help people do something differently tomorrow.
 
@@ -281,7 +280,6 @@ Self-monitoring works through awareness. People are often poor judges of their o
 However, awareness alone is only the first step. Habit formation depends on repeated behaviour in consistent contexts over time. Tracking becomes useful when it helps people identify where repetition is succeeding or failing and why. Research on digital habit-formation interventions shows that self-monitoring is commonly paired with goal setting, prompts, cues, and [feedback]({{ 'feedback/' | relative_url }}) because these components help convert awareness into action. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 Consider three versions of the same walking app:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +301,6 @@ The most effective tracking features expose patterns that are difficult to notic
 
 A daily total often tells less than the circumstances surrounding it. For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A spending tracker may reveal that overspending clusters around Friday evenings.
@@ -317,8 +314,7 @@ These observations create opportunities for targeted changes. Rather than trying
 
 Digital interventions increasingly use automatic monitoring through sensors, [wearables]({{ 'wearables/' | relative_url }}), timers, and passive data collection because reducing the effort required to track behaviour increases the likelihood that monitoring continues long enough to reveal useful patterns. Reviews of habit-focused digital interventions identify automatic monitoring as one of the most commonly used implementation methods. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uUbHGWQYCPg" title="Self Monitoring Technique | Cognitive Behavioral Therapy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uUbHGWQYCPg" target="_blank" rel="noopener noreferrer">Self Monitoring Technique | Cognitive Behavioral Therapy</a></p><p class="youtube-embed-meta">Channel: Treasure Of Psychology &middot; Views: 282 &middot; Uploaded: December 2024 &middot; Length: 2 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uUbHGWQYCPg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uUbHGWQYCPg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DPRnrZH6weU" title="5 Ways to Actually Make Your Habits Stick (Evidence-Based)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer">5 Ways to Actually Make Your Habits Stick (Evidence-Based)</a></p><p class="youtube-embed-meta">Channel: Mel Robbins &middot; Views: 136.3K &middot; Uploaded: January 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DPRnrZH6weU">Open on YouTube</a></p></div></div></div>
 
 ### Progress before results
 
@@ -348,7 +344,6 @@ Research on engagement with digital health tools repeatedly identifies dropout a
 
 A useful rule is that every tracked metric should answer a practical question. If a number does not influence a decision, it may not need to be tracked.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-2-dark.svg" | relative_url }}" alt="Tracking illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Turning data into the next action
 
@@ -365,7 +360,6 @@ A trend view, weekly summary, or comparison against a personal baseline helps us
 Example:
 
 "Your average bedtime moved 45 minutes later this week."
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ud2r4InG4K0" title="Developing A Behaviour Change App | Case Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ud2r4InG4K0" target="_blank" rel="noopener noreferrer">Developing A Behaviour Change App | Case Study</a></p><p class="youtube-embed-meta">Channel: SmartDev - AI Powered Software Development &middot; Views: 49 &middot; Uploaded: March 2025 &middot; Length: 3 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ud2r4InG4K0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ud2r4InG4K0">Open on YouTube</a></p></div></div></div>
 
@@ -389,7 +383,6 @@ This final step is where tracking becomes behaviour change rather than record ke
 
 Reviews of digital habit-formation interventions show that descriptive feedback, self-set goals, prompts, and cues frequently accompany self-monitoring because they help create this transition from observation to action. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38787601/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior change...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-3-dark.svg" | relative_url }}" alt="Tracking illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The features most likely to help
 
@@ -404,7 +397,6 @@ Across digital behaviour-change research, several self-monitoring features appea
 * **Action suggestions** that translate insights into the next repeatable step. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> [3MDPI 3JMIR]
 
 Notably, none of these features depend on collecting the maximum possible amount of information. Their value comes from reducing uncertainty about what to do next.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O8AP3EkOohk" title="The Best Tools for Behavior Change and Healthy Lifestyle Tracking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O8AP3EkOohk" target="_blank" rel="noopener noreferrer">The Best Tools for Behavior Change and Healthy Lifestyle Tracking</a></p><p class="youtube-embed-meta">Channel: MD Newsline &middot; Views: 22 &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O8AP3EkOohk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O8AP3EkOohk">Open on YouTube</a></p></div></div></div>
 
@@ -533,15 +525,15 @@ The strongest self-monitoring systems therefore act less like archives and more 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Hero A4 Tear Off Pad"><img src="https://i.ebayimg.com/images/g/SrkAAeSwBUJo0Se7/s-l225.jpg" alt="Listing image for Habit Tracker Hero A4 Tear Off Pad" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK"><img src="https://i.ebayimg.com/images/g/CmMAAOSwRVRmxcEg/s-l225.jpg" alt="Listing image for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Hero A4 Tear Off Pad</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,15 +541,15 @@ The strongest self-monitoring systems therefore act less like archives and more 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List"><img src="https://i.ebayimg.com/images/g/P-cAAOSwFExkVm3h/s-l225.jpg" alt="Listing image for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Fitness Tracker Blood Pressure Heart Rate Sport Watches Men Women UK"><img src="https://i.ebayimg.com/images/g/N~kAAeSwy6lpUgmb/s-l225.jpg" alt="Listing image for Smart Watch Fitness Tracker Blood Pressure Heart Rate Sport Watches Men Women UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Fitness Tracker Blood Pressure Heart Rate Sport Watches Men Women UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -565,15 +557,15 @@ The strongest self-monitoring systems therefore act less like archives and more 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review"><img src="https://i.ebayimg.com/images/g/eBAAAeSwAS9omOvh/s-l225.jpg" alt="Listing image for Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK"><img src="https://i.ebayimg.com/images/g/yRUAAeSwEJpqCCyT/s-l225.jpg" alt="Listing image for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -581,15 +573,15 @@ The strongest self-monitoring systems therefore act less like archives and more 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sugar And Sloth | Self care Bundle | X2 Pins + Habit Tracker + letter paper"><img src="https://i.ebayimg.com/images/g/DlsAAeSwaERqEDbo/s-l225.jpg" alt="Listing image for Sugar And Sloth | Self care Bundle | X2 Pins + Habit Tracker + letter paper" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches"><img src="https://i.ebayimg.com/images/g/2SoAAOSwP~RoXSPX/s-l225.jpg" alt="Listing image for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Sugar And Sloth | Self care Bundle | X2 Pins + Habit Tracker + letter paper</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -597,7 +589,7 @@ The strongest self-monitoring systems therefore act less like archives and more 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="when-does-tracking-actually-change-a-habit-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -807,6 +799,7 @@ The strongest self-monitoring systems therefore act less like archives and more 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

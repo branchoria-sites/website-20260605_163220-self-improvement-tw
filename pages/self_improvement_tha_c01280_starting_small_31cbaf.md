@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: Small Starts
 title: How Small Habits Become Real Change
-title_full: How Small Habits Become Real Change | Better Change
+title_full: How Small Habits Become Real Change
 display_title_short: Small Starts
 display_title: Small Starts
 heading_title: How Small Habits Become Real Change
@@ -504,7 +504,6 @@ image: /assets/images/self_improvement_tha_c01280_starting_small_31cbaf-overview
 
 Starting small works when it is used as an entry point, not as a permanent ceiling. A good first version of a habit should be easy enough to perform on an ordinary bad day, specific enough to track, and attached to a real cue in daily life. But the plan also needs a growth rule: once the behaviour is stable, the person deliberately increases time, difficulty, [frequency]({{ 'frequency/' | relative_url }}), quality or independence. Otherwise “start small” becomes a comforting way to stay where you are.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf-overview.webp" | relative_url }}" alt="Overview image for Small Starts" loading="eager" decoding="sync" fetchpriority="high">
 The evidence behind this is practical rather than glamorous. Habit studies show that simple repeated actions in stable contexts can become more automatic over time, but complex behaviours usually need longer, clearer support and ongoing adjustment. Behaviour-change research also separates active ingredients such as [goal setting]({{ 'goal-setting/' | relative_url }}), action planning, self-monitoring, prompts, feedback and graded progression, rather than treating [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) as a single burst of motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repositorio.ispa.pt">[Repositório ISPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repositorio.ispa.pt</span><span class="citation-popover-snippet">Repositório ISPAModelling habit formation in the real worldTo investigate the process of habit formation in everyday life, 96 volunteers...</span></span></span>
 
@@ -517,7 +516,6 @@ The Fogg Behaviour Model makes this logic simple: a behaviour happens when [moti
 Habit-formation research supports the importance of stable repetition. In the well-known Lally study, participants chose daily eating, drinking or activity behaviours and repeated them in a consistent context over 12 weeks; [automaticity]({{ 'automaticity/' | relative_url }}) generally increased with repetition, though the speed and strength of habit formation varied widely. The popular “66 days” figure is often oversimplified: the study found wide variation, and later summaries emphasise that simple behaviours become automatic more readily than complex routines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://repositorio.ispa.pt/entities/publication/fae72a1c-b2b6-4991-9951-5d20b607f688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repositorio.ispa.pt">[Repositório ISPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repositorio.ispa.pt</span><span class="citation-popover-snippet">Repositório ISPAModelling habit formation in the real worldTo investigate the process of habit formation in everyday life, 96 volunteers...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9403139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBehaviour change techniques that constitute effective</span><span class="citation-popover-snippet">PMCBehaviour change techniques that constitute effective</span></span></span>
 
 This distinction matters for self improvement. “Do two push-ups after brushing my teeth” is closer to a habit than “become a fit person”. “Open the document and write one rough sentence at 9 am” is more workable than “be more productive”. Small starts work because they convert identity-level aspiration into something observable.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf-Illustration-1-dark.svg" | relative_url }}" alt="Small Starts illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Minimum Viable Behaviours
@@ -535,7 +533,6 @@ Implementation intentions are especially useful here. These are if-then plans: �
 
 A minimum viable behaviour should not be confused with doing the least forever. The point is to remove the start-up barrier. Once the behaviour is reliable, the design question changes from “How do I begin?” to “What is the next safe increase?”
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AdKUJxjn-R8" title="Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer">Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.3M &middot; Uploaded: December 2012 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AdKUJxjn-R8">Open on YouTube</a></p></div></div></div>
 
 ## Progression Without Overload
@@ -547,7 +544,6 @@ Physical training offers a useful analogy. The American College of Sports Medici
 Self improvement outside the gym needs a similar rhythm. The increase does not always have to be bigger. It can be better, deeper, more consistent, more autonomous or more realistic.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -562,14 +558,12 @@ This is where self-monitoring matters. The [Behaviour Change]({{ 'behaviour-chan
 
 Progression without overload means using that feedback to raise the bar when the current step has become ordinary, not when guilt spikes. A person who completes a five-minute habit on 18 of 21 days may be ready to increase. A person who completes it twice and then disappears probably needs a better cue, a smaller first step or a more realistic setting before adding difficulty.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf-Illustration-2-dark.svg" | relative_url }}" alt="Small Starts illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When to Raise the Bar
 
 The right time to increase a habit is not simply “when it feels easy”. Feelings fluctuate. A better test is whether the behaviour is stable across normal variation: a busy day, a low-energy day, a travel day, a mildly stressful day. If the behaviour only happens under perfect conditions, it is not ready for a heavier load.
 
 Raise the bar when most of these are true:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -585,8 +579,7 @@ The Lally habit-formation findings are useful here because they show a curve, no
 
 A practical rule is to increase only one variable at a time. Add duration, frequency, difficulty, quality or social accountability — not all at once. If the habit breaks after an increase, that is information, not failure. Return to the last stable version, then make a smaller increase.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rEq-AYSRFHE" title="6 small habits can CHANGE your life (21 day plan)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rEq-AYSRFHE" target="_blank" rel="noopener noreferrer">6 small habits can CHANGE your life (21 day plan)</a></p><p class="youtube-embed-meta">Channel: RESPIRE &middot; Views: 632.3K &middot; Uploaded: January 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rEq-AYSRFHE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rEq-AYSRFHE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ijInaXZy0pU" title="TINY HABITS by B.J. Fogg – Animated Book Summary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ijInaXZy0pU" target="_blank" rel="noopener noreferrer">TINY HABITS by B.J. Fogg – Animated Book Summary</a></p><p class="youtube-embed-meta">Channel: Upgraded Mentality &middot; Views: 34.7K &middot; Uploaded: September 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ijInaXZy0pU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ijInaXZy0pU">Open on YouTube</a></p></div></div></div>
 
 ## The Trap of Staying Small
 
@@ -598,13 +591,11 @@ There is also a genuine evidence-based caution: goal setting alone is not always
 
 The question is not “Is the habit tiny?” The question is “What is this tiny habit training?” If one minute of meditation trains returning attention, it may be valuable. If one sentence trains daily contact with a manuscript, it may be valuable. If one push-up simply protects the claim that “I exercise” while avoiding any meaningful training effect, the design needs to change.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ijInaXZy0pU" title="TINY HABITS by B.J. Fogg – Animated Book Summary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ijInaXZy0pU" target="_blank" rel="noopener noreferrer">TINY HABITS by B.J. Fogg – Animated Book Summary</a></p><p class="youtube-embed-meta">Channel: Upgraded Mentality &middot; Views: 34.7K &middot; Uploaded: September 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ijInaXZy0pU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ijInaXZy0pU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HBVACtJCN3M" title="CBT Technique: Behavioral Activation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HBVACtJCN3M" target="_blank" rel="noopener noreferrer">CBT Technique: Behavioral Activation</a></p><p class="youtube-embed-meta">Channel: Therapist Aid &middot; Views: 271.0K &middot; Uploaded: November 2014 &middot; Length: 4 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HBVACtJCN3M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HBVACtJCN3M">Open on YouTube</a></p></div></div></div>
 
 ## A Simple Growth Policy
 
 A small-start habit works best when it includes a written growth policy. This removes the need to make progression decisions in the emotional moment. The policy can be simple:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -619,7 +610,6 @@ A small-start habit works best when it includes a written growth policy. This re
 For example, someone rebuilding reading could set the floor as one page, the standard as ten pages, and the stretch as 25 pages plus a short note. Someone improving fitness could set the floor as a five-minute walk, the standard as 20 minutes, and the stretch as 30 minutes with hills. Someone developing a writing practice could set the floor as opening the document and writing one sentence, the standard as 25 minutes, and the stretch as 500 rough words.
 
 This structure respects both realities: people need a low-friction way to continue when life is messy, and they need a mechanism that prevents the first step from becoming the whole staircase.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf-Illustration-3-dark.svg" | relative_url }}" alt="Small Starts illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Real Change Looks Like
@@ -1171,4 +1161,4 @@ This is why small starts are powerful but incomplete. They are excellent for red
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
+   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /automaticity/
 nav_short_title: Routine Breaks
 title: Why Good Habits Vanish on Holiday
-title_full: Why Good Habits Vanish on Holiday | Automaticity
+title_full: Why Good Habits Vanish on Holiday
 display_title_short: Routine Breaks
 display_title: Routine Breaks
 heading_title: Why Good Habits Vanish on Holiday
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:19:20'
-parent_title: How Repetition Becomes Automatic | Better Change
+parent_title: How Repetition Becomes Automatic
 parent_permalink: /automaticity/
 parent_nav_short_title: Automaticity
 parent_heading_title: How Repetition Becomes Automatic
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_prot
 
 Many habits feel strong until life changes. Someone who reads every evening at home may stop reading on holiday. A regular exercise routine can disappear during illness. A healthy breakfast habit may vanish after moving house. This does not necessarily mean the habit was weak or that [motivation]({{ 'motivation/' | relative_url }}) has collapsed. Often, the problem is that the cues that triggered the behaviour have disappeared.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_protect_habits_durin_c8fb26-Illustration-1-dark.svg" | relative_url }}" alt="Routine Breaks illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_protect_habits_durin_c8fb26-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_protect_habits_durin_c8fb26-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on habit formation consistently shows that habits depend heavily on stable contexts and repeated cue-behaviour links. When those contexts change, [automaticity]({{ 'automaticity/' | relative_url }}) can weaken because the usual triggers are no longer present. The practical challenge is not merely building habits in ideal conditions but protecting them when routines become unstable. Evidence from habit research suggests that disruptions such as moving home, changing jobs, travelling, illness and other life transitions can temporarily weaken existing habits while creating a period in which behaviour becomes more deliberate and easier to reshape. USC Dornsife <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Changing Behavior Using Habit Theory (Chapter 13)Habits involve a direct cue-behavior association in memory. When encountered, cues activ...</span></span></span>
 
@@ -296,7 +295,6 @@ Not all disruptions are equal. Some remove only one cue. Others dismantle an ent
 
 Common examples include:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * **Travel and holidays:** sleep schedules, meal times, work routines and locations all change simultaneously.
@@ -312,7 +310,6 @@ These situations matter because habits are often supported by multiple environme
 Research on the "habit discontinuity hypothesis" suggests that major life changes disrupt existing behavioural patterns. Studies of residential moves, for example, have found that moving house weakens established habits and increases the likelihood that people reconsider their routines and choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1369847818305874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Habit discontinuity and student travel mode choiceby P Haggar · 2019 · Cited by 102 — We predicted that the travel mode choi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S1369847818305874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Habit discontinuity and student travel mode choiceby P Haggar · 2019 · Cited by 102 — We predicted that the travel mode choi...</span></span></span>
 
 The implication is double-edged. Life transitions can damage useful habits, but they also create opportunities to redesign them. The same disruption that causes a reading habit to disappear can also make it easier to establish a new reading routine in a new environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1369847818305874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Habit discontinuity and student travel mode choiceby P Haggar · 2019 · Cited by 102 — We predicted that the travel mode choi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchportal.bath.ac.uk/en/publications/cracks-in-the-wall-habit-discontinuities-as-vehicles-for-behaviou/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchportal.bath.ac.uk">[2the University of Bath&#x27;s research portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchportal.bath.ac.uk</span><span class="citation-popover-title">cracks in the wall habit discontinuities as vehicles for behaviou</span><span class="citation-popover-snippet">the University of Bath&#x27;s research portalHabit discontinuities as vehicles for behaviour changeby B Verplanken · 2018 · Cited by 121 — We...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/STy4oSMR1fo" title="30 habits that (quietly) transformed my life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=STy4oSMR1fo" target="_blank" rel="noopener noreferrer">30 habits that (quietly) transformed my life</a></p><p class="youtube-embed-meta">Channel: Ideas To Thrive &middot; Views: 1.2M &middot; Uploaded: September 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=STy4oSMR1fo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=STy4oSMR1fo">Open on YouTube</a></p></div></div></div>
 
@@ -334,7 +331,6 @@ One way to protect habits is to build them around cues that travel with you.
 
 Some cues are highly location-dependent:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The desk in a specific office.
@@ -345,7 +341,6 @@ Some cues are highly location-dependent:
 </div>
 
 Others are portable:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -363,7 +358,6 @@ Habit researchers describe habits as responses to recurring contextual cues. The
 
 This does not eliminate disruption entirely, but it reduces dependence on any single setting.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_protect_habits_durin_c8fb26-Illustration-2-dark.svg" | relative_url }}" alt="Routine Breaks illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_protect_habits_durin_c8fb26-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_protect_habits_durin_c8fb26-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Shrink the Habit During Unstable Weeks
 
@@ -374,7 +368,6 @@ Someone who normally exercises for an hour may abandon exercise completely when 
 A more resilient strategy is to preserve the [identity]({{ 'identity/' | relative_url }}) and cue while temporarily reducing the behaviour.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -389,7 +382,6 @@ The goal during disruption is often continuity rather than optimisation. Preserv
 
 This approach fits habit theory because automaticity depends on repeating the association between cue and action. Maintaining even a small version of the behaviour keeps that association active. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Wood.Tam_.GuerreroWitt.2005_Changing_circumstances_disrupting_habits.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dornsife.usc.edu">[USC Dornsife]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dornsife.usc.edu</span><span class="citation-popover-title">Dornsife Changing Circumstances, Disrupting Habits</span><span class="citation-popover-snippet">USC DornsifeChanging Circumstances, Disrupting HabitsJune 20, 2005 — by W Wood · 2005 · Cited by 1107 — The present research investigated...</span><span class="citation-popover-meta">Published: June 20, 2005</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2uSQrUvofA4" title="17 Boring Habits That Quietly Rebuilt My Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2uSQrUvofA4" target="_blank" rel="noopener noreferrer">17 Boring Habits That Quietly Rebuilt My Life</a></p><p class="youtube-embed-meta">Channel: Ideas To Thrive &middot; Views: 199.9K &middot; Uploaded: January 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2uSQrUvofA4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2uSQrUvofA4">Open on YouTube</a></p></div></div></div>
 
 ## Build Restart Plans Before You Need Them
@@ -399,7 +391,6 @@ Many people create plans for performing habits but not for restarting them.
 A restart plan answers a different question: what happens if the routine is interrupted?
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -414,7 +405,6 @@ The value of a restart plan is psychological as well as practical. It reduces th
 
 Research on context disruption suggests that when old cues weaken, behaviour becomes more open to conscious guidance and deliberate decision-making. Having a restart rule ready allows that deliberate period to work in favour of the habit rather than against it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1369847818305874" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Habit discontinuity and student travel mode choiceby P Haggar · 2019 · Cited by 102 — We predicted that the travel mode choi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12845" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: compass.onlinelibrary.wiley.com">[Compass]</a><span class="citation-popover" role="note"><span class="citation-popover-source">compass.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">change after context disruption: Opportunities and...21 Jul 2023 — Disruption to a context that cues behaviors can provide opportunity f...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_protect_habits_durin_c8fb26-Illustration-3-dark.svg" | relative_url }}" alt="Routine Breaks illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_protect_habits_durin_c8fb26-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_protect_habits_durin_c8fb26-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Life Transitions Are Threats and Opportunities
 
@@ -426,9 +416,7 @@ For self-improvement, this means that a disrupted routine should not automatical
 
 The strongest habit systems are therefore not those that depend on perfect stability. They are those that anticipate instability, rely on portable cues where possible, use smaller versions during difficult periods and include clear restart plans. In a world where routines inevitably change, resilience often matters more than uninterrupted consistency.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GjsDiBxp2SU" title="How to stop GIVING UP on habits + routines &amp; ACTUALLY stay consistent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GjsDiBxp2SU" target="_blank" rel="noopener noreferrer">How to stop GIVING UP on habits + routines &amp; ACTUALLY stay consistent</a></p><p class="youtube-embed-meta">Channel: Dr. Tiffany Shelton &middot; Views: 12.9K &middot; Uploaded: March 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GjsDiBxp2SU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GjsDiBxp2SU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -994,4 +982,4 @@ The strongest habit systems are therefore not those that depend on perfect stabi
    Title: sustainable transport after lockdown through changing habits  
    Link: <a href="https://www.bps.org.uk/psychologist/sustainable-transport-after-lockdown-through-changing-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/sustainable-transport-after-lockdown-through-changing-habits</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>22 May 2020 — Colm Mulcahy on the role of habitual behaviours in sustainable transport post-lockdown...</p></details>
-   Published: May 2020  
+   Published: May 2020

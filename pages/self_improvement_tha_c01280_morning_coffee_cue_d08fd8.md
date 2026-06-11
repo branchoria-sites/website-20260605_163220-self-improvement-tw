@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: Coffee Cue
 title: How Coffee Can Trigger the First Work Task
-title_full: How Coffee Can Trigger the First Work Task | Better Change
+title_full: How Coffee Can Trigger the First Work Task
 display_title_short: Coffee Cue
 display_title: Coffee Cue
 heading_title: How Coffee Can Trigger the First Work Task
@@ -504,7 +504,6 @@ image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8-over
 
 Morning coffee can become more than a drink: it can be a reliable cue for starting the first meaningful work task. The useful mechanism is simple. Pair an existing routine — making or drinking coffee — with a tiny review of the day’s top task, then move directly into the [first action]({{ 'first-action/' | relative_url }}) before email, messages or news take over. This fits the broader pattern of [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}): do not wait for motivation; make the desired behaviour easier to remember, easier to start and harder to displace.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8-overview.webp" | relative_url }}" alt="Overview image for Coffee Cue" loading="eager" decoding="sync" fetchpriority="high">
 The coffee matters partly because it is already stable. Many people do it without needing a reminder. Caffeine can also increase alertness and reduce sleepiness in moderate doses, which makes it a natural moment for choosing focused work, though it is not a magic productivity substance and can backfire through anxiety or sleep disruption in sensitive people. The strongest version of the method is therefore not “drink coffee and become productive”. It is “when coffee begins, review one task; when coffee ends, start it”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.efsa.europa.eu/en/topics/topic/caffeine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.europa.eu">[European Food Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.europa.eu</span><span class="citation-popover-snippet">European Food Safety AuthorityCaffeine &#124; EFSA - European UnionWhen consumed by humans, caffeine stimulates the central nervous system, an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[2U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">spilling beans how much caffeine too much</span><span class="citation-popover-snippet">Food and Drug AdministrationSpilling the Beans: How Much Caffeine is Too Much?28 Aug 2024 — the FDA has cited 400 milligrams* a day — tha...</span></span></span> Food and Drug Administration
 
@@ -522,7 +521,6 @@ The best cue is not the most inspiring one. It is the one that actually happens.
 
 A useful coffee cue has four qualities:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * **It is already automatic.** Do not choose a cue you are also trying to build. “After I make coffee” is stronger than “after I complete my ideal morning routine”.
@@ -536,14 +534,12 @@ The cue should also match the kind of workday. Someone who works from home might
 
 This precision matters because prompts work by reducing the need to remember. A prompt that says “be productive today” still demands interpretation. A prompt that says “open the project note while the coffee brews and choose the next paragraph to write” turns productivity into a visible behaviour.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8-Illustration-1-dark.svg" | relative_url }}" alt="Coffee Cue illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Keeping the review small
 
 The review should be deliberately tiny. A coffee cue fails when it expands into a full planning session, a life audit or a beautiful but avoidant notebook ritual. The aim is not to organise the whole day. It is to protect the first task from being crowded out.
 
 A practical review can be limited to three questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -557,8 +553,7 @@ That third question is often the most important. Many people do not fail because
 
 The coffee review should therefore end with an action, not a list. “Review the proposal” is too soft. “Open the proposal and rewrite the first section heading” is stronger. “Work on tax” is vague. “Download the missing bank statement” is startable. The smaller the first action, the less likely the mind is to escape into inbox-checking, app-opening or extra planning.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pznlwQ-LB6k" title="5 Minute Coffee Ritual for Calm &amp; Presence: Mindfulness Practice to Engage Your Senses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pznlwQ-LB6k" target="_blank" rel="noopener noreferrer">5 Minute Coffee Ritual for Calm &amp; Presence: Mindfulness Practice to Engage Your Senses</a></p><p class="youtube-embed-meta">Channel: Headspace &middot; Views: 4.3K &middot; Uploaded: April 2026 &middot; Length: 4 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pznlwQ-LB6k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pznlwQ-LB6k">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h35hy4LcVFw" title="Behavioral scientist BJ Fogg on building lasting habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer">Behavioral scientist BJ Fogg on building lasting habits</a></p><p class="youtube-embed-meta">Channel: Stanford &middot; Views: 14.9K &middot; Uploaded: January 2024 &middot; Length: 2 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h35hy4LcVFw">Open on YouTube</a></p></div></div></div>
 
 ## Preventing email drift
 
@@ -567,7 +562,6 @@ The coffee review should therefore end with an action, not a list. “Review the
 The answer is not necessarily a heroic ban on email. Some jobs require early checking. The better rule is sequencing: first review the top task, then start one concrete action, then check email at a defined point. This preserves responsiveness without letting the inbox decide what the first cognitive effort of the day will be.
 
 A workable version looks like this:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -582,7 +576,6 @@ This structure also helps with attention residue: the mental residue left when a
 
 The point is not that email is bad. The point is that email is a poor default first cue. Coffee can become the opposite: a short ritual that asks, “what deserves my first clear attention?”
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8-Illustration-2-dark.svg" | relative_url }}" alt="Coffee Cue illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What caffeine adds, and what it cannot do
 
@@ -594,7 +587,6 @@ That makes morning coffee a plausible moment for focused work, but not a substit
 
 For this reason, the coffee cue should not depend on escalating caffeine. If the habit only works with a larger and larger dose, the cue is being confused with stimulation. A better test is: does the top-task review still happen with a smaller coffee, half-caf, tea or a non-caffeinated hot drink? If yes, the cue is doing real behavioural work.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8-Illustration-3-dark.svg" | relative_url }}" alt="Coffee Cue illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A simple coffee-cue script
 
@@ -605,7 +597,6 @@ The cleanest version is short enough to memorise:
 This script works because it contains the cue, the behaviour and the boundary. It also avoids the mistake of turning a morning productivity ritual into a second job. The review is not supposed to produce a perfect plan. It is supposed to choose a direction before the day becomes noisy.
 
 A practical desk setup makes the script easier:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -619,8 +610,7 @@ A practical desk setup makes the script easier:
 
 This is behaviour design, not moral discipline. The morning coffee does not make someone a more virtuous person. It makes the intended behaviour more likely at the exact moment when the workday’s direction is still negotiable.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h35hy4LcVFw" title="Behavioral scientist BJ Fogg on building lasting habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer">Behavioral scientist BJ Fogg on building lasting habits</a></p><p class="youtube-embed-meta">Channel: Stanford &middot; Views: 14.9K &middot; Uploaded: January 2024 &middot; Length: 2 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h35hy4LcVFw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pznlwQ-LB6k" title="5 Minute Coffee Ritual for Calm &amp; Presence: Mindfulness Practice to Engage Your Senses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pznlwQ-LB6k" target="_blank" rel="noopener noreferrer">5 Minute Coffee Ritual for Calm &amp; Presence: Mindfulness Practice to Engage Your Senses</a></p><p class="youtube-embed-meta">Channel: Headspace &middot; Views: 4.3K &middot; Uploaded: April 2026 &middot; Length: 4 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pznlwQ-LB6k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pznlwQ-LB6k">Open on YouTube</a></p></div></div></div>
 
 ## When the cue needs changing
 
@@ -632,9 +622,7 @@ The method also needs adjustment if it becomes too elaborate. Signs of overgrowt
 
 A coffee cue is valuable because it is ordinary. It takes something already present in the morning and gives it a job: not to optimise the whole life, not to guarantee a perfect day, but to make the first useful work action more likely before distraction becomes the default.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a1KUkWnJD0I" title="Why Some People Can&#x27;t Start Work Without Coffee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a1KUkWnJD0I" target="_blank" rel="noopener noreferrer">Why Some People Can&#x27;t Start Work Without Coffee</a></p><p class="youtube-embed-meta">Channel: PsychOwlogy &middot; Views: 6 &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a1KUkWnJD0I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a1KUkWnJD0I">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vzfqx8BvqQo" title="Habit Stacking: UNLOCK High-Velocity Success" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vzfqx8BvqQo" target="_blank" rel="noopener noreferrer">Habit Stacking: UNLOCK High-Velocity Success</a></p><p class="youtube-embed-meta">Channel: 1440 Podcast &middot; Views: 876 &middot; Uploaded: June 2025 &middot; Length: 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vzfqx8BvqQo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vzfqx8BvqQo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1194,4 +1182,4 @@ A coffee cue is valuable because it is ordinary. It takes something already pres
 
 30. <a id="endnote-30"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWxS_Kwghgx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWxS_Kwghgx/</a>  
+   Link: <a href="https://www.instagram.com/reel/DWxS_Kwghgx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWxS_Kwghgx/</a>

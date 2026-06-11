@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-low-energy/
 description: Focused pages that expand on Low Energy.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: self_improvement_tha_c01280_low_energy_days_6d646e
-parent_title: Low Energy | Self Improvement That Works
+parent_title: Low Energy
 parent_nav_short_title: Low Energy
 parent_permalink: /low-energy/
 ---

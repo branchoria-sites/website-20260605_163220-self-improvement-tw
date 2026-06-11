@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: Study First
 title: How to Study Before You Start Scrolling
-title_full: How to Study Before You Start Scrolling | Better Change
+title_full: How to Study Before You Start Scrolling
 display_title_short: Study First
 display_title: Study First
 heading_title: How to Study Before You Start Scrolling
@@ -504,7 +504,6 @@ image: /assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723-ov
 
 Studying before scrolling works because it changes the order of two competing behaviours. Instead of asking a tired brain to “be disciplined” while a phone is already open, it makes study the first visible action and makes scrolling slightly harder to start. The aim is not to demonise phones or social media. It is to protect the fragile first minutes of attention, when a student is most likely to drift into messages, short videos, news, games or “just checking” before the planned work has begun.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723-overview.webp" | relative_url }}" alt="Overview image for Study First" loading="eager" decoding="sync" fetchpriority="high">
 The evidence behind this approach is practical rather than magical. Smartphone presence and notifications can draw on attention even when the phone is not being actively used; social media is a common source of task distraction; and behaviour-change research supports specific plans, cues, self-monitoring and environmental restructuring over vague intentions. A good “study first” routine therefore has three parts: design the phone [environment]({{ 'environment/' | relative_url }}) before the study moment, define the first study action so clearly that it can be started without negotiation, and have a recovery plan for the inevitable times when scrolling wins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.journals.uchicago.edu/doi/full/10.1086/691462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.uchicago.edu">[Chicago Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.uchicago.edu</span><span class="citation-popover-snippet">Chicago JournalsBrain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF Ward · 2017 · Cited by 1473 — Our data indicate that the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8674581/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy Are We Distracted by Social Media</span><span class="citation-popover-snippet">NIHby C Koessmeier · 2021 · Cited by 119 — Social media is a major source of distraction and thus can hinder users from successfull...</span></span></span>
 
@@ -527,7 +526,6 @@ The most reliable design principle is to separate study cues from scroll cues. A
 For many students, the strongest setup is physical distance plus digital friction. Physical distance removes the instant reach. Digital friction catches the hand when distance fails. Apple’s Screen Time can schedule Downtime and App [Limits]({{ 'limits/' | relative_url }}); Google’s Digital Wellbeing includes Focus mode, which can pause selected distracting apps and suppress their notifications during scheduled periods. These tools are not a cure for procrastination, but they are useful when the goal is to make the first scroll slower than the first study action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/guide/iphone/set-schedules-with-screen-time-iphb0c7313c9/ios" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A practical phone environment might look like this:
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723-Illustration-1-dark.svg" | relative_url }}" alt="Study First illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -553,7 +551,6 @@ For studying before scrolling, the plan should name the cue, the location and th
 
 The first action should be small enough to begin on a bad day but real enough to count as studying. Good first actions include:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * writing the heading and copying the first question;
@@ -566,7 +563,6 @@ The first action should be small enough to begin on a bad day but real enough to
 </div>
 
 The point is not that five flashcards will transform learning. The point is that the student has crossed the start line. Once study has begun, continuing is often easier than starting. In procrastination research, clear temporal structure and earlier starts are repeatedly important because they reduce the vague, open-ended delay that lets avoidance grow. Recent review work in computing education, for example, found that structured interventions can promote earlier starts and more distributed work, especially for longer assignments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.03248" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dUw1Mlq4AQ4" title="How to Become Addicted to Being OFF Your Phone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dUw1Mlq4AQ4" target="_blank" rel="noopener noreferrer">How to Become Addicted to Being OFF Your Phone</a></p><p class="youtube-embed-meta">Channel: Pierre Dalati &middot; Views: 97.6K &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dUw1Mlq4AQ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dUw1Mlq4AQ4">Open on YouTube</a></p></div></div></div>
 
@@ -588,7 +584,6 @@ Recovery needs to be designed in advance. The aim is to reduce the time between 
 
 A useful recovery script is short:
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723-Illustration-2-dark.svg" | relative_url }}" alt="Study First illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -605,7 +600,6 @@ The record matters because it turns failure into data. If the same trigger keeps
 
 This is where self improvement becomes genuinely practical. The student is not trying to prove they are disciplined. They are observing the loop and adjusting the design.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uUtMgA4piS0" title="How to Actually Focus While Studying (Even If You&#x27;re Addicted to Scrolling)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uUtMgA4piS0" target="_blank" rel="noopener noreferrer">How to Actually Focus While Studying (Even If You&#x27;re Addicted to Scrolling)</a></p><p class="youtube-embed-meta">Channel: 𝑷𝒊𝒙𝒊𝒆𝑳𝒖𝒎𝒆 &middot; Views: 49.3K &middot; Uploaded: May 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uUtMgA4piS0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uUtMgA4piS0">Open on YouTube</a></p></div></div></div>
 
 ## A simple routine for a real study day
@@ -619,7 +613,6 @@ At the start, do the first action immediately. Do not tidy the whole desk, redes
 During the session, treat urges to check the phone as cues rather than commands. An urge can mean the work is hard, boring, ambiguous or emotionally uncomfortable. That information is useful, but it does not need to be obeyed immediately. Write a quick mark on paper, continue for two more minutes, or finish the current line before making any phone decision.
 
 After the study unit, take the planned break. If scrolling is the reward, keep it visible and bounded: five to ten minutes, ideally with a timer. The break should not require pretending that the student no longer wants their phone. It simply places the phone after the academic action rather than before it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kzt_CzZEK9A" title="what if studying felt like scrolling?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kzt_CzZEK9A" target="_blank" rel="noopener noreferrer">what if studying felt like scrolling?</a></p><p class="youtube-embed-meta">Channel: jspark &middot; Views: 92.4K &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kzt_CzZEK9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kzt_CzZEK9A">Open on YouTube</a></p></div></div></div>
 
@@ -636,7 +629,6 @@ If the student starts but quickly escapes, the task may be too difficult, too bo
 If the routine works for a few days and then fades, add self-monitoring without turning it into a performance drama. A simple tick on a calendar for “studied before scrolling” is enough. Behaviour-change evidence treats self-monitoring as one of the common active ingredients in interventions because it makes behaviour visible and adjustable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phwwhocc.co.uk">[WHO Collaborating Centre on Health Investments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phwwhocc.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 If the phone is being used to manage stress, loneliness or fatigue, app blocking alone may feel brittle. The replacement behaviour needs to meet the same need in a less derailing way: stand up, drink water, message one person after the study block, take a short walk, or do two minutes of breathing before restarting. In this case, the phone is not only a distraction; it is also a coping tool. The routine has to offer another way through the same moment.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723-Illustration-3-dark.svg" | relative_url }}" alt="Study First illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The useful promise of “study first”
@@ -764,15 +756,15 @@ The deeper shift is from identity to arrangement. The question is not “Am I th
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kitchen Timer Egg Square Shaped Kitchen Cooking Timer Mechanical Alarm 60Min"><img src="https://i.ebayimg.com/images/g/hj0AAeSwWz1qDsxi/s-l225.jpg" alt="Listing image for Kitchen Timer Egg Square Shaped Kitchen Cooking Timer Mechanical Alarm 60Min" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Transparent Phone Lock Box Self-Discipline Time Management Box Timer Portable"><img src="https://i.ebayimg.com/images/g/gxoAAeSwOS9qIqMk/s-l225.jpg" alt="Listing image for Transparent Phone Lock Box Self-Discipline Time Management Box Timer Portable" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Kitchen Timer Egg Square Shaped Kitchen Cooking Timer Mechanical Alarm 60Min</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Transparent Phone Lock Box Self-Discipline Time Management Box Timer Portable</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -780,15 +772,15 @@ The deeper shift is from identity to arrangement. The question is not “Am I th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ticktime Pomodoro Timer - Magnetic Flip Focus Timer for Work, Study, Tasks"><img src="https://i.ebayimg.com/images/g/HQoAAeSwZwhqHEx-/s-l225.jpg" alt="Listing image for Ticktime Pomodoro Timer - Magnetic Flip Focus Timer for Work, Study, Tasks" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Afenau Phone Lock Box with Timer – Modern White Digital Detox Security Storage"><img src="https://i.ebayimg.com/images/g/CQkAAeSwjwJqKzBj/s-l225.jpg" alt="Listing image for Afenau Phone Lock Box with Timer – Modern White Digital Detox Security Storage" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Ticktime Pomodoro Timer - Magnetic Flip Focus Timer for Work, Study, Tasks</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Afenau Phone Lock Box with Timer – Modern White Digital Detox Security Storage</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -796,15 +788,15 @@ The deeper shift is from identity to arrangement. The question is not “Am I th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Time Timer 8&quot; - 60 minute visual pomodoro study timer - V Good Cond."><img src="https://i.ebayimg.com/images/g/xvcAAeSwNF5qF1Gf/s-l225.jpg" alt="Listing image for Time Timer 8&quot; - 60 minute visual pomodoro study timer - V Good Cond." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable Phone Lock Box with Timer Transparent Lid Phone Box ADHD"><img src="https://i.ebayimg.com/images/g/UQYAAeSwX1ZpshEx/s-l225.jpg" alt="Listing image for Portable Phone Lock Box with Timer Transparent Lid Phone Box ADHD" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Time Timer 8&quot; - 60 minute visual pomodoro study timer - V Good Cond.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Portable Phone Lock Box with Timer Transparent Lid Phone Box ADHD</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -812,15 +804,15 @@ The deeper shift is from identity to arrangement. The question is not “Am I th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Timer Flip Digital LED Countdown Kitchen Study Pomodoro Gravity Timer"><img src="https://i.ebayimg.com/images/g/Y~MAAeSw2nhpwdem/s-l225.jpg" alt="Listing image for Smart Timer Flip Digital LED Countdown Kitchen Study Pomodoro Gravity Timer" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOIMISS Phone Locked Box Phone Safety Lock: Case Electronic Locker Lock Boxes"><img src="https://i.ebayimg.com/images/g/f34AAeSwAxtqEYVQ/s-l225.jpg" alt="Listing image for SOIMISS Phone Locked Box Phone Safety Lock: Case Electronic Locker Lock Boxes" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Smart Timer Flip Digital LED Countdown Kitchen Study Pomodoro Gravity Timer</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">SOIMISS Phone Locked Box Phone Safety Lock: Case Electronic Locker Lock Boxes</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -828,7 +820,7 @@ The deeper shift is from identity to arrangement. The question is not “Am I th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="how-to-study-before-you-start-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-study-before-you-start-scrolling-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="how-to-study-before-you-start-scrolling-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1038,6 +1030,7 @@ The deeper shift is from identity to arrangement. The question is not “Am I th
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1136,4 +1129,4 @@ The deeper shift is from identity to arrangement. The question is not “Am I th
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: How To Make A Phone Less Distracting for Learners  
-   Link: <a href="https://www.youtube.com/watch?v=iP3mQS_-2IE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iP3mQS_-2IE</a>  
+   Link: <a href="https://www.youtube.com/watch?v=iP3mQS_-2IE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iP3mQS_-2IE</a>

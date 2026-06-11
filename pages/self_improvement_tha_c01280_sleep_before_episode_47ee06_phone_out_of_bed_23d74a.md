@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sleep-first/
 nav_short_title: Phone Distance
 title: Why Your Phone Should Sleep Elsewhere
-title_full: Why Your Phone Should Sleep Elsewhere | Sleep First
+title_full: Why Your Phone Should Sleep Elsewhere
 display_title_short: Phone Distance
 display_title: Phone Distance
 heading_title: Why Your Phone Should Sleep Elsewhere
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 04:44:09'
-parent_title: How to Stop the Next Episode Trap | Better Change
+parent_title: How to Stop the Next Episode Trap
 parent_permalink: /sleep-first/
 parent_nav_short_title: Sleep First
 parent_heading_title: How to Stop the Next Episode Trap
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_ph
 
 One of the simplest ways to stop “just one more episode” turning into a much later bedtime is to move the phone out of the bed area altogether. This sounds trivial, but it changes the problem from a test of [willpower]({{ 'willpower/' | relative_url }}) into a question of physical access. A phone beside the pillow combines streaming, messaging, social media, browsing, news, alarms and work notifications in the exact place where sleep should be the default behaviour.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_phone_out_of_bed_23d74a-Illustration-1-dark.svg" | relative_url }}" alt="Phone Distance illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_phone_out_of_bed_23d74a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_phone_out_of_bed_23d74a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research increasingly suggests that the issue is not only screen light. The phone's presence creates opportunities for stimulation, checking, scrolling and cognitive engagement at the moment when the brain is trying to disengage. In practical terms, a phone on a bedside table makes continuing an activity easy. A phone charging across the room makes continuing an activity slightly inconvenient—and that small inconvenience often matters more than [motivation]({{ 'motivation/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</span></span></span>
 
@@ -281,7 +280,6 @@ Most people think of late-night phone use as a self-control problem. The evidenc
 A 2022 study combining smartphone-use records with sleep-tracking data found that smartphone use in bed was associated with longer sleep latency, more awake time and measurable changes in physiological indicators during sleep. The researchers summarised their practical implication in unusually direct language: “leave your smartphone out of bed”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</span></span></span>
 
 The key insight is that distance creates friction. A phone within arm's reach allows dozens of tiny decisions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,8 +297,7 @@ Sleep-hygiene guidance increasingly reflects this behavioural reality. Sleep org
 
 This matters especially for people trying to stop at the end of an episode. A streaming service can only tempt you if the device remains immediately available. Moving the phone outside arm's reach removes the effortless continuation that makes late-night viewing so difficult to stop.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CozZ1Rcm55E" title="What Happens if You STOP Using Your Cell Phone Before Bed for 14 Days" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CozZ1Rcm55E" target="_blank" rel="noopener noreferrer">What Happens if You STOP Using Your Cell Phone Before Bed for 14 Days</a></p><p class="youtube-embed-meta">Channel: Dr. Eric Berg DC &middot; Views: 550.2K &middot; Uploaded: July 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CozZ1Rcm55E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CozZ1Rcm55E">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xBc9YYdQIpU" title="I spent my PhD asking people why they stay up late" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xBc9YYdQIpU" target="_blank" rel="noopener noreferrer">I spent my PhD asking people why they stay up late</a></p><p class="youtube-embed-meta">Channel: BrainCraft &middot; Views: 11.1K &middot; Uploaded: May 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xBc9YYdQIpU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xBc9YYdQIpU">Open on YouTube</a></p></div></div></div>
 
 ## The Real Problem Is Not Just Blue Light
 
@@ -322,7 +319,6 @@ In practice, the alarm is often the weakest reason for keeping a phone beside th
 
 A useful setup is surprisingly simple:
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_phone_out_of_bed_23d74a-Illustration-2-dark.svg" | relative_url }}" alt="Phone Distance illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_phone_out_of_bed_23d74a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_phone_out_of_bed_23d74a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -338,8 +334,7 @@ The value of this arrangement is not technological. It is architectural. Once th
 
 Some sleep experts argue that even if the phone remains in the bedroom, it should not remain in the bed itself. A screen-free bed creates a clearer boundary between wakeful activities and sleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thensf.org/screen-use-disrupts-precious-sleep-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thensf.org">[National Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thensf.org</span><span class="citation-popover-snippet">National Sleep FoundationScreen Use Disrupts Precious Sleep Time13 Mar 2022 — Yes, you probably need your phone in the bedroom, but not i...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b-e4X034rWI" title="Study: Nighttime Phone Habits Linked To Sleep Loss | WION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b-e4X034rWI" target="_blank" rel="noopener noreferrer">Study: Nighttime Phone Habits Linked To Sleep Loss | WION</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 443 &middot; Uploaded: May 2026 &middot; Length: 3 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b-e4X034rWI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b-e4X034rWI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9ZXQSvQbBrE" title="The honest truth about screens at bedtime (it’s not what you think)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9ZXQSvQbBrE" target="_blank" rel="noopener noreferrer">The honest truth about screens at bedtime (it’s not what you think)</a></p><p class="youtube-embed-meta">Channel: BrainCraft &middot; Views: 35.1K &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9ZXQSvQbBrE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9ZXQSvQbBrE">Open on YouTube</a></p></div></div></div>
 
 ## What to Do When the Phone Must Stay Nearby
 
@@ -348,7 +343,6 @@ Not everyone can leave a phone outside the room. Parents, carers, on-call worker
 In those cases, the goal shifts from removal to containment.
 
 Several practical approaches preserve accessibility while reducing temptation:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -365,8 +359,7 @@ This last point is often overlooked. Sleep organisations note that checking a ph
 
 The objective is not perfection. The objective is reducing opportunities for unnecessary engagement.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xBc9YYdQIpU" title="I spent my PhD asking people why they stay up late" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xBc9YYdQIpU" target="_blank" rel="noopener noreferrer">I spent my PhD asking people why they stay up late</a></p><p class="youtube-embed-meta">Channel: BrainCraft &middot; Views: 11.1K &middot; Uploaded: May 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xBc9YYdQIpU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xBc9YYdQIpU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CozZ1Rcm55E" title="What Happens if You STOP Using Your Cell Phone Before Bed for 14 Days" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CozZ1Rcm55E" target="_blank" rel="noopener noreferrer">What Happens if You STOP Using Your Cell Phone Before Bed for 14 Days</a></p><p class="youtube-embed-meta">Channel: Dr. Eric Berg DC &middot; Views: 550.2K &middot; Uploaded: July 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CozZ1Rcm55E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CozZ1Rcm55E">Open on YouTube</a></p></div></div></div>
 
 ## The Risk of Half-Measures
 
@@ -381,7 +374,6 @@ Behavioural research repeatedly shows that environment shapes actions. The easie
 That is why moving the phone is disproportionately effective compared with more complicated sleep strategies. It does not require motivation at midnight. It requires a decision earlier in the evening.
 
 For people trying to sleep before the next episode starts, that distinction matters. The best moment to stop scrolling, streaming or checking messages is not when the temptation arrives. It is when the phone is placed somewhere that makes the temptation harder to act on.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_phone_out_of_bed_23d74a-Illustration-3-dark.svg" | relative_url }}" alt="Phone Distance illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_phone_out_of_bed_23d74a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_phone_out_of_bed_23d74a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -502,15 +494,15 @@ For people trying to sleep before the next episode starts, that distinction matt
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds UK"><img src="https://i.ebayimg.com/images/g/NkcAAeSw~mxpN7sA/s-l225.jpg" alt="Listing image for Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute"><img src="https://i.ebayimg.com/images/g/2hUAAeSwgrxqJc1M/s-l225.jpg" alt="Listing image for Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer">Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sleep sound machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: sleep sound machine</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +510,15 @@ For people trying to sleep before the next episode starts, that distinction matt
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds"><img src="https://i.ebayimg.com/images/g/SoIAAeSwCVhooiQ8/s-l225.jpg" alt="Listing image for Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital LED Bedside Snooze Alarm Clock Time Temperature Day/Night Mode Clock UK"><img src="https://i.ebayimg.com/images/g/3woAAeSwlh1qG-Zi/s-l225.jpg" alt="Listing image for Digital LED Bedside Snooze Alarm Clock Time Temperature Day/Night Mode Clock UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer">Portable White Noise Sound Machine Sleep Adults Children RGB Light 20 Sounds</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Digital LED Bedside Snooze Alarm Clock Time Temperature Day/Night Mode Clock UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sleep sound machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: sleep sound machine</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +526,15 @@ For people trying to sleep before the next episode starts, that distinction matt
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable Sleep Sound Machine - White Noise Machine for Office Privacy and Noise"><img src="https://i.ebayimg.com/images/g/pMcAAeSwtGBpMEXJ/s-l225.jpg" alt="Listing image for Portable Sleep Sound Machine - White Noise Machine for Office Privacy and Noise" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute"><img src="https://i.ebayimg.com/images/g/fewAAeSw6m9pnAXk/s-l225.jpg" alt="Listing image for Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer">Portable Sleep Sound Machine - White Noise Machine for Office Privacy and Noise</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sleep sound machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: sleep sound machine</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +542,15 @@ For people trying to sleep before the next episode starts, that distinction matt
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lectrofan White Noise Machine Fan Sound Generator"><img src="https://i.ebayimg.com/images/g/gEcAAeSwAx5qIYfb/s-l225.jpg" alt="Listing image for Lectrofan White Noise Machine Fan Sound Generator" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large Glow-in-the-Dark Alarm Clock,Easy Read, Silent Quartz Movement, Big Digits"><img src="https://i.ebayimg.com/images/g/IMUAAeSwxv5qImc5/s-l225.jpg" alt="Listing image for Large Glow-in-the-Dark Alarm Clock,Easy Read, Silent Quartz Movement, Big Digits" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer">Lectrofan White Noise Machine Fan Sound Generator</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Large Glow-in-the-Dark Alarm Clock,Easy Read, Silent Quartz Movement, Big Digits</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sleep sound machine">Search <span data-ebay-domain-label>eBay.co.uk</span>: sleep sound machine</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,7 +558,7 @@ For people trying to sleep before the next episode starts, that distinction matt
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sleep+sound+machine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-sleep-sound-machine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sleep sound machine" data-ebay-reference="why-your-phone-should-sleep-elsewhere-sleep-sound-machine" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -776,6 +768,7 @@ For people trying to sleep before the next episode starts, that distinction matt
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -921,4 +914,4 @@ For people trying to sleep before the next episode starts, that distinction matt
    Source: health.clevelandclinic.org  
    Link: <a href="https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit" target="_blank" rel="noopener noreferrer nofollow">https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>clevelandclinic.org3 Reasons to Ditch Your Phone Before Bed20 May 2022 — Generally, however, tucking your devices away for the night an h...</p></details>
-   Published: May 2022  
+   Published: May 2022

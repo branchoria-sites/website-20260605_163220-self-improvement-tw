@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /small-starts/
 nav_short_title: Raise Bar
 title: When Is a Habit Ready to Grow?
-title_full: When Is a Habit Ready to Grow? | Small Starts
+title_full: When Is a Habit Ready to Grow?
 display_title_short: Raise Bar
 display_title: Raise Bar
 heading_title: When Is a Habit Ready to Grow?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:11:08'
-parent_title: How Small Habits Become Real Change | Better Change
+parent_title: How Small Habits Become Real Change
 parent_permalink: /small-starts/
 parent_nav_short_title: Small Starts
 parent_heading_title: How Small Habits Become Real Change
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_starting_small_31cbaf_when_to_
 
 A small habit is ready to grow when it remains reliable under ordinary pressure, not when it feels effortless on a good day. Many people increase a habit too early because success in ideal conditions creates the illusion of stability. The better test is whether the behaviour still happens when you are tired, busy, distracted, stressed, travelling, or dealing with minor disruptions.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_when_to_raise_bar_bd1083-Illustration-1-dark.svg" | relative_url }}" alt="Raise Bar illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_when_to_raise_bar_bd1083-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_when_to_raise_bar_bd1083-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In the context of starting small without staying small, the goal is not to protect a habit forever. It is to build a version that survives real life and then expand it at the right moment. Research on habit formation suggests that repetition in a stable context gradually increases [automaticity]({{ 'automaticity/' | relative_url }}), but the process varies widely between people and behaviours. What matters is not reaching a particular number of days but developing a behaviour that continues to occur with decreasing reliance on [motivation]({{ 'motivation/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3693 — To investigate the pro...</span></span></span>
 
@@ -287,7 +286,6 @@ The most useful question is not, “Does this feel easy?” but, “Does this st
 A habit that only succeeds on productive days is not yet stable. A habit that continues through normal fluctuations in energy and schedule has started to become dependable.
 
 Practical signs that a habit is ready for a larger version include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -302,7 +300,6 @@ Practical signs that a habit is ready for a larger version include:
 Habit research describes this process as increasing automaticity: the behaviour becomes more strongly linked to a cue and requires less conscious deliberation. Automaticity tends to rise gradually and then level off rather than appearing suddenly. Repositório ISPA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">When encountered, cues activate a single, specific well-learned behavioral response...</span></span></span>
 
 Consider someone building a reading habit. Reading two pages before bed may feel easy after one week because enthusiasm is high. That does not necessarily justify increasing the target. If the habit continues through a stressful work week, a family commitment, and a few low-energy evenings, the evidence for stability becomes much stronger.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HvUCDdfzANw" title="How to Change Your Brain &amp; Increase Neuroplasticity at Any Age | Dr. Andrew Huberman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HvUCDdfzANw" target="_blank" rel="noopener noreferrer">How to Change Your Brain &amp; Increase Neuroplasticity at Any Age | Dr. Andrew Huberman</a></p><p class="youtube-embed-meta">Channel: Huberman Lab Clips &middot; Views: 154.6K &middot; Uploaded: June 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HvUCDdfzANw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HvUCDdfzANw">Open on YouTube</a></p></div></div></div>
 
@@ -320,7 +317,6 @@ This is why repetition is generally better evidence than emotion. Motivation flu
 
 A useful rule is to trust patterns over feelings. One unusually easy week means little. Several weeks of successful repetition across varying circumstances mean much more.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Vc6on4EpTS4" title="15 Habits That Make Your Life Effortless (When Motivation Dies)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Vc6on4EpTS4" target="_blank" rel="noopener noreferrer">15 Habits That Make Your Life Effortless (When Motivation Dies)</a></p><p class="youtube-embed-meta">Channel: Rational Raymond &middot; Views: 8.3K &middot; Uploaded: December 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Vc6on4EpTS4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Vc6on4EpTS4">Open on YouTube</a></p></div></div></div>
 
 ## Test the Habit on Ordinary Bad Days
@@ -328,7 +324,6 @@ A useful rule is to trust patterns over feelings. One unusually easy week means 
 The strongest growth signal is often successful performance during imperfect conditions.
 
 Many habits are built and tested during periods when life is relatively calm. The challenge arrives when normal difficulties appear:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -347,7 +342,6 @@ This does not mean the behaviour must be performed perfectly. The important ques
 
 Research examining real-world habit formation found substantial variation in how quickly habits become automatic, with some behaviours requiring much longer than others. The implication is that readiness should be judged by observed stability rather than a fixed timeline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3693 — To investigate the pro...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">2010) demonstrated that new behavioural patterns require between 18 and 254 days to reach automaticity, with a median of approximately 6...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_when_to_raise_bar_bd1083-Illustration-2-dark.svg" | relative_url }}" alt="Raise Bar illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_when_to_raise_bar_bd1083-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_when_to_raise_bar_bd1083-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Rule for Raising the Bar
 
@@ -363,7 +357,6 @@ Possible variables include:
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Two minutes of stretching becomes five minutes.
@@ -377,7 +370,6 @@ Small increases make it easier to identify what caused success or failure. Large
 
 The objective is to move just beyond autopilot while preserving consistency. Growth should create a manageable challenge, not a complete redesign of the habit.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_when_to_raise_bar_bd1083-Illustration-3-dark.svg" | relative_url }}" alt="Raise Bar illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_when_to_raise_bar_bd1083-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_when_to_raise_bar_bd1083-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What If the Increase Breaks the Habit?
 
@@ -386,7 +378,6 @@ Failure after an increase does not automatically mean the habit was weak. It may
 A common mistake is treating habit growth as a one-way escalation. In practice, effective self-regulation often involves adjustment and recalibration rather than endless upward pressure. Research on goal adjustment and self-regulation suggests that flexibility can be adaptive when demands no longer match current circumstances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmu.edu">[Carnegie Mellon University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmu.edu</span><span class="citation-popover-title">Carnegie Mellon University Adaptive Self-Regulation of Unattainable Goals</span><span class="citation-popover-snippet">Carnegie Mellon UniversityAdaptive Self-Regulation of Unattainable GoalsDecember 1, 2003 — by C Wrosch · 2003 · Cited by 1570 — The overa...</span><span class="citation-popover-meta">Published: December 1, 2003</span></span></span>
 
 When an increase causes the habit to collapse:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -400,7 +391,6 @@ When an increase causes the habit to collapse:
 Imagine a person who maintains ten daily press-ups for a month and then jumps to fifty. If consistency disappears, the lesson is not necessarily that the habit failed. The lesson may be that the [progression]({{ 'progression/' | relative_url }}) exceeded current capacity.
 
 The best habit builders treat setbacks as information. The question becomes, “What increase can I sustain repeatedly?” rather than, “How much can I do at my most motivated?”
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hQPtcSsM9i0" title="Talk: Dopamine circuits driving the transition to habit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hQPtcSsM9i0" target="_blank" rel="noopener noreferrer">Talk: Dopamine circuits driving the transition to habit</a></p><p class="youtube-embed-meta">Channel: Neuromatch Conference &middot; Views: 287 &middot; Uploaded: November 2020 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hQPtcSsM9i0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hQPtcSsM9i0">Open on YouTube</a></p></div></div></div>
 
@@ -529,15 +519,15 @@ A habit that grows at the pace of proven stability is usually slower than people
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker: Undated Calendar the Motivational Journal Features Space for 20 D"><img src="https://i.ebayimg.com/images/g/FIAAAOSw9uVnXgo6/s-l225.jpg" alt="Listing image for Habit Tracker: Undated Calendar the Motivational Journal Features Space for 20 D" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goal Thermometer Chart Goal Tracker - 48&quot;x12&quot; Adhesive Dry Erase Fundraising ..."><img src="https://i.ebayimg.com/images/g/p~oAAOSwxDFm4Aiq/s-l225.jpg" alt="Listing image for Goal Thermometer Chart Goal Tracker - 48&quot;x12&quot; Adhesive Dry Erase Fundraising ..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker: Undated Calendar the Motivational Journal Features Space for 20 D</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Goal Thermometer Chart Goal Tracker - 48&quot;x12&quot; Adhesive Dry Erase Fundraising ...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,15 +535,15 @@ A habit that grows at the pace of proven stability is usually slower than people
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Savvy Bee Habit Tracker Calendar: 24-Month Goal Planner with 120GSM Paper"><img src="https://i.ebayimg.com/images/g/kzUAAeSwHzxo3D0L/s-l225.jpg" alt="Listing image for Savvy Bee Habit Tracker Calendar: 24-Month Goal Planner with 120GSM Paper" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gloomhaven Jaws Of The Lion | Hit Point XP Dial Tracker - 2 Each"><img src="https://i.ebayimg.com/images/g/VGMAAOSwOlBl-zGc/s-l225.jpg" alt="Listing image for Gloomhaven Jaws Of The Lion | Hit Point XP Dial Tracker - 2 Each" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Savvy Bee Habit Tracker Calendar: 24-Month Goal Planner with 120GSM Paper</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Gloomhaven Jaws Of The Lion | Hit Point XP Dial Tracker - 2 Each</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,15 +551,15 @@ A habit that grows at the pace of proven stability is usually slower than people
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Clever Fox Habit Calendar Circle – 2-Year Inspirational Habit Tracker for Ato..."><img src="https://i.ebayimg.com/images/g/SbYAAeSwPSxpzAz8/s-l225.jpg" alt="Listing image for Clever Fox Habit Calendar Circle – 2-Year Inspirational Habit Tracker for Ato..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fundraising Thermometer Chart Dry Erase Goal Tracker with Ribbon 46x12"><img src="https://i.ebayimg.com/images/g/zoAAAeSwApNorir4/s-l225.jpg" alt="Listing image for Fundraising Thermometer Chart Dry Erase Goal Tracker with Ribbon 46x12" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Clever Fox Habit Calendar Circle – 2-Year Inspirational Habit Tracker for Ato...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Fundraising Thermometer Chart Dry Erase Goal Tracker with Ribbon 46x12</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -577,15 +567,15 @@ A habit that grows at the pace of proven stability is usually slower than people
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20 Sheets Habit Tracker Calendar Daily Work Planner Date"><img src="https://i.ebayimg.com/images/g/GDsAAeSwA71pEX4E/s-l225.jpg" alt="Listing image for 20 Sheets Habit Tracker Calendar Daily Work Planner Date" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wingspan Automa Cards Official Game Pieces Scorepad Goal Board &amp; Tiles"><img src="https://i.ebayimg.com/images/g/lssAAeSwZBJo3BCw/s-l225.jpg" alt="Listing image for Wingspan Automa Cards Official Game Pieces Scorepad Goal Board &amp; Tiles" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">20 Sheets Habit Tracker Calendar Daily Work Planner Date</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Wingspan Automa Cards Official Game Pieces Scorepad Goal Board &amp; Tiles</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -593,7 +583,7 @@ A habit that grows at the pace of proven stability is usually slower than people
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-is-a-habit-ready-to-grow-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-habit-ready-to-grow-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="when-is-a-habit-ready-to-grow-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -803,6 +793,7 @@ A habit that grows at the pace of proven stability is usually slower than people
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /if-then-plans/
 nav_short_title: Find Cues
 title: What Is the Real Cue You Keep Missing?
-title_full: What Is the Real Cue You Keep Missing? | If Then Plans
+title_full: What Is the Real Cue You Keep Missing?
 display_title_short: Find Cues
 display_title: Find Cues
 heading_title: What Is the Real Cue You Keep Missing?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:16:15'
-parent_title: Can One Sentence Change Your Follow Through? | Better Change
+parent_title: Can One Sentence Change Your Follow Through?
 parent_permalink: /if-then-plans/
 parent_nav_short_title: If Then Plans
 parent_heading_title: Can One Sentence Change Your Follow Through?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_finding_t
 
 Most failed if-then plans have a hidden problem: the “if” is wrong.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_finding_temptation_c_83b950-Illustration-1-dark.svg" | relative_url }}" alt="Find Cues illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_finding_temptation_c_83b950-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_finding_temptation_c_83b950-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 People often assume they know what triggers a lapse. They write plans such as “If I feel lazy, then I will work” or “If I am tempted, then I will resist.” But behaviour-change research suggests that effective implementation intentions depend on identifying a specific, recurring cue rather than a vague explanation. The strongest plans link a precise situation to a response, allowing behaviour to be triggered automatically when that situation appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-title">Control Implementation Intentions Peter M</span><span class="citation-popover-snippet">Gollwitzer New York...by PM Gollwitzer · Cited by 130 — Implementation intention formation is the mental act of linking an anticipated c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 562 — Implementation intentions are...</span></span></span>
 
@@ -289,7 +288,6 @@ A temptation rarely arrives as a dramatic internal struggle. More often, it arri
 Someone who wants to stop late-night snacking may believe the problem is hunger. After paying attention for a week, they may discover that the urge appears mainly when they sit on a particular sofa after clearing dinner dishes. Another person who wants to reduce social media use may blame poor self-control, only to discover that opening a browser for work automatically leads to typing a familiar website address.
 
 These differences matter because implementation intentions work by linking a specific situation to a specific response. Research on implementation intentions repeatedly describes them as plans that connect an anticipated critical situation with a goal-directed action. The cue must be identifiable enough that it can reliably activate the planned response. Cancer Control ResearchGate Vague triggers create several problems: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Implementation IntentionsPlanning and implementation intentions How cue-response plans improve follow-through and action initiation...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -314,7 +312,6 @@ The goal is to identify patterns that repeat across occasions.
 
 Useful questions include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Where was I?
@@ -334,7 +331,6 @@ Habit research consistently finds that behaviours become linked to stable contex
 
 This is why a temptation often feels spontaneous even when it is highly predictable. The cue is operating beneath conscious attention.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OMbsGBlpP30" title="The Power of Habit: Charles Duhigg at TEDxTeachersCollege" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OMbsGBlpP30" target="_blank" rel="noopener noreferrer">The Power of Habit: Charles Duhigg at TEDxTeachersCollege</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 1.6M &middot; Uploaded: August 2013 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OMbsGBlpP30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OMbsGBlpP30">Open on YouTube</a></p></div></div></div>
 
 ### Look for the Smallest Reliable Trigger
@@ -348,7 +344,6 @@ Consider someone who says:
 That observation may be true, but it is not precise enough to [support]({{ 'support/' | relative_url }}) an if-then plan.
 
 A better investigation might reveal:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -375,7 +370,6 @@ Certain locations become strongly associated with behaviours.
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Eating while standing in the kitchen.
@@ -387,14 +381,12 @@ Examples include:
 
 Because habits are tied to stable contexts, location-based cues can be surprisingly powerful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure-oai.bham.ac.uk/ws/portalfiles/portal/50977652/Pinder_et_al_Digital_behaviour_ACM_Trans_on_Computer_Human_Int_2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure-oai.bham.ac.uk">[Pure OAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure-oai.bham.ac.uk</span><span class="citation-popover-snippet">Pure OAIDigital Behaviour Change Interventions to Break and Form...Today — by C Pinder · 2018 · Cited by 300 — Habits are learned impuls...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_finding_temptation_c_83b950-Illustration-2-dark.svg" | relative_url }}" alt="Find Cues illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_finding_temptation_c_83b950-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_finding_temptation_c_83b950-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Transition Cues
 
 Many temptations occur during shifts between activities.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -408,7 +400,6 @@ Examples include:
 
 These moments are often overlooked because they seem insignificant, yet they frequently mark the beginning of automatic routines.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lme-5_bW0V4" title="How to Break BAD HABITS in 5 Easy steps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lme-5_bW0V4" target="_blank" rel="noopener noreferrer">How to Break BAD HABITS in 5 Easy steps</a></p><p class="youtube-embed-meta">Channel: Jim Kwik &middot; Views: 21.8K &middot; Uploaded: September 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lme-5_bW0V4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lme-5_bW0V4">Open on YouTube</a></p></div></div></div>
 
 ### Emotional Cues
@@ -416,7 +407,6 @@ These moments are often overlooked because they seem insignificant, yet they fre
 Emotions can act as triggers, but they work best when defined precisely.
 
 “Stress” is often too broad. More useful observations might be:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -440,7 +430,6 @@ Examples include:
 * Family members turning on the television after dinner.
 
 The cue is not the temptation itself but the recurring social situation that precedes it.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_finding_temptation_c_83b950-Illustration-3-dark.svg" | relative_url }}" alt="Find Cues illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_finding_temptation_c_83b950-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_finding_temptation_c_83b950-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Turning a Real Trigger Into a Usable If-Then Rule
@@ -470,7 +459,6 @@ The plan might become:
 “If I enter the station shop after work, then I will buy only the items written on my list.”
 
 Research suggests that implementation intentions are effective because the specified cue becomes highly accessible and the response becomes strongly linked to it. Encountering the cue can then trigger action with less conscious deliberation. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — We reviewed a variety of behavioral approaches that sought to provide insights into the cognitive...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2f1tt6-Arnk" title="Atomic Habits - Chapter 10: How to Find and Fix the Causes of Your Bad Habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2f1tt6-Arnk" target="_blank" rel="noopener noreferrer">Atomic Habits - Chapter 10: How to Find and Fix the Causes of Your Bad Habits</a></p><p class="youtube-embed-meta">Channel: TED.doodles &middot; Views: 158 &middot; Uploaded: January 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2f1tt6-Arnk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2f1tt6-Arnk">Open on YouTube</a></p></div></div></div>
 

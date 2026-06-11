@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ego-depletion/
 nav_short_title: Low Resistance Plans
 title: How to Need Less Willpower
-title_full: How to Need Less Willpower | Ego Depletion
+title_full: How to Need Less Willpower
 display_title_short: Low Resistance Plans
 display_title: Low Resistance Plans
 heading_title: How to Need Less Willpower
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:02:27'
-parent_title: Is Self Control Really a Limited Resource? | Better Change
+parent_title: Is Self Control Really a Limited Resource?
 parent_permalink: /ego-depletion/
 parent_nav_short_title: Ego Depletion
 parent_heading_title: Is Self Control Really a Limited Resource?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_lo
 
 If the ego [depletion debate]({{ 'depletion-debate/' | relative_url }}) teaches one practical lesson, it is not that willpower is useless or that self-control is an illusion. It is that relying on repeated acts of resistance is often a fragile way to change behaviour. Whether self-control failures reflect a depleted resource, shifting motivation, fatigue, attention, or habit processes, the same everyday strategy keeps appearing in the evidence: design life so the desired action happens before a struggle begins. Rather than winning the same internal argument every day, effective [behaviour change]({{ 'behaviour-change/' | relative_url }}) reduces how often that argument occurs at all. Research on habits, implementation intentions, environmental design, and cue management suggests that people often succeed not because they fight temptation better, but because they encounter it less often and have already decided what to do when it appears. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4731333/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">More than Resisting Temptation: Beneficial Habits Mediate the...by BM Galla · 2015 · Cited by 755 — These results suggest that benefi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Habit formation and changeby L Carden · 2018 · Cited by 354 — This review highlights emerging findings and new directions in...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_low_resistance_chang_79747d-Illustration-1-dark.svg" | relative_url }}" alt="Low Resistance Plans illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_low_resistance_chang_79747d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_low_resistance_chang_79747d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Low-Resistance Plans Matter
 
@@ -296,7 +295,6 @@ Low-resistance planning starts with the opposite assumption: difficult moments a
 
 Instead of asking what should happen on a perfect day, ask what typically happens when energy is low. Common examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Ordering takeaway after a demanding day.
@@ -307,7 +305,6 @@ Instead of asking what should happen on a perfect day, ask what typically happen
 </div>
 
 The goal is not to eliminate tiredness but to design around it. For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,7 +317,6 @@ The goal is not to eliminate tiredness but to design around it. For example:
 
 This style of planning treats fatigue as a design constraint rather than a personal failure.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v66PDW-sLgs" title="EGO DEPLETION EXPLAINED! (Behavioral Science)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v66PDW-sLgs" target="_blank" rel="noopener noreferrer">EGO DEPLETION EXPLAINED! (Behavioral Science)</a></p><p class="youtube-embed-meta">Channel: Pete Judo &middot; Views: 7.0K &middot; Uploaded: November 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v66PDW-sLgs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v66PDW-sLgs">Open on YouTube</a></p></div></div></div>
 
 ## Removing Cues Before Temptation Starts
@@ -330,7 +326,6 @@ Temptation often feels internal, but environmental cues play a major role in tri
 Because cues matter, removing them can be more effective than repeatedly resisting them.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -348,14 +343,12 @@ Research on digital self-control tools illustrates the same principle. Many succ
 
 The practical question becomes: what triggers the behaviour I want to reduce, and can that trigger be weakened, delayed, or removed?
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_low_resistance_chang_79747d-Illustration-2-dark.svg" | relative_url }}" alt="Low Resistance Plans illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_low_resistance_chang_79747d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_low_resistance_chang_79747d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Turning Intentions Into Automatic Responses
 
 One of the most studied methods for reducing inner resistance is the use of implementation intentions, often called "if-then plans".
 
 Rather than setting a vague goal such as "I will exercise more", a person specifies a concrete cue and response:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -371,7 +364,6 @@ This matters especially in the context of ego [depletion debates]({{ 'depletion-
 
 The broader implication is that planning can sometimes substitute for effort. A pre-made decision often requires less mental work than making the same decision repeatedly in the moment.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hkxcd82hY58" title="15 Habits So Small My Brain Stopped Resisting Them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hkxcd82hY58" target="_blank" rel="noopener noreferrer">15 Habits So Small My Brain Stopped Resisting Them</a></p><p class="youtube-embed-meta">Channel: Ideas To Thrive &middot; Views: 8.2K &middot; Uploaded: March 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hkxcd82hY58" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hkxcd82hY58">Open on YouTube</a></p></div></div></div>
 
 ## Building Habits That Need Less Supervision
@@ -384,7 +376,6 @@ This changes how routines should be designed.
 
 Instead of asking:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * "What is the ideal workout?"
@@ -395,7 +386,6 @@ Instead of asking:
 
 A low-resistance approach asks:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * "What behaviour can I repeat reliably?"
@@ -405,7 +395,6 @@ A low-resistance approach asks:
 </div>
 
 The best routine is often not the most ambitious one. It is the one that survives ordinary life long enough to become automatic.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_low_resistance_chang_79747d-Illustration-3-dark.svg" | relative_url }}" alt="Low Resistance Plans illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_low_resistance_chang_79747d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_low_resistance_chang_79747d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Using Lapses as Planning Data
@@ -428,8 +417,7 @@ This mindset is particularly useful given the uncertainty surrounding ego deplet
 
 A lapse therefore becomes [feedback]({{ 'feedback/' | relative_url }}). It highlights a location where a better cue, stronger routine, clearer plan, or simpler environment may be needed.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pJyo5lXzPhU" title="Tools for Developing Self Control | Dr. Kentaro Fujita &amp; Dr. Andrew Huberman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pJyo5lXzPhU" target="_blank" rel="noopener noreferrer">Tools for Developing Self Control | Dr. Kentaro Fujita &amp; Dr. Andrew Huberman</a></p><p class="youtube-embed-meta">Channel: Huberman Lab Clips &middot; Views: 14.7K &middot; Uploaded: May 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pJyo5lXzPhU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pJyo5lXzPhU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/73Ot80nngvY" title="The Power of Implementation Intentions - See Things Through and Protect your Willpower" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=73Ot80nngvY" target="_blank" rel="noopener noreferrer">The Power of Implementation Intentions - See Things Through and Protect your Willpower</a></p><p class="youtube-embed-meta">Channel: Warrior Habits &middot; Views: 10.0K &middot; Uploaded: August 2017 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=73Ot80nngvY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=73Ot80nngvY">Open on YouTube</a></p></div></div></div>
 
 ## The Most Reliable Everyday Lesson
 

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-rewards/
 description: Focused pages that expand on Rewards.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: self_improvement_tha_c01280_rewards_reinforcemen_89c68c
-parent_title: Rewards | Self Improvement That Works
+parent_title: Rewards
 parent_nav_short_title: Rewards
 parent_permalink: /rewards/
 ---

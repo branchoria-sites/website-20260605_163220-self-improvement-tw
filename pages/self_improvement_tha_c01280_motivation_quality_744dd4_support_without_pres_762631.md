@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /motivation/
 nav_short_title: Support
 title: Help that supports without taking over
-title_full: Help that supports without taking over | Motivation
+title_full: Help that supports without taking over
 display_title_short: Support
 display_title: Support
 heading_title: Help that supports without taking over
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:19:47'
-parent_title: Why Chosen Goals Last Longer | Better Change
+parent_title: Why Chosen Goals Last Longer
 parent_permalink: /motivation/
 parent_nav_short_title: Motivation
 parent_heading_title: Why Chosen Goals Last Longer
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_supp
 
 Support can make self-improvement easier, but it can also quietly undermine it. The difference is not whether other people are involved. It is whether their involvement helps a person feel understood, capable and free to choose, or whether it makes them feel judged, compared and controlled.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_support_without_pres_762631-Illustration-1-dark.svg" | relative_url }}" alt="Support illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_support_without_pres_762631-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_support_without_pres_762631-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on self-determination theory consistently finds that people sustain effort more effectively when three psychological needs are supported: autonomy (a sense of choice), competence (a sense of growing capability) and relatedness (a sense of connection). [Social support]({{ 'social-support/' | relative_url }}) is most helpful when it strengthens all three. When support turns into pressure, it often damages autonomy even if the supporter has good intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: urmc.rochester.edu">[University of Rochester Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">urmc.rochester.edu</span><span class="citation-popover-title">University of Rochester Medicine Self-Determination Theory of Motivation</span><span class="citation-popover-snippet">University of Rochester MedicineSelf-Determination Theory of Motivation - URMC.Rochester.eduSelf-determination theory suggests that all h...</span></span></span>
 
@@ -281,7 +280,6 @@ For [chosen goals]({{ 'chosen-goals/' | relative_url }}), this distinction matte
 Many forms of encouragement are actually forms of control. They attempt to create [motivation]({{ 'motivation/' | relative_url }}) by increasing pressure.
 
 Common examples include:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -301,7 +299,6 @@ Comparison creates a similar problem. Some people do find competition energising
 
 This helps explain why many people abandon goals after criticism or a perceived failure. If the goal has become tied to status, approval or avoiding shame, setbacks threaten [identity]({{ 'identity/' | relative_url }}) rather than simply providing information about progress.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T8CegN1xssY" title="The science of getting motivated | Ayelet Fishbach | TEDxChicago" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T8CegN1xssY" target="_blank" rel="noopener noreferrer">The science of getting motivated | Ayelet Fishbach | TEDxChicago</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 208.5K &middot; Uploaded: December 2023 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T8CegN1xssY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T8CegN1xssY">Open on YouTube</a></p></div></div></div>
 
 ## What autonomy-supportive encouragement sounds like
@@ -311,7 +308,6 @@ Supportive relationships do not remove challenge. They change the way challenge 
 Research on [autonomy support]({{ 'autonomy-support/' | relative_url }}) emphasises behaviours such as acknowledging feelings, offering meaningful choices, providing rationale instead of demands, encouraging initiative and recognising the person's perspective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">an overviewSDT proposes that all human beings have three basic psychological needs – the needs for competence, autonomy, and relatedness...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/28324765.2023.2255040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Autonomy support for the academic goal pursuit...by É Audet · 2023 · Cited by 5 — The results sugge...</span></span></span>
 
 An autonomy-supportive supporter might say:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -334,8 +330,7 @@ The second style keeps responsibility with the goal owner. The supporter contrib
 
 Evidence from coaching and mentoring contexts suggests that autonomy-supportive behaviours are linked to greater satisfaction of competence and relatedness needs, which in turn support healthier motivation and development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8935530/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">to Student Motivation: A Meta-Analysis of... - PMC...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/37qMesa-Y90" title="Autonomy support in 2 minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=37qMesa-Y90" target="_blank" rel="noopener noreferrer">Autonomy support in 2 minutes</a></p><p class="youtube-embed-meta">Channel: Coert Visser &middot; Views: 3.5K &middot; Uploaded: March 2016 &middot; Length: 2 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=37qMesa-Y90" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=37qMesa-Y90">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UXnFxqX8d5g" title="When Discipline Isn’t Working, Try Delight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UXnFxqX8d5g" target="_blank" rel="noopener noreferrer">When Discipline Isn’t Working, Try Delight</a></p><p class="youtube-embed-meta">Channel: Alli Worthington &middot; Views: 129 &middot; Uploaded: January 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UXnFxqX8d5g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UXnFxqX8d5g">Open on YouTube</a></p></div></div></div>
 
 ## Support is strongest when it builds competence
 
@@ -344,7 +339,6 @@ People often assume that emotional encouragement is the primary value of support
 Support becomes more useful when it helps a person see evidence of progress.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -359,7 +353,6 @@ For example:
 Process-focused [feedback]({{ 'feedback/' | relative_url }}) appears particularly valuable because it reinforces capability without making self-worth dependent on results. Research on autonomy-supportive coaching has found that process-focused praise is associated with greater satisfaction of competence needs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effects of Autonomy-supportive Coaching, Need</span><span class="citation-popover-snippet">by JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</span></span></span>
 
 This distinction matters. Praise such as “You're amazing” can unintentionally create pressure to maintain an image. Feedback such as “You handled that challenge better than last month” directs attention towards growth and learning.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_support_without_pres_762631-Illustration-2-dark.svg" | relative_url }}" alt="Support illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_support_without_pres_762631-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_support_without_pres_762631-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Choosing accountability that protects relatedness
@@ -376,7 +369,6 @@ Research examining goal support distinguishes autonomy-supportive forms of suppo
 
 When choosing accountability, several features help protect both motivation and relationships:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * **Voluntary participation:** People choose the arrangement rather than feeling obligated to join.
@@ -389,7 +381,6 @@ When choosing accountability, several features help protect both motivation and 
 
 Healthy accountability asks for honesty, not obedience.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_support_without_pres_762631-Illustration-3-dark.svg" | relative_url }}" alt="Support illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_support_without_pres_762631-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_support_without_pres_762631-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When support becomes taking over
 
@@ -398,7 +389,6 @@ Support can become counterproductive when helpers become more invested in the go
 This often happens in families, coaching relationships or close friendships. A supporter begins with encouragement but gradually assumes responsibility for planning, monitoring and enforcing progress.
 
 [Warning signs]({{ 'warning-signs/' | relative_url }}) include:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -416,15 +406,13 @@ The problem is not the presence of care. It is the loss of autonomy. Self-determ
 
 A person is more likely to remain engaged when they feel both connected to others and free to choose their own path.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Vi54H5B8wI" title="Building Autonomy, Motivation, Identity, &amp; Self Determination with Dr. Richard Koestner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Vi54H5B8wI" target="_blank" rel="noopener noreferrer">Building Autonomy, Motivation, Identity, &amp; Self Determination with Dr. Richard Koestner</a></p><p class="youtube-embed-meta">Channel: Psychotherapy and Applied Psychology &middot; Views: 468 &middot; Uploaded: October 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Vi54H5B8wI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Vi54H5B8wI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/37qMesa-Y90" title="Autonomy support in 2 minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=37qMesa-Y90" target="_blank" rel="noopener noreferrer">Autonomy support in 2 minutes</a></p><p class="youtube-embed-meta">Channel: Coert Visser &middot; Views: 3.5K &middot; Uploaded: March 2016 &middot; Length: 2 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=37qMesa-Y90" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=37qMesa-Y90">Open on YouTube</a></p></div></div></div>
 
 ## Designing a support environment that helps goals last
 
 For self-improvement goals, the most effective social environment is rarely the most intense. Constant monitoring, relentless motivation and [social pressure]({{ 'social-pressure/' | relative_url }}) can produce bursts of effort, but they often make goals feel externally controlled.
 
 More sustainable support follows a different pattern:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 

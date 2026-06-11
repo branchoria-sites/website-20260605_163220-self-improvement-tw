@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /weekly-review/
 nav_short_title: Cue Check
 title: Why the Habit Never Even Started
-title_full: Why the Habit Never Even Started | Weekly Review
+title_full: Why the Habit Never Even Started
 display_title_short: Cue Check
 display_title: Cue Check
 heading_title: Why the Habit Never Even Started
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:01:27'
-parent_title: The Weekly Review That Fixes the Plan | Better Change
+parent_title: The Weekly Review That Fixes the Plan
 parent_permalink: /weekly-review/
 parent_nav_short_title: Weekly Review
 parent_heading_title: The Weekly Review That Fixes the Plan
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_chec
 
 A [weekly review]({{ 'weekly-review/' | relative_url }}) often reveals a surprising pattern: the habit did not fail halfway through. It never started. The person intended to read, exercise, write, stretch or practise a skill, but the behaviour never reached the launch point.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-1-dark.svg" | relative_url }}" alt="Cue Check illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 When this happens repeatedly, the problem is often not [motivation]({{ 'motivation/' | relative_url }}). It is the cue. A cue is the reminder, situation or trigger that makes a behaviour easy to begin at the right moment. Habit research consistently shows that behaviours become linked to recurring contexts and prompts. When the cue is absent, unclear, badly timed or buried among competing demands, the intended action may never even enter awareness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1896 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
 
@@ -285,7 +284,6 @@ A person may decide to meditate every day, exercise more often or study regularl
 Research on habits describes them as responses that become associated with specific recurring contexts. Repetition in a stable situation helps create a cue–behaviour link. Without a recognisable cue, there is nothing consistent for the brain to connect with the desired action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Habit-formation adv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 157 — Habits are inherently idios...</span></span></span>
 
 During a weekly review, look for these [warning signs]({{ 'warning-signs/' | relative_url }}):
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -328,7 +326,6 @@ A common example is a reading habit linked to bedtime. If the book remains in an
 
 The lesson is that cue quality depends on context. The same reminder can succeed in one location and fail in another.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vfVQWCh1rTk" title="Tiny Habits | My Thoughts as a Behavior Change Expert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vfVQWCh1rTk" target="_blank" rel="noopener noreferrer">Tiny Habits | My Thoughts as a Behavior Change Expert</a></p><p class="youtube-embed-meta">Channel: Body Brain Alliance &middot; Views: 5.1K &middot; Uploaded: May 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vfVQWCh1rTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vfVQWCh1rTk">Open on YouTube</a></p></div></div></div>
 
 ## When the Cue Exists but Still Does Not Work
@@ -338,7 +335,6 @@ Not every failed habit suffers from a missing cue. Sometimes the cue is present 
 The Fogg Behaviour Model argues that behaviour occurs when motivation, ability and a prompt converge at the same moment. If the prompt appears but the behaviour still does not happen, the action may be too difficult or inconvenient to perform in that context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://productmindset.substack.com/p/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productmindset.substack.com">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productmindset.substack.com</span><span class="citation-popover-snippet">Behavior Model - Product Mindset&#x27;s Newsletter - SubstackFogg&#x27;s behavior model is made up of three elements that predict behavior: motivat...</span></span></span>
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -360,7 +356,6 @@ This is why weekly reviews should distinguish between:
 
 These are different problems and require different fixes.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-2-dark.svg" | relative_url }}" alt="Cue Check illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Simple Cue Repairs for the Next Seven Days
 
@@ -374,7 +369,6 @@ One of the strongest options is to use a stable daily action as the cue.
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * After making morning coffee.
@@ -386,15 +380,13 @@ Examples include:
 
 Research on habit formation shows that linking behaviour to recurring contexts supports the development of cue–response associations. Studies have found that connecting behaviours to routines or specific times can effectively [support]({{ 'support/' | relative_url }}) habit formation when repeated consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1896 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jsbF9z6adAo" title="Fogg behavior model in 2 minutes and 30 seconds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jsbF9z6adAo" target="_blank" rel="noopener noreferrer">Fogg behavior model in 2 minutes and 30 seconds</a></p><p class="youtube-embed-meta">Channel: Kris Skrinak &middot; Views: 78.3K &middot; Uploaded: March 2015 &middot; Length: 2 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jsbF9z6adAo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jsbF9z6adAo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k-TCLz37IPE" title="The Fogg Behavior Model: How to Turn Learning into Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k-TCLz37IPE" target="_blank" rel="noopener noreferrer">The Fogg Behavior Model: How to Turn Learning into Action</a></p><p class="youtube-embed-meta">Channel: Growth Engineering &middot; Views: 918 &middot; Uploaded: September 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k-TCLz37IPE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k-TCLz37IPE">Open on YouTube</a></p></div></div></div>
 
 ### Make the Cue Visible
 
 Many intended cues remain invisible.
 
 Move the trigger into the environment:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -419,7 +411,6 @@ Use:
 
 Implementation-intention research consistently shows benefits from specifying the exact cue and response pair. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Evidence shows that established habits are cue-contingent, share...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-3-dark.svg" | relative_url }}" alt="Cue Check illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Move the Cue Earlier
 
@@ -435,7 +426,6 @@ If several prompts arrive simultaneously, weaker behaviours lose.
 
 For the next week, ask:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What other behaviours occur immediately after this cue?
@@ -446,8 +436,7 @@ For the next week, ask:
 
 A cue works best when it points to a single obvious action.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k-TCLz37IPE" title="The Fogg Behavior Model: How to Turn Learning into Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k-TCLz37IPE" target="_blank" rel="noopener noreferrer">The Fogg Behavior Model: How to Turn Learning into Action</a></p><p class="youtube-embed-meta">Channel: Growth Engineering &middot; Views: 918 &middot; Uploaded: September 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k-TCLz37IPE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k-TCLz37IPE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jsbF9z6adAo" title="Fogg behavior model in 2 minutes and 30 seconds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jsbF9z6adAo" target="_blank" rel="noopener noreferrer">Fogg behavior model in 2 minutes and 30 seconds</a></p><p class="youtube-embed-meta">Channel: Kris Skrinak &middot; Views: 78.3K &middot; Uploaded: March 2015 &middot; Length: 2 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jsbF9z6adAo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jsbF9z6adAo">Open on YouTube</a></p></div></div></div>
 
 ## The Weekly Review Question That Matters Most
 
@@ -580,15 +569,15 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Undated A4 Daily &amp; Weekly Planner | Productivity &amp; Habit Tracker | Goal Journal"><img src="https://i.ebayimg.com/images/g/8j0AAeSww3JpINwB/s-l225.jpg" alt="Listing image for Undated A4 Daily &amp; Weekly Planner | Productivity &amp; Habit Tracker | Goal Journal" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cork Pin Notice Board 3 types of Pins to choose 60x40 cm - Habit tracker"><img src="https://i.ebayimg.com/images/g/YPAAAOSwjjdk-G-v/s-l225.jpg" alt="Listing image for Cork Pin Notice Board 3 types of Pins to choose 60x40 cm - Habit tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Undated A4 Daily &amp; Weekly Planner | Productivity &amp; Habit Tracker | Goal Journal</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Cork Pin Notice Board 3 types of Pins to choose 60x40 cm - Habit tracker</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -596,15 +585,15 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Habit Tracker Habit Tracking Notebook | One Month to a Page | Small"><img src="https://i.ebayimg.com/images/g/qnQAAOSwdDNjggq1/s-l225.jpg" alt="Listing image for Daily Habit Tracker Habit Tracking Notebook | One Month to a Page | Small" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Big Pinboard Cork Board with 100 Pcs Pins 140x100 cm - Habit tracker"><img src="https://i.ebayimg.com/images/g/eFQAAOSwLShk~u7k/s-l225.jpg" alt="Listing image for Big Pinboard Cork Board with 100 Pcs Pins 140x100 cm - Habit tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Daily Habit Tracker Habit Tracking Notebook | One Month to a Page | Small</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Big Pinboard Cork Board with 100 Pcs Pins 140x100 cm - Habit tracker</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -612,15 +601,15 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12 Week Weight Loss Habit Tracker And Body Measurement Tracker Slimming Exercise"><img src="https://i.ebayimg.com/images/g/0q8AAeSwWUZpXS9F/s-l225.jpg" alt="Listing image for 12 Week Weight Loss Habit Tracker And Body Measurement Tracker Slimming Exercise" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cork Pin Notice Board 3 types of Pins to choose 70x100 cm - Habit tracker"><img src="https://i.ebayimg.com/images/g/E6sAAOSwx01k~wKq/s-l225.jpg" alt="Listing image for Cork Pin Notice Board 3 types of Pins to choose 70x100 cm - Habit tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">12 Week Weight Loss Habit Tracker And Body Measurement Tracker Slimming Exercise</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Cork Pin Notice Board 3 types of Pins to choose 70x100 cm - Habit tracker</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -628,15 +617,15 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a"><img src="https://i.ebayimg.com/images/g/HuUAAeSwIiFqGz~v/s-l225.jpg" alt="Listing image for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cork Pin Notice Board 3 types of Pins to choose 80x120 cm - Habit tracker"><img src="https://i.ebayimg.com/images/g/Cd8AAOSwanBk~wkm/s-l225.jpg" alt="Listing image for Cork Pin Notice Board 3 types of Pins to choose 80x120 cm - Habit tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Cork Pin Notice Board 3 types of Pins to choose 80x120 cm - Habit tracker</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -644,7 +633,7 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-the-habit-never-even-started-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -854,6 +843,7 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /bedroom-phone/
 nav_short_title: Emergencies
 title: Staying Reachable Without Staying Online
-title_full: Staying Reachable Without Staying Online | Bedroom Phone
+title_full: Staying Reachable Without Staying Online
 display_title_short: Emergencies
 display_title: Emergencies
 heading_title: Staying Reachable Without Staying Online
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:41:30'
-parent_title: Why the Phone Belongs Outside the Bedroom | Better Change
+parent_title: Why the Phone Belongs Outside the Bedroom
 parent_permalink: /bedroom-phone/
 parent_nav_short_title: Bedroom Phone
 parent_heading_title: Why the Phone Belongs Outside the Bedroom
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_emerg
 
 A phone-free bedroom does not have to mean becoming unreachable. For many people—parents of young children, carers, people supporting vulnerable relatives, and some on-call workers—the real challenge is separating genuine emergencies from the hundreds of routine notifications that masquerade as urgent. The most effective solution is usually not keeping the phone beside the pillow. It is creating clear rules that allow a small number of important contacts and events to break through while everything else stays silent.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_emergency_access_rul_d117e4-Illustration-1-dark.svg" | relative_url }}" alt="Emergencies illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_emergency_access_rul_d117e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_emergency_access_rul_d117e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This approach preserves the main benefit of keeping the phone away from the bed: eliminating the temptation to check messages, social feeds, email, news alerts and other attention traps during the night. The goal is to remain contactable without remaining online.
 
@@ -285,7 +284,6 @@ This approach preserves the main benefit of keeping the phone away from the bed:
 Many people can safely charge their phone outside the bedroom and ignore it until morning. Others have legitimate reasons to remain reachable overnight.
 
 Common examples include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -311,7 +309,6 @@ On Android, Do Not Disturb settings can be configured so that calls or messages 
 
 A useful governance rule is to create a deliberately small overnight allow-list. For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Partner or spouse.
@@ -324,8 +321,7 @@ A useful governance rule is to create a deliberately small overnight allow-list.
 
 The list should be reviewed periodically. Many people gradually add contacts until the exception list becomes so broad that it defeats the purpose.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i-6sNsTxSiM" title="How to Enable Emergency Bypass for Contact on iPhone 14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i-6sNsTxSiM" target="_blank" rel="noopener noreferrer">How to Enable Emergency Bypass for Contact on iPhone 14</a></p><p class="youtube-embed-meta">Channel: Solve Your Tech &middot; Views: 19.6K &middot; Uploaded: April 2024 &middot; Length: 1 minute 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i-6sNsTxSiM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i-6sNsTxSiM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IvkCdPORRH8" title="How to Allow Specific Contacts to Ring in Do Not Disturb Mode on iPhone (Silent Mode Bypass)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IvkCdPORRH8" target="_blank" rel="noopener noreferrer">How to Allow Specific Contacts to Ring in Do Not Disturb Mode on iPhone (Silent Mode Bypass)</a></p><p class="youtube-embed-meta">Channel: Appleverse &middot; Views: 12.0K &middot; Uploaded: May 2025 &middot; Length: 2 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IvkCdPORRH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IvkCdPORRH8">Open on YouTube</a></p></div></div></div>
 
 ### Why Contact Lists Work Better Than Self-Control
 
@@ -343,7 +339,6 @@ For some households, this provides a useful backup. Even if a caller is not on t
 
 The limitation is that repeated calls can occasionally be generated by spam, automated systems or misunderstandings. Repeat-caller rules work best as a secondary safeguard rather than the primary overnight strategy.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_emergency_access_rul_d117e4-Illustration-2-dark.svg" | relative_url }}" alt="Emergencies illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_emergency_access_rul_d117e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_emergency_access_rul_d117e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Across-the-Room Placement Versus Outside-the-Room Charging
 
@@ -354,7 +349,6 @@ People often assume there are only two options: keep the phone on the bedside ta
 Charging outside the bedroom provides the strongest protection against bedtime and overnight checking.
 
 Benefits include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -369,15 +363,13 @@ For most people, this is the preferred arrangement.
 
 The drawback is that emergency access requires physically getting out of bed. For some carers or on-call workers, that delay may feel unacceptable.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TAGF2YttsMs" title="How to Silence Phone but Still Get Messages &amp; Calls from Contacts on Android Phone (Do Not Disturb)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TAGF2YttsMs" target="_blank" rel="noopener noreferrer">How to Silence Phone but Still Get Messages &amp; Calls from Contacts on Android Phone (Do Not Disturb)</a></p><p class="youtube-embed-meta">Channel: YourSixStudios &middot; Views: 3.9K &middot; Uploaded: October 2025 &middot; Length: 2 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TAGF2YttsMs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TAGF2YttsMs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i-6sNsTxSiM" title="How to Enable Emergency Bypass for Contact on iPhone 14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i-6sNsTxSiM" target="_blank" rel="noopener noreferrer">How to Enable Emergency Bypass for Contact on iPhone 14</a></p><p class="youtube-embed-meta">Channel: Solve Your Tech &middot; Views: 19.6K &middot; Uploaded: April 2024 &middot; Length: 1 minute 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i-6sNsTxSiM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i-6sNsTxSiM">Open on YouTube</a></p></div></div></div>
 
 ### Across the Room
 
 An alternative is placing the phone far enough away that it cannot be reached from bed.
 
 This arrangement preserves several benefits of the phone-free-bedroom approach:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -394,7 +386,6 @@ The distance matters. A phone on a bedside table invites interaction. A phone on
 
 A useful rule is proportionality.
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * No overnight responsibilities: outside the bedroom is usually simplest.
@@ -405,14 +396,12 @@ A useful rule is proportionality.
 
 The objective is not to maximise distance from the phone at all costs. It is to remove unnecessary access while retaining necessary access.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_emergency_access_rul_d117e4-Illustration-3-dark.svg" | relative_url }}" alt="Emergencies illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_emergency_access_rul_d117e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_emergency_access_rul_d117e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Overnight Policy
 
 People who need emergency availability often benefit from a written rule rather than a vague intention.
 
 A simple overnight policy might look like this:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -427,9 +416,7 @@ A simple overnight policy might look like this:
 
 This approach recognises an important principle of self-improvement: the goal is not perfect abstinence from technology. The goal is designing an [environment]({{ 'environment/' | relative_url }}) where the important signal can reach you without allowing every routine notification to follow it into bed.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IvkCdPORRH8" title="How to Allow Specific Contacts to Ring in Do Not Disturb Mode on iPhone (Silent Mode Bypass)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IvkCdPORRH8" target="_blank" rel="noopener noreferrer">How to Allow Specific Contacts to Ring in Do Not Disturb Mode on iPhone (Silent Mode Bypass)</a></p><p class="youtube-embed-meta">Channel: Appleverse &middot; Views: 12.0K &middot; Uploaded: May 2025 &middot; Length: 2 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IvkCdPORRH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IvkCdPORRH8">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TAGF2YttsMs" title="How to Silence Phone but Still Get Messages &amp; Calls from Contacts on Android Phone (Do Not Disturb)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TAGF2YttsMs" target="_blank" rel="noopener noreferrer">How to Silence Phone but Still Get Messages &amp; Calls from Contacts on Android Phone (Do Not Disturb)</a></p><p class="youtube-embed-meta">Channel: YourSixStudios &middot; Views: 3.9K &middot; Uploaded: October 2025 &middot; Length: 2 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TAGF2YttsMs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TAGF2YttsMs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

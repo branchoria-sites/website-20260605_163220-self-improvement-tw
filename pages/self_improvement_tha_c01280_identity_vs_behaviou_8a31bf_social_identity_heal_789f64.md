@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /identity/
 nav_short_title: Group norms
 title: Why groups can make change feel normal
-title_full: Why groups can make change feel normal | Identity
+title_full: Why groups can make change feel normal
 display_title_short: Group norms
 display_title: Group norms
 heading_title: Why groups can make change feel normal
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:03:59'
-parent_title: Do You Need a New Identity or a Better Plan? | Better Change
+parent_title: Do You Need a New Identity or a Better Plan?
 parent_permalink: /identity/
 parent_nav_short_title: Identity
 parent_heading_title: Do You Need a New Identity or a Better Plan?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_so
 
 Self-improvement is often described as a matter of individual [willpower]({{ 'willpower/' | relative_url }}), routines or [motivation]({{ 'motivation/' | relative_url }}). Yet a large body of research suggests that behaviour is also shaped by something more social: the groups people identify with and the norms those groups make visible. People do not merely choose behaviours because they seem useful. They often adopt, defend or reject behaviours because those actions communicate membership in a group that matters to them. When a healthy behaviour becomes part of “what people like us do”, it can feel normal, expected and easier to maintain. When an unhealthy behaviour is tied to group identity, change can feel like distancing oneself from the group itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchportalplus.anu.edu.au/en/publications/social-identity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchportalplus.anu.edu.au">[The Australian National University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchportalplus.anu.edu.au</span><span class="citation-popover-title">The Australian National University Social Identity</span><span class="citation-popover-snippet">The Australian National UniversitySocial Identity - The Australian National Universityby SA Haslam · 2020 · Cited by 42 — Social identity...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_social_identity_heal_789f64-Illustration-1-dark.svg" | relative_url }}" alt="Group norms illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_social_identity_heal_789f64-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_social_identity_heal_789f64-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters for self-improvement because it shifts attention from the isolated individual to the social [environment]({{ 'environment/' | relative_url }}). Evidence from a 2024 systematic review and meta-analysis found a small but consistent positive association between social identification and health-related behaviour, with stronger effects when the group [identity]({{ 'identity/' | relative_url }}) itself was linked to health-promoting norms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38330634/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 44 — This paper examined the relationship between so...</span></span></span>
 
@@ -289,7 +288,6 @@ This process operates in ordinary situations. A person joining a walking group m
 Research on social identity and norm adherence suggests the relationship works in both directions. Strong identification with a group increases adherence to its norms, while acting in line with those norms can further strengthen identification with the group. In practice, this creates [feedback]({{ 'feedback/' | relative_url }}) loops: participation increases belonging, and belonging increases participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">BPS PsychHubThe reciprocal relationship between social identity and...14 Feb 2023 — Not only does social identity promote norm adherence...</span></span></span>
 
 This helps explain why some habits feel effortless within one social setting and difficult in another. The behaviour itself may be identical, but its social meaning changes.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/154OttZtQ8w" title="The Science of Behaviour Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=154OttZtQ8w" target="_blank" rel="noopener noreferrer">The Science of Behaviour Change</a></p><p class="youtube-embed-meta">Channel: The Royal Institution &middot; Views: 74.8K &middot; Uploaded: September 2019 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=154OttZtQ8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=154OttZtQ8w">Open on YouTube</a></p></div></div></div>
 
@@ -305,8 +303,7 @@ Several patterns appear repeatedly in the evidence:
 
 An important implication is that belonging can reduce decision fatigue. If the group's norm is to attend the weekly training session, prepare healthy meals or avoid smoking, individuals spend less effort repeatedly debating the behaviour. The action is already socially defined as appropriate.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TWWZd8lrraw" title="Social identity and the new psychology of mental health - Professor Alex Haslam" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TWWZd8lrraw" target="_blank" rel="noopener noreferrer">Social identity and the new psychology of mental health - Professor Alex Haslam</a></p><p class="youtube-embed-meta">Channel: The British Psychological Society &middot; Views: 32.2K &middot; Uploaded: February 2015 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TWWZd8lrraw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TWWZd8lrraw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4C0cfxETfus" title="4 Steps To Behavioral Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4C0cfxETfus" target="_blank" rel="noopener noreferrer">4 Steps To Behavioral Change</a></p><p class="youtube-embed-meta">Channel: University of California Television (UCTV) &middot; Views: 4.0K &middot; Uploaded: March 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4C0cfxETfus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4C0cfxETfus">Open on YouTube</a></p></div></div></div>
 
 ## Why perceived norms can matter more than reality
 
@@ -317,7 +314,6 @@ This distinction has practical importance because people frequently overestimate
 For example, students may assume heavy drinking is more widespread than it really is. If most students actually drink moderately, communicating that reality can reduce pressure to conform to an exaggerated image of campus culture. The mechanism is not simply information. It is a correction of what people think their group expects.
 
 This helps explain why self-improvement advice that focuses exclusively on personal goals can miss an important factor. Individuals often compare themselves to their reference groups. The question is not only “What do I want to do?” but also “What do people like me do?”
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_social_identity_heal_789f64-Illustration-2-dark.svg" | relative_url }}" alt="Group norms illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_social_identity_heal_789f64-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_social_identity_heal_789f64-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When social identity keeps old habits in place
@@ -330,7 +326,6 @@ Studies of smoker identity illustrate this challenge. For some people, smoking i
 
 Similar dynamics appear elsewhere:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Friendship groups may normalise excessive drinking.
@@ -341,7 +336,6 @@ Similar dynamics appear elsewhere:
 </div>
 
 In these situations, resistance to change is not always resistance to the behaviour itself. It may be resistance to the social consequences of change.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_social_identity_heal_789f64-Illustration-3-dark.svg" | relative_url }}" alt="Group norms illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_social_identity_heal_789f64-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_social_identity_heal_789f64-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why changing groups can sometimes be easier than changing motivation
@@ -354,8 +348,7 @@ Research on social identity and health repeatedly points to the protective value
 
 This does not mean abandoning existing relationships whenever a habit proves difficult. It means recognising that behaviour is partly social. Sometimes the most effective change is not asking, “How can I become more disciplined?” but asking, “Which groups make this behaviour feel ordinary?”
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4C0cfxETfus" title="4 Steps To Behavioral Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4C0cfxETfus" target="_blank" rel="noopener noreferrer">4 Steps To Behavioral Change</a></p><p class="youtube-embed-meta">Channel: University of California Television (UCTV) &middot; Views: 4.0K &middot; Uploaded: March 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4C0cfxETfus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4C0cfxETfus">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TWWZd8lrraw" title="Social identity and the new psychology of mental health - Professor Alex Haslam" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TWWZd8lrraw" target="_blank" rel="noopener noreferrer">Social identity and the new psychology of mental health - Professor Alex Haslam</a></p><p class="youtube-embed-meta">Channel: The British Psychological Society &middot; Views: 32.2K &middot; Uploaded: February 2015 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TWWZd8lrraw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TWWZd8lrraw">Open on YouTube</a></p></div></div></div>
 
 ## What this means for self-improvement that works
 

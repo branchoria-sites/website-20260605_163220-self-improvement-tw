@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /coffee-cue/
 nav_short_title: If Then Plan
 title: Why If Then Coffee Plans Work
-title_full: Why If Then Coffee Plans Work | Coffee Cue
+title_full: Why If Then Coffee Plans Work
 display_title_short: If Then Plan
 display_title: If Then Plan
 heading_title: Why If Then Coffee Plans Work
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:40:17'
-parent_title: How Coffee Can Trigger the First Work Task | Better Change
+parent_title: How Coffee Can Trigger the First Work Task
 parent_permalink: /coffee-cue/
 parent_nav_short_title: Coffee Cue
 parent_heading_title: How Coffee Can Trigger the First Work Task
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_coff
 
 A morning [coffee cue]({{ 'coffee-cue/' | relative_url }}) becomes far more effective when it is paired with an implementation intention: a specific if-then plan that links a familiar situation to an immediate work action. Instead of relying on [motivation]({{ 'motivation/' | relative_url }}) or remembering what to do, the plan decides in advance what happens next. The structure is simple: “If I take my first sip of coffee, then I will open the draft and write the first paragraph,” or “If the coffee machine starts brewing, then I will review my top task and begin the first five minutes of work.” Research on implementation intentions consistently finds that such plans help close the gap between intention and action by specifying exactly when, where and how a behaviour will begin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_coffee_if_then_plan_d283a0-Illustration-1-dark.svg" | relative_url }}" alt="If Then Plan illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_coffee_if_then_plan_d283a0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_coffee_if_then_plan_d283a0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within a coffee-based productivity routine, the value is not the coffee itself. The value comes from turning a recurring event into a trigger that automatically launches a predefined work behaviour.
 
@@ -285,7 +284,6 @@ Within a coffee-based productivity routine, the value is not the coffee itself. 
 Implementation intentions were developed to solve a common problem: people often know what they want to do but fail to start at the right moment. Traditional goals describe outcomes (“I want to make progress on my report”). Implementation intentions describe execution (“If situation X occurs, then I will do behaviour Y”). Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
 
 For a coffee-based work start, the cue is already present in daily life. The plan creates a strong mental association between that cue and a specific action. Research suggests that implementation intentions increase the accessibility of the chosen cue and strengthen the connection between cue and response, making action initiation faster and more reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367717_Action_Control_by_Implementation_Intentions_Effective_Cue_Detection_and_Efficient_Response_Initiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Effective Cue Detection and Efficient Response InitiationPast research has demonstrated that implementation intentions (i.e...</span></span></span> ScienceDirect A useful way to think about it is that the decision has already been made. When the coffee arrives <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are...</span></span></span>, there is no need to ask:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,7 +297,6 @@ The answer has been predetermined. The cue appears, and the response follows.
 
 Studies by Peter Gollwitzer and colleagues found that implementation intentions improve the initiation of goal-directed behaviour and can make responses more immediate and efficient compared with relying on goals alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11708569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implementation intentions and efficient action initiationby V Brandstätter · 2001 · Cited by 966 — Results of the 4 studies suggest...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/gollwitzer_brandstatter_1997_-_implementation_intentions_effective_goal_pursuit.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sparq.stanford.edu">[SPARQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sparq.stanford.edu</span><span class="citation-popover-title">gollwitzer brandstatter 1997 implementation intentions effective goal pursuit</span><span class="citation-popover-snippet">Implementation Intentions and Effective Goal Pursuitby PM Gollwitzer · 1997 · Cited by 2162 — Gollwitzer (1993) suggested that formi...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/73Ot80nngvY" title="The Power of Implementation Intentions - See Things Through and Protect your Willpower" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=73Ot80nngvY" target="_blank" rel="noopener noreferrer">The Power of Implementation Intentions - See Things Through and Protect your Willpower</a></p><p class="youtube-embed-meta">Channel: Warrior Habits &middot; Views: 10.0K &middot; Uploaded: August 2017 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=73Ot80nngvY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=73Ot80nngvY">Open on YouTube</a></p></div></div></div>
 
 ## How Implementation Intentions Reduce Decision Load
@@ -309,7 +306,6 @@ One reason morning productivity often fails is that too many choices arrive at o
 Implementation intentions reduce this decision burden by shifting choices into the planning stage rather than the execution stage. Researchers describe this as delegating control of behaviour to a predefined situational cue. When the cue occurs, the planned response can be initiated with less conscious deliberation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367717_Action_Control_by_Implementation_Intentions_Effective_Cue_Detection_and_Efficient_Response_Initiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Effective Cue Detection and Efficient Response InitiationPast research has demonstrated that implementation intentions (i.e...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 For coffee-based work starts, this matters because mornings are often cognitively fragile. A vague intention such as “be productive after coffee” still requires interpretation. By contrast:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -323,7 +319,6 @@ Each version removes a decision that would otherwise need to be made in real tim
 
 Research on implementation intentions suggests that their effectiveness stems partly from heightened cue detection and partly from stronger cue-response links. The chosen situation becomes easier to notice, while the intended behaviour becomes easier to initiate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367717_Action_Control_by_Implementation_Intentions_Effective_Cue_Detection_and_Efficient_Response_Initiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Effective Cue Detection and Efficient Response InitiationPast research has demonstrated that implementation intentions (i.e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N7SDVVbxgNU" title="Implementation Intention Explained: How to DOUBLE YOUR SUCCESS with a Goal or Habit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N7SDVVbxgNU" target="_blank" rel="noopener noreferrer">Implementation Intention Explained: How to DOUBLE YOUR SUCCESS with a Goal or Habit</a></p><p class="youtube-embed-meta">Channel: Develop Good Habits &middot; Views: 14.6K &middot; Uploaded: October 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N7SDVVbxgNU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N7SDVVbxgNU">Open on YouTube</a></p></div></div></div>
 
 ## Writing a Coffee Cue Script That Is Concrete Enough
@@ -331,7 +326,6 @@ Research on implementation intentions suggests that their effectiveness stems pa
 Many if-then plans fail because they remain too abstract. The goal is not merely to identify a cue but to define the first observable action that follows it.
 
 A strong coffee implementation intention contains three elements:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -359,7 +353,6 @@ The final example works because it identifies an action that is visible, measura
 
 Research consistently describes implementation intentions as plans specifying the when, where and how of behaviour. Plans that clearly define these components tend to create stronger cue-response associations than vague aspirations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For many knowledge workers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are...</span></span></span>, useful coffee scripts include:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * If the kettle finishes boiling, then I will choose today's most important task.
@@ -370,7 +363,6 @@ Research consistently describes implementation intentions as plans specifying th
 </div>
 
 The common feature is that each script identifies the [first action]({{ 'first-action/' | relative_url }}), not the entire work session.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_coffee_if_then_plan_d283a0-Illustration-2-dark.svg" | relative_url }}" alt="If Then Plan illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_coffee_if_then_plan_d283a0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_coffee_if_then_plan_d283a0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common If-Then Mistakes That Leave Too Much Negotiation
@@ -399,7 +391,6 @@ Or even:
 
 > If I finish my coffee, then I will spend five minutes on the opening section.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4FGSQp_Cepc" title="Atomic Habits || By James Clear || Chapter 5 - &quot;The Best Way to Start a New Habit&quot; 😃" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4FGSQp_Cepc" target="_blank" rel="noopener noreferrer">Atomic Habits || By James Clear || Chapter 5 - &quot;The Best Way to Start a New Habit&quot; 😃</a></p><p class="youtube-embed-meta">Channel: Richer Readers &middot; Views: 680 &middot; Uploaded: November 2021 &middot; Length: 2 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4FGSQp_Cepc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4FGSQp_Cepc">Open on YouTube</a></p></div></div></div>
 
 ### Creating multiple competing responses
@@ -424,7 +415,6 @@ Consider two versions:
 * If I take my first sip, then I will start writing in the document already open on my laptop.
 
 The second version removes a layer of setup. Fewer barriers make cue-triggered action more likely.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_coffee_if_then_plan_d283a0-Illustration-3-dark.svg" | relative_url }}" alt="If Then Plan illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_coffee_if_then_plan_d283a0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_coffee_if_then_plan_d283a0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Coffee Plans Work Best

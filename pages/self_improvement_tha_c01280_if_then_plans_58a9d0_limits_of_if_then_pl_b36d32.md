@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /if-then-plans/
 nav_short_title: Limits
 title: When Is the Obstacle Bigger Than the Plan?
-title_full: When Is the Obstacle Bigger Than the Plan? | If Then Plans
+title_full: When Is the Obstacle Bigger Than the Plan?
 display_title_short: Limits
 display_title: Limits
 heading_title: When Is the Obstacle Bigger Than the Plan?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:16:31'
-parent_title: Can One Sentence Change Your Follow Through? | Better Change
+parent_title: Can One Sentence Change Your Follow Through?
 parent_permalink: /if-then-plans/
 parent_nav_short_title: If Then Plans
 parent_heading_title: Can One Sentence Change Your Follow Through?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of
 
 If-then plans are one of the most reliable tools in [behaviour change]({{ 'behaviour-change/' | relative_url }}), but they solve a specific problem: what to do when a predictable cue appears. They do not solve every problem that blocks progress. An if-then plan can help someone respond to a craving, remember a workout, or avoid a familiar distraction. It cannot create time that does not exist, replace medical treatment, provide childcare, repair chronic sleep deprivation, or remove financial hardship.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32-Illustration-1-dark.svg" | relative_url }}" alt="Limits illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because self-improvement often fails when people treat all obstacles as [motivation]({{ 'motivation/' | relative_url }}) problems. Evidence from behavioural science suggests that behaviour is shaped not only by intentions and self-control but also by social, economic, environmental, and health-related constraints. Effective self-improvement works best when it identifies which obstacles are cue-based and which are resource-based. The first may respond to planning. The second usually require [support]({{ 'support/' | relative_url }}), changes in circumstances, or additional resources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeterminants of behaviour and their efficacy as targets</span><span class="citation-popover-snippet">by D Albarracín · 2024 · Cited by 339 — In this Review, we synthesize multidisciplinary meta-analyses of the individual and social-str...</span></span></span>
 
@@ -287,7 +286,6 @@ Implementation intentions were designed to bridge the gap between intention and 
 A useful question is: *What is actually preventing the behaviour?*
 
 Consider three different situations:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -311,7 +309,6 @@ Triggers are situations in which a person could realistically do either of two t
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Seeing biscuits in the office kitchen.
@@ -323,7 +320,6 @@ Examples include:
 
 These situations contain a decision point. An if-then plan is often useful because it specifies the response before the moment arrives.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2MGMvEnoD6U" title="Overcoming obstacles - Steven Claunch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2MGMvEnoD6U" target="_blank" rel="noopener noreferrer">Overcoming obstacles - Steven Claunch</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 1.2M &middot; Uploaded: August 2013 &middot; Length: 4 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2MGMvEnoD6U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2MGMvEnoD6U">Open on YouTube</a></p></div></div></div>
 
 ### Constraints Limit Available Options
@@ -331,7 +327,6 @@ These situations contain a decision point. An if-then plan is often useful becau
 Constraints reduce or remove the practical ability to perform a behaviour.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -349,7 +344,6 @@ Examples include:
 In these cases, the issue is not primarily deciding what to do. The issue is that the desired action may not be realistically available or sustainable under current conditions.
 
 Research examining behavioural determinants increasingly emphasises that social and structural factors influence behaviour alongside beliefs, intentions, and self-regulation. Focusing exclusively on personal planning can therefore misdiagnose the problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12407158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDeterminants of behaviour and their efficacy as targets</span><span class="citation-popover-snippet">by D Albarracín · 2024 · Cited by 339 — In this Review, we synthesize multidisciplinary meta-analyses of the individual and social-str...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32-Illustration-2-dark.svg" | relative_url }}" alt="Limits illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Complex Behaviour Change Usually Needs More Than Planning
@@ -377,7 +371,6 @@ Modern behaviour-change frameworks increasingly emphasise multiple levels of inf
 
 This is especially important for people facing persistent stress. Research on poverty and decision-making shows that financial strain can consume attention and cognitive resources, making planning and follow-through more difficult. In such circumstances, asking someone simply to create a better if-then plan risks treating a resource shortage as a character flaw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lse.ac.uk/business/consulting/assets/documents/how-poverty-affects-peoples-decision-making-processes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lse.ac.uk">[LSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lse.ac.uk</span><span class="citation-popover-title">LSEHow poverty affects people&#x27;s decision-making processes</span><span class="citation-popover-snippet">February 2, 2017 — by J Sheehy-Skeffington · 2017 · Cited by 201 — the results of 15 systematic reviews of recent evidence on the relatio...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kD3-DKkiVeA" title="Why you feel stuck — and how to get motivated - Shannon Odell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kD3-DKkiVeA" target="_blank" rel="noopener noreferrer">Why you feel stuck — and how to get motivated - Shannon Odell</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 1.5M &middot; Uploaded: February 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kD3-DKkiVeA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kD3-DKkiVeA">Open on YouTube</a></p></div></div></div>
 
 ## The Risk of Turning Every Failure Into a Willpower Problem
@@ -385,7 +378,6 @@ This is especially important for people facing persistent stress. Research on po
 One of the less discussed risks of self-improvement culture is over-attribution.
 
 When a plan fails repeatedly, people often conclude:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -402,7 +394,6 @@ A person who repeatedly fails to wake up at 5 a.m. may not need a better morning
 Behavioural interventions are most effective when they accurately identify barriers. Reviews of behaviour-change theory repeatedly note that barriers can exist at multiple levels and that removing obstacles often matters as much as increasing motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccmt.ca/uploads/media/media/0001/02/1200a0027a05725accd75602cea8ff141b69d31b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccmt.ca">[nccmt.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccmt.ca</span><span class="citation-popover-snippet">Understand, identify and overcome barriers to changeDecember 12, 2007 — Here we focus on barriers that operate at an individual rather th...</span><span class="citation-popover-meta">Published: December 12, 2007</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3A10c4e9c3-7048-4fdc-b7bc-afdeeea427ad/files/s0g354g15j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford Research ArchiveApplying behaviour change theory to understand the barriers...by HA Bear · 2021 · Cited by 20 — - This study appl...</span></span></span>
 
 The practical lesson is simple: repeated failure is information. It is not automatically evidence of weak character.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32-Illustration-3-dark.svg" | relative_url }}" alt="Limits illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_limits_of_if_then_pl_b36d32-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Revise Plans That Keep Failing
@@ -429,7 +420,6 @@ Support may mean coaching, treatment, accountability, environmental changes, or 
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
 * Instead of adding more anti-procrastination plans, someone with severe burnout may need recovery time.
@@ -439,7 +429,6 @@ For example:
 </div>
 
 Research on sustainable behaviour change increasingly points toward ongoing support and adaptation rather than one-off planning exercises. Successful change is often nonlinear and requires adjustment as circumstances change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2542454824000225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Supporting Sustainable Health Behavior Changeby JA Matthews · 2024 · Cited by 81 — Health and wellness coaching (HWC) is a b...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8PrpkJOGsms" title="Stop letting your goals fizzle out! Why implementation intentions unlock success" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8PrpkJOGsms" target="_blank" rel="noopener noreferrer">Stop letting your goals fizzle out! Why implementation intentions unlock success</a></p><p class="youtube-embed-meta">Channel: Everyday English Podcast &middot; Views: 4 &middot; Uploaded: April 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8PrpkJOGsms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8PrpkJOGsms">Open on YouTube</a></p></div></div></div>
 

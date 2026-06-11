@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /identity/
 nav_short_title: Identity labels
 title: Do identity labels actually help habits stick?
-title_full: Do identity labels actually help habits stick? | Identity
+title_full: Do identity labels actually help habits stick?
 display_title_short: Identity labels
 display_title: Identity labels
 heading_title: Do identity labels actually help habits stick?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:03:19'
-parent_title: Do You Need a New Identity or a Better Plan? | Better Change
+parent_title: Do You Need a New Identity or a Better Plan?
 parent_permalink: /identity/
 parent_nav_short_title: Identity
 parent_heading_title: Do You Need a New Identity or a Better Plan?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_id
 
 [Identity]({{ 'identity/' | relative_url }}) labels such as “runner”, “writer” or “disciplined person” can help habits stick, but usually not for the reason people assume. They work best when they summarise a pattern of behaviour that already exists, even in a small form, rather than acting as a substitute for action. In practical self-improvement, the most useful identity label is often a description of repeated evidence: “I am someone who writes regularly because I have written this week” rather than “I am a writer” with no supporting behaviour. Research on habit and identity suggests a reciprocal relationship. Identity can encourage action, and repeated action can strengthen identity, creating a reinforcing loop. The mistake is treating identity as the starting point and behaviour as optional. The stronger pattern is usually the reverse: behaviour creates evidence, evidence supports identity, and identity then makes future behaviour easier. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31354563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">and Identity: Behavioral, Cognitive, Affective...by B Verplanken · 2019 · Cited by 153 — When habits relate to feelings of identity this...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_identity_labels_habi_7a2233-Illustration-1-dark.svg" | relative_url }}" alt="Identity labels illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_identity_labels_habi_7a2233-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_identity_labels_habi_7a2233-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What identity labels add to motivation
 
@@ -300,7 +299,6 @@ This helps explain why identity declarations alone often fail. Saying “I am a 
 
 A practical rule is simple: treat behaviour as proof. Every repetition becomes a small vote for an identity. This idea is popular in habit literature because it aligns with a broader psychological principle: people often infer aspects of who they are from what they repeatedly do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/identity-based-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">James ClearIdentity-Based Habits: How to Actually Stick to Your Goals...The key to building lasting habits is focusing on creating a new...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40jamesclear/identity-based-habits-how-to-actually-stick-to-your-goals-bc8cde3c8e22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Identity-Based Habits: How to Actually Stick to Your GoalsThe key to building lasting habits is focusing on creating a new identity...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yULiCnWwKTM" title="James Clear on building identity-based habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yULiCnWwKTM" target="_blank" rel="noopener noreferrer">James Clear on building identity-based habits</a></p><p class="youtube-embed-meta">Channel: Alex Sugg &middot; Views: 12.3K &middot; Uploaded: November 2021 &middot; Length: 4 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yULiCnWwKTM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yULiCnWwKTM">Open on YouTube</a></p></div></div></div>
 
 ## How identity labels strengthen habits after the first wins
@@ -319,7 +317,6 @@ Goals end. Identities do not.
 
 Someone training for a 10-kilometre race may stop running after the event if running was only a means to an outcome. Someone who sees themselves as a runner has a reason to continue once the goal disappears. Identity can therefore help maintain behaviours after external incentives fade. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/identity-based-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">James ClearIdentity-Based Habits: How to Actually Stick to Your Goals...The key to building lasting habits is focusing on creating a new...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_identity_labels_habi_7a2233-Illustration-2-dark.svg" | relative_url }}" alt="Identity labels illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_identity_labels_habi_7a2233-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_identity_labels_habi_7a2233-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### They create coherence across situations
 
@@ -335,7 +332,6 @@ A common mistake is choosing a grand identity too early. Someone who has written
 
 A more effective approach is to use identity labels in a lightweight way:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Choose identities linked to behaviours you can perform regularly.
@@ -350,7 +346,6 @@ For example, “I am becoming someone who exercises regularly” is often more u
 
 There is also value in avoiding overly fixed labels. If a person defines themselves entirely as a runner, an injury can threaten both the habit and the identity. Flexible identities such as “I am someone who looks after my fitness” can survive setbacks more easily because they allow alternative behaviours.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p6rB8s-hKWM" title="The Power to Change Your Habits: Identity Drives Behavior" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p6rB8s-hKWM" target="_blank" rel="noopener noreferrer">The Power to Change Your Habits: Identity Drives Behavior</a></p><p class="youtube-embed-meta">Channel: Craig Groeschel &middot; Views: 95.8K &middot; Uploaded: February 2023 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p6rB8s-hKWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p6rB8s-hKWM">Open on YouTube</a></p></div></div></div>
 
 ## The practical mechanism that makes identity labels work
@@ -359,9 +354,7 @@ The key mechanism is not positive thinking. It is evidence accumulation.
 
 Each completed behaviour provides information about who a person is. As evidence accumulates, the identity becomes more believable. As the identity becomes more believable, behaviours that match it feel more natural and require less internal persuasion. The process forms a [feedback]({{ 'feedback/' | relative_url }}) loop:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LPN0s3lvlN0" title="The strange science of your ever-changing identity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LPN0s3lvlN0" target="_blank" rel="noopener noreferrer">The strange science of your ever-changing identity</a></p><p class="youtube-embed-meta">Channel: Big Think &middot; Views: 142.9K &middot; Uploaded: April 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LPN0s3lvlN0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LPN0s3lvlN0">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -374,7 +367,6 @@ Each completed behaviour provides information about who a person is. As evidence
 </div>
 
 Within the broader debate of identity change versus behaviour design, this is where identity labels earn their place. They are most effective when they sit on top of repeated action rather than replacing it. Behaviour design creates the evidence. Identity gives that evidence meaning. Together, they can make habits feel less like temporary projects and more like expressions of who a person is becoming. PMC 3PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31354563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">and Identity: Behavioral, Cognitive, Affective...by B Verplanken · 2019 · Cited by 153 — When habits relate to feelings of identity this...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_identity_labels_habi_7a2233-Illustration-3-dark.svg" | relative_url }}" alt="Identity labels illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_identity_labels_habi_7a2233-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_identity_labels_habi_7a2233-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

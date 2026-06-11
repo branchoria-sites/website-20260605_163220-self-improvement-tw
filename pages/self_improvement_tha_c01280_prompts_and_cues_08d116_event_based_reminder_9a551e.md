@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /cues/
 nav_short_title: Event Cues
 title: Are Clock Alarms the Wrong Cue?
-title_full: Are Clock Alarms the Wrong Cue? | Cues
+title_full: Are Clock Alarms the Wrong Cue?
 display_title_short: Event Cues
 display_title: Event Cues
 heading_title: Are Clock Alarms the Wrong Cue?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:17:24'
-parent_title: Why Good Cues Beat Good Intentions | Better Change
+parent_title: Why Good Cues Beat Good Intentions
 parent_permalink: /cues/
 parent_nav_short_title: Cues
 parent_heading_title: Why Good Cues Beat Good Intentions
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_event_
 
 Clock alarms are often the first tool people use when building a habit. They are easy to set, difficult to forget, and can provide an immediate prompt to act. Yet many habit attempts fail despite repeated alarms because the reminder arrives at a moment when action is inconvenient, impossible, or easy to dismiss. Research on habit formation suggests that what matters is not merely being reminded, but being reminded in a context that reliably supports the behaviour. Repeating an action in a stable context helps create the cue–response links that underlie automatic habits. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehps.net">[2ehps.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehps.net</span><span class="citation-popover-snippet">Habit as automaticity, not frequencyby B Gardner · 2012 · Cited by 262 — Habit development will best support behaviour change where habit...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_event_based_reminder_9a551e-Illustration-1-dark.svg" | relative_url }}" alt="Event Cues illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_event_based_reminder_9a551e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_event_based_reminder_9a551e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is why many behaviour-change specialists favour event-based cues—[reminders]({{ 'reminders/' | relative_url }}) tied to something that already happens in daily life—over purely time-based alarms. A habit attached to “after I brush my teeth” or “when I sit down at my desk” often fits naturally into an existing routine. The goal is not simply remembering, but creating a situation where the cue and the action repeatedly occur together until the behaviour becomes more automatic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-title">Control Implementation Intentions Peter M</span><span class="citation-popover-snippet">Gollwitzer New York...by PM Gollwitzer · Cited by 131 — Implementation intention formation is the mental act of linking an anticipated c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prospectivepsych.org">[2prospectivepsych.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prospectivepsych.org</span><span class="citation-popover-snippet">Implementation IntentionsIn the case of implementation intentions, automatic action initiation stems from one mental act of pairing a des...</span></span></span>
 
@@ -289,7 +288,6 @@ Research on contextual cues highlights a practical problem with reminders: their
 Consider a reading habit prompted by a daily 20:00 alarm. On some evenings the person may be commuting, eating dinner, or socialising. The reminder arrives, but the context is wrong. Even if the intention is good, the cue and the behaviour fail to connect consistently.
 
 This does not mean time-based cues are useless. They can work well when the target behaviour genuinely depends on a schedule, such as taking medication at a specific hour or joining a recurring class. The problem arises when the alarm is detached from the circumstances needed for action. Habit research consistently points to repetition within stable contexts as a driver of [automaticity]({{ 'automaticity/' | relative_url }}), not repetition at arbitrary moments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 23 — In this paper, we investiga...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 92 — The premise of habit formation involv...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xwAm7EtdRGA" title="This is the SCIENTIFICALLY PROVEN way to build habits in 2026." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xwAm7EtdRGA" target="_blank" rel="noopener noreferrer">This is the SCIENTIFICALLY PROVEN way to build habits in 2026.</a></p><p class="youtube-embed-meta">Channel: Spencer Greenberg &middot; Views: 3.5K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xwAm7EtdRGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xwAm7EtdRGA">Open on YouTube</a></p></div></div></div>
 
@@ -311,8 +309,7 @@ Existing eventNew habitAfter brushing teethFloss one tooth or floss fullyAfter m
 
 The critical feature is not the event itself but its reliability. A cue that appears almost every day creates more opportunities for repetition than one that occurs unpredictably.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DPRnrZH6weU" title="5 Ways to Actually Make Your Habits Stick (Evidence-Based)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer">5 Ways to Actually Make Your Habits Stick (Evidence-Based)</a></p><p class="youtube-embed-meta">Channel: Mel Robbins &middot; Views: 136.3K &middot; Uploaded: January 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DPRnrZH6weU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WS9UybF-4gs" title="How Habits Work--Why You Can&#x27;t Just Try Harder" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WS9UybF-4gs" target="_blank" rel="noopener noreferrer">How Habits Work--Why You Can&#x27;t Just Try Harder</a></p><p class="youtube-embed-meta">Channel: Dr. Lori | Mental Health Therapist &middot; Views: 128 &middot; Uploaded: January 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WS9UybF-4gs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WS9UybF-4gs">Open on YouTube</a></p></div></div></div>
 
 ## What the Evidence Says About Routine-Based Versus Time-Based Cues
 
@@ -326,14 +323,12 @@ However, routine-based cues often have a practical advantage in everyday life be
 
 Implementation-intention research also supports the broader idea that behaviours become easier when tied to identifiable situations rather than vague intentions. The cue helps people recognise the moment for action and reduces the need for repeated decision-making. <span class="citation-chip-wrap"><a class="citation-chip" href="https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allard.ubc.ca">[allard.ubc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allard.ubc.ca</span><span class="citation-popover-snippet">Implementation IntentionsImplementation Intentions (&#x27;If-then&#x27; planning) are an effective strategy for turning goals into action. Whereas...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-title">Control Implementation Intentions Peter M</span><span class="citation-popover-snippet">Gollwitzer New York...by PM Gollwitzer · Cited by 131 — Implementation intention formation is the mental act of linking an anticipated c...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_event_based_reminder_9a551e-Illustration-2-dark.svg" | relative_url }}" alt="Event Cues illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_event_based_reminder_9a551e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_event_based_reminder_9a551e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When to Keep Alarms as Backup
 
 For many habits, the strongest approach is not choosing between alarms and event cues but using them together strategically.
 
 A useful pattern is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -349,7 +344,6 @@ This gradual fading is consistent with behaviour-change approaches that use prom
 
 Alarms remain particularly valuable when:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The behaviour must occur at a precise time.
@@ -360,7 +354,6 @@ Alarms remain particularly valuable when:
 </div>
 
 In these situations, an alarm serves as insurance rather than the primary habit trigger.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_event_based_reminder_9a551e-Illustration-3-dark.svg" | relative_url }}" alt="Event Cues illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_event_based_reminder_9a551e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116_event_based_reminder_9a551e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Practical Test for Choosing a Cue
@@ -373,7 +366,6 @@ If the answer is often no, the cue is probably weak.
 
 A strong event-based cue is usually:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Frequent.
@@ -385,9 +377,7 @@ A strong event-based cue is usually:
 
 Clock alarms succeed when they meet those same conditions. The difference is that event cues often inherit stability from routines that already exist. Because habits are fundamentally cue-dependent behaviours that become automatic through repetition in consistent contexts, attaching a new action to an existing routine frequently provides a smoother path than relying on the clock alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehps.net">[ehps.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehps.net</span><span class="citation-popover-snippet">Habit as automaticity, not frequencyby B Gardner · 2012 · Cited by 262 — Habit development will best support behaviour change where habit...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intention and Reminder Effects on Behavior...by P Pirolli · 2017 · Cited by 87 — The aim of this experiment was to manipulate the effect...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 23 — In this paper, we investiga...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WS9UybF-4gs" title="How Habits Work--Why You Can&#x27;t Just Try Harder" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WS9UybF-4gs" target="_blank" rel="noopener noreferrer">How Habits Work--Why You Can&#x27;t Just Try Harder</a></p><p class="youtube-embed-meta">Channel: Dr. Lori | Mental Health Therapist &middot; Views: 128 &middot; Uploaded: January 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WS9UybF-4gs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WS9UybF-4gs">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KGNKVvaVK9A" title="How Better Triggers Help You Stick To Daily Routines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KGNKVvaVK9A" target="_blank" rel="noopener noreferrer">How Better Triggers Help You Stick To Daily Routines</a></p><p class="youtube-embed-meta">Channel: Jones Loflin &middot; Views: 193 &middot; Uploaded: January 2026 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KGNKVvaVK9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KGNKVvaVK9A">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -482,7 +472,7 @@ Clock alarms succeed when they meet those same conditions. The difference is tha
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -506,15 +496,15 @@ Clock alarms succeed when they meet those same conditions. The difference is tha
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alarm Clock Led Display Digital Mirror Alarm Clock Battery/Plug-In Alarm Clock"><img src="https://i.ebayimg.com/images/g/4CIAAOSwWzJmiR9d/s-l225.jpg" alt="Listing image for Alarm Clock Led Display Digital Mirror Alarm Clock Battery/Plug-In Alarm Clock" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board"><img src="https://i.ebayimg.com/images/g/R4EAAeSwC6dpFKqr/s-l225.jpg" alt="Listing image for 2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Alarm Clock Led Display Digital Mirror Alarm Clock Battery/Plug-In Alarm Clock</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +512,15 @@ Clock alarms succeed when they meet those same conditions. The difference is tha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alarm Clock Led Display Digital Mirror Alarm Clock Battery/Plug-In Alarm Clock"><img src="https://i.ebayimg.com/images/g/00UAAeSwX0FpzuBL/s-l225.jpg" alt="Listing image for Alarm Clock Led Display Digital Mirror Alarm Clock Battery/Plug-In Alarm Clock" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Gratitude Planner and Habit Tracker Journal for Men and Women"><img src="https://i.ebayimg.com/images/g/fmUAAeSwlyJpJTtk/s-l225.jpg" alt="Listing image for A5 Gratitude Planner and Habit Tracker Journal for Men and Women" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Alarm Clock Led Display Digital Mirror Alarm Clock Battery/Plug-In Alarm Clock</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">A5 Gratitude Planner and Habit Tracker Journal for Men and Women</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +528,15 @@ Clock alarms succeed when they meet those same conditions. The difference is tha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Projection Alarm Clock Projector Mirror Clock Display Temperature Snooze Clocks"><img src="https://i.ebayimg.com/images/g/~ygAAeSw4cVpH43I/s-l225.jpg" alt="Listing image for Projection Alarm Clock Projector Mirror Clock Display Temperature Snooze Clocks" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Premium Habit Tracker Calendar 2026 - Daily Journal &amp; Goal Board for Motivation"><img src="https://i.ebayimg.com/images/g/Vc0AAeSwxO5ptcYy/s-l225.jpg" alt="Listing image for Premium Habit Tracker Calendar 2026 - Daily Journal &amp; Goal Board for Motivation" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Projection Alarm Clock Projector Mirror Clock Display Temperature Snooze Clocks</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Premium Habit Tracker Calendar 2026 - Daily Journal &amp; Goal Board for Motivation</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,15 +544,15 @@ Clock alarms succeed when they meet those same conditions. The difference is tha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Curved Digital Alarm Clock USB Temperature Mirror Display Snooze Bedside"><img src="https://i.ebayimg.com/images/g/ytcAAOSwyZdjh0bH/s-l225.jpg" alt="Listing image for LED Curved Digital Alarm Clock USB Temperature Mirror Display Snooze Bedside" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Whiteboard Family Planner Weekly Planner+Monthly Planner+Habit Tracker+..."><img src="https://i.ebayimg.com/images/g/5VcAAeSwA7pqEcSp/s-l225.jpg" alt="Listing image for Magnetic Whiteboard Family Planner Weekly Planner+Monthly Planner+Habit Tracker+..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">LED Curved Digital Alarm Clock USB Temperature Mirror Display Snooze Bedside</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Magnetic Whiteboard Family Planner Weekly Planner+Monthly Planner+Habit Tracker+...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,7 +560,7 @@ Clock alarms succeed when they meet those same conditions. The difference is tha
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="are-clock-alarms-the-wrong-cue-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-clock-alarms-the-wrong-cue-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="are-clock-alarms-the-wrong-cue-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -780,6 +770,7 @@ Clock alarms succeed when they meet those same conditions. The difference is tha
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

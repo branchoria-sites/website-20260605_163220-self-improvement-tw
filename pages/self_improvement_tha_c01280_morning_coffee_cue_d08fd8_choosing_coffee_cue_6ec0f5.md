@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /coffee-cue/
 nav_short_title: Cue Choice
 title: Which Coffee Moment Should Start Work?
-title_full: Which Coffee Moment Should Start Work? | Coffee Cue
+title_full: Which Coffee Moment Should Start Work?
 display_title_short: Cue Choice
 display_title: Cue Choice
 heading_title: Which Coffee Moment Should Start Work?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:39:38'
-parent_title: How Coffee Can Trigger the First Work Task | Better Change
+parent_title: How Coffee Can Trigger the First Work Task
 parent_permalink: /coffee-cue/
 parent_nav_short_title: Coffee Cue
 parent_heading_title: How Coffee Can Trigger the First Work Task
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choo
 
 If morning coffee is going to become the cue that starts meaningful work, the most important decision is not the coffee itself. It is choosing exactly which moment in the coffee routine will trigger action. Many productivity habits fail because the cue is too vague (“after breakfast”) or arrives after email, news, messaging apps, and other distractions have already captured attention. Research on habit formation consistently finds that behaviours become more automatic when they are repeated in response to stable, specific contextual cues rather than broad intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentChanging Behavior Using Habit Theory (Chapter 13)Evidence shows that established habits are cue-co...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choosing_coffee_cue_6ec0f5-Illustration-1-dark.svg" | relative_url }}" alt="Cue Choice illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choosing_coffee_cue_6ec0f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choosing_coffee_cue_6ec0f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A [coffee cue]({{ 'coffee-cue/' | relative_url }}) that survives real mornings is precise, predictable, and difficult to skip. The goal is to identify a moment that happens almost every workday and immediately connect it to the first work action. The better the cue, the less [motivation]({{ 'motivation/' | relative_url }}) and memory are required.
 
@@ -287,7 +286,6 @@ People often assume the challenge is discipline. In practice, the challenge is r
 Research on implementation intentions—specific “if-then” plans—shows that linking a particular situation to a particular response helps translate intentions into action. Instead of relying on a general goal such as “be productive this morning”, the person creates a cue-response pair: “When the coffee machine starts, I open today's task list.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theor...</span></span></span>
 
 Habit researchers describe habits as responses that become associated with recurring contexts. Repetition in a stable context gradually strengthens the connection between cue and behaviour. The cue begins to trigger the action with less conscious effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theor...</span></span></span> ResearchGate This explains why many seemingly reasonable cues fail: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Habit Formation and ChangeAs people repeat behavior in a stable context, their intentions and goals to perform the behavior. gradua...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -314,7 +312,6 @@ Not every coffee moment is equally useful. The strongest cues share three charac
 
 Examples:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Switching on the kettle
@@ -330,7 +327,6 @@ A useful implementation plan might be:
 > When the coffee starts brewing, I choose the first task and write the [first action]({{ 'first-action/' | relative_url }}) step.
 
 The cue is visible, repeatable, and early.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5fjcz9nSId4" title="GIVE ME 5 MINUTES AND I WILL MAKE YOU THE MOST PRODUCTIVE VERSION OF YOURSELF" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5fjcz9nSId4" target="_blank" rel="noopener noreferrer">GIVE ME 5 MINUTES AND I WILL MAKE YOU THE MOST PRODUCTIVE VERSION OF YOURSELF</a></p><p class="youtube-embed-meta">Channel: erin meryl study &middot; Views: 8.7K &middot; Uploaded: May 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5fjcz9nSId4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5fjcz9nSId4">Open on YouTube</a></p></div></div></div>
 
@@ -366,7 +362,6 @@ A useful way to evaluate a cue is to imagine an imperfect day.
 
 Ask:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Would this cue still happen if I overslept?
@@ -381,7 +376,6 @@ If the answer is no, the cue is probably attached to an idealised morning rather
 
 Habit formation depends on repeated encounters with the cue. Every missed cue is a missed opportunity for repetition. Researchers emphasise the importance of stable contexts because consistency of cue exposure helps behaviours become automatic over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 155 — Theory suggests that making...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Refubium This is why]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">Taylor &amp; Francis Online How does habit form?</span><span class="citation-popover-snippet">Guidelines for tracking real-world...by B Gardner · 2022 · Cited by 100 — This paper proposes methodological criteria for studies tracki...</span></span></span>“after meditation” is often weaker than “when the kettle starts” for many people. Coffee may happen every day; meditation may not.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choosing_coffee_cue_6ec0f5-Illustration-2-dark.svg" | relative_url }}" alt="Cue Choice illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choosing_coffee_cue_6ec0f5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choosing_coffee_cue_6ec0f5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Matching the Cue to Home, Office, or Commuting Mornings
 
@@ -393,7 +387,6 @@ Home workers usually benefit from the earliest coffee-related cue available.
 
 Effective examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * When the kettle switches on
@@ -404,7 +397,6 @@ Effective examples include:
 
 Because the home environment contains many competing activities, an earlier cue provides protection against drifting into household tasks, social media, or news.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5g2Kyc8Ra5U" title="Habit Stacking: Structure Your Day for Peak Focus | James Clear &amp; Dr. Andrew Huberman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5g2Kyc8Ra5U" target="_blank" rel="noopener noreferrer">Habit Stacking: Structure Your Day for Peak Focus | James Clear &amp; Dr. Andrew Huberman</a></p><p class="youtube-embed-meta">Channel: Huberman Lab Clips &middot; Views: 349.2K &middot; Uploaded: April 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5g2Kyc8Ra5U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5g2Kyc8Ra5U">Open on YouTube</a></p></div></div></div>
 
 ### Office-Based Work
@@ -412,7 +404,6 @@ Because the home environment contains many competing activities, an earlier cue 
 The strongest cue is often the transition from coffee acquisition to sitting down.
 
 Examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -430,7 +421,6 @@ People who buy coffee on the way to work need a cue tied to location rather than
 
 Examples:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * First sip after sitting at the desk
@@ -440,7 +430,6 @@ Examples:
 </div>
 
 The key is connecting the cue to the first meaningful task rather than to inbox processing.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choosing_coffee_cue_6ec0f5-Illustration-3-dark.svg" | relative_url }}" alt="Cue Choice illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choosing_coffee_cue_6ec0f5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_choosing_coffee_cue_6ec0f5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Protecting the Cue From Digital Drift
@@ -461,8 +450,7 @@ Research on habits suggests that repeated cue-behaviour pairings strengthen over
 
 A more effective sequence is:
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UI8Mlh99QGg" title="James Clear Explains How to Build Habits That Stick With One Simple Planning Trick || MasterClass" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UI8Mlh99QGg" target="_blank" rel="noopener noreferrer">James Clear Explains How to Build Habits That Stick With One Simple Planning Trick || MasterClass</a></p><p class="youtube-embed-meta">Channel: MasterClass &middot; Views: 30.6K &middot; Uploaded: March 2026 &middot; Length: 3 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UI8Mlh99QGg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UI8Mlh99QGg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2ZDzojkfZDw" title="Why You Can’t Start (Even When You Want To)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2ZDzojkfZDw" target="_blank" rel="noopener noreferrer">Why You Can’t Start (Even When You Want To)</a></p><p class="youtube-embed-meta">Channel: Applied Brain Lab &middot; Views: 82 &middot; Uploaded: May 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2ZDzojkfZDw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2ZDzojkfZDw">Open on YouTube</a></p></div></div></div>
 
 1. Coffee cue appears.
 2. First task begins.

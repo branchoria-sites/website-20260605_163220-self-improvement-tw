@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /feedback/
 nav_short_title: Visible Records
 title: Why Memory Is a Bad Habit Tracker
-title_full: Why Memory Is a Bad Habit Tracker | Feedback
+title_full: Why Memory Is a Bad Habit Tracker
 display_title_short: Visible Records
 display_title: Visible Records
 heading_title: Why Memory Is a Bad Habit Tracker
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:17:59'
-parent_title: The Feedback Loop Behind Real Progress | Better Change
+parent_title: The Feedback Loop Behind Real Progress
 parent_permalink: /feedback/
 parent_nav_short_title: Feedback
 parent_heading_title: The Feedback Loop Behind Real Progress
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_visible_
 
 A [feedback]({{ 'feedback/' | relative_url }}) loop only works if it can see reality. The problem is that memory is a poor measuring instrument. After a difficult week, people often remember only the failures. After a productive week, they may overestimate how consistent they were. Feelings, recent events and personal narratives can all distort recollection. A visible progress record—a habit tracker, training log, spending record, study diary or completed checklist—creates an external reference point that is harder to rewrite after the fact.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_visible_progress_rec_62ad5b-Illustration-1-dark.svg" | relative_url }}" alt="Visible Records illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_visible_progress_rec_62ad5b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_visible_progress_rec_62ad5b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because self-improvement depends on adjustment. If the information feeding the adjustment process is inaccurate, the changes that follow are likely to be inaccurate too. Research on goal monitoring consistently finds that tracking progress improves goal attainment, and that the effects are stronger when progress is physically recorded rather than left in memory. Visible records help turn vague impressions into evidence that can guide the next decision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span>
 
@@ -292,7 +291,6 @@ Researchers studying self-regulation have found that monitoring progress helps p
 
 A simple record can also protect against [identity]({{ 'identity/' | relative_url }})-based conclusions. “I am lazy” becomes “I exercised on four of the last seven days.” The record does not eliminate disappointment, but it narrows the discussion to observable behaviour.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4_4Ooel4N5I" title="Plan With Me: Daily Planner, Memory Planner &amp; Habit Tracking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4_4Ooel4N5I" target="_blank" rel="noopener noreferrer">Plan With Me: Daily Planner, Memory Planner &amp; Habit Tracking</a></p><p class="youtube-embed-meta">Channel: Paper &amp; Glam &middot; Views: 1.2K &middot; Uploaded: February 2026 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4_4Ooel4N5I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4_4Ooel4N5I">Open on YouTube</a></p></div></div></div>
 
 ## What Visible Records Reveal About Patterns
@@ -302,7 +300,6 @@ A single day often tells very little. Patterns emerge when behaviour is recorded
 Consider someone trying to improve sleep. Memory may suggest that poor sleep is random. Two months of records might reveal that sleep quality drops after late caffeine, evening alcohol, or excessive screen use. The pattern was always there, but memory struggled to detect it because individual nights felt disconnected.
 
 The same principle applies across many goals:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -318,7 +315,6 @@ Without records, people often explain outcomes using personality traits. With re
 Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) and habit formation increasingly relies on repeated measurement because behaviour unfolds over time and is strongly influenced by context. Tracking allows recurring cues, interruptions and environmental influences to become visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">Taylor &amp; Francis Online How does habit form?</span><span class="citation-popover-snippet">Guidelines for tracking real-world...by B Gardner · 2022 · Cited by 114 — This paper proposes methodological criteria for studies tracki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kclpure.kcl.ac.uk/portal/files/171110819/How_does_habit_form_GARNDER_Publishedonline22Feb2022_GOLD_VoR_CC_BY_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kclpure.kcl.ac.uk">[King&#x27;s College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kclpure.kcl.ac.uk</span><span class="citation-popover-title">King&#x27;s College London How does habit form?</span><span class="citation-popover-snippet">Guidelines for tracking realby B Gardner · 2022 · Cited by 114 — Social psychologists are increasingly applying habit theory to study rea...</span></span></span>
 
 The practical value is that patterns suggest interventions. If every missed study session follows an evening commute, the problem may not be [motivation]({{ 'motivation/' | relative_url }}). It may be timing. If workouts happen reliably when gym clothes are prepared in advance, the useful lesson is not “try harder” but “keep using the preparation routine”.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pOg6npkEljw" title="Why You Should NOT Track your Habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pOg6npkEljw" target="_blank" rel="noopener noreferrer">Why You Should NOT Track your Habits</a></p><p class="youtube-embed-meta">Channel: Mariana Vieira &middot; Views: 7.1K &middot; Uploaded: April 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pOg6npkEljw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pOg6npkEljw">Open on YouTube</a></p></div></div></div>
 
@@ -336,7 +332,6 @@ The strongest evidence for progress monitoring suggests that the act of recordin
 
 A written record therefore serves two functions simultaneously:
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_visible_progress_rec_62ad5b-Illustration-2-dark.svg" | relative_url }}" alt="Visible Records illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_visible_progress_rec_62ad5b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_visible_progress_rec_62ad5b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. It preserves information that memory might lose.
 2. It creates a concrete object that can be reviewed and analysed later.
@@ -351,7 +346,6 @@ A record such as “opened the writing document”, “walked 8,000 steps”, �
 
 Behavioural records have several advantages:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * They are easier to define consistently.
@@ -364,7 +358,6 @@ Behavioural records have several advantages:
 The goal is not to collect endless data. Excessive tracking can become a distraction. The purpose is to record enough information to answer a useful question later.
 
 A good test is simple: if a future review revealed an unexpected pattern, would the record help explain it? If the answer is yes, the information is probably worth keeping.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Bsi-vJ5FfXs" title="Do This for the Next 30 Days (To Change Your Life)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Bsi-vJ5FfXs" target="_blank" rel="noopener noreferrer">Do This for the Next 30 Days (To Change Your Life)</a></p><p class="youtube-embed-meta">Channel: Can&#x27;t Break &middot; Views: 3.8K &middot; Uploaded: April 2026 &middot; Length: 2 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Bsi-vJ5FfXs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Bsi-vJ5FfXs">Open on YouTube</a></p></div></div></div>
 
@@ -383,7 +376,6 @@ Third, discussion can improve interpretation. Someone reviewing their own data m
 Shared reporting is not automatically beneficial. For some people it creates pressure, embarrassment or performative behaviour. Public commitment works best when the goal is learning and adjustment rather than proving worth.
 
 The useful principle is not publicity for its own sake. It is increasing the likelihood that the record will be reviewed honestly.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_visible_progress_rec_62ad5b-Illustration-3-dark.svg" | relative_url }}" alt="Visible Records illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_visible_progress_rec_62ad5b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_visible_progress_rec_62ad5b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Small Record That Keeps the System Honest
@@ -511,15 +503,15 @@ The most effective feedback loops are not built on perfect recollection. They ar
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goal Thermometer Chart Goal Tracker - 48&quot;x12&quot; Adhesive Dry Erase Fundraising ..."><img src="https://i.ebayimg.com/images/g/p~oAAOSwxDFm4Aiq/s-l225.jpg" alt="Listing image for Goal Thermometer Chart Goal Tracker - 48&quot;x12&quot; Adhesive Dry Erase Fundraising ..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monthly Habit Tracker Notepad"><img src="https://i.ebayimg.com/images/g/jRQAAeSwQjlqGaNk/s-l225.jpg" alt="Listing image for Monthly Habit Tracker Notepad" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Goal Thermometer Chart Goal Tracker - 48&quot;x12&quot; Adhesive Dry Erase Fundraising ...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Monthly Habit Tracker Notepad</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,15 +519,15 @@ The most effective feedback loops are not built on perfect recollection. They ar
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Task Planner Tracker Goal for Women Chores Board Kids"><img src="https://i.ebayimg.com/images/g/DBkAAeSwNQlpwhXC/s-l225.jpg" alt="Listing image for Weekly Task Planner Tracker Goal for Women Chores Board Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List"><img src="https://i.ebayimg.com/images/g/P-cAAOSwFExkVm3h/s-l225.jpg" alt="Listing image for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Weekly Task Planner Tracker Goal for Women Chores Board Kids</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +535,15 @@ The most effective feedback loops are not built on perfect recollection. They ar
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wingspan Automa Cards Official Game Pieces Scorepad Goal Board &amp; Tiles"><img src="https://i.ebayimg.com/images/g/lssAAeSwZBJo3BCw/s-l225.jpg" alt="Listing image for Wingspan Automa Cards Official Game Pieces Scorepad Goal Board &amp; Tiles" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a"><img src="https://i.ebayimg.com/images/g/HuUAAeSwIiFqGz~v/s-l225.jpg" alt="Listing image for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Wingspan Automa Cards Official Game Pieces Scorepad Goal Board &amp; Tiles</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,15 +551,15 @@ The most effective feedback loops are not built on perfect recollection. They ar
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for $10,000 Savings Challenge Board Money Saving Tracker Wood Frame Budget Goal"><img src="https://i.ebayimg.com/images/g/PvgAAeSww5NpqNVL/s-l225.jpg" alt="Listing image for $10,000 Savings Challenge Board Money Saving Tracker Wood Frame Budget Goal" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Planner Desk Notepad To Do List Study Work Home Organiser Habit Tracker"><img src="https://i.ebayimg.com/images/g/h58AAeSwGf9pAjx8/s-l225.jpg" alt="Listing image for Weekly Planner Desk Notepad To Do List Study Work Home Organiser Habit Tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">$10,000 Savings Challenge Board Money Saving Tracker Wood Frame Budget Goal</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Weekly Planner Desk Notepad To Do List Study Work Home Organiser Habit Tracker</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,7 +567,7 @@ The most effective feedback loops are not built on perfect recollection. They ar
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-goal-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker board" data-ebay-reference="why-memory-is-a-bad-habit-tracker-goal-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memory-is-a-bad-habit-tracker-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="why-memory-is-a-bad-habit-tracker-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -785,6 +777,7 @@ The most effective feedback loops are not built on perfect recollection. They ar
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

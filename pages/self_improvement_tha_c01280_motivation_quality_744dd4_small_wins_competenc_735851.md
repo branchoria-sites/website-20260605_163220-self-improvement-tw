@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /motivation/
 nav_short_title: Small Wins
 title: Why tiny progress can feel powerful
-title_full: Why tiny progress can feel powerful | Motivation
+title_full: Why tiny progress can feel powerful
 display_title_short: Small Wins
 display_title: Small Wins
 heading_title: Why tiny progress can feel powerful
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:19:44'
-parent_title: Why Chosen Goals Last Longer | Better Change
+parent_title: Why Chosen Goals Last Longer
 parent_permalink: /motivation/
 parent_nav_short_title: Motivation
 parent_heading_title: Why Chosen Goals Last Longer
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_smal
 
 Small wins matter in self-improvement, but not because they create a temporary feeling of success. They matter because they provide evidence. When a small action demonstrates that you can learn, improve, or handle a challenge, it strengthens the sense of competence that supports long-term [motivation]({{ 'motivation/' | relative_url }}). In contrast, easy wins that have little connection to a valued goal may feel good briefly without building any lasting capability.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_small_wins_competenc_735851-Illustration-1-dark.svg" | relative_url }}" alt="Small Wins illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_small_wins_competenc_735851-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_small_wins_competenc_735851-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on motivation consistently points to competence as a central psychological need. People are more likely to persist when they can see proof that their efforts are making them more effective. The most useful small wins are therefore not random achievements. They are visible, repeatable steps that move a person in a direction they genuinely care about. Over time, these small pieces of evidence accumulate into a stronger belief: “I can do this, and I am getting better at it.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.next.co.uk/shop/brand-self-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: next.co.uk">[Self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">next.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> -Determination Theory
 
@@ -314,7 +313,6 @@ The second learner receives continuous [feedback]({{ 'feedback/' | relative_url 
 
 The emotional effect is significant because small wins reduce uncertainty. They answer a question that often sits beneath motivation problems: “Is this actually working?” Every visible improvement provides a small but meaningful “yes”.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-v9c8Q4lfKs" title="Teresa Amabile - The Progress Principle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-v9c8Q4lfKs" target="_blank" rel="noopener noreferrer">Teresa Amabile - The Progress Principle</a></p><p class="youtube-embed-meta">Channel: The Innovation Show with Aidan McCullen &middot; Views: 6.0K &middot; Uploaded: May 2024 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-v9c8Q4lfKs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-v9c8Q4lfKs">Open on YouTube</a></p></div></div></div>
 
 ## Designing first steps that survive low-energy days
@@ -346,7 +344,6 @@ This is why writing one paragraph often works better than planning a writing ses
 
 Small wins become especially valuable during periods of low motivation because they maintain continuity. Missing ambitious targets can create doubt about competence. Completing a modest but meaningful action preserves the story that improvement is still happening.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_small_wins_competenc_735851-Illustration-2-dark.svg" | relative_url }}" alt="Small Wins illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_small_wins_competenc_735851-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_small_wins_competenc_735851-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The difference between activity and mastery
 
@@ -370,7 +367,6 @@ A useful question is: “If I continue collecting these wins for six months, wha
 
 If the answer is unclear, the wins may be measuring participation rather than growth.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zuUj9JkGpoY" title="You Don&#x27;t Need Confidence to Compete (Here&#x27;s Why)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zuUj9JkGpoY" target="_blank" rel="noopener noreferrer">You Don&#x27;t Need Confidence to Compete (Here&#x27;s Why)</a></p><p class="youtube-embed-meta">Channel: Pickleball Prescription &middot; Views: 831 &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zuUj9JkGpoY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zuUj9JkGpoY">Open on YouTube</a></p></div></div></div>
 
 ## Making progress visible without becoming obsessive
@@ -380,7 +376,6 @@ Visible progress supports motivation because it helps people recognise improveme
 The solution is to track evidence, not everything.
 
 Useful indicators tend to be simple:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -400,14 +395,12 @@ A healthier approach is periodic visibility rather than continuous surveillance.
 
 The goal is not to maximise data collection. The goal is to make improvement visible enough that the brain can recognise a pattern of growth.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_small_wins_competenc_735851-Illustration-3-dark.svg" | relative_url }}" alt="Small Wins illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_small_wins_competenc_735851-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_small_wins_competenc_735851-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When small wins stop working
 
 Small wins lose their motivational power when they no longer represent progress.
 
 This can happen in several ways:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -422,9 +415,7 @@ Bandura's work suggests that self-efficacy develops through mastery experiences,
 
 A useful pattern is gradual expansion:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_3OW0EIzL4" title="How Do Mastery Experiences Build Student Self-Efficacy?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_3OW0EIzL4" target="_blank" rel="noopener noreferrer">How Do Mastery Experiences Build Student Self-Efficacy?</a></p><p class="youtube-embed-meta">Channel: Latino Education in America &middot; Views: 69 &middot; Uploaded: December 2025 &middot; Length: 2 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_3OW0EIzL4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_3OW0EIzL4">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 

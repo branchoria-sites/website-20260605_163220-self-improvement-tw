@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /defaults/
 nav_short_title: Ethical nudges
 title: When is a self nudge still free choice?
-title_full: When is a self nudge still free choice? | Defaults
+title_full: When is a self nudge still free choice?
 display_title_short: Ethical nudges
 display_title: Ethical nudges
 heading_title: When is a self nudge still free choice?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:55:48'
-parent_title: How Defaults Quietly Shape Your Day | Better Change
+parent_title: How Defaults Quietly Shape Your Day
 parent_permalink: /defaults/
 parent_nav_short_title: Defaults
 parent_heading_title: How Defaults Quietly Shape Your Day
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_eth
 
 Self-nudging is one of the most practical forms of choice architecture for self-improvement: you deliberately arrange your [environment]({{ 'environment/' | relative_url }}) so that the behaviour you already want becomes easier to carry out. The ethical question is not whether you influence yourself. Everyone does. The question is whether the influence remains visible, reversible and aligned with your own goals.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-1-dark.svg" | relative_url }}" alt="Ethical nudges illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A self-nudge remains a free choice when you can recognise the default, understand why it exists, and change or remove it without undue friction. Ethical behavioural science frameworks consistently emphasise transparency, autonomy and accountability rather than hidden steering. When [defaults]({{ 'defaults/' | relative_url }}) become difficult to detect or unusually hard to reverse, they begin to resemble manipulation rather than self-governance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/good-practice-principles-for-ethical-behavioural-science-in-public-policy_e19a9be9-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">ct to ethical considerations that can arise at any point from scoping to policy...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/06/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_bbbaaa7a/9ea76a8f-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Tools and Ethics for Applied Behavioural InsightsThis toolkit presents both general principles for the ethical application of BI and a se...</span></span></span>
 
@@ -288,7 +287,6 @@ The standard definition of a nudge is a change in choice architecture that predi
 
 For self-improvement, a useful practical test is whether the arrangement passes three conditions:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * **Transparency:** you know the default exists and can explain its purpose.
@@ -298,7 +296,6 @@ For self-improvement, a useful practical test is whether the arrangement passes 
 </div>
 
 Consider three common examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -322,7 +319,6 @@ Research and policy guidance on ethical behavioural interventions increasingly t
 
 Applied to self-improvement, that means:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Naming the purpose of a default.
@@ -333,7 +329,6 @@ Applied to self-improvement, that means:
 </div>
 
 For example, a calendar entry labelled "Tuesday gym session – supports energy and health goals" is ethically clearer than an automated commitment whose rationale has long been forgotten.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pJyo5lXzPhU" title="Tools for Developing Self Control | Dr. Kentaro Fujita &amp; Dr. Andrew Huberman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pJyo5lXzPhU" target="_blank" rel="noopener noreferrer">Tools for Developing Self Control | Dr. Kentaro Fujita &amp; Dr. Andrew Huberman</a></p><p class="youtube-embed-meta">Channel: Huberman Lab Clips &middot; Views: 14.7K &middot; Uploaded: May 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pJyo5lXzPhU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pJyo5lXzPhU">Open on YouTube</a></p></div></div></div>
 
@@ -357,7 +352,6 @@ The same [warning signs]({{ 'warning-signs/' | relative_url }}) apply to persona
 
 A self-nudge begins drifting toward manipulation when:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * The default becomes difficult to discover.
@@ -371,7 +365,6 @@ A self-nudge begins drifting toward manipulation when:
 Imagine a productivity application configured years ago with extensive blocking rules. At first it supported focused work. Later it begins interfering with legitimate activities, yet the settings are so complex that changing them feels burdensome. The system is still influencing behaviour, but it no longer serves the user's current objectives.
 
 In this situation, the harm is not dramatic. It is usually wasted time, unnecessary friction and reduced autonomy. Yet these small losses accumulate. Recent discussions of manipulation and dark-pattern regulation increasingly highlight harms to attention, time and personal agency, not only financial loss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oecd.ai/en/wonk/ai-act-manipulation-methods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[OECD.AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-title">ai act manipulation methods</span><span class="citation-popover-snippet">The EU&#x27;s AI Act needs to address critical manipulation...21 Mar 2023 — The EU AI Act regulations focus on preventing manipulation that c...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-2-dark.svg" | relative_url }}" alt="Ethical nudges illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The danger of success without review
@@ -392,9 +385,7 @@ Rather than relying on memory, treat personal defaults as assets that require ma
 
 A simple quarterly review can include questions such as:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z9r-TJrKUq8" title="Ralph Hertwig: Beyond Nudging—How Boosting Empowers Citizens to Make Good Decisions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z9r-TJrKUq8" target="_blank" rel="noopener noreferrer">Ralph Hertwig: Beyond Nudging—How Boosting Empowers Citizens to Make Good Decisions</a></p><p class="youtube-embed-meta">Channel: Unraveling Behavior &middot; Views: 1.1K &middot; Uploaded: May 2025 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z9r-TJrKUq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z9r-TJrKUq8">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -423,7 +414,6 @@ The review should cover practical systems, including:
 
 This process mirrors governance principles used in ethical behavioural science: interventions should not only be designed responsibly but also monitored and reassessed over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/dark-commercial-patterns_9f6169cd/44f5e846-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Dark commercial patterns (EN</span><span class="citation-popover-snippet">May 14, 2025 — The OECD Committee on Consumer Policy proposes a working definition of dark patterns to facilitate near-term discussion am...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oecd.ai/en/wonk/ai-act-manipulation-methods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-title">ai act manipulation methods</span><span class="citation-popover-snippet">The EU&#x27;s AI Act needs to address critical manipulation...21 Mar 2023 — The EU AI Act regulations focus on preventing manipulation that c...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-3-dark.svg" | relative_url }}" alt="Ethical nudges illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### A useful rule: defaults should expire before values do
 
@@ -446,9 +436,7 @@ Ethical self-nudging recognises that people are imperfect planners and inconsist
 
 A useful rule of thumb is simple: if a future version of you can easily see the nudge, understand why it exists and remove it without difficulty, the system is supporting freedom rather than replacing it. Transparency, continuing consent and easy exits are not obstacles to effective self-improvement. They are what keep behavioural tools aligned with the person they are supposed to serve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/333421600_To_Nudge_or_Not_To_Nudge_Ethical_Considerations_of_Digital_Nudging_Based_on_Its_Behavioral_Economics_Roots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Ethical Considerations of Digital Nudging Based on Its...28 May 2019 — Three important ethical considerations for digital nudges are dis...</span><span class="citation-popover-meta">Published: May 2019</span></span></span> 3oecd.org 3oecd.org
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PCXNKK2oyE4" title="The Art of Shaping Choice Architecture." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PCXNKK2oyE4" target="_blank" rel="noopener noreferrer">The Art of Shaping Choice Architecture.</a></p><p class="youtube-embed-meta">Channel: Brooke Tully &middot; Views: 110 &middot; Uploaded: January 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PCXNKK2oyE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PCXNKK2oyE4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -543,7 +531,7 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -567,15 +555,15 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/orkAAeSwHVhpwYNq/s-l225.jpg" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic Time Lock Safe Box Countdown Timer Combination Lock -Seller Pays Fees"><img src="https://i.ebayimg.com/images/g/kCgAAeSwMD1ps-oq/s-l225.jpg" alt="Listing image for Electronic Time Lock Safe Box Countdown Timer Combination Lock -Seller Pays Fees" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer">Electronic Time Lock Safe Box Countdown Timer Combination Lock -Seller Pays Fees</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for time lock safe">Search <span data-ebay-domain-label>eBay.co.uk</span>: time lock safe</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -583,15 +571,15 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL 1964 CHINESE POSTER &quot;STRIVE FOR SELF-IMPROVEMENT.&quot; approx 107 x 76 cms"><img src="https://i.ebayimg.com/images/g/0y4AAeSw~IxpndhJ/s-l225.jpg" alt="Listing image for ORIGINAL 1964 CHINESE POSTER &quot;STRIVE FOR SELF-IMPROVEMENT.&quot; approx 107 x 76 cms" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lock Box with Timed Digital Timer and Combination Lock for Phones Snacks Secure"><img src="https://i.ebayimg.com/images/g/shsAAeSw9MVqGe0v/s-l225.jpg" alt="Listing image for Lock Box with Timed Digital Timer and Combination Lock for Phones Snacks Secure" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL 1964 CHINESE POSTER &quot;STRIVE FOR SELF-IMPROVEMENT.&quot; approx 107 x 76 cms</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer">Lock Box with Timed Digital Timer and Combination Lock for Phones Snacks Secure</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for time lock safe">Search <span data-ebay-domain-label>eBay.co.uk</span>: time lock safe</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -599,15 +587,15 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/JYIAAeSwBxJp2SEh/s-l225.jpg" alt="Listing image for Self improvement Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ice Lock Key Safe - BDSM Restraints Time Release"><img src="https://i.ebayimg.com/images/g/5G4AAOSwe6hlBZnR/s-l225.jpg" alt="Listing image for Ice Lock Key Safe - BDSM Restraints Time Release" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer">Ice Lock Key Safe - BDSM Restraints Time Release</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for time lock safe">Search <span data-ebay-domain-label>eBay.co.uk</span>: time lock safe</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -615,15 +603,15 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Minimal Self-Improvement Text Desig Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/9ecAAeSwwZhp2SDY/s-l225.jpg" alt="Listing image for Minimal Self-Improvement Text Desig Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for iDiskk Safe Timed Lock Box, Phone Lock Box with Timer Unplug from Phones,"><img src="https://i.ebayimg.com/images/g/KMoAAeSwOp1pwSUx/s-l225.jpg" alt="Listing image for iDiskk Safe Timed Lock Box, Phone Lock Box with Timer Unplug from Phones," loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">Minimal Self-Improvement Text Desig Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer">iDiskk Safe Timed Lock Box, Phone Lock Box with Timer Unplug from Phones,</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: self improvement poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for time lock safe">Search <span data-ebay-domain-label>eBay.co.uk</span>: time lock safe</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -631,7 +619,7 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-self-improvement-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="self improvement poster" data-ebay-reference="when-is-a-self-nudge-still-free-choice-self-improvement-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -841,6 +829,7 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

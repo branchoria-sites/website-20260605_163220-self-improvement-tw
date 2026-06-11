@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /feedback/
 nav_short_title: Tracking Noise
 title: When the Tracker Becomes the Problem
-title_full: When the Tracker Becomes the Problem | Feedback
+title_full: When the Tracker Becomes the Problem
 display_title_short: Tracking Noise
 display_title: Tracking Noise
 heading_title: When the Tracker Becomes the Problem
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:18:04'
-parent_title: The Feedback Loop Behind Real Progress | Better Change
+parent_title: The Feedback Loop Behind Real Progress
 parent_permalink: /feedback/
 parent_nav_short_title: Feedback
 parent_heading_title: The Feedback Loop Behind Real Progress
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking
 
 [Feedback]({{ 'feedback/' | relative_url }}) loops are valuable because they make behaviour visible. The problem begins when the feedback system stops serving the behaviour and starts competing with it. A tracker that was meant to [support]({{ 'support/' | relative_url }}) exercise, writing, saving money or better sleep can gradually become a separate project: updating dashboards, reviewing graphs, fixing categories, maintaining streaks and analysing metrics. At that point, the person may spend more energy observing improvement than creating it.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking_noise_19522a-Illustration-1-dark.svg" | relative_url }}" alt="Tracking Noise illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking_noise_19522a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking_noise_19522a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research consistently shows that monitoring progress can improve goal attainment, especially when progress is recorded. Yet the same body of work on self-tracking and personal informatics also documents friction, burden, demotivation and [abandonment]({{ 'abandonment/' | relative_url }}) when tracking becomes too demanding or emotionally costly. The useful question is not whether tracking works. It is whether the tracker is still helping the underlying behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">by B Harkin · 2016 · Cited by 750 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulation st...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6122239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-monitoring often involves self-evaluation...Read more...</span></span></span>
 
@@ -298,7 +297,6 @@ A tracker has become noise when it generates more attention than actionable info
 
 Common [warning signs]({{ 'warning-signs/' | relative_url }}) include:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * You spend more time recording behaviour than performing it.
@@ -314,7 +312,6 @@ Common [warning signs]({{ 'warning-signs/' | relative_url }}) include:
 One of the recurring findings in self-tracking research is that people often stop using systems that demand excessive manual input or create emotional discomfort. The problem is not a lack of data. It is that the cost of engaging with the data becomes too high. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pac.cs.cornell.edu/pubs/ekchoe_pervasive17.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pac.cs.cornell.edu">[2pac.cs.cornell.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pac.cs.cornell.edu</span><span class="citation-popover-snippet">reater awareness of behaviors and can create a reactive effect yielding positive, therapeutic behavior...</span></span></span>
 
 A useful rule is that every metric should answer a practical question. If a chart exists only because it can exist, it is probably noise.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qdgaTzOLePM" title="Why Your Productivity Systems Keeps Failing You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qdgaTzOLePM" target="_blank" rel="noopener noreferrer">Why Your Productivity Systems Keeps Failing You</a></p><p class="youtube-embed-meta">Channel: Cassie Winter &middot; Views: 2.0K &middot; Uploaded: April 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qdgaTzOLePM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qdgaTzOLePM">Open on YouTube</a></p></div></div></div>
 
@@ -348,7 +345,6 @@ Three mechanisms commonly turn useful tracking into avoidance:
 
 The result is a paradox: more measurement can produce less behavioural adaptation.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking_noise_19522a-Illustration-2-dark.svg" | relative_url }}" alt="Tracking Noise illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking_noise_19522a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking_noise_19522a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Hidden Cost of Tracker Maintenance
 
@@ -363,7 +359,6 @@ A useful feedback loop should feel lighter over time. If it becomes progressivel
 ## Ways to Simplify Tracking Without Losing the Loop
 
 The solution is rarely abandoning feedback altogether. The solution is reducing the amount of tracking to the minimum needed for learning.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mgZA050Zk-A" title="The System That Keeps You Burned Out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mgZA050Zk-A" target="_blank" rel="noopener noreferrer">The System That Keeps You Burned Out</a></p><p class="youtube-embed-meta">Channel: Beyond Surface Level &middot; Views: 15 &middot; Uploaded: April 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mgZA050Zk-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mgZA050Zk-A">Open on YouTube</a></p></div></div></div>
 
@@ -383,7 +378,6 @@ Ask a simple question: "What would I do differently if this number increased or 
 
 If there is no answer, the metric is probably decorative.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking_noise_19522a-Illustration-3-dark.svg" | relative_url }}" alt="Tracking Noise illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking_noise_19522a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_tracking_noise_19522a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Review Less Frequently
 
@@ -397,7 +391,6 @@ A single clear measure is often more effective than a sophisticated dashboard.
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Workouts completed this week.
@@ -408,7 +401,6 @@ For example:
 </div>
 
 Supporting metrics can exist, but one measure should dominate attention.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nfRZPf_6a1c" title="The Problem with Habit Trackers (And What to Do Instead)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nfRZPf_6a1c" target="_blank" rel="noopener noreferrer">The Problem with Habit Trackers (And What to Do Instead)</a></p><p class="youtube-embed-meta">Channel: Sam Mas &middot; Views: 5.4K &middot; Uploaded: December 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nfRZPf_6a1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nfRZPf_6a1c">Open on YouTube</a></p></div></div></div>
 
@@ -545,15 +537,15 @@ In effective self-improvement systems, tracking is not the goal. It is a tempora
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK"><img src="https://i.ebayimg.com/images/g/UeIAAeSwsO1pu9zc/s-l225.jpg" alt="Listing image for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Simple 2025 Digital Planner - All-in-One/Habit Tracker/Navigation Bar"><img src="https://i.ebayimg.com/images/g/NVkAAOSwMe9ndWGx/s-l225.jpg" alt="Listing image for Simple 2025 Digital Planner - All-in-One/Habit Tracker/Navigation Bar" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Simple 2025 Digital Planner - All-in-One/Habit Tracker/Navigation Bar</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for simple habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: simple habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,15 +553,15 @@ In effective self-improvement systems, tracking is not the goal. It is a tempora
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 NEW Fit@bit Smart Watch Activity Tracker Fitness Watches Heart Rate Monitor"><img src="https://i.ebayimg.com/images/g/Da0AAeSwUdhp5tYK/s-l225.jpg" alt="Listing image for 2026 NEW Fit@bit Smart Watch Activity Tracker Fitness Watches Heart Rate Monitor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Simple Weekly Planner To Do List Notebook w Habit Tracker 6.5&quot; x 9.25&quot; 60 Sheet"><img src="https://i.ebayimg.com/images/g/KzAAAOSw4LBnArLR/s-l225.jpg" alt="Listing image for Simple Weekly Planner To Do List Notebook w Habit Tracker 6.5&quot; x 9.25&quot; 60 Sheet" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">2026 NEW Fit@bit Smart Watch Activity Tracker Fitness Watches Heart Rate Monitor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Simple Weekly Planner To Do List Notebook w Habit Tracker 6.5&quot; x 9.25&quot; 60 Sheet</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for simple habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: simple habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -577,15 +569,15 @@ In effective self-improvement systems, tracking is not the goal. It is a tempora
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK"><img src="https://i.ebayimg.com/images/g/2xQAAeSwgIRp4NGA/s-l225.jpg" alt="Listing image for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Monthly Planner refill 2026 - Note Habit Tracker A5 A6&quot; Simple&quot;"><img src="https://i.ebayimg.com/images/g/hboAAOSwKiBljjrV/s-l225.jpg" alt="Listing image for Weekly Monthly Planner refill 2026 - Note Habit Tracker A5 A6&quot; Simple&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Weekly Monthly Planner refill 2026 - Note Habit Tracker A5 A6&quot; Simple&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for simple habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: simple habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -593,15 +585,15 @@ In effective self-improvement systems, tracking is not the goal. It is a tempora
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK"><img src="https://i.ebayimg.com/images/g/X2wAAeSwgI9pvtTP/s-l225.jpg" alt="Listing image for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Non Dated Simple Weekly Planner And To do List Notebook With Habit Tracker"><img src="https://i.ebayimg.com/images/g/iSYAAeSwFpVows-l/s-l225.jpg" alt="Listing image for Non Dated Simple Weekly Planner And To do List Notebook With Habit Tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Non Dated Simple Weekly Planner And To do List Notebook With Habit Tracker</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for simple habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: simple habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -609,7 +601,7 @@ In effective self-improvement systems, tracking is not the goal. It is a tempora
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-the-tracker-becomes-the-problem-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=simple+habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-tracker-becomes-the-problem-simple-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="simple habit tracker" data-ebay-reference="when-the-tracker-becomes-the-problem-simple-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -819,6 +811,7 @@ In effective self-improvement systems, tracking is not the goal. It is a tempora
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: Action Plans
 title: The Plan That Still Works When You Are Tired
-title_full: The Plan That Still Works When You Are Tired | Better Change
+title_full: The Plan That Still Works When You Are Tired
 display_title_short: Action Plans
 display_title: Action Plans
 heading_title: The Plan That Still Works When You Are Tired
@@ -504,7 +504,6 @@ image: /assets/images/self_improvement_tha_c01280_action_planning_tire_75638c-ov
 
 Action planning is the part of [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) that asks a simple question: “What will I actually do when real life gets in the way?” A useful plan is not a slogan, a mood or a heroic promise made on a rested Sunday evening. It is a small, specific next action attached to a likely time, place or cue, with an escape route for predictable pressure. That matters most on busy, tired days, because those are the days when vague goals collapse into default behaviour.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c-overview.webp" | relative_url }}" alt="Overview image for Action Plans" loading="eager" decoding="sync" fetchpriority="high">
 The practical aim is not to remove effort from every worthwhile change. It is to stop wasting effort on deciding, remembering and negotiating with yourself at the worst possible moment. Behaviour-change guidance from NICE treats action plans as part of “goals and planning”: a plan should describe what will happen, in what situation or at what time, how often, for how long and where; it should also be reviewed in light of experience rather than treated as a one-off vow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-title">NICERecommendations &#124; Behaviour change: individual approaches &#124; Guidance &#124; NICE</span><span class="citation-popover-snippet">NICERecommendations &#124; Behaviour change: individual approaches &#124; Guidance &#124; NICE</span></span></span>
 
@@ -535,7 +534,6 @@ A tired-day next action has four useful properties:
 
 This is the difference between a plan and a fantasy. A fantasy describes the improved life. A plan reduces the number of decisions between the present moment and the first useful movement.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c-Illustration-1-dark.svg" | relative_url }}" alt="Action Plans illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Planning around constraints
 
@@ -563,7 +561,6 @@ A plan for tired days needs a minimum viable version. “If I cannot do the full
 
 Research on action planning and coping planning supports this distinction. In a longitudinal study of 352 cardiac rehabilitation patients, action plans and coping plans operated differently: action plans were more influential earlier, while coping plans became more important later, and higher coping planning after discharge predicted higher exercise four months later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abdn.elsevierpure.com">[Aberdeen Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abdn.elsevierpure.com</span><span class="citation-popover-snippet">Action planning and coping planning for long-term lifestyle change: Theory and assessment - The University of Aberdeen Research Portal...</span></span></span> For everyday self improvement, that means a plan should not only say “here is what I will do” but also “here is how I will respond when the normal obstacle appears”.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K0S9xJwRohI" title="I Finally Figured Out How To Be Consistent (It’s Not Discipline)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K0S9xJwRohI" target="_blank" rel="noopener noreferrer">I Finally Figured Out How To Be Consistent (It’s Not Discipline)</a></p><p class="youtube-embed-meta">Channel: Adete Dahiya &middot; Views: 111.4K &middot; Uploaded: February 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K0S9xJwRohI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K0S9xJwRohI">Open on YouTube</a></p></div></div></div>
 
 ## When to shrink the step
@@ -590,7 +587,6 @@ Good shrink rules include:
 </div>
 
 The key is to shrink before the plan becomes emotionally loaded. Once a goal turns into a private referendum on your character, it becomes harder to resume after a miss. A small fallback protects the habit from all-or-nothing thinking.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c-Illustration-2-dark.svg" | relative_url }}" alt="Action Plans illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical action plan for a tired weekday
@@ -621,7 +617,6 @@ The same pattern can be adapted:
 
 The pattern matters more than the domain: cue, action, setup, obstacle plan, review.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LJlLUoRJj88" title="How to Study at Night Without Feeling Sleepy (I Did This for 9 Years)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LJlLUoRJj88" target="_blank" rel="noopener noreferrer">How to Study at Night Without Feeling Sleepy (I Did This for 9 Years)</a></p><p class="youtube-embed-meta">Channel: Michael Dovlo | Study &amp; NSMQ &middot; Views: 835 &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LJlLUoRJj88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LJlLUoRJj88">Open on YouTube</a></p></div></div></div>
 
 ## The plan should reduce decisions, not multiply them
@@ -631,7 +626,6 @@ Some self-improvement systems fail because they become another job. The person s
 That is backwards. Action planning for tired days should reduce the number of decisions. The Behaviour Change Technique Taxonomy was built to specify active ingredients in behaviour-change interventions, not to imply that every person needs a complicated system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery Method</span><span class="citation-popover-snippet">UCL Discovery Method</span></span></span> For this subtopic, the active ingredient is modest: make the performance of the behaviour specific enough that it can happen under pressure.
 
 A plan is probably too complicated if:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -644,7 +638,6 @@ A plan is probably too complicated if:
 </div>
 
 A tired-day plan is better when it feels almost disappointingly plain. “After lunch, walk for ten minutes.” “Before opening email, write three bullet points.” “When I want to order takeaway, eat the prepared meal first and decide afterwards.” Plain plans survive because they do not ask for much interpretation.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c-Illustration-3-dark.svg" | relative_url }}" alt="Action Plans illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What action planning can and cannot do
@@ -663,9 +656,7 @@ The tired-day standard is simple: design the plan for the day you are most likel
 
 That is why action planning belongs at the centre of self improvement that works. It turns aspiration into a testable behaviour. It respects the fact that ordinary life is crowded and energy fluctuates. And it gives tired people a fairer chance of doing the next right thing without having to become a different person first.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VfGRTOIT9Z4" title="How to be productive (even when you’re tired) | tips to stay motivated during a 9-5 work day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VfGRTOIT9Z4" target="_blank" rel="noopener noreferrer">How to be productive (even when you’re tired) | tips to stay motivated during a 9-5 work day</a></p><p class="youtube-embed-meta">Channel: Rebekah Joy &middot; Views: 46.1K &middot; Uploaded: April 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VfGRTOIT9Z4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VfGRTOIT9Z4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1196,4 +1187,4 @@ That is why action planning belongs at the centre of self improvement that works
 
 24. <a id="endnote-24"></a>
    Source: sknmoves.kn  
-   Link: <a href="https://sknmoves.kn/chronic-disease-self-management-tool-action-planning/" target="_blank" rel="noopener noreferrer nofollow">https://sknmoves.kn/chronic-disease-self-management-tool-action-planning/</a>  
+   Link: <a href="https://sknmoves.kn/chronic-disease-self-management-tool-action-planning/" target="_blank" rel="noopener noreferrer nofollow">https://sknmoves.kn/chronic-disease-self-management-tool-action-planning/</a>

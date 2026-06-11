@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /rewards/
 nav_short_title: Congruent Rewards
 title: The Reward Should Fit the Habit
-title_full: The Reward Should Fit the Habit | Rewards
+title_full: The Reward Should Fit the Habit
 display_title_short: Congruent Rewards
 display_title: Congruent Rewards
 heading_title: The Reward Should Fit the Habit
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:42:37'
-parent_title: How to Reward Habits Without Ruining Them | Better Change
+parent_title: How to Reward Habits Without Ruining Them
 parent_permalink: /rewards/
 parent_nav_short_title: Rewards
 parent_heading_title: How to Reward Habits Without Ruining Them
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_co
 
 A reward works best when it strengthens the habit you are trying to build rather than distracting from it. In self-improvement, this principle is known as reward congruence: the reward fits the behaviour, reinforces its value, and makes repeating it easier. The safest [rewards]({{ 'rewards/' | relative_url }}) do not feel like payment for suffering. Instead, they make the activity itself more satisfying, meaningful, or visible. Research on habit formation suggests that pleasure and intrinsic value accelerate the growth of habit strength, while [motivation]({{ 'motivation/' | relative_url }}) research warns that rewards can undermine engagement when they feel controlling or disconnected from the activity itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span> PubMed The practical question is not whether to reward yourself <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30572936/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">study of the impact of perceived reward on...by G Judah · 2018 · Cited by 94 — Pleasure and intrinsic motivation can aid habit formation...</span></span></span>, but what kind of reward teaches your brain to want more of the behaviour rather than more of the reward.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_congruent_rewards_3d14e2-Illustration-1-dark.svg" | relative_url }}" alt="Congruent Rewards illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_congruent_rewards_3d14e2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_congruent_rewards_3d14e2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Makes a Reward Congruent?
 
@@ -294,7 +293,6 @@ This matters because habits are not simply repeated actions. They are learned as
 
 A congruent reward therefore strengthens multiple links at once:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The behaviour feels worthwhile now, not only in the distant future.
@@ -305,7 +303,6 @@ A congruent reward therefore strengthens multiple links at once:
 
 Over time, the activity begins to carry some of its own reward value. This is one reason many long-term exercisers, readers, musicians, and skilled professionals continue even when no external prize is available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yhLHfPZEKgU" title="360 ‒ How to change your habits: why they form and how to build or break them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yhLHfPZEKgU" target="_blank" rel="noopener noreferrer">360 ‒ How to change your habits: why they form and how to build or break them</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 85.5K &middot; Uploaded: August 2025 &middot; Length: 2 hours 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yhLHfPZEKgU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yhLHfPZEKgU">Open on YouTube</a></p></div></div></div>
 
 ## Examples That Strengthen the Behaviour Itself
@@ -315,7 +312,6 @@ Over time, the activity begins to carry some of its own reward value. This is on
 Congruent rewards for exercise enhance the experience of movement and recovery.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -334,7 +330,6 @@ Knowledge work often suffers from delayed rewards because outcomes may not appea
 
 Congruent rewards include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Checking completed tasks off a visible list.
@@ -346,14 +341,12 @@ Congruent rewards include:
 
 These rewards create a sense of completion and competence immediately after effort.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_congruent_rewards_3d14e2-Illustration-2-dark.svg" | relative_url }}" alt="Congruent Rewards illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_congruent_rewards_3d14e2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_congruent_rewards_3d14e2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Cleaning and Organisation
 
 Many people reward cleaning with distraction. A more congruent approach is to enjoy the benefits cleaning creates.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -372,7 +365,6 @@ For learning an instrument, language, sport, or professional skill, congruent re
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Playing a favourite piece after technical practice.
@@ -383,7 +375,6 @@ Examples include:
 </div>
 
 These rewards strengthen competence, one of the strongest drivers of sustained motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self.inc">[self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self.inc</span><span class="citation-popover-snippet">Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z2pmq88IGfo" title="The Science of Habit Formation: Cue, Craving, Response &amp; Reward" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z2pmq88IGfo" target="_blank" rel="noopener noreferrer">The Science of Habit Formation: Cue, Craving, Response &amp; Reward</a></p><p class="youtube-embed-meta">Channel: Fran Palokaj &middot; Views: 807 &middot; Uploaded: April 2024 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z2pmq88IGfo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z2pmq88IGfo">Open on YouTube</a></p></div></div></div>
 
@@ -403,7 +394,6 @@ When the reward is dramatically more attractive than the habit, the habit may st
 
 Research on motivation repeatedly finds that rewards are most problematic when they are experienced as controlling or when they replace existing interest in the activity. The issue is not the presence of rewards but the relationship between the reward and the behaviour being rewarded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yukaichou.com">[Yu-kai Chou]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yukaichou.com</span><span class="citation-popover-snippet">Yu-kai ChouSelf-Determination Theory: Deci &amp; Ryan&#x27;s 6 Mini-Theories6 May 2026 — CET addresses how external events (rewards, feedback, dea...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Even when pursuing extrinsic rewards like wealth or fame, we are more satisfied and self-act...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Even when pursuing extrinsic rewards like wealth or fame, we are more satisfied and self-act...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_congruent_rewards_3d14e2-Illustration-3-dark.svg" | relative_url }}" alt="Congruent Rewards illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_congruent_rewards_3d14e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_congruent_rewards_3d14e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Simple Test for Reward Design
 
@@ -420,8 +410,7 @@ Another practical test is to examine what the reward directs attention toward:
 
 The goal is not to eliminate all external rewards. It is to ensure that rewards point back toward the behaviour rather than away from it.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yMigQk2kcUc" title="Atomic Habits 4th Law Explained | Make It Satisfying | LitTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yMigQk2kcUc" target="_blank" rel="noopener noreferrer">Atomic Habits 4th Law Explained | Make It Satisfying | LitTalk</a></p><p class="youtube-embed-meta">Channel: LitTalk &middot; Views: 36 &middot; Uploaded: January 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yMigQk2kcUc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yMigQk2kcUc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZpAwJKq8TOc" title="Self-Determination Theory Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZpAwJKq8TOc" target="_blank" rel="noopener noreferrer">Self-Determination Theory Explained</a></p><p class="youtube-embed-meta">Channel: Psychology Exposed &middot; Views: 7.7K &middot; Uploaded: February 2025 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZpAwJKq8TOc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZpAwJKq8TOc">Open on YouTube</a></p></div></div></div>
 
 ## Designing Rewards That Age Well
 
@@ -548,15 +537,15 @@ These rewards scale naturally because they emerge from the habit itself. Instead
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meal Planner Fitness Tracker Grocery List Kendra &amp; Grace Magnet 6 x 9 Rainbow"><img src="https://i.ebayimg.com/images/g/LIcAAOSwpzVmzfOR/s-l225.jpg" alt="Listing image for Meal Planner Fitness Tracker Grocery List Kendra &amp; Grace Magnet 6 x 9 Rainbow" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown"><img src="https://i.ebayimg.com/images/g/ovgAAeSw~J5of48n/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Meal Planner Fitness Tracker Grocery List Kendra &amp; Grace Magnet 6 x 9 Rainbow</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,15 +553,15 @@ These rewards scale naturally because they emerge from the habit itself. Instead
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker for Kids, Resuable - Daily Routine Board"><img src="https://i.ebayimg.com/images/g/XjkAAOSwzLhoXAuz/s-l225.jpg" alt="Listing image for Habit Tracker for Kids, Resuable - Daily Routine Board" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven"><img src="https://i.ebayimg.com/images/g/2VQAAeSw7PJof5NW/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker for Kids, Resuable - Daily Routine Board</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,15 +569,15 @@ These rewards scale naturally because they emerge from the habit itself. Instead
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Law of Attraction Planner Deluxe with Vision Board"><img src="https://i.ebayimg.com/images/g/PFcAAeSweUpp8ImX/s-l225.jpg" alt="Listing image for 2026 Law of Attraction Planner Deluxe with Vision Board" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary"><img src="https://i.ebayimg.com/images/g/-agAAeSw5bBqDMPx/s-l225.jpg" alt="Listing image for Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Law of Attraction Planner Deluxe with Vision Board</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -596,15 +585,15 @@ These rewards scale naturally because they emerge from the habit itself. Instead
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manifestation Journal – Hourly, Weekly &amp; Monthly Planner | 2- to Increase Pro..."><img src="https://i.ebayimg.com/images/g/7KcAAeSw27Bp3m42/s-l225.jpg" alt="Listing image for Manifestation Journal – Hourly, Weekly &amp; Monthly Planner | 2- to Increase Pro..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER"><img src="https://i.ebayimg.com/images/g/BykAAOSwuTBlEtyP/s-l225.jpg" alt="Listing image for HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Manifestation Journal – Hourly, Weekly &amp; Monthly Planner | 2- to Increase Pro...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -612,7 +601,7 @@ These rewards scale naturally because they emerge from the habit itself. Instead
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -822,6 +811,7 @@ These rewards scale naturally because they emerge from the habit itself. Instead
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

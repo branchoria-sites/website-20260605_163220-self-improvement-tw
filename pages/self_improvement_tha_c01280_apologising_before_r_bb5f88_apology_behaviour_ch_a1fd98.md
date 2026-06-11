@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /apologies/
 nav_short_title: Behaviour Change
 title: What Should Change After the Apology?
-title_full: What Should Change After the Apology? | Apologies
+title_full: What Should Change After the Apology?
 display_title_short: Behaviour Change
 display_title: Behaviour Change
 heading_title: What Should Change After the Apology?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 16:07:26'
-parent_title: How to Apologise Before Resentment Grows | Better Change
+parent_title: How to Apologise Before Resentment Grows
 parent_permalink: /apologies/
 parent_nav_short_title: Apologies
 parent_heading_title: How to Apologise Before Resentment Grows
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_ap
 
 An apology can stop resentment from hardening, but it does not by itself repair trust. When the same problem could happen again, the real test of sincerity is whether behaviour changes in a way the other person can actually observe. Research on effective [apologies]({{ 'apologies/' | relative_url }}) consistently finds that taking responsibility matters, but an offer of repair is nearly as important because it converts words into action. In practical terms, “I’m sorry” becomes credible when it is followed by a specific adjustment that addresses the harm and reduces the chance of repetition. Ohio State News <span class="citation-chip-wrap"><a class="citation-chip" href="https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facultyombuds.ncsu.edu">[Faculty &amp;amp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facultyombuds.ncsu.edu</span><span class="citation-popover-title">Faculty &amp; Staff Ombuds Office Apology Research</span><span class="citation-popover-snippet">Faculty &amp; Staff Ombuds OfficeApology Research - How to do it WellMay 31, 2016 — According to Professor Lewicki – “Apologies really do...</span><span class="citation-popover-meta">Published: May 31, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facultyombuds.ncsu.edu">[Staff Ombuds Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facultyombuds.ncsu.edu</span><span class="citation-popover-title">Faculty &amp; Staff Ombuds Office Apology Research</span><span class="citation-popover-snippet">Faculty &amp; Staff Ombuds OfficeApology Research - How to do it WellMay 31, 2016 — According to Professor Lewicki – “Apologies really do...</span><span class="citation-popover-meta">Published: May 31, 2016</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-1-dark.svg" | relative_url }}" alt="Behaviour Change illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is where many apologies succeed or fail. People often apologise for an outcome while leaving the underlying habit untouched. The result is a cycle of hurt, apology, temporary relief, and recurrence. Effective self-improvement requires breaking that cycle by linking accountability to observable behaviour change rather than treating the apology as the finish line. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S014829632100179X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Employee trust repair: A systematic review of 20 years...by T Kähkönen · 2021 · Cited by 168 — We find that most empirical...</span></span></span>
 
@@ -289,7 +288,6 @@ Research on apology effectiveness found that acknowledgement of responsibility i
 Trust research points in the same direction. Apologies can improve perceptions of trustworthiness and encourage people to take another chance on a relationship. However, trust repair is not sustained by language alone. Reviews of trust-repair research distinguish between verbal responses such as apologies and substantive responses involving concrete actions. Action-based responses are especially important when confidence has been damaged by repeated behaviour rather than a one-off mistake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by CVO Witvliet · 2020 · Cited by 47 — Apology and restitution each independently increased empathy, forgiveness, gratitude, and posit...</span></span></span>
 
 Consider three common examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,7 +304,6 @@ In each case, the behavioural change is directly related to the original harm. T
 People often undermine repair by making promises that are too large, vague, or dramatic. Grand declarations can feel sincere in the moment but are difficult to maintain.
 
 A better approach is to design repair around three criteria:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uXSkARDQMjQ" title="How to pronounce effective | British English and American English pronunciation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uXSkARDQMjQ" target="_blank" rel="noopener noreferrer">How to pronounce effective | British English and American English pronunciation</a></p><p class="youtube-embed-meta">Channel: Cambridge Dictionary &middot; Views: 2.3K &middot; Uploaded: October 2021 &middot; Length: 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uXSkARDQMjQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uXSkARDQMjQ">Open on YouTube</a></p></div></div></div>
 
@@ -328,7 +325,6 @@ Instead of:
 
 Use:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “I'll reply within twenty-four hours.”
@@ -338,7 +334,6 @@ Use:
 </div>
 
 The goal is not perfection but visibility. A visible behaviour allows both parties to see whether change is occurring.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-2-dark.svg" | relative_url }}" alt="Behaviour Change illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Start Small Enough to Succeed
@@ -366,8 +361,7 @@ Notice what is absent. There is no demand for immediate forgiveness, no lengthy 
 
 Research on restitution and repair suggests that actions intended to remedy harm can independently increase forgiveness, empathy, gratitude, and positive feelings while reducing lingering resentment. The practical lesson is that repair should not merely symbolise regret; it should actively improve the situation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by CVO Witvliet · 2020 · Cited by 47 — Apology and restitution each independently increased empathy, forgiveness, gratitude, and posit...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R7vP01U8qr4" title="The power of the apology | Robert M. Gordon | TEDxLehighRiver" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R7vP01U8qr4" target="_blank" rel="noopener noreferrer">The power of the apology | Robert M. Gordon | TEDxLehighRiver</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 131.6K &middot; Uploaded: November 2014 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R7vP01U8qr4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R7vP01U8qr4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IudovhKp27M" title="5 Boundaries That Instantly Shut Down Manipulators" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IudovhKp27M" target="_blank" rel="noopener noreferrer">5 Boundaries That Instantly Shut Down Manipulators</a></p><p class="youtube-embed-meta">Channel: Chill Dude Unpacks &middot; Views: 68.5K &middot; Uploaded: January 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IudovhKp27M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IudovhKp27M">Open on YouTube</a></p></div></div></div>
 
 ## Following Up Without Demanding Forgiveness
 
@@ -376,7 +370,6 @@ One of the most overlooked parts of repair is what happens after the apology.
 People sometimes become impatient when they have apologised and begun changing. They expect appreciation, reassurance, or immediate reconciliation. Yet forgiveness is a separate process from accountability. An apology can be accepted while trust remains incomplete. Research on forgiveness emphasises that it develops over time rather than appearing automatically after a single conversation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psy.ox.ac.uk/research/social-foundations/Forgiveness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psy.ox.ac.uk">[Department of Experimental Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psy.ox.ac.uk</span><span class="citation-popover-title">Department of Experimental Psychology Forgiveness</span><span class="citation-popover-snippet">It involves intentionally shifting your thoughts, feelings, and motivations from negative...Read more...</span></span></span>
 
 A better follow-up approach is:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -388,7 +381,6 @@ A better follow-up approach is:
 </div>
 
 The paradox is that behaviour change becomes more convincing when it is not constantly advertised. Reliability accumulates through repetition.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-3-dark.svg" | relative_url }}" alt="Behaviour Change illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Difference Between Change and Performance
@@ -407,9 +399,7 @@ The most effective repair is usually smaller than people expect and more consist
 
 In the broader practice of self-improvement that works, this is the key transition: moving from regret to design. The apology acknowledges the harm. The behavioural change reduces the likelihood of repeating it. Over time, that pattern of action—not the original words—becomes the strongest evidence that the apology was real. Ohio State News <span class="citation-chip-wrap"><a class="citation-chip" href="https://tammylenski.com/6-ingredients-of-an-effective-apology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tammylenski.com">[2tammylenski.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tammylenski.com</span><span class="citation-popover-title">6 ingredients of an effective apology</span><span class="citation-popover-snippet">Apr 26, 2016 — Explanation of what went wrong; Acknowledgment of responsibility; Declaration of repentance; Offer of repair; Request for...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VuZIs4n4QWs" title="Anatomy of an apology: Kevin Stein at TEDxSUU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VuZIs4n4QWs" target="_blank" rel="noopener noreferrer">Anatomy of an apology: Kevin Stein at TEDxSUU</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 22.6K &middot; Uploaded: April 2013 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VuZIs4n4QWs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VuZIs4n4QWs">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R7vP01U8qr4" title="The power of the apology | Robert M. Gordon | TEDxLehighRiver" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R7vP01U8qr4" target="_blank" rel="noopener noreferrer">The power of the apology | Robert M. Gordon | TEDxLehighRiver</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 131.6K &middot; Uploaded: November 2014 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R7vP01U8qr4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R7vP01U8qr4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

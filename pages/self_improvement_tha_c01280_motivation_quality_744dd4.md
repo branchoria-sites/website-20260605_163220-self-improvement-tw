@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: Motivation
 title: Why Chosen Goals Last Longer
-title_full: Why Chosen Goals Last Longer | Better Change
+title_full: Why Chosen Goals Last Longer
 display_title_short: Motivation
 display_title: Motivation
 heading_title: Why Chosen Goals Last Longer
@@ -504,7 +504,6 @@ image: /assets/images/self_improvement_tha_c01280_motivation_quality_744dd4-over
 
 [Chosen goals]({{ 'chosen-goals/' | relative_url }}) last longer because they are powered by better-quality motivation, not just more motivation. In [self improvement]({{ 'self-improvement-that-works/' | relative_url }}), the crucial question is not only “How badly do I want this?” but “Why does this goal feel worth choosing?” A person can pursue the same behaviour for very different reasons: exercising because they value feeling capable and healthy, or exercising because they feel ashamed; studying because the skill matters to their future, or studying only to avoid criticism. Self-determination theory, one of the most influential research traditions on motivation, argues that durable motivation is supported when people feel autonomy, competence and relatedness: a sense of choice, a sense of growing effectiveness, and a sense of connection without coercion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Self determination theory</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4-overview.webp" | relative_url }}" alt="Overview image for Motivation" loading="eager" decoding="sync" fetchpriority="high">
 This is why “motivation quality” belongs near the start of any self-improvement system that works. Specific plans, tracking and habits matter, but they are easier to sustain when the goal is experienced as personally meaningful rather than imposed. Research on self-concordant goals — goals aligned with a person’s interests and values — has found that people put more sustained effort into such goals and are more likely to attain them, with goal attainment then linked to greater need satisfaction and wellbeing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4307 — First, those pursuing self-conc...</span></span></span>
 
@@ -518,7 +517,6 @@ This changes how self improvement should be designed. Instead of asking, “How 
 
 A useful contrast is the difference between these two goals:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * “I must lose weight because I look terrible.”
@@ -528,7 +526,6 @@ A useful contrast is the difference between these two goals:
 
 Both could lead to similar behaviours at first. But the second goal is more likely to support autonomy and competence. It gives the person a reason to return after an imperfect day. The first goal depends on self-criticism, which may create urgency but often makes the behaviour emotionally costly.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4-Illustration-1-dark.svg" | relative_url }}" alt="Motivation illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Autonomy in everyday goals
 
@@ -537,7 +534,6 @@ Autonomy does not mean total freedom, instant [enjoyment]({{ 'enjoyment/' | rela
 Research on personal goals supports this distinction. Sheldon and Elliot’s work on self-concordance found that goals consistent with a person’s interests and values predicted sustained effort over time, which in turn predicted goal attainment. The mechanism is practical: when a goal fits the self, effort is less likely to feel like meaningless compliance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Self determination theory</span></span></span>
 
 Autonomy can be strengthened without making goals vague. A person can keep a concrete target while improving the reason and route behind it:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -552,8 +548,7 @@ This is where chosen goals differ from merely attractive goals. A goal can look 
 
 Autonomy-supportive environments matter too. In education, work, sport and health contexts, [autonomy support]({{ 'autonomy-support/' | relative_url }}) commonly includes acknowledging the person’s perspective, offering meaningful choice where possible, giving clear rationales for less enjoyable tasks, and avoiding controlling language. These features do not remove responsibility; they make responsibility easier to internalise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/08295735211055355" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_juPDoa3GBY" title="Self-Determination Theory Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer">Self-Determination Theory Explained</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 439.1K &middot; Uploaded: November 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_juPDoa3GBY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-v9c8Q4lfKs" title="Teresa Amabile - The Progress Principle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-v9c8Q4lfKs" target="_blank" rel="noopener noreferrer">Teresa Amabile - The Progress Principle</a></p><p class="youtube-embed-meta">Channel: The Innovation Show with Aidan McCullen &middot; Views: 6.0K &middot; Uploaded: May 2024 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-v9c8Q4lfKs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-v9c8Q4lfKs">Open on YouTube</a></p></div></div></div>
 
 ## Competence through small wins
 
@@ -564,7 +559,6 @@ This is why [small wins]({{ 'small-wins/' | relative_url }}) are not childish. T
 For personal goals, competence grows when the first version of the behaviour is small enough to complete and clear enough to count. “Become a reader” is too vague to create competence quickly. “Read two pages after breakfast” creates a repeatable win. “Get strong” is too distant. “Do two sets of press-ups against the kitchen counter” gives the nervous system evidence that the behaviour is possible.
 
 The mechanism is not merely emotional encouragement. Small wins improve the [feedback]({{ 'feedback/' | relative_url }}) loop. They tell the person:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -579,7 +573,6 @@ A self-improvement plan that ignores competence often becomes a punishment syste
 
 The strongest small wins are not random easy tasks. They are small steps in a valued direction. Tidying one surface is motivating if the larger aim is a calmer home. Saving £5 is motivating if the larger aim is financial breathing room. Writing one paragraph is motivating if the larger aim is becoming someone who can finish difficult work.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4-Illustration-2-dark.svg" | relative_url }}" alt="Motivation illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Relatedness without pressure
 
@@ -593,7 +586,6 @@ In health behaviour research, self-determination theory-informed interventions h
 
 For everyday goals, relatedness can be built in simple ways:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * **Choose accountability that preserves agency.** A weekly check-in can help if it asks what was learned, not whether the person deserves approval.
@@ -605,8 +597,7 @@ For everyday goals, relatedness can be built in simple ways:
 
 The social environment should make the goal feel more chosen, not less. When support becomes surveillance, the motivational centre of gravity moves away from the person’s own values and towards avoiding someone else’s disappointment.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-v9c8Q4lfKs" title="Teresa Amabile - The Progress Principle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-v9c8Q4lfKs" target="_blank" rel="noopener noreferrer">Teresa Amabile - The Progress Principle</a></p><p class="youtube-embed-meta">Channel: The Innovation Show with Aidan McCullen &middot; Views: 6.0K &middot; Uploaded: May 2024 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-v9c8Q4lfKs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-v9c8Q4lfKs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_juPDoa3GBY" title="Self-Determination Theory Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer">Self-Determination Theory Explained</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 439.1K &middot; Uploaded: November 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_juPDoa3GBY">Open on YouTube</a></p></div></div></div>
 
 ## How chosen goals survive boredom, setbacks and low mood
 
@@ -635,7 +626,6 @@ A chosen goal is more likely to be healthy and durable when it passes four check
 
 These checks keep “follow your goals” from becoming empty encouragement. The aim is not to worship preference. It is to choose goals that are meaningful enough to sustain effort and grounded enough to survive contact with ordinary life.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4-Illustration-3-dark.svg" | relative_url }}" alt="Motivation illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What to do before setting the plan
 
@@ -661,8 +651,7 @@ Good support helps the person stay connected to the value of the goal. Poor supp
 
 The result is a more durable goal statement. Instead of “I need to be disciplined and stop wasting time”, the person might arrive at: “I want to protect the first thirty minutes after dinner for study because gaining this qualification gives me more options. On low-energy days, I will do ten minutes rather than skip completely.” That statement contains autonomy, competence and a realistic recovery path.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LvMiiBkgCCs" title="Health Promotion | Self-Determination Theory: Intrinsic vs Extrinsic Motivation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LvMiiBkgCCs" target="_blank" rel="noopener noreferrer">Health Promotion | Self-Determination Theory: Intrinsic vs Extrinsic Motivation</a></p><p class="youtube-embed-meta">Channel: Diana Bedoya &middot; Views: 1.2K &middot; Uploaded: October 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LvMiiBkgCCs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LvMiiBkgCCs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nt8jr9XRnF0" title="Are You Driven by Purpose — or Running From Something?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nt8jr9XRnF0" target="_blank" rel="noopener noreferrer">Are You Driven by Purpose — or Running From Something?</a></p><p class="youtube-embed-meta">Channel: optYOUmize &middot; Views: 4 &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nt8jr9XRnF0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nt8jr9XRnF0">Open on YouTube</a></p></div></div></div>
 
 ## The takeaway for self improvement that works
 
@@ -1351,4 +1340,4 @@ The practical lesson is simple but demanding: do not only optimise the routine; 
 
 57. <a id="endnote-57"></a>
    Source: rccs.org.uk  
-   Link: <a href="https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination</a>  
+   Link: <a href="https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination</a>

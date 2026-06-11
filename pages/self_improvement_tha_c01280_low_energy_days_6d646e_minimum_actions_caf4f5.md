@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /low-energy/
 nav_short_title: Minimums
 title: What counts as enough on a bad day?
-title_full: What counts as enough on a bad day? | Low Energy
+title_full: What counts as enough on a bad day?
 display_title_short: Minimums
 display_title: Minimums
 heading_title: What counts as enough on a bad day?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 14:55:04'
-parent_title: Build the Plan for Your Worst Day | Better Change
+parent_title: Build the Plan for Your Worst Day
 parent_permalink: /low-energy/
 parent_nav_short_title: Low Energy
 parent_heading_title: Build the Plan for Your Worst Day
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_minimum
 
 A minimum action is the smallest version of a habit that still counts as doing the habit. On a low-energy day, its purpose is not improvement but continuity. Many self-improvement plans fail because they define success only in terms of full performance: a complete workout, a long study session, a thousand words written. When energy drops, the standard becomes unattainable, the habit is skipped, and the routine starts to weaken.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_minimum_actions_caf4f5-Illustration-1-dark.svg" | relative_url }}" alt="Minimums illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_minimum_actions_caf4f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_minimum_actions_caf4f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on habit formation consistently points to repetition in a stable context as a key driver of [automaticity]({{ 'automaticity/' | relative_url }}). The behaviour does not need to be impressive every day; it needs to remain connected to its cue and routine. Repeated performance strengthens the habit loop over time, whereas long interruptions make restarting harder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta...by B Singh · 2024 · Cited by 69 — Repetition not only reinforces the behaviour...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Psychological theor...</span></span></span>
 
@@ -314,7 +313,6 @@ A minimum action should therefore feel almost embarrassingly achievable. If you 
 
 Minimum actions are most effective when they are defined in advance rather than invented during a difficult moment.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S_8e-6ZHKLs" title="TINY HABITS by BJ Fogg | Core Message" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer">TINY HABITS by BJ Fogg | Core Message</a></p><p class="youtube-embed-meta">Channel: Productivity Game &middot; Views: 121.3K &middot; Uploaded: November 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S_8e-6ZHKLs">Open on YouTube</a></p></div></div></div>
 
 ### Health
@@ -322,7 +320,6 @@ Minimum actions are most effective when they are defined in advance rather than 
 A maintenance version of a health habit should preserve movement, nutrition awareness, or recovery behaviour.
 
 Examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -342,7 +339,6 @@ Study habits are especially vulnerable to all-or-nothing thinking because people
 
 Examples:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Read one page.
@@ -354,14 +350,12 @@ Examples:
 
 These actions maintain contact with the material and reduce the psychological barrier to returning to normal study sessions.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_minimum_actions_caf4f5-Illustration-2-dark.svg" | relative_url }}" alt="Minimums illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_minimum_actions_caf4f5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_minimum_actions_caf4f5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Money
 
 Financial habits often fail because they are postponed until there is enough time to tackle everything.
 
 Examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -380,7 +374,6 @@ Writers frequently abandon projects because they define success as producing sub
 
 Examples:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Write one sentence.
@@ -392,7 +385,6 @@ Examples:
 
 Many writers discover that a one-sentence minimum often becomes several paragraphs once they begin. The minimum exists to guarantee a start, not to limit performance.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5Zw3bAQ9ZqQ" title="Ep521 - B.J. Fogg — Tiny Habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5Zw3bAQ9ZqQ" target="_blank" rel="noopener noreferrer">Ep521 - B.J. Fogg — Tiny Habits</a></p><p class="youtube-embed-meta">Channel: Bestseller Experiment &middot; Views: 1.2K &middot; Uploaded: September 2024 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5Zw3bAQ9ZqQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5Zw3bAQ9ZqQ">Open on YouTube</a></p></div></div></div>
 
 ## Why minimums should stay attached to a cue
@@ -402,7 +394,6 @@ The strongest minimum actions are tied to an existing trigger.
 Habit research and implementation-intention studies suggest that behaviours become easier when linked to clear cues such as locations, times, or existing routines. “If-then” plans and habit-stacking approaches use this principle by connecting a behaviour to a specific moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Popularized by authors BJ Fogg and James Clear, and widely used by behavioral therapists, habit-stacking involves &quot;stacking&quot; small, speci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[3ResearchGate 3Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentionsintentions are formed for the purpose of enhancing the translation of goal intentions into act...</span></span></span> University Press & Assessment](#endnote-6 "Snippet: Cambridge University Press & Assessment39 - Planning and Implementation Intention InterventionsImplementation intentions, however, are al...")
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -417,14 +408,12 @@ The cue matters because it reduces decision-making. On low-energy days, eliminat
 
 A minimum action that remains attached to its usual cue is more likely to preserve the habit structure than a random effort made later in the day.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_minimum_actions_caf4f5-Illustration-3-dark.svg" | relative_url }}" alt="Minimums illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_minimum_actions_caf4f5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_minimum_actions_caf4f5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a minimum action becomes too vague
 
 Not every small action is useful.
 
 A common mistake is choosing minimums that are so broad they cannot fail. Examples include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -442,7 +431,6 @@ Another mistake is selecting actions that preserve planning rather than executio
 The minimum should be observable. Someone watching should be able to tell whether you completed it.
 
 A practical rule is that the action should fit on a checklist with a clear tick or cross. If completion is debatable, the minimum is probably too vague.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9fQN5NgWqHk" title="How to be consistent in 2026 (do this)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9fQN5NgWqHk" target="_blank" rel="noopener noreferrer">How to be consistent in 2026 (do this)</a></p><p class="youtube-embed-meta">Channel: Ideas To Thrive &middot; Views: 30.2K &middot; Uploaded: January 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9fQN5NgWqHk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9fQN5NgWqHk">Open on YouTube</a></p></div></div></div>
 

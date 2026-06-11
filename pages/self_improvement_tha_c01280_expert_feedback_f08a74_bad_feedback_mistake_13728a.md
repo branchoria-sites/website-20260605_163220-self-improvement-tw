@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /expert-help/
 nav_short_title: Bad feedback
 title: When Feedback Helps Less Than It Hurts
-title_full: When Feedback Helps Less Than It Hurts | Expert Help
+title_full: When Feedback Helps Less Than It Hurts
 display_title_short: Bad feedback
 display_title: Bad feedback
 heading_title: When Feedback Helps Less Than It Hurts
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:24:04'
-parent_title: When Should You Get Outside Help? | Better Change
+parent_title: When Should You Get Outside Help?
 parent_permalink: /expert-help/
 parent_nav_short_title: Expert Help
 parent_heading_title: When Should You Get Outside Help?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_fee
 
 [Feedback]({{ 'feedback/' | relative_url }}) is often presented as one of the most powerful tools in self-improvement. That is broadly true, but only when the feedback helps a person understand what to change next. Poor feedback can do the opposite. It can increase defensiveness, reduce confidence, narrow attention in unhelpful ways, and even worsen performance. Research on feedback interventions has repeatedly found that feedback is not automatically beneficial. In a landmark meta-analysis covering hundreds of studies, more than one-third of feedback interventions reduced performance rather than improving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Effects of Feedback Interventions on PerformanceA meta-analysis (607 effect sizes; 23, 663 observations) suggests t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.huji.ac.il">[The Hebrew University of Jerusalem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.huji.ac.il</span><span class="citation-popover-snippet">The Hebrew University of JerusalemThe effects of feedback interventions on performanceA meta-analysis (607 effect sizes; 23,663 observati...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-1-dark.svg" | relative_url }}" alt="Bad feedback illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For people seeking help from coaches, therapists, mentors, managers, teachers or knowledgeable friends, the key question is not whether feedback is positive or negative. The more important question is whether it directs attention towards a specific task, behaviour and next action. The mistakes that make feedback harmful are surprisingly consistent across different settings.
 
@@ -323,11 +322,173 @@ One of the most important distinctions in self-improvement is the difference bet
 
 Research reviews by John Hattie and Helen Timperley describe effective feedback as helping someone answer three questions:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Where am I going?
 2. How am I going?
+3. Where should I go next? Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctl.dukekunshan.edu.cn">[2ctl.dukekunshan.edu.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctl.dukekunshan.edu.cn</span><span class="citation-popover-title">feedback for learning</span><span class="citation-popover-snippet">Effective feedback for learning is timely, specific, and encourages reflection and growth. Hattie &amp; Timperley (2007) proposed the Three F...</span></span></span>
+
+</div>
+
+Notice that none of these questions require judging someone's worth, intelligence or character.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L5lsYI0Q8zw" title="Identity Crisis: Why Defining Yourself by Your Career Is a Problem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L5lsYI0Q8zw" target="_blank" rel="noopener noreferrer">Identity Crisis: Why Defining Yourself by Your Career Is a Problem</a></p><p class="youtube-embed-meta">Channel: Harvard Business Review &middot; Views: 1.3M &middot; Uploaded: September 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L5lsYI0Q8zw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L5lsYI0Q8zw">Open on YouTube</a></p></div></div></div>
+
+### Personal Criticism
+
+Personal criticism focuses on identity.
+
+Examples include:
+
+* “You are lazy.”
+* “You are not leadership material.”
+* “You are bad at communicating.”
+* “You lack commitment.”
+
+These statements may contain a grain of truth, but they rarely provide actionable information. They compress a complex problem into a character judgement. Once feedback becomes an identity label, improvement often feels impossible because the issue appears permanent.
+
+Personal criticism also encourages defensive responses. People naturally search for excuses, counterexamples or reasons the feedback is unfair. Attention moves away from learning and towards self-protection.
+
+### Task Feedback
+
+Task feedback focuses on observable behaviour.
+
+Examples include:
+
+* “You missed three deadlines because the work was estimated too optimistically.”
+* “Your presentation lost clarity when you introduced three new ideas at once.”
+* “You completed the first week of the habit successfully but missed sessions whenever travel disrupted your routine.”
+
+These statements identify specific patterns. They can be tested, challenged and improved.
+
+The practical rule is simple: if feedback points towards an experiment, it is usually useful. If it only points towards a judgement, it is usually weak.
+
+## When Negative Feedback Becomes Counterproductive
+
+Negative feedback is not automatically harmful. In many cases it is essential. Athletes, musicians, writers and other high performers improve precisely because weaknesses are identified and corrected.
+
+The problem is not negativity. The problem is ambiguity.
+
+A skilled coach might say:
+
+> Your practice sessions are too easy to create adaptation.
+
+That feedback is negative, but it is also specific and useful.
+
+A poor coach might say:
+
+> You're just not trying hard enough.
+
+That feedback is also negative, but it offers no diagnostic value.
+
+Evidence from learning and performance research suggests that feedback works best when it provides information that can guide adjustment. Feedback that merely communicates approval or disapproval is far less reliable. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</span></span></span>
+
+This distinction matters because many people mistakenly seek emotional certainty from feedback. They want to know whether they are doing well or badly. Effective feedback instead helps them understand what to do next.
+
+<img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-2-dark.svg" | relative_url }}" alt="Bad feedback illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How Experts Accidentally Make Feedback Worse
+
+Even knowledgeable professionals can create problems when feedback is poorly framed.
+
+### Solving the Wrong Problem
+
+A coach may focus on productivity when anxiety is the real bottleneck.
+
+A therapist may explore emotional themes when the primary issue is lack of structure.
+
+A mentor may emphasise motivation when the real problem is missing technical skill.
+
+Feedback loses value when the diagnosis is wrong. More advice does not compensate for misunderstanding the obstacle.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wtl5UrrgU8c" title="The secret to giving great feedback | The Way We Work, a TED series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wtl5UrrgU8c" target="_blank" rel="noopener noreferrer">The secret to giving great feedback | The Way We Work, a TED series</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 1.9M &middot; Uploaded: February 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wtl5UrrgU8c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wtl5UrrgU8c">Open on YouTube</a></p></div></div></div>
+
+### Confusing Insight With Action
+
+Some feedback produces awareness but not change.
+
+For example, a person may gain a sophisticated understanding of why they procrastinate yet still have no plan for handling tomorrow's difficult task.
+
+Insight matters, but self-improvement requires translation into behaviour.
+
+### Turning Every Conversation Into Evaluation
+
+People need feedback, but they also need space to practise.
+
+When every interaction becomes an assessment, experimentation becomes risky. Learners start protecting themselves from criticism rather than testing new approaches.
+
+High-quality experts balance correction with opportunities to apply what has been learned.
+
+<img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-3-dark.svg" | relative_url }}" alt="Bad feedback illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How to Ask for Feedback That Leads to Action
+
+The quality of feedback depends partly on the person giving it and partly on the person receiving it.
+
+Many people ask for opinions when they should ask for diagnosis.
+
+Instead of asking:
+
+* “What do you think?”
+* “How did I do?”
+* “Any feedback?”
+
+Ask questions that force specificity:
+
+* “What is the biggest mistake you see?”
+* “Where did my approach break down?”
+* “What would you change first?”
+* “What skill am I missing?”
+* “What evidence makes you think that?”
+
+These questions make vague responses harder to give.
+
+### Ask for Observations Before Advice
+
+A useful sequence is:
+
+1. What happened?
+2. Why do you think it happened?
+3. What should I test next?
+
+This structure separates evidence from interpretation. It reduces the risk of acting on assumptions that were never examined.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V9ewjjzAlRs" title="How Feedback Affects Performance - Andrew Huberman - Growth Mindset" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V9ewjjzAlRs" target="_blank" rel="noopener noreferrer">How Feedback Affects Performance - Andrew Huberman - Growth Mindset</a></p><p class="youtube-embed-meta">Channel: After Skool &middot; Views: 911.6K &middot; Uploaded: May 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V9ewjjzAlRs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V9ewjjzAlRs">Open on YouTube</a></p></div></div></div>
+
+### Request Examples
+
+Feedback becomes more useful when linked to concrete instances.
+
+Compare:
+
+* “You communicate poorly.”
+
+With:
+
+* “In yesterday's meeting, three people asked for clarification because the decision criteria were not stated.”
+
+The second version provides evidence that can be analysed and corrected.
+
+### End With a Next Experiment
+
+The most useful feedback conversations usually end with a behavioural test.
+
+Examples include:
+
+* Reduce the habit target for one week.
+* Rewrite the first page using a simpler structure.
+* Schedule exercise before work rather than after.
+* Use a checklist before submitting tasks.
+
+A next experiment transforms feedback from evaluation into learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctl.dukekunshan.edu.cn">[ctl.dukekunshan.edu.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctl.dukekunshan.edu.cn</span><span class="citation-popover-title">feedback for learning</span><span class="citation-popover-snippet">Effective feedback for learning is timely, specific, and encourages reflection and growth. Hattie &amp; Timperley (2007) proposed the Three F...</span></span></span>
+
+## The Practical Test of Good Feedback
+
+The simplest way to judge feedback is not by how encouraging, intelligent or memorable it sounds.
+
+Ask whether it changes what you will do next.
+
+Good feedback narrows uncertainty. It clarifies the target, identifies the gap and suggests a practical adjustment. Poor feedback leaves a person feeling judged, confused or overwhelmed.
+
+In self-improvement, the goal is not to collect opinions. The goal is to obtain information that improves the next attempt. Research consistently shows that feedback is most effective when it stays close to behaviour, process and future action, and least effective when it becomes a verdict on the person receiving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.huji.ac.il">[The Hebrew University of Jerusalem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.huji.ac.il</span><span class="citation-popover-snippet">The Hebrew University of JerusalemThe effects of feedback interventions on performanceA meta-analysis (607 effect sizes; 23,663 observati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Power of Feedback - John Hattie, Helen Timperley, 2007by J Hattie · 2007 · Cited by 28705 — This article provides a conc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -745,175 +906,6 @@ Research reviews by John Hattie and Helen Timperley describe effective feedback 
 })();
 </script>
 </section>
-
-3. Where should I go next? Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctl.dukekunshan.edu.cn">[2ctl.dukekunshan.edu.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctl.dukekunshan.edu.cn</span><span class="citation-popover-title">feedback for learning</span><span class="citation-popover-snippet">Effective feedback for learning is timely, specific, and encourages reflection and growth. Hattie &amp; Timperley (2007) proposed the Three F...</span></span></span>
-
-</div>
-
-Notice that none of these questions require judging someone's worth, intelligence or character.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L5lsYI0Q8zw" title="Identity Crisis: Why Defining Yourself by Your Career Is a Problem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L5lsYI0Q8zw" target="_blank" rel="noopener noreferrer">Identity Crisis: Why Defining Yourself by Your Career Is a Problem</a></p><p class="youtube-embed-meta">Channel: Harvard Business Review &middot; Views: 1.3M &middot; Uploaded: September 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L5lsYI0Q8zw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L5lsYI0Q8zw">Open on YouTube</a></p></div></div></div>
-
-### Personal Criticism
-
-Personal criticism focuses on identity.
-
-Examples include:
-
-* “You are lazy.”
-* “You are not leadership material.”
-* “You are bad at communicating.”
-* “You lack commitment.”
-
-These statements may contain a grain of truth, but they rarely provide actionable information. They compress a complex problem into a character judgement. Once feedback becomes an identity label, improvement often feels impossible because the issue appears permanent.
-
-Personal criticism also encourages defensive responses. People naturally search for excuses, counterexamples or reasons the feedback is unfair. Attention moves away from learning and towards self-protection.
-
-### Task Feedback
-
-Task feedback focuses on observable behaviour.
-
-Examples include:
-
-* “You missed three deadlines because the work was estimated too optimistically.”
-* “Your presentation lost clarity when you introduced three new ideas at once.”
-* “You completed the first week of the habit successfully but missed sessions whenever travel disrupted your routine.”
-
-These statements identify specific patterns. They can be tested, challenged and improved.
-
-The practical rule is simple: if feedback points towards an experiment, it is usually useful. If it only points towards a judgement, it is usually weak.
-
-## When Negative Feedback Becomes Counterproductive
-
-Negative feedback is not automatically harmful. In many cases it is essential. Athletes, musicians, writers and other high performers improve precisely because weaknesses are identified and corrected.
-
-The problem is not negativity. The problem is ambiguity.
-
-A skilled coach might say:
-
-> Your practice sessions are too easy to create adaptation.
-
-That feedback is negative, but it is also specific and useful.
-
-A poor coach might say:
-
-> You're just not trying hard enough.
-
-That feedback is also negative, but it offers no diagnostic value.
-
-Evidence from learning and performance research suggests that feedback works best when it provides information that can guide adjustment. Feedback that merely communicates approval or disapproval is far less reliable. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</span></span></span>
-
-This distinction matters because many people mistakenly seek emotional certainty from feedback. They want to know whether they are doing well or badly. Effective feedback instead helps them understand what to do next.
-
-
-<img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-2-dark.svg" | relative_url }}" alt="Bad feedback illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## How Experts Accidentally Make Feedback Worse
-
-Even knowledgeable professionals can create problems when feedback is poorly framed.
-
-### Solving the Wrong Problem
-
-A coach may focus on productivity when anxiety is the real bottleneck.
-
-A therapist may explore emotional themes when the primary issue is lack of structure.
-
-A mentor may emphasise motivation when the real problem is missing technical skill.
-
-Feedback loses value when the diagnosis is wrong. More advice does not compensate for misunderstanding the obstacle.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wtl5UrrgU8c" title="The secret to giving great feedback | The Way We Work, a TED series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wtl5UrrgU8c" target="_blank" rel="noopener noreferrer">The secret to giving great feedback | The Way We Work, a TED series</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 1.9M &middot; Uploaded: February 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wtl5UrrgU8c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wtl5UrrgU8c">Open on YouTube</a></p></div></div></div>
-
-### Confusing Insight With Action
-
-Some feedback produces awareness but not change.
-
-For example, a person may gain a sophisticated understanding of why they procrastinate yet still have no plan for handling tomorrow's difficult task.
-
-Insight matters, but self-improvement requires translation into behaviour.
-
-### Turning Every Conversation Into Evaluation
-
-People need feedback, but they also need space to practise.
-
-When every interaction becomes an assessment, experimentation becomes risky. Learners start protecting themselves from criticism rather than testing new approaches.
-
-High-quality experts balance correction with opportunities to apply what has been learned.
-
-
-<img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-3-dark.svg" | relative_url }}" alt="Bad feedback illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## How to Ask for Feedback That Leads to Action
-
-The quality of feedback depends partly on the person giving it and partly on the person receiving it.
-
-Many people ask for opinions when they should ask for diagnosis.
-
-Instead of asking:
-
-* “What do you think?”
-* “How did I do?”
-* “Any feedback?”
-
-Ask questions that force specificity:
-
-* “What is the biggest mistake you see?”
-* “Where did my approach break down?”
-* “What would you change first?”
-* “What skill am I missing?”
-* “What evidence makes you think that?”
-
-These questions make vague responses harder to give.
-
-### Ask for Observations Before Advice
-
-A useful sequence is:
-
-1. What happened?
-2. Why do you think it happened?
-3. What should I test next?
-
-This structure separates evidence from interpretation. It reduces the risk of acting on assumptions that were never examined.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V9ewjjzAlRs" title="How Feedback Affects Performance - Andrew Huberman - Growth Mindset" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V9ewjjzAlRs" target="_blank" rel="noopener noreferrer">How Feedback Affects Performance - Andrew Huberman - Growth Mindset</a></p><p class="youtube-embed-meta">Channel: After Skool &middot; Views: 911.6K &middot; Uploaded: May 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V9ewjjzAlRs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V9ewjjzAlRs">Open on YouTube</a></p></div></div></div>
-
-### Request Examples
-
-Feedback becomes more useful when linked to concrete instances.
-
-Compare:
-
-* “You communicate poorly.”
-
-With:
-
-* “In yesterday's meeting, three people asked for clarification because the decision criteria were not stated.”
-
-The second version provides evidence that can be analysed and corrected.
-
-### End With a Next Experiment
-
-The most useful feedback conversations usually end with a behavioural test.
-
-Examples include:
-
-* Reduce the habit target for one week.
-* Rewrite the first page using a simpler structure.
-* Schedule exercise before work rather than after.
-* Use a checklist before submitting tasks.
-
-A next experiment transforms feedback from evaluation into learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctl.dukekunshan.edu.cn">[ctl.dukekunshan.edu.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctl.dukekunshan.edu.cn</span><span class="citation-popover-title">feedback for learning</span><span class="citation-popover-snippet">Effective feedback for learning is timely, specific, and encourages reflection and growth. Hattie &amp; Timperley (2007) proposed the Three F...</span></span></span>
-
-## The Practical Test of Good Feedback
-
-The simplest way to judge feedback is not by how encouraging, intelligent or memorable it sounds.
-
-Ask whether it changes what you will do next.
-
-Good feedback narrows uncertainty. It clarifies the target, identifies the gap and suggests a practical adjustment. Poor feedback leaves a person feeling judged, confused or overwhelmed.
-
-In self-improvement, the goal is not to collect opinions. The goal is to obtain information that improves the next attempt. Research consistently shows that feedback is most effective when it stays close to behaviour, process and future action, and least effective when it becomes a verdict on the person receiving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.huji.ac.il">[The Hebrew University of Jerusalem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.huji.ac.il</span><span class="citation-popover-snippet">The Hebrew University of JerusalemThe effects of feedback interventions on performanceA meta-analysis (607 effect sizes; 23,663 observati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Power of Feedback - John Hattie, Helen Timperley, 2007by J Hattie · 2007 · Cited by 28705 — This article provides a conc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</span></span></span>
 
 ## Endnotes
 

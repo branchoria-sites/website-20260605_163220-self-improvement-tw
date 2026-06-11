@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /false-progress/
 nav_short_title: App Trap
 title: When the App Becomes the Habit
-title_full: When the App Becomes the Habit | False Progress
+title_full: When the App Becomes the Habit
 display_title_short: App Trap
 display_title: App Trap
 heading_title: When the App Becomes the Habit
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:06:54'
-parent_title: When Self Improvement Feels Productive but Fails | Better Change
+parent_title: When Self Improvement Feels Productive but Fails
 parent_permalink: /false-progress/
 parent_nav_short_title: False Progress
 parent_heading_title: When Self Improvement Feels Productive but Fails
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_false_progress_cb1a89_habit_ap
 
 Habit-tracking apps can be useful. Self-monitoring is one of the most consistently supported behaviour-change techniques in research, and digital tools can make monitoring easier, more visible and more consistent. The problem begins when the tool becomes the target. Instead of helping someone exercise, read, sleep earlier or practise a skill, the app starts rewarding check-ins, streak protection, badge collection and notification responses. The user remains active inside the system while the underlying [behaviour changes]({{ 'behaviour-change/' | relative_url }}) little. This is a classic form of self-improvement theatre: measurable engagement with a tool is mistaken for meaningful change in real life. Research on digital behaviour-change interventions repeatedly finds that tracking, feedback, prompts and goal setting can support [behaviour change]({{ 'behaviour-change/' | relative_url }}), but only when they remain connected to the behaviour itself rather than becoming an end in their own right. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://mhealth.jmir.org/2020/3/e17046/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhealth.jmir.org">[JMIR mHealth and uHealth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhealth.jmir.org</span><span class="citation-popover-snippet">JMIR mHealth and uHealthMobile Apps for Health Behavior Change in Physical Activity...by M Milne-Ives · 2020 · Cited by 525 — This syste...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_habit_app_trap_b65f28-Illustration-1-dark.svg" | relative_url }}" alt="App Trap illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_habit_app_trap_b65f28-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_habit_app_trap_b65f28-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Engagement Can Replace Behaviour Change
 
@@ -296,7 +295,6 @@ If the behaviour would collapse because the main source of motivation is maintai
 
 This distinction echoes behaviour-design frameworks such as BJ Fogg's work, which emphasises making the target behaviour easier and better prompted in everyday life. The technology should help behaviour occur; it should not become a substitute activity that merely feels productive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinyhabits.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinyhabits.com</span><span class="citation-popover-snippet">Tiny HabitsTiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Fogg Behavior ModelThe Fogg Behavior Model (FBM) is a widely used framework for understanding behavior change, identifying three critical...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W6AB-dxnAkA" title="8 Habit Tracking Apps That Actually Work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W6AB-dxnAkA" target="_blank" rel="noopener noreferrer">8 Habit Tracking Apps That Actually Work</a></p><p class="youtube-embed-meta">Channel: Tool Finder &middot; Views: 51.8K &middot; Uploaded: August 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W6AB-dxnAkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W6AB-dxnAkA">Open on YouTube</a></p></div></div></div>
 
 ## How Streaks and Logs Can Mislead
@@ -306,7 +304,6 @@ Streaks are powerful because they exploit several well-known psychological tende
 That is often helpful. The problem emerges when the metric ceases to represent the underlying reality.
 
 Consider several common examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -333,7 +330,6 @@ A user can spend twenty minutes reviewing habit data and leave with a strong fee
 
 This mirrors the broader pattern of self-improvement theatre. The person interacts with evidence about the habit rather than with the habit itself.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_habit_app_trap_b65f28-Illustration-2-dark.svg" | relative_url }}" alt="App Trap illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_habit_app_trap_b65f28-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_habit_app_trap_b65f28-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## App Settings That Push Action Back Offline
 
@@ -356,7 +352,6 @@ Use:
 
 The more objective the completion rule, the harder it becomes to collect points without performing the behaviour.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mn_4G6XI8Pw" title="My Addiction to Cardio The Dark Side of Run Streaks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mn_4G6XI8Pw" target="_blank" rel="noopener noreferrer">My Addiction to Cardio The Dark Side of Run Streaks</a></p><p class="youtube-embed-meta">Channel: Keltie O&#x27;Connor &middot; Views: 118.8K &middot; Uploaded: March 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mn_4G6XI8Pw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mn_4G6XI8Pw">Open on YouTube</a></p></div></div></div>
 
 ### Reduce Celebration of App Usage
@@ -375,7 +370,6 @@ The ideal situation is that the behaviour generates the record rather than the r
 
 Periodic reflection questions are often more valuable than another streak counter:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * What made the habit easier this week?
@@ -385,7 +379,6 @@ Periodic reflection questions are often more valuable than another streak counte
 </div>
 
 These questions direct attention back to behaviour, context and obstacles rather than app performance.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_habit_app_trap_b65f28-Illustration-3-dark.svg" | relative_url }}" alt="App Trap illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_habit_app_trap_b65f28-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_habit_app_trap_b65f28-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Allow Streaks to Break Without Crisis
@@ -404,9 +397,7 @@ If the answer is yes, the app is functioning as useful scaffolding.
 
 If the most obvious improvement is a longer streak, a prettier dashboard or more frequent app interaction, the tool may have become another form of self-improvement theatre. In that situation, the behaviour is no longer serving the goal. The goal is serving the app.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_FhZV0BAAzQ" title="Is Tracking Your Habits Actually HURTING Your Progress?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_FhZV0BAAzQ" target="_blank" rel="noopener noreferrer">Is Tracking Your Habits Actually HURTING Your Progress?</a></p><p class="youtube-embed-meta">Channel: Dr Dan Maggs &middot; Views: 1.5K &middot; Uploaded: December 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_FhZV0BAAzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_FhZV0BAAzQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -525,11 +516,27 @@ If the most obvious improvement is a longer streak, a prettier dashboard or more
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wellness Diary Undated Planner Guided Mind Journal Habit Tracker B5 Spiral Bound"><img src="https://i.ebayimg.com/images/g/VfQAAeSwKFtpsCFE/s-l225.jpg" alt="Listing image for Wellness Diary Undated Planner Guided Mind Journal Habit Tracker B5 Spiral Bound" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER"><img src="https://i.ebayimg.com/images/g/BykAAOSwuTBlEtyP/s-l225.jpg" alt="Listing image for HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Wellness Diary Undated Planner Guided Mind Journal Habit Tracker B5 Spiral Bound</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown"><img src="https://i.ebayimg.com/images/g/ovgAAeSw~J5of48n/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
         <div class="fr-book-actions">
@@ -557,27 +564,11 @@ If the most obvious improvement is a longer streak, a prettier dashboard or more
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wellness Planner Diary Guided Journal Habit Tracker Productivity A5 Undated Gift"><img src="https://i.ebayimg.com/images/g/1yoAAeSwyAtpsCoS/s-l225.jpg" alt="Listing image for Wellness Planner Diary Guided Journal Habit Tracker Productivity A5 Undated Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl"><img src="https://i.ebayimg.com/images/g/8ooAAeSwoVBpDl1R/s-l225.jpg" alt="Listing image for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Wellness Planner Diary Guided Journal Habit Tracker Productivity A5 Undated Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Habit Tracker Goal Journal Undated Planner Productivity Notebook ✅"><img src="https://i.ebayimg.com/images/g/7d0AAeSwCy1p86BZ/s-l225.jpg" alt="Listing image for A4 Habit Tracker Goal Journal Undated Planner Productivity Notebook ✅" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A4 Habit Tracker Goal Journal Undated Planner Productivity Notebook ✅</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
         <div class="fr-book-actions">
@@ -799,6 +790,7 @@ If the most obvious improvement is a longer streak, a prettier dashboard or more
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

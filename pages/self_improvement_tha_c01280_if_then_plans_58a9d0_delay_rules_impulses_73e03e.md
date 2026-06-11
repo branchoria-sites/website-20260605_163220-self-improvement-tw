@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /if-then-plans/
 nav_short_title: Delay Rules
 title: Can a Pause Beat an Impulse?
-title_full: Can a Pause Beat an Impulse? | If Then Plans
+title_full: Can a Pause Beat an Impulse?
 display_title_short: Delay Rules
 display_title: Delay Rules
 heading_title: Can a Pause Beat an Impulse?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:16:23'
-parent_title: Can One Sentence Change Your Follow Through? | Better Change
+parent_title: Can One Sentence Change Your Follow Through?
 parent_permalink: /if-then-plans/
 parent_nav_short_title: If Then Plans
 parent_heading_title: Can One Sentence Change Your Follow Through?
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rul
 
 A delay rule is a simple if-then plan that inserts time between an urge and an action. Its purpose is not to eliminate temptation. It is to prevent a fast, emotionally driven choice from becoming an automatic behaviour before your longer-term goals have a chance to enter the decision. For impulse spending and late-night scrolling, this matters because both behaviours often thrive on immediacy. The purchase feels urgent now. The next video seems harmless now. The cost arrives later.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-1-dark.svg" | relative_url }}" alt="Delay Rules illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on implementation intentions suggests that pre-decided if-then responses can help people follow through on goals by linking a specific cue to a specific action. The delay rule is one practical version of that principle: “If I feel the urge, then I will wait.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
 
@@ -281,7 +280,6 @@ The power of a delay rule comes from changing the decision moment itself.
 Impulse buying and excessive scrolling often occur when attention is narrowed to the immediate reward. Studies of consumer behaviour consistently find that time pressure, urgency cues, and emotionally charged environments increase impulsive purchasing. When people feel rushed, they are more likely to rely on quick emotional reactions rather than deliberate evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S0309056620000076" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">If-then plans help regulate automatic peer influence on...by JL Thürmer · 2020 · Cited by 84 — In Study 1, the role of implementation in...</span></span></span>
 
 A delay rule works because it removes the urgency. Instead of deciding whether to buy or continue scrolling right now, the person follows a pre-made instruction:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,7 +303,6 @@ Consider an online purchase. Many digital shopping environments are designed to 
 
 A delay rule interrupts that process: <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40blake-winters/the-48-hour-buy-later-rule-one-tiny-delay-that-kills-impulse-buys-without-feeling-deprived-ce8a3f1d2d9c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The 48-Hour Buy-Later Rule: One Tiny Delay That Kills...This is the simplest anti-impulse system I know: Pause → Prove → Purchase...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * **Impulse response:** “The offer ends tonight. I should buy it now.”
@@ -321,7 +318,6 @@ A delay rule shifts the sequence:
 * **Delay rule:** “If I want another video after lights-out, I wait ten minutes first.”
 
 The pause creates an opportunity for fatigue, boredom, or reconsideration to do some of the work that [willpower]({{ 'willpower/' | relative_url }}) otherwise must do alone.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Cm7Su6e6H5Y" title="How to Stop Impulse Buying in 24 Hours" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Cm7Su6e6H5Y" target="_blank" rel="noopener noreferrer">How to Stop Impulse Buying in 24 Hours</a></p><p class="youtube-embed-meta">Channel: Jack Explains Money &middot; Views: 1.2K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Cm7Su6e6H5Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Cm7Su6e6H5Y">Open on YouTube</a></p></div></div></div>
 
@@ -339,7 +335,6 @@ A practical implementation intention might be:
 
 For larger purchases, some people extend the delay:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * 24 hours for small discretionary purchases
@@ -351,7 +346,6 @@ For larger purchases, some people extend the delay:
 The exact number matters less than having a clear rule. The important feature is that the waiting period is predetermined.
 
 Many people report that simply adding items to a basket and leaving them there dramatically reduces later purchasing. Community discussions among frugal consumers frequently describe this effect: a substantial proportion of desired items lose their appeal after a day or two of waiting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Frugal/comments/1nt6am7/life_pro_tip_the_24hour_rule_saved_me_from_6700/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Life Pro Tip: The &quot;24-Hour Rule&quot; saved me from...September 29, 2025 — Last January, I decided to implement a simple rule: I must w...</span><span class="citation-popover-meta">Published: September 29, 2025</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-2-dark.svg" | relative_url }}" alt="Delay Rules illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### For late-night scrolling
@@ -368,7 +362,6 @@ These rules work because scrolling often depends on continuous engagement. Small
 
 Research on bedtime procrastination highlights that behaviour occurring after a person intends to sleep is often less about conscious choice and more about difficulty disengaging from stimulation. Interrupting that sequence can therefore have outsized effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xv1fbTgjIGc" title="The Secret Psychology Behind Impulse Buying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xv1fbTgjIGc" target="_blank" rel="noopener noreferrer">The Secret Psychology Behind Impulse Buying</a></p><p class="youtube-embed-meta">Channel: The Chill Historian &middot; Views: 1.5K &middot; Uploaded: September 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xv1fbTgjIGc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xv1fbTgjIGc">Open on YouTube</a></p></div></div></div>
 
 ## Where Delay Fails Without Friction
@@ -381,7 +374,6 @@ Friction makes delay rules stronger.
 
 For spending, friction might include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Removing saved payment details.
@@ -392,7 +384,6 @@ For spending, friction might include:
 </div>
 
 For scrolling, friction might include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -411,14 +402,12 @@ The strongest if-then plans often combine both elements:
 
 The delay is built into the [environment]({{ 'environment/' | relative_url }}) rather than relying solely on memory.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-3-dark.svg" | relative_url }}" alt="Delay Rules illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Hidden Benefit: Preserving Freedom Without Constant Restriction
 
 Many people abandon strict rules because they feel deprived. Delay rules often succeed where outright bans fail because they do not require saying “never”.
 
 The message is different:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -436,9 +425,7 @@ A delay rule respects that desire while still protecting the goal. It does not d
 
 Within an if-then planning system, that pause is often enough. The temptation remains. The desire remains. What changes is that the impulse no longer gets immediate control of the outcome.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zawiK8eltMc" title="How to Stop Impulse Spending (Without Shame or Deprivation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zawiK8eltMc" target="_blank" rel="noopener noreferrer">How to Stop Impulse Spending (Without Shame or Deprivation)</a></p><p class="youtube-embed-meta">Channel: Inspired Budget &middot; Views: 213 &middot; Uploaded: February 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zawiK8eltMc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zawiK8eltMc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

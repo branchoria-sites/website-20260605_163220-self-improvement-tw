@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /false-progress/
 nav_short_title: Wednesday Test
 title: Will It Still Work on Wednesday?
-title_full: Will It Still Work on Wednesday? | False Progress
+title_full: Will It Still Work on Wednesday?
 display_title_short: Wednesday Test
 display_title: Wednesday Test
 heading_title: Will It Still Work on Wednesday?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:07:13'
-parent_title: When Self Improvement Feels Productive but Fails | Better Change
+parent_title: When Self Improvement Feels Productive but Fails
 parent_permalink: /false-progress/
 parent_nav_short_title: False Progress
 parent_heading_title: When Self Improvement Feels Productive but Fails
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_false_progress_cb1a89_wednesda
 
 A self-improvement method should not be judged by how convincing it feels on Sunday evening. It should be judged by what happens on an ordinary Wednesday when sleep was mediocre, work ran late, [motivation]({{ 'motivation/' | relative_url }}) is lower, and nobody is watching. The gap between Sunday motivation and Wednesday behaviour is one of the clearest places where [false progress]({{ 'false-progress/' | relative_url }}) reveals itself.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_wednesday_behaviour_d5ed1e-Illustration-1-dark.svg" | relative_url }}" alt="Wednesday Test illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_wednesday_behaviour_d5ed1e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_wednesday_behaviour_d5ed1e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Many plans feel transformative during calm reflection because they are evaluated under ideal conditions. Real life tests them under friction: fatigue, distraction, social obligations, uncertainty and mood changes. Behavioural research repeatedly finds that intentions alone are a weak predictor of follow-through, while specific action structures and contingency plans are much more reliable. The question is not whether a plan sounds good. The question is whether it survives a normal difficult day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation IntentionsJuly 1, 1999 — intentions are formed for the purpose of enhancing the translation of goal inte...</span><span class="citation-popover-meta">Published: July 1, 1999</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-title">Control Implementation Intentions Peter M</span><span class="citation-popover-snippet">Gollwitzer New York...by PM Gollwitzer · Cited by 136 — The idea is that intention realization can be promoted by forming if-then plans...</span></span></span>
 
@@ -294,7 +293,6 @@ Many systems fail immediately under this test.
 
 Consider three versions of the same goal:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * "I will exercise six mornings a week for an hour."
@@ -311,7 +309,6 @@ The Wednesday test therefore asks not "How motivated will I be?" but "What will 
 
 That question is far more predictive.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DByYjTtFX-0" title="4-Phases for Achieving Goals: A Mindset Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DByYjTtFX-0" target="_blank" rel="noopener noreferrer">4-Phases for Achieving Goals: A Mindset Theory</a></p><p class="youtube-embed-meta">Channel: DecisionSkills &middot; Views: 3.3K &middot; Uploaded: March 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DByYjTtFX-0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DByYjTtFX-0">Open on YouTube</a></p></div></div></div>
 
 ## Stress-Testing Plans Against Ordinary Friction
@@ -319,7 +316,6 @@ That question is far more predictive.
 Most self-improvement failures are not caused by catastrophe. They are caused by ordinary inconvenience.
 
 A useful stress test is to imagine several common Wednesday scenarios:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -344,7 +340,6 @@ By Wednesday they are overwhelmed and skip the session.
 
 A stress-tested version might instead specify:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * Normal target: ninety minutes.
@@ -356,7 +351,6 @@ A stress-tested version might instead specify:
 
 The goal remains the same, but the system contains responses to foreseeable friction.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_wednesday_behaviour_d5ed1e-Illustration-2-dark.svg" | relative_url }}" alt="Wednesday Test illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_wednesday_behaviour_d5ed1e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_wednesday_behaviour_d5ed1e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Designing Fallback Actions for Low-Energy Moments
 
@@ -365,7 +359,6 @@ One reason self-improvement theatre feels productive is that it focuses on ideal
 The critical question is not what you do at your best. It is what you do at your worst while still staying on the path.
 
 Research and practical habit-building approaches increasingly emphasise reducing friction and creating actions that remain possible during motivation dips. Smaller actions are less impressive on paper but often produce more consistent behaviour over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coachpedropinto.com">[Coach Pedro Pinto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coachpedropinto.com</span><span class="citation-popover-title">Coach Pedro Pinto Habit Formation: Science-Backed Strategies For Leaders</span><span class="citation-popover-snippet">Coach Pedro PintoHabit Formation: Science-Backed Strategies For Leaders...June 4, 2025 — 4 Jun 2025 — Natural variations in motivation u...</span><span class="citation-popover-meta">Published: June 4, 2025</span></span></span> TriageMethod Effective fallback actions share several characteristics: <span class="citation-chip-wrap"><a class="citation-chip" href="https://triagemethod.com/understanding-the-basics-of-behaviour-change-and-habit-formation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: triagemethod.com">[triagemethod.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">triagemethod.com</span><span class="citation-popover-snippet">Understanding The Basics of Behaviour Change and Habit...Understanding the basics of behaviour change and habit formation is critical if...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -383,7 +376,6 @@ GoalHigh-energy versionWednesday fallbackExercise60-minute workout10-minute walk
 
 The fallback is not the goal. It is the bridge that prevents [abandonment]({{ 'abandonment/' | relative_url }}).
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/USjUEg543uk" title="Why Motivation Fails in Business, and Systems Win - Biggest Failures in Business" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=USjUEg543uk" target="_blank" rel="noopener noreferrer">Why Motivation Fails in Business, and Systems Win - Biggest Failures in Business</a></p><p class="youtube-embed-meta">Channel: KnowledgeBrand &middot; Views: 45 &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=USjUEg543uk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=USjUEg543uk">Open on YouTube</a></p></div></div></div>
 
 ## Why Missing Wednesday Matters More Than Winning Sunday
@@ -398,7 +390,6 @@ This distinction explains why some people appear less motivated but achieve more
 
 Interestingly, some behavioural experts have even argued that starting a habit midweek can be advantageous because it removes the symbolic pressure associated with grand Monday or Sunday resets. A Wednesday start feels more like a practical experiment than a complete personal reinvention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.realsimple.com/starting-a-habit-on-wednesday-11863304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: realsimple.com">[Real Simple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">realsimple.com</span><span class="citation-popover-snippet">Mental health professionals suggest that midweek habit initiation reduces pressure and perfectionism often associated with Sunday or Mond...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8PrpkJOGsms" title="Stop letting your goals fizzle out! Why implementation intentions unlock success" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8PrpkJOGsms" target="_blank" rel="noopener noreferrer">Stop letting your goals fizzle out! Why implementation intentions unlock success</a></p><p class="youtube-embed-meta">Channel: Everyday English Podcast &middot; Views: 4 &middot; Uploaded: April 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8PrpkJOGsms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8PrpkJOGsms">Open on YouTube</a></p></div></div></div>
 
 ## The Most Useful Question to Ask
@@ -412,7 +403,6 @@ If there is no clear answer, the plan is still incomplete.
 If there is a specific answer, especially one that anticipates fatigue, boredom and interruptions, the plan has moved beyond inspiration and towards behaviour.
 
 That shift—from designing for motivation to designing for ordinary reality—is where self-improvement starts becoming something that works rather than something that merely feels promising.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_wednesday_behaviour_d5ed1e-Illustration-3-dark.svg" | relative_url }}" alt="Wednesday Test illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_wednesday_behaviour_d5ed1e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_wednesday_behaviour_d5ed1e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /action-plans/
 nav_short_title: Shrink Steps
 title: When Should You Make the Step Smaller?
-title_full: When Should You Make the Step Smaller? | Action Plans
+title_full: When Should You Make the Step Smaller?
 display_title_short: Shrink Steps
 display_title: Shrink Steps
 heading_title: When Should You Make the Step Smaller?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:15:54'
-parent_title: The Plan That Still Works When You Are Tired | Better Change
+parent_title: The Plan That Still Works When You Are Tired
 parent_permalink: /action-plans/
 parent_nav_short_title: Action Plans
 parent_heading_title: The Plan That Still Works When You Are Tired
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_sh
 
 One of the most common reasons habits fail is not lack of [motivation]({{ 'motivation/' | relative_url }}) but a mismatch between the plan and the day. A habit that works on a calm, energetic Tuesday can become unrealistic during a week of deadlines, poor sleep or family demands. When that happens, many people respond with self-criticism or try to push harder. A more effective response is often to make the step smaller before the habit breaks entirely.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_shrinking_steps_habi_a0f153-Illustration-1-dark.svg" | relative_url }}" alt="Shrink Steps illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_shrinking_steps_habi_a0f153-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_shrinking_steps_habi_a0f153-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Shrinking a habit is not lowering standards forever. It is a way of preserving continuity when capacity drops. Behaviour-change research consistently suggests that making actions easier increases the likelihood that they will occur, especially when motivation is unreliable. The goal is to protect repetition and keep the habit connected to its cue, even if the day's version is much smaller than usual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsb.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsb.stanford.edu</span><span class="citation-popover-snippet">Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior Change18 Apr 2023 — In this episode, BJ Fogg reveals the...</span></span></span> Graduate School of Business
 
@@ -285,7 +284,6 @@ Shrinking a habit is not lowering standards forever. It is a way of preserving c
 Many people assume a missed habit means they need more discipline. In practice, repeated misses often indicate a design problem.
 
 A plan is probably too large when:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -313,7 +311,6 @@ Duration is often the easiest variable to adjust.
 
 Instead of:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Thirty minutes of study
@@ -323,7 +320,6 @@ Instead of:
 </div>
 
 Use:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -337,7 +333,6 @@ This approach protects the act of showing up. Research on habit formation repeat
 
 A five-minute version is not impressive, but it keeps the [identity]({{ 'identity/' | relative_url }}) and routine alive.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GjXY-l1EnhQ" title="Why Bad Habits Stick (and How to Finally Break Free)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GjXY-l1EnhQ" target="_blank" rel="noopener noreferrer">Why Bad Habits Stick (and How to Finally Break Free)</a></p><p class="youtube-embed-meta">Channel: Dr. Tracey Marks &middot; Views: 657.2K &middot; Uploaded: April 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GjXY-l1EnhQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GjXY-l1EnhQ">Open on YouTube</a></p></div></div></div>
 
 ### Reduce Intensity
@@ -345,7 +340,6 @@ A five-minute version is not impressive, but it keeps the [identity]({{ 'identit
 Sometimes the duration is manageable but the effort level is not.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -366,7 +360,6 @@ Many habits break because perfection quietly becomes part of the requirement.
 
 A tired person may think:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * If I cannot write a good page, there is no point writing.
@@ -379,14 +372,12 @@ In these situations, the habit is not being blocked by time alone. It is being b
 
 A rough draft preserves a writing habit better than a blank page. A short, easy workout preserves an exercise habit better than doing nothing. The purpose of the reduced version is continuity, not excellence.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_shrinking_steps_habi_a0f153-Illustration-2-dark.svg" | relative_url }}" alt="Shrink Steps illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_shrinking_steps_habi_a0f153-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_shrinking_steps_habi_a0f153-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reduce Choice
 
 Decision-making can become a hidden burden.
 
 Instead of deciding among several acceptable actions, create a default minimum version:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -410,7 +401,6 @@ This is why many habit researchers emphasise small, repeatable actions. BJ Fogg'
 The key insight is that habit maintenance and performance optimisation are not always the same task.
 
 On high-capacity days, optimisation may matter. On low-capacity days, maintenance matters more.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yERty2a__xk" title="Two Ways to Design a Habit -- with Dr. BJ Fogg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yERty2a__xk" target="_blank" rel="noopener noreferrer">Two Ways to Design a Habit -- with Dr. BJ Fogg</a></p><p class="youtube-embed-meta">Channel: Dr. BJ Fogg &middot; Views: 6.7K &middot; Uploaded: November 2020 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yERty2a__xk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yERty2a__xk">Open on YouTube</a></p></div></div></div>
 
@@ -436,7 +426,6 @@ This stability matters because habits depend heavily on repeated cue-behaviour a
 
 Habit stacking uses the same logic. A new behaviour attached to an existing routine benefits from an already stable trigger. Consistent cues reduce the need for daily deliberation and make small versions easier to perform. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.realsimple.com/work-life/life-strategies/inspiration-motivation/habit-stacking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: realsimple.com">[Real Simple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">realsimple.com</span><span class="citation-popover-title">Real Simple Habit Stacking Makes New Habits Last-Here&#x27;s How It Works</span><span class="citation-popover-snippet">This technique capitalizes on the brain&#x27;s established neural pathways, making new habits easier to adopt by tying them to familiar routin...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_shrinking_steps_habi_a0f153-Illustration-3-dark.svg" | relative_url }}" alt="Shrink Steps illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_shrinking_steps_habi_a0f153-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_shrinking_steps_habi_a0f153-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Main Risk: Shrinking Forever
 
@@ -453,7 +442,6 @@ Questions worth asking include:
 The goal is adaptability rather than retreat.
 
 Research on behaviour maintenance highlights the importance of recovering from setbacks while continuing progress. Successful maintenance is not perfect consistency at maximum effort. It is the ability to adjust, recover and continue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Theoretical explanations for maintenance of behaviour changeby D Kwasnicka · 2016 · Cited by 1848 — Relapse prevention theory includes...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GECcjrYHH8w" title="How small habits and a two-minute rule can help your productivity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GECcjrYHH8w" target="_blank" rel="noopener noreferrer">How small habits and a two-minute rule can help your productivity</a></p><p class="youtube-embed-meta">Channel: CBS Mornings &middot; Views: 174.2K &middot; Uploaded: February 2018 &middot; Length: 4 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GECcjrYHH8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GECcjrYHH8w">Open on YouTube</a></p></div></div></div>
 

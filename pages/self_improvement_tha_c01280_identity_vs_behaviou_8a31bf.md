@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: Identity
 title: Do You Need a New Identity or a Better Plan?
-title_full: Do You Need a New Identity or a Better Plan? | Better Change
+title_full: Do You Need a New Identity or a Better Plan?
 display_title_short: Identity
 display_title: Identity
 heading_title: Do You Need a New Identity or a Better Plan?
@@ -504,7 +504,6 @@ image: /assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-ov
 
 Trying to “become a new person” can be motivating, but it can also become a trap. Identity language is powerful because people do tend to act in ways that fit their self-image, their groups and their values. Yet [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}) still has to pass a plainer test: what behaviour happens on a normal day, under [real constraints]({{ 'real-constraints/' | relative_url }}), when motivation is low? The safest answer is not to reject identity, but to put it in the right place. Identity should give direction and meaning; behaviour design should decide the next observable action.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-overview.webp" | relative_url }}" alt="Overview image for Identity" loading="eager" decoding="sync" fetchpriority="high">
 The risk is that identity talk feels profound while remaining untestable. “I am becoming a disciplined person” may inspire a journal entry, but “I put my phone outside the bedroom at 10 pm” can be checked tonight. The most useful self-improvement plan treats identity as a supporting story, not as the main mechanism. Behaviour is the evidence. Repetition, context, cues, [feedback]({{ 'feedback/' | relative_url }}) and planning are what make change visible enough to adjust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6635880/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Verplanken · 2019 · Cited by 150 — Habits may become part of self-identities through various psychological processes. One such pr...</span></span></span>
 
@@ -519,7 +518,6 @@ Identity also works socially. A 2024 systematic review and meta-analysis on soci
 That is why identity language can help when it connects behaviour to belonging and values. “I am the kind of friend who replies honestly”, “I am someone who keeps promises to myself”, or “I am part of a walking group” can make a planned action feel less like a random task and more like an expression of self. Self-determination theory, a major theory of [motivation]({{ 'motivation/' | relative_url }}), helps explain this appeal: people sustain behaviour better when it feels autonomous, competent and connected to others, rather than merely pressured from outside. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-Determination Theory</span></span></span>
 
 The problem begins when identity becomes a substitute for design. A person can spend months refining the story of the new self while leaving the old environment untouched: the same phone beside the bed, the same vague workout plan, the same snacks in the same cupboard, the same unplanned evening, the same [social pressure]({{ 'social-pressure/' | relative_url }}). The identity claim may be sincere, but sincerity does not remove friction, create cues, schedule recovery, or tell the person what to do at 6.15 pm when they are tired.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-Illustration-1-dark.svg" | relative_url }}" alt="Identity illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The behaviour test
@@ -536,7 +534,6 @@ Habit research adds another reason to privilege behaviour. Habits form when a be
 
 So the behaviour test is blunt but fair:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Can the action be seen or counted?** “Be healthier” cannot; “walk for ten minutes after lunch” can.
@@ -547,7 +544,6 @@ So the behaviour test is blunt but fair:
 </div>
 
 This is where behaviour design is kinder than identity judgement. It does not require the person to decide whether they are fundamentally lazy, broken, inconsistent or weak. It asks what happened, what cue was missing, what obstacle appeared, and what design change would make the next attempt easier.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9tOjN8qp3R8" title="How to Become Your Ideal Self | James Clear &amp; Dr. Andrew Huberman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9tOjN8qp3R8" target="_blank" rel="noopener noreferrer">How to Become Your Ideal Self | James Clear &amp; Dr. Andrew Huberman</a></p><p class="youtube-embed-meta">Channel: Huberman Lab Clips &middot; Views: 77.6K &middot; Uploaded: April 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9tOjN8qp3R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9tOjN8qp3R8">Open on YouTube</a></p></div></div></div>
 
@@ -565,14 +561,12 @@ There is another failure mode: identity can become too broad. “I am a high-per
 
 The most useful critique is not that identity is fake. It is that identity is too easy to confuse with progress. Buying the notebook, joining the community, changing the bio, announcing the goal, reading the book and imagining the future self can all feel like evidence. Some of that may help. But behaviour design asks for the harder proof: what happened differently on Tuesday?
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-Illustration-2-dark.svg" | relative_url }}" alt="Identity illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A better plan beats a bigger self-story
 
 A better plan does not need to be grand. It needs to make the desired behaviour more likely under real conditions. That usually means shrinking the [first action]({{ 'first-action/' | relative_url }}), choosing a cue, reducing friction, adding feedback and deciding how to recover from a miss.
 
 Consider someone who wants to become “a morning exercise person”. The identity version might involve a strong declaration: “From now on, I am the kind of person who trains before work.” The behaviour-design version asks for the smallest reliable chain:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -593,8 +587,7 @@ For money, the behaviour might be automatic saving on payday rather than “beco
 
 This is also why self-monitoring matters. Tracking is not morally superior; it is informational. It tells the person whether the plan is working. Behaviour-change taxonomies and reviews repeatedly identify techniques such as self-monitoring, feedback and action planning because they turn private intention into visible evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phwwhocc.co.uk">[WHO Collaborating Centre for Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phwwhocc.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_juPDoa3GBY" title="Self-Determination Theory Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer">Self-Determination Theory Explained</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 439.1K &middot; Uploaded: November 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_juPDoa3GBY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h35hy4LcVFw" title="Behavioral scientist BJ Fogg on building lasting habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer">Behavioral scientist BJ Fogg on building lasting habits</a></p><p class="youtube-embed-meta">Channel: Stanford &middot; Views: 14.9K &middot; Uploaded: January 2024 &middot; Length: 2 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h35hy4LcVFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h35hy4LcVFw">Open on YouTube</a></p></div></div></div>
 
 ## Using identity carefully
 
@@ -608,7 +601,6 @@ That matters for everyday self improvement. Identity should not be used as a wea
 
 A useful sequence is:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **Name the value.** Why does this change matter?
@@ -621,7 +613,6 @@ A useful sequence is:
 
 This sequence keeps identity from floating above real life. It also prevents behaviour design from becoming cold or mechanical. The person is not merely optimising a routine; they are building a life that better matches what they care about.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-Illustration-3-dark.svg" | relative_url }}" alt="Identity illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical difference
 
@@ -631,9 +622,7 @@ The second route is usually safer because it gives the person more handles. If t
 
 Identity still has a place. It can make change meaningful, protect motivation and connect behaviour to values and belonging. But it should be treated as a hypothesis that behaviour tests, not as a costume the person must somehow grow into by force of will. In self improvement that works, the question is not “How do I become a completely new person?” It is “What is the next behaviour that would make the better story more true?”
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mnRywBvjjIs" title="Identity-based Habits | James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mnRywBvjjIs" target="_blank" rel="noopener noreferrer">Identity-based Habits | James Clear</a></p><p class="youtube-embed-meta">Channel: Omaid Homayun &middot; Views: 5.0K &middot; Uploaded: March 2024 &middot; Length: 1 minute 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mnRywBvjjIs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mnRywBvjjIs">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_juPDoa3GBY" title="Self-Determination Theory Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer">Self-Determination Theory Explained</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 439.1K &middot; Uploaded: November 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_juPDoa3GBY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1286,4 +1275,4 @@ Identity still has a place. It can make change meaningful, protect motivation an
 
 51. <a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/</a>  
+   Link: <a href="https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/</a>

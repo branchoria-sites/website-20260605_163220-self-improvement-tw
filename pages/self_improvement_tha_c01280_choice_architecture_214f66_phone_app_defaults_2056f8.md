@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /defaults/
 nav_short_title: App defaults
 title: Set the blocker before the scroll begins
-title_full: Set the blocker before the scroll begins | Defaults
+title_full: Set the blocker before the scroll begins
 display_title_short: App defaults
 display_title: App defaults
 heading_title: Set the blocker before the scroll begins
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:37:21'
-parent_title: How Defaults Quietly Shape Your Day | Better Change
+parent_title: How Defaults Quietly Shape Your Day
 parent_permalink: /defaults/
 parent_nav_short_title: Defaults
 parent_heading_title: How Defaults Quietly Shape Your Day
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_pho
 
 Phone distraction is often treated as a self-control problem: resist the urge, ignore the notification, close the app. In practice, the more reliable solution is usually architectural rather than motivational. By the time a tempting app is visible, a notification has arrived, or a bored moment appears, attention is already under pressure. The strongest phone [defaults]({{ 'defaults/' | relative_url }}) therefore act before distraction begins.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-1-dark.svg" | relative_url }}" alt="App defaults illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is the logic behind scheduled focus modes, notification filtering, charging locations, app timers and blocked work-hour access. These settings shift decisions from the moment of temptation to a calmer moment of planning. Research consistently finds that notifications and smartphone interruptions impair attention and increase task-switching costs, while tools that suppress or batch interruptions can improve sustained focus for many users. ERIC <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 40 — The current study examined the effects of...</span></span></span>
 
@@ -293,7 +292,6 @@ Consider two approaches:
 
 The second approach eliminates hundreds of small decisions. Instead of repeatedly choosing not to be distracted, the user rarely encounters the distraction in the first place.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-4Fg-3-M0CY" title="Google &amp; Apple Digital Wellbeing Features - How to use them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-4Fg-3-M0CY" target="_blank" rel="noopener noreferrer">Google &amp; Apple Digital Wellbeing Features - How to use them</a></p><p class="youtube-embed-meta">Channel: 6 Months Later &middot; Views: 23.5K &middot; Uploaded: March 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-4Fg-3-M0CY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-4Fg-3-M0CY">Open on YouTube</a></p></div></div></div>
 
 ## Work-hour blockers that change the easiest action
@@ -305,7 +303,6 @@ Both Android and iPhone now include built-in systems for this. Android's Focus M
 The key design principle is timing. A blocker that activates only after someone has already opened a distracting app is weaker than one that activates automatically before work begins.
 
 Effective work-hour defaults typically include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,7 +317,6 @@ These settings matter because interruption management is not merely about screen
 
 A useful question is not "How strong is my self-control?" but "What happens automatically at 09:00 on a busy Tuesday?" If the answer is that distracting apps become unavailable and notifications are filtered, the default is working.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-2-dark.svg" | relative_url }}" alt="App defaults illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Notification settings are often more important than app limits
 
@@ -334,7 +330,6 @@ For that reason, notification defaults usually deliver a larger benefit than sim
 
 High-value changes include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Turning off promotional notifications entirely.
@@ -347,7 +342,6 @@ High-value changes include:
 Evidence suggests that batching notifications can reduce cognitive load and attention residue by reducing the [frequency]({{ 'frequency/' | relative_url }}) of interruptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749597816304630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Consistent with the research on attention residue.Read more...</span></span></span>
 
 A practical rule is simple: if a notification does not require action within the next few hours, it rarely needs to appear immediately.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jiQoizwewzY" title="How to Literally Clean Your Mind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jiQoizwewzY" target="_blank" rel="noopener noreferrer">How to Literally Clean Your Mind</a></p><p class="youtube-embed-meta">Channel: Productive Peter &middot; Views: 18.6K &middot; Uploaded: November 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jiQoizwewzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jiQoizwewzY">Open on YouTube</a></p></div></div></div>
 
@@ -367,7 +361,6 @@ Among people interested in digital minimalism, charging phones outside the bedro
 
 In choice architecture terms, the bedroom setup determines the default morning behaviour before conscious decision-making is fully awake.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-3-dark.svg" | relative_url }}" alt="App defaults illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Exit routes that avoid turning structure into a trap
 
@@ -376,7 +369,6 @@ Strong defaults can become counterproductive if they are too rigid.
 A common mistake is creating systems that are impossible to override. When a genuine need arises, people become frustrated, disable the system completely and never reactivate it.
 
 The most durable phone defaults usually include clear exit routes:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -392,7 +384,6 @@ This balance matters because distraction management is not the same as prohibiti
 Research on digital wellbeing tools also suggests caution against assuming every intervention works equally well for everyone. Some users benefit substantially from notification suppression, while others see smaller effects. The strongest evidence supports reducing interruptions and increasing user control, but the optimal configuration remains individual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/digital-wellbeing-android-ios-facebook-instagram" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">digital wellbeing android ios facebook instagram</span><span class="citation-popover-snippet">Despite the lack of scientific evidence proving that reducing screen time directly benefits mental health, these platforms hope to addres...</span></span></span>
 
 A useful default therefore has two properties at once: it is strong enough to protect attention when [motivation]({{ 'motivation/' | relative_url }}) is low, and easy enough to override when circumstances genuinely require it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tYXzA4Yhm-A" title="Reclaiming Your Attention Span: How to Model &quot;Deep Work&quot; for Your Kids" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tYXzA4Yhm-A" target="_blank" rel="noopener noreferrer">Reclaiming Your Attention Span: How to Model &quot;Deep Work&quot; for Your Kids</a></p><p class="youtube-embed-meta">Channel: Dr. Rupa Wong &middot; Views: 321 &middot; Uploaded: March 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tYXzA4Yhm-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tYXzA4Yhm-A">Open on YouTube</a></p></div></div></div>
 

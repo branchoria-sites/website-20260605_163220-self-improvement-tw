@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /apologies/
 nav_short_title: Timing
 title: Should You Apologise Now or Listen First?
-title_full: Should You Apologise Now or Listen First? | Apologies
+title_full: Should You Apologise Now or Listen First?
 display_title_short: Timing
 display_title: Timing
 heading_title: Should You Apologise Now or Listen First?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:07:55'
-parent_title: How to Apologise Before Resentment Grows | Better Change
+parent_title: How to Apologise Before Resentment Grows
 parent_permalink: /apologies/
 parent_nav_short_title: Apologies
 parent_heading_title: How to Apologise Before Resentment Grows
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_ap
 
 A common mistake in relationship repair is assuming that faster is always better. It is true that waiting too long can allow resentment to harden, but research suggests that an apology offered before the other person feels heard can be surprisingly ineffective. The most useful timing is often neither immediate nor delayed for its own sake. It is early enough to show responsibility, yet slow enough to allow the injured person to express what happened and how it affected them. The central question is not “How quickly can I say sorry?” but “What does this moment need to move towards repair?” Studies on apology timing, conflict discussions, and forgiveness consistently point to the same principle: people respond better when accountability is paired with understanding. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamonitor.ireland.openaire.eu">[OA Monitor Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamonitor.ireland.openaire.eu</span><span class="citation-popover-snippet">OA Monitor IrelandEffects of Timing and Sincerity of an Apology on Satisfaction...Using attribution theory, this study examined the effe...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-1-dark.svg" | relative_url }}" alt="Timing illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When a Quick Apology Prevents Escalation
 
@@ -279,7 +278,6 @@ Some situations benefit from an immediate apology because the harm is obvious an
 In these moments, the apology serves as a repair attempt. Relationship researcher John Gottman describes repair attempts as actions that interrupt escalating negativity and help people return to a more constructive conversation. Successful repair attempts are strongly associated with healthier relationships because they prevent conflicts from spiralling into mutual defensiveness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottman.com">[The Gottman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottman.com</span><span class="citation-popover-title">make repair attempts partner feels loved</span><span class="citation-popover-snippet">The Gottman InstituteHow to Make Repair Attempts So Your Partner Feels Loved17 Mar 2017 — A repair attempt is any statement or action — v...</span></span></span>
 
 A quick apology is especially useful when:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -297,7 +295,6 @@ For example:
 That sentence does not settle every issue, but it signals responsibility before the injured person has to fight for recognition. Research on forgiveness and trust repair suggests that [apologies]({{ 'apologies/' | relative_url }}) improve outcomes when they communicate relationship value and demonstrate concern for the harmed person rather than self-protection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8222305/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralExperimental evidence that apologies promote forgiveness by...by DE Forster · 2021 · Cited by 39 — These interference effe...</span></span></span>
 
 The key distinction is that a quick apology should open the conversation, not close it. It says, “I see that I hurt you,” not “Now we can move on.”
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dFKo1nLAVJY" title="Why is apologizing so hard?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dFKo1nLAVJY" target="_blank" rel="noopener noreferrer">Why is apologizing so hard?</a></p><p class="youtube-embed-meta">Channel: Chicago Booth Review &middot; Views: 133 &middot; Uploaded: August 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dFKo1nLAVJY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dFKo1nLAVJY">Open on YouTube</a></p></div></div></div>
 
@@ -319,7 +316,6 @@ Technically, an apology occurred. Yet the injured person may feel even more frus
 
 A rushed apology often carries one of three hidden messages:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **“Let's stop talking about this.”**
@@ -331,7 +327,6 @@ A rushed apology often carries one of three hidden messages:
 People are remarkably sensitive to these signals. Studies of conflict discussions in couples show that feeling understood plays a significant role in communication satisfaction and emotional recovery after disagreements. Timing and sincerity matter partly because they influence whether the recipient feels genuinely understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamonitor.ireland.openaire.eu">[OA Monitor Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamonitor.ireland.openaire.eu</span><span class="citation-popover-snippet">OA Monitor IrelandEffects of Timing and Sincerity of an Apology on Satisfaction...Using attribution theory, this study examined the effe...</span></span></span>
 
 Signs that listening should come before apologising include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -349,7 +344,6 @@ In these cases, the most effective first response may be:
 
 That response does not replace accountability. It prepares the ground for accountability that lands.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-2-dark.svg" | relative_url }}" alt="Timing illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Holding Apologies Create Space for Fuller Repair
 
@@ -359,9 +353,7 @@ There is a difference between delaying repair and delaying the formal words “I
 
 A productive sequence often looks like this:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OFneLCuN48g" title="The importance of admitting mistakes and the right way to say sorry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OFneLCuN48g" target="_blank" rel="noopener noreferrer">The importance of admitting mistakes and the right way to say sorry</a></p><p class="youtube-embed-meta">Channel: TODAY &middot; Views: 3.7K &middot; Uploaded: February 2024 &middot; Length: 3 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OFneLCuN48g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OFneLCuN48g">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -382,7 +374,6 @@ For example:
 Compared with an immediate “Sorry about that,” the second version arrives slightly later but carries much more evidence that the speaker understands the injury.
 
 This is one reason timing can be counterintuitive. A brief period of listening may actually make the eventual apology feel earlier in an emotional sense because it reaches the real wound rather than merely the surface event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1xBCYkvoMAg" title="How to Heal and Process a Fight - The Gottmans Act it out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1xBCYkvoMAg" target="_blank" rel="noopener noreferrer">How to Heal and Process a Fight - The Gottmans Act it out</a></p><p class="youtube-embed-meta">Channel: The Gottman Institute &middot; Views: 46.1K &middot; Uploaded: October 2025 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1xBCYkvoMAg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1xBCYkvoMAg">Open on YouTube</a></p></div></div></div>
 
@@ -406,7 +397,6 @@ This approach avoids the two extremes that commonly damage repair efforts:
 * Apologising so quickly that the person feels unheard.
 
 The most effective timing balances urgency with curiosity. It communicates, “I am taking responsibility now, and I am willing to stay long enough to understand the impact.” Research on apology timing, forgiveness, and conflict repair suggests that this combination—accountability plus understanding—is what makes an apology feel like care rather than a strategy for ending discomfort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottman.com">[The Gottman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottman.com</span><span class="citation-popover-title">make repair attempts partner feels loved</span><span class="citation-popover-snippet">The Gottman InstituteHow to Make Repair Attempts So Your Partner Feels Loved17 Mar 2017 — A repair attempt is any statement or action — v...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamonitor.ireland.openaire.eu">[OA Monitor Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamonitor.ireland.openaire.eu</span><span class="citation-popover-snippet">OA Monitor IrelandEffects of Timing and Sincerity of an Apology on Satisfaction...Using attribution theory, this study examined the effe...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-3-dark.svg" | relative_url }}" alt="Timing illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

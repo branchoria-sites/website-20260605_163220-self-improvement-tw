@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /willpower/
 nav_short_title: Temptation Setup
 title: Can Your Environment Do the Resisting?
-title_full: Can Your Environment Do the Resisting? | Willpower
+title_full: Can Your Environment Do the Resisting?
 display_title_short: Temptation Setup
 display_title: Temptation Setup
 heading_title: Can Your Environment Do the Resisting?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 07:57:52'
-parent_title: Why Willpower Should Be Your Backup Plan | Better Change
+parent_title: Why Willpower Should Be Your Backup Plan
 parent_permalink: /willpower/
 parent_nav_short_title: Willpower
 parent_heading_title: Why Willpower Should Be Your Backup Plan
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_willpower_backup_643acf_tempta
 
 Self-improvement becomes easier when temptation never reaches full strength. One of the most practical lessons from behavioural science is that self-control works best when it acts as a backup system rather than the main engine of change. Instead of repeatedly fighting urges in the moment, people can redesign their surroundings so that the desired action is easier, more visible and more automatic, while the tempting action becomes less convenient. Researchers describe these approaches as “situational strategies” because they intervene before an impulse grows into a difficult internal battle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSituational Strategies for Self-Control</span><span class="citation-popover-snippet">self-control strategies can be organized using the process model of self-control (Duckworth, Gendler, &amp; Gross, 2014). This framework pred...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-1-dark.svg" | relative_url }}" alt="Temptation Setup illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because most failures of consistency do not happen after careful deliberation. They happen when the easiest option is also the most tempting one: the phone is beside the bed, snacks are within arm’s reach, entertainment is one click away, or spending requires no pause. Environmental design changes the structure of those moments. Rather than asking, “How can I be stronger?”, it asks, “How can I make the better choice the path of least resistance?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">effective self control strategies</span><span class="citation-popover-snippet">Association for Psychological ScienceEffective Self-Control Strategies Involve Much More Than...14 Feb 2019 — They observe that in some...</span></span></span>
 
@@ -299,8 +298,7 @@ In each case, the environment absorbs part of the self-control burden. <span cla
 
 Environmental design works largely through friction. Friction is any small obstacle that slows a behaviour down. Even minor increases or decreases in friction can meaningfully influence what people do repeatedly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">MPG.PuReSelf-Nudging and the Citizen Choice Architectby S Reijula · 2022 · Cited by 214 — Self-deployed changes of accessibility, default...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_6p8aq4zU8Y" title="Angela Duckworth, James Gross, “Matter Over Mind: Situational Strategies for Self-Control”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_6p8aq4zU8Y" target="_blank" rel="noopener noreferrer">Angela Duckworth, James Gross, “Matter Over Mind: Situational Strategies for Self-Control”</a></p><p class="youtube-embed-meta">Channel: Yale University &middot; Views: 21.1K &middot; Uploaded: June 2016 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_6p8aq4zU8Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_6p8aq4zU8Y">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0rJTbJOeFMA" title="James Blunt - High (Official Original Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0rJTbJOeFMA" target="_blank" rel="noopener noreferrer">James Blunt - High (Official Original Video)</a></p><p class="youtube-embed-meta">Channel: James Blunt &middot; Views: 30.8M &middot; Uploaded: May 2007 &middot; Length: 3 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0rJTbJOeFMA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0rJTbJOeFMA">Open on YouTube</a></p></div></div></div>
 
 ### At Home
 
@@ -309,7 +307,6 @@ Many recurring temptations are sustained by convenience.
 If a television remote is always visible, streaming services open automatically and snacks are stored at eye level, entertainment and eating become default actions. Conversely, if a book is placed on the coffee table, exercise clothes are laid out the night before and snacks require preparation, the balance shifts.
 
 Useful home friction adjustments include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -331,7 +328,6 @@ Open tabs, constant notifications, email alerts and messaging platforms create a
 
 Environmental redesign at work can include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Turning off non-essential notifications.
@@ -343,7 +339,6 @@ Environmental redesign at work can include:
 </div>
 
 Research on choice architecture shows that subtle changes in the decision environment can alter behaviour without requiring major changes in [motivation]({{ 'motivation/' | relative_url }}). The environment influences what feels normal, obvious and easy at the moment of choice. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-2-dark.svg" | relative_url }}" alt="Temptation Setup illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Power of Defaults
@@ -362,8 +357,7 @@ For self-improvement, effective defaults include: <span class="citation-chip-wra
 
 The key insight is that many behaviours occur because they are the default, not because they were carefully chosen. Changing defaults often changes outcomes without requiring stronger motivation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0rJTbJOeFMA" title="James Blunt - High (Official Original Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0rJTbJOeFMA" target="_blank" rel="noopener noreferrer">James Blunt - High (Official Original Video)</a></p><p class="youtube-embed-meta">Channel: James Blunt &middot; Views: 30.8M &middot; Uploaded: May 2007 &middot; Length: 3 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0rJTbJOeFMA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0rJTbJOeFMA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_6p8aq4zU8Y" title="Angela Duckworth, James Gross, “Matter Over Mind: Situational Strategies for Self-Control”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_6p8aq4zU8Y" target="_blank" rel="noopener noreferrer">Angela Duckworth, James Gross, “Matter Over Mind: Situational Strategies for Self-Control”</a></p><p class="youtube-embed-meta">Channel: Yale University &middot; Views: 21.1K &middot; Uploaded: June 2016 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_6p8aq4zU8Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_6p8aq4zU8Y">Open on YouTube</a></p></div></div></div>
 
 ## How to Redesign One Recurring Temptation
 
@@ -381,14 +375,12 @@ Is the cue constantly present? Is access immediate? Does the behaviour require f
 
 The answer often reveals why the temptation keeps winning.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-3-dark.svg" | relative_url }}" alt="Temptation Setup illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What Friction Can Be Added?
 
 Add small obstacles rather than dramatic restrictions.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -402,7 +394,6 @@ Examples include:
 
 The obstacle does not need to be large. It only needs to interrupt automatic behaviour.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZoOpnvvGfF0" title="how to resist temptation so easily it retires from bullying you" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZoOpnvvGfF0" target="_blank" rel="noopener noreferrer">how to resist temptation so easily it retires from bullying you</a></p><p class="youtube-embed-meta">Channel: Newel of Knowledge &middot; Views: 61.3K &middot; Uploaded: November 2025 &middot; Length: 1 hour 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZoOpnvvGfF0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZoOpnvvGfF0">Open on YouTube</a></p></div></div></div>
 
 ### What Friction Can Be Removed From the Better Alternative?
@@ -410,7 +401,6 @@ The obstacle does not need to be large. It only needs to interrupt automatic beh
 Many self-improvement failures occur because the desired behaviour is less convenient than the unwanted one.
 
 Reduce the effort required for the preferred action:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 

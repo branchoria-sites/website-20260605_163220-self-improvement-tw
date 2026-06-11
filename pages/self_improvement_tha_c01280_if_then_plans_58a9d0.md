@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /self-improvement-that-works/
 nav_short_title: If Then Plans
 title: Can One Sentence Change Your Follow Through?
-title_full: Can One Sentence Change Your Follow Through? | Better Change
+title_full: Can One Sentence Change Your Follow Through?
 display_title_short: If Then Plans
 display_title: If Then Plans
 heading_title: Can One Sentence Change Your Follow Through?
@@ -504,7 +504,6 @@ image: /assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0-overview-
 
 If-then plans are one of the most practical tools in evidence-based [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) because they move a decision out of the tempting moment. Instead of relying on [willpower]({{ 'willpower/' | relative_url }}) at 10.45 pm, in front of the fridge, or with a phone already in your hand, you make a prior rule: “If this cue happens, then I will do that response.” In the research literature these are usually called implementation intentions: plans that connect a specific situation with a specific action in advance. They are designed to help people notice a predictable cue and respond quickly, rather than renegotiate the goal under pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intention effects are stronger when self-regulatory problems bes...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0-overview.webp" | relative_url }}" alt="Overview image for If Then Plans" loading="eager" decoding="sync" fetchpriority="high">
 That is why if-then plans fit the branch of self improvement that actually works. They are not affirmations, personality makeovers or vague commitments to “try harder”. They are small behavioural policies for moments that regularly derail good intentions: the snack cupboard, the sofa, the pub invitation, the open browser tab, the awkward conversation, the alarm clock. The evidence is strongest when the goal is already genuinely endorsed, the obstacle is predictable, and the planned response is concrete enough to do without a fresh debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Implementation Intentions and Goal Achievement</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementDecember 31, 2006 — Implementation intentions were effective in promoting...</span><span class="citation-popover-meta">Published: December 31, 2006</span></span></span>
 
@@ -522,7 +521,6 @@ This matters because temptations often win by compressing decision time. When ti
 
 The influential meta-analysis by Peter Gollwitzer and Paschal Sheeran found a medium-to-large overall effect of implementation intentions on goal attainment across 94 independent tests, with evidence that they helped not only with starting goal pursuit but also with shielding ongoing pursuit from unwanted influences. That finding should not be read as “one sentence fixes everything”, but it does support the practical claim that cue-response plans can improve follow-through more reliably than [motivation]({{ 'motivation/' | relative_url }}) alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Implementation Intentions and Goal Achievement</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementDecember 31, 2006 — Implementation intentions were effective in promoting...</span><span class="citation-popover-meta">Published: December 31, 2006</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0-Illustration-1-dark.svg" | relative_url }}" alt="If Then Plans illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Temptations Need a Different Kind of Plan
 
@@ -533,7 +531,6 @@ That distinction matters because many self-improvement failures are not caused b
 Researchers often distinguish action planning from coping planning. Action planning specifies when, where and how to act; coping planning anticipates barriers and decides how to overcome them. For temptations and obstacles, coping planning is often the missing piece. A plan to “study at 6 pm” may be good; a plan for “if my friends message me at 5.50 pm” may be the difference between studying and abandoning the session. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBPlanning mediates between intentions and physical activity</span><span class="citation-popover-snippet">DNBPlanning mediates between intentions and physical activity</span></span></span>
 
 Practical if-then plans for temptations usually fall into a few useful patterns:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -547,7 +544,6 @@ Practical if-then plans for temptations usually fall into a few useful patterns:
 </div>
 
 The recovery version is especially underrated. Many people plan for ideal behaviour but not for lapses. A lapse without a recovery rule easily becomes a story about failure: “I’ve blown it, so I may as well stop.” A recovery if-then plan changes the [meaning]({{ 'meaning/' | relative_url }}) of the lapse from a verdict into a cue.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pVUzwwGUCZ8" title="5 Neuroscience Tricks That Actually Break Bad Habits | Neuroscience Explains" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pVUzwwGUCZ8" target="_blank" rel="noopener noreferrer">5 Neuroscience Tricks That Actually Break Bad Habits | Neuroscience Explains</a></p><p class="youtube-embed-meta">Channel: The Logic Room &middot; Views: 1.0K &middot; Uploaded: January 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pVUzwwGUCZ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pVUzwwGUCZ8">Open on YouTube</a></p></div></div></div>
 
@@ -570,7 +566,6 @@ For temptations, the best candidates are usually:
 **A goal the person genuinely values.** Implementation intentions work as servants of goals, not replacements for them. The NCI summary notes that effects are stronger when if-then planning is supported by strong, activated goal intentions. A cue-response plan for a goal the person does not care about is just a sentence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intention effects are stronger when self-regulatory problems bes...</span></span></span>
 
 **A known obstacle rather than an imagined one.** The more accurately the “if” part matches real life, the more useful the plan becomes. This is why cue-monitoring can matter: in a study on unhealthy snacking, researchers tested whether people could identify personal snacking cues before forming plans. The results suggested that monitoring cues itself reduced unhealthy snacking in the short term, underlining a practical point: first discover the real trigger, then write the rule. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.wur.nl">[Wageningen Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.wur.nl</span><span class="citation-popover-title">identifying the if for if then plans combining implementation int</span><span class="citation-popover-snippet">identifying the if for if then plans combining implementation int</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0-Illustration-2-dark.svg" | relative_url }}" alt="If Then Plans illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The One-Sentence Policy
@@ -605,7 +600,6 @@ For difficult conversations:
 
 Good if-then plans are often slightly unglamorous. That is a strength. They convert “be disciplined” into a visible rule. They also make self-observation easier: either the cue appeared and the response happened, or it did not. That [feedback]({{ 'feedback/' | relative_url }}) helps the person adjust the plan rather than condemn their character.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RWvUl-aovqE" title="Stop procrastinating by using implementation intentions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RWvUl-aovqE" target="_blank" rel="noopener noreferrer">Stop procrastinating by using implementation intentions</a></p><p class="youtube-embed-meta">Channel: Presenting Psychology &middot; Views: 2.2K &middot; Uploaded: November 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RWvUl-aovqE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RWvUl-aovqE">Open on YouTube</a></p></div></div></div>
 
 ## Common If-Then Mistakes
@@ -630,7 +624,6 @@ That limitation is not a reason to discard if-then plans. It is a reason to use 
 
 The strongest practical reading is this: if-then plans help most when the problem is not “I lack all motivation” but “I keep failing at the same moment.” They are a tool for converting a predictable obstacle into a rehearsed response.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0-Illustration-3-dark.svg" | relative_url }}" alt="If Then Plans illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Test for a Good If-Then Plan
 
@@ -647,7 +640,6 @@ A good if-then plan should pass five tests.
 **It can be reviewed.** After a few days, the person should be able to ask: Did the cue appear? Did I notice it? Did I do the response? If not, was the cue wrong, the response too hard, or the goal not active enough?
 
 A simple review keeps the method honest. If the plan fails, the answer is not automatically “try harder”. It may be “make the cue more specific”, “choose a smaller response”, “remove the temptation from the environment”, or “admit this goal is not currently a priority”.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GafhLu7myt8" title="Still Grading at 9 PM? The Science-Backed Strategy That Makes Teaching Sustainable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GafhLu7myt8" target="_blank" rel="noopener noreferrer">Still Grading at 9 PM? The Science-Backed Strategy That Makes Teaching Sustainable</a></p><p class="youtube-embed-meta">Channel: Why Edify | STRONG Framework for Teachers &middot; Views: 10 &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GafhLu7myt8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GafhLu7myt8">Open on YouTube</a></p></div></div></div>
 
@@ -1248,4 +1240,4 @@ That is why one sentence can sometimes change follow-through. Not because the se
 
 41. <a id="endnote-41"></a>
    Source: prospectivepsych.org  
-   Link: <a href="https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf</a>  
+   Link: <a href="https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf</a>

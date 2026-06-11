@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /false-progress/
 nav_short_title: Calendar Test
 title: Does Your Goal Show Up on the Calendar?
-title_full: Does Your Goal Show Up on the Calendar? | False Progress
+title_full: Does Your Goal Show Up on the Calendar?
 display_title_short: Calendar Test
 display_title: Calendar Test
 heading_title: Does Your Goal Show Up on the Calendar?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:06:13'
-parent_title: When Self Improvement Feels Productive but Fails | Better Change
+parent_title: When Self Improvement Feels Productive but Fails
 parent_permalink: /false-progress/
 parent_nav_short_title: False Progress
 parent_heading_title: When Self Improvement Feels Productive but Fails
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_false_progress_cb1a89_calendar
 
 A simple question cuts through much of self-improvement theatre: if someone looked at your calendar from the past seven days, would they find evidence that the goal affected your behaviour?
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_calendar_test_eb024a-Illustration-1-dark.svg" | relative_url }}" alt="Calendar Test illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_calendar_test_eb024a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_calendar_test_eb024a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The calendar test is not a productivity system. It is a credibility check. A goal becomes more believable when it leaves dated traces of action carried out under ordinary conditions rather than existing only as intentions, plans, reading notes or motivational statements. The test does not ask whether a person cares about a goal. It asks whether the goal changed what happened on Tuesday afternoon, Thursday evening or Saturday morning.
 
@@ -287,7 +286,6 @@ This idea aligns with a large body of behaviour-change research showing that act
 One reason self-improvement theatre is persuasive is that mental activity is easy to confuse with behavioural activity. Reading about exercise, organising a study system or redesigning a goal tracker can create a genuine feeling of progress. Yet [behaviour change]({{ 'behaviour-change/' | relative_url }}) researchers consistently distinguish between intentions and the actions that follow from them. Implementation intentions—specific plans that connect a future situation with a concrete response—exist precisely because wanting something and doing something are not the same process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Implementation intentions are arg...</span></span></span>
 
 The calendar test makes this distinction visible. Instead of asking, “Am I serious about this goal?”, it asks:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -304,7 +302,6 @@ The point is not that every action must be formally scheduled. The point is that
 
 A useful rule is that memories are weak evidence, while dated records are stronger evidence. People often overestimate consistency when judging themselves retrospectively. A calendar does not eliminate bias, but it reduces the room available for wishful interpretation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rtufWBLOXgw" title="Discipline Expert: The Habit That Will Make Or Break Your Entire 2026!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rtufWBLOXgw" target="_blank" rel="noopener noreferrer">Discipline Expert: The Habit That Will Make Or Break Your Entire 2026!</a></p><p class="youtube-embed-meta">Channel: The Diary Of A CEO &middot; Views: 2.4M &middot; Uploaded: December 2025 &middot; Length: 2 hours 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rtufWBLOXgw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rtufWBLOXgw">Open on YouTube</a></p></div></div></div>
 
 ## What Counts as a Behavioural Trace?
@@ -312,7 +309,6 @@ A useful rule is that memories are weak evidence, while dated records are strong
 The calendar test is not about filling a schedule with self-improvement activities. It is about identifying actions that would still count if nobody saw them.
 
 A behavioural trace is evidence that a behaviour occurred at a particular time. Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -327,7 +323,6 @@ A behavioural trace is evidence that a behaviour occurred at a particular time. 
 </div>
 
 By contrast, these are often weak traces:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -347,7 +342,6 @@ The first has saved podcasts, organised flashcard apps and watched instructional
 
 The second person's goal has stronger behavioural evidence. The difference is not [motivation]({{ 'motivation/' | relative_url }}). The difference is visible execution.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_calendar_test_eb024a-Illustration-2-dark.svg" | relative_url }}" alt="Calendar Test illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_calendar_test_eb024a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_calendar_test_eb024a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Ordinary Conditions Matter More Than Perfect Days
 
@@ -356,7 +350,6 @@ The strongest evidence is not what happens during a highly motivated weekend. It
 Behavioural repetition in stable contexts is one of the foundations of habit formation. Habits develop through repeated performance in recurring situations, gradually reducing the need for conscious effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — Habit formation is widely discussed across di...</span></span></span>
 
 For this reason, the calendar test should focus on routine conditions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -373,7 +366,6 @@ This is also why small entries matter. Fifteen minutes of writing every weekday 
 
 The calendar test [rewards]({{ 'rewards/' | relative_url }}) recurrence rather than heroics.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g7scCwCIqqk" title="LOCK IN Your Hyper-Organized Life System (Advanced Playbook)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g7scCwCIqqk" target="_blank" rel="noopener noreferrer">LOCK IN Your Hyper-Organized Life System (Advanced Playbook)</a></p><p class="youtube-embed-meta">Channel: The Productivity Psychologist &middot; Views: 7.2K &middot; Uploaded: September 2025 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g7scCwCIqqk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g7scCwCIqqk">Open on YouTube</a></p></div></div></div>
 
 ## How to Review a Week Without Self-Judgment
@@ -384,7 +376,6 @@ At the end of a week, review the evidence as if examining someone else's records
 
 Instead of asking:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * “Was I disciplined?”
@@ -394,7 +385,6 @@ Instead of asking:
 </div>
 
 Ask:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -410,7 +400,6 @@ This approach resembles the logic behind self-monitoring interventions used in b
 Suppose a person intended to exercise five times but exercised twice. The calendar test does not immediately conclude that the person lacks commitment. It asks what happened on the missed days. Were the sessions unrealistic? Were they scheduled at vulnerable times? Did competing obligations consistently interfere?
 
 The review becomes diagnostic rather than punitive.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_calendar_test_eb024a-Illustration-3-dark.svg" | relative_url }}" alt="Calendar Test illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_calendar_test_eb024a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_calendar_test_eb024a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Turning Intentions Into Calendar Evidence
@@ -429,7 +418,6 @@ A practical sequence looks like this:
 6. Adjust based on reality rather than aspiration.
 
 The key insight is that the calendar is not merely a planning tool. It is also a record of contact between intention and action.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zrcfkb5AQzs" title="Try THIS Time Management Strategy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zrcfkb5AQzs" target="_blank" rel="noopener noreferrer">Try THIS Time Management Strategy</a></p><p class="youtube-embed-meta">Channel: Body Brain Alliance &middot; Views: 2.9K &middot; Uploaded: March 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zrcfkb5AQzs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zrcfkb5AQzs">Open on YouTube</a></p></div></div></div>
 
@@ -562,15 +550,15 @@ When a goal consistently shows up on the calendar, it has started to move from s
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Topps Premier League 2026 Goal Machine Limited Edition Watkins Wood Haaland Set"><img src="https://i.ebayimg.com/images/g/kqMAAeSwCOBpFK1D/s-l225.jpg" alt="Listing image for Topps Premier League 2026 Goal Machine Limited Edition Watkins Wood Haaland Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Productivity Organiser Weekly-Monthly, Year Planner, Pen Loop, Pocket Undated"><img src="https://i.ebayimg.com/images/g/mocAAOSwWbNeZ4fT/s-l225.jpg" alt="Listing image for A5 Productivity Organiser Weekly-Monthly, Year Planner, Pen Loop, Pocket Undated" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">Topps Premier League 2026 Goal Machine Limited Edition Watkins Wood Haaland Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">A5 Productivity Organiser Weekly-Monthly, Year Planner, Pen Loop, Pocket Undated</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -578,15 +566,15 @@ When a goal consistently shows up on the calendar, it has started to move from s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Topps Premier League 2025/2026 Goal Machine Set Of 3"><img src="https://i.ebayimg.com/images/g/hRYAAeSwzEppboJO/s-l225.jpg" alt="Listing image for Topps Premier League 2025/2026 Goal Machine Set Of 3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Text A5 Productivity Planner Weekly/Monthly/Yearly Pen Loop Undated"><img src="https://i.ebayimg.com/images/g/HSMAAOSwmPdnb-8a/s-l225.jpg" alt="Listing image for Personalised Text A5 Productivity Planner Weekly/Monthly/Yearly Pen Loop Undated" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">Topps Premier League 2025/2026 Goal Machine Set Of 3</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">Personalised Text A5 Productivity Planner Weekly/Monthly/Yearly Pen Loop Undated</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -594,15 +582,15 @@ When a goal consistently shows up on the calendar, it has started to move from s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Panini - Goal 1983 - Football Club Badges (Clear Plastic) - Complete Set Of 50"><img src="https://i.ebayimg.com/images/g/hxEAAeSwmvtp1555/s-l225.jpg" alt="Listing image for Panini - Goal 1983 - Football Club Badges (Clear Plastic) - Complete Set Of 50" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADHD Planner for Adults, A4 with 30 Pages Productivity Planner Notebook to Impro"><img src="https://i.ebayimg.com/images/g/3uQAAeSwTrNqIyzM/s-l225.jpg" alt="Listing image for ADHD Planner for Adults, A4 with 30 Pages Productivity Planner Notebook to Impro" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">Panini - Goal 1983 - Football Club Badges (Clear Plastic) - Complete Set Of 50</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">ADHD Planner for Adults, A4 with 30 Pages Productivity Planner Notebook to Impro</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -610,15 +598,15 @@ When a goal consistently shows up on the calendar, it has started to move from s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Panini FIFA World Cup 2026 - Adrenalyn XL Trading Cards #430 - #630"><img src="https://i.ebayimg.com/images/g/At4AAeSwWKxpkfYy/s-l225.jpg" alt="Listing image for Panini FIFA World Cup 2026 - Adrenalyn XL Trading Cards #430 - #630" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Personalised Productivity Planner Weekly/Monthly/Year Pen Loop Pocket Undated"><img src="https://i.ebayimg.com/images/g/LpkAAOSwTWFnb~mj/s-l225.jpg" alt="Listing image for A5 Personalised Productivity Planner Weekly/Monthly/Year Pen Loop Pocket Undated" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">Panini FIFA World Cup 2026 - Adrenalyn XL Trading Cards #430 - #630</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">A5 Personalised Productivity Planner Weekly/Monthly/Year Pen Loop Pocket Undated</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -626,7 +614,7 @@ When a goal consistently shows up on the calendar, it has started to move from s
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="does-your-goal-show-up-on-the-calendar-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -836,6 +824,7 @@ When a goal consistently shows up on the calendar, it has started to move from s
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

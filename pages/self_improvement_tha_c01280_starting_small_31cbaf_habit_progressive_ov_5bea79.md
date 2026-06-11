@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /small-starts/
 nav_short_title: Progression
 title: The Habit Growth Rule Most Plans Miss
-title_full: The Habit Growth Rule Most Plans Miss | Small Starts
+title_full: The Habit Growth Rule Most Plans Miss
 display_title_short: Progression
 display_title: Progression
 heading_title: The Habit Growth Rule Most Plans Miss
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:10:25'
-parent_title: How Small Habits Become Real Change | Better Change
+parent_title: How Small Habits Become Real Change
 parent_permalink: /small-starts/
 parent_nav_short_title: Small Starts
 parent_heading_title: How Small Habits Become Real Change
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_starting_small_31cbaf_habit_pr
 
 Starting small is an effective way to begin a habit, but it is not enough to keep improving. Once a behaviour becomes routine, repeating the exact same version often produces diminishing returns. The person may maintain the habit, but growth in skill, capacity, quality or independence slows. This is where a form of progressive overload becomes useful outside the gym.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_habit_progressive_ov_5bea79-Illustration-1-dark.svg" | relative_url }}" alt="Progression illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_habit_progressive_ov_5bea79-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_habit_progressive_ov_5bea79-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In habit building, progressive overload means deliberately increasing the demands of a routine after the current level feels normal. The increase does not have to involve more time. It can involve greater complexity, higher standards, more responsibility, reduced support, or more challenging conditions. The goal is to stay just beyond autopilot without creating so much difficulty that the habit breaks down. Research on habit formation, [behaviour change]({{ 'behaviour-change/' | relative_url }}) [techniques]({{ 'techniques/' | relative_url }}), skill acquisition and deliberate practice all point to the same underlying mechanism: learning continues when repetition is paired with appropriately increasing challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The premise of habit formation involv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15130871/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The authors describe the effects of practice conditions in motor learning (e.g., contextual interference, knowledge of results) within th...</span></span></span>
 
@@ -315,7 +314,6 @@ The simplest progression is extending the activity.
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Expanding a ten-minute daily walk to fifteen minutes.
@@ -326,7 +324,6 @@ Examples include:
 
 Duration is useful when endurance or volume is the desired outcome. However, it is often the least interesting form of progression because longer does not automatically mean better.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/INQqI9HYF-A" title="105 – How Difficult Should Practice Be? The Challenge Point Hypothesis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=INQqI9HYF-A" target="_blank" rel="noopener noreferrer">105 – How Difficult Should Practice Be? The Challenge Point Hypothesis</a></p><p class="youtube-embed-meta">Channel: Rob Gray &middot; Views: 1.5K &middot; Uploaded: May 2018 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=INQqI9HYF-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=INQqI9HYF-A">Open on YouTube</a></p></div></div></div>
 
 ### Increase Difficulty
@@ -334,7 +331,6 @@ Duration is useful when endurance or volume is the desired outcome. However, it 
 Difficulty rises when the task requires greater effort, concentration or skill.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -353,7 +349,6 @@ A habit can remain the same size while demanding better execution.
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Editing writing more carefully.
@@ -371,7 +366,6 @@ Complexity involves combining skills or handling more variables at once.
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Progressing from cooking simple meals to planning an entire week's menu.
@@ -382,7 +376,6 @@ Examples include:
 
 Complexity introduces new learning demands while preserving the original habit structure.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_habit_progressive_ov_5bea79-Illustration-2-dark.svg" | relative_url }}" alt="Progression illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_habit_progressive_ov_5bea79-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_habit_progressive_ov_5bea79-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Increase Independence
 
@@ -391,7 +384,6 @@ Many habits begin with support systems: [reminders]({{ 'reminders/' | relative_u
 A useful progression is gradually removing these supports.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--tension" markdown="1">
 
@@ -404,7 +396,6 @@ Examples include:
 
 Independence is often overlooked, yet it reflects genuine capability growth.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jn0mNn1Wo2k" title="Do Hard Things" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jn0mNn1Wo2k" target="_blank" rel="noopener noreferrer">Do Hard Things</a></p><p class="youtube-embed-meta">Channel: Productive Peter &middot; Views: 312.8K &middot; Uploaded: July 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jn0mNn1Wo2k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jn0mNn1Wo2k">Open on YouTube</a></p></div></div></div>
 
 ## How to Increase One Variable at a Time
@@ -416,7 +407,6 @@ A person might decide to read longer, choose harder material, take detailed note
 Behaviour-change frameworks frequently use graded tasks: a technique in which demands are increased gradually through achievable steps rather than abrupt leaps. Reviews of graded-task interventions suggest that structured progression works best when combined with clear goals and action plans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15130871/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The authors describe the effects of practice conditions in motor learning (e.g., contextual interference, knowledge of results) within th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/02640414.2023.2240630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineEffective practice and instruction: A skill acquisition...by AM Williams · 2023 · Cited by 118 — There are some c...</span></span></span>
 
 A practical rule is simple:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -433,7 +423,6 @@ WeekReading Habit1–3Read 10 pages daily4–6Read 15 pages daily7–9Read 15 pa
 
 Each stage adds challenge without changing everything at once.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_habit_progressive_ov_5bea79-Illustration-3-dark.svg" | relative_url }}" alt="Progression illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_habit_progressive_ov_5bea79-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_habit_progressive_ov_5bea79-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Signs You Are Progressing Too Slowly
 
@@ -449,7 +438,6 @@ Some habits become maintenance routines disguised as growth routines.
 Interestingly, research on behaviour-change systems shows that people often drift towards easier versions of interventions over time while still believing they will return to harder versions later. In practice, that return frequently does not happen automatically. Progress usually requires a deliberate decision to raise the challenge again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2101.11743" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Not Now, Ask Later: Users Weaken Their Behavior Change Regimen Over Time, But Expect To Re-Strengthen It ImminentlyJanuary 27, 2021...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
 
 Comfort is not necessarily failure, but prolonged comfort is often a signal that growth has slowed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CxvKQjNZC-Y" title="The Challenge Point Framework by Dr. Mark Guadagnoli &amp; Dr Tim Lee, discussed by Matthew Cooke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CxvKQjNZC-Y" target="_blank" rel="noopener noreferrer">The Challenge Point Framework by Dr. Mark Guadagnoli &amp; Dr Tim Lee, discussed by Matthew Cooke</a></p><p class="youtube-embed-meta">Channel: Game Like Training &middot; Views: 1.4K &middot; Uploaded: February 2018 &middot; Length: 1 minute 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CxvKQjNZC-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CxvKQjNZC-Y">Open on YouTube</a></p></div></div></div>
 
@@ -594,15 +582,15 @@ This is how a habit remains sustainable while still moving somewhere. The behavi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Habit Tracker Habit Tracking Notebook | One Month to a Page | Small"><img src="https://i.ebayimg.com/images/g/qnQAAOSwdDNjggq1/s-l225.jpg" alt="Listing image for Daily Habit Tracker Habit Tracking Notebook | One Month to a Page | Small" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ..."><img src="https://i.ebayimg.com/images/g/shQAAeSw4ABqEFiK/s-l225.jpg" alt="Listing image for Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Daily Habit Tracker Habit Tracking Notebook | One Month to a Page | Small</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -610,15 +598,15 @@ This is how a habit remains sustainable while still moving somewhere. The behavi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Small"><img src="https://i.ebayimg.com/images/g/mY0AAeSwSihqIhbA/s-l225.jpg" alt="Listing image for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Small" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board"><img src="https://i.ebayimg.com/images/g/BOYAAeSwxgZpukgY/s-l225.jpg" alt="Listing image for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Small</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -626,15 +614,15 @@ This is how a habit remains sustainable while still moving somewhere. The behavi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a"><img src="https://i.ebayimg.com/images/g/HuUAAeSwIiFqGz~v/s-l225.jpg" alt="Listing image for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board"><img src="https://i.ebayimg.com/images/g/OiYAAeSwK4VqHk0N/s-l225.jpg" alt="Listing image for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -642,15 +630,15 @@ This is how a habit remains sustainable while still moving somewhere. The behavi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook"><img src="https://i.ebayimg.com/images/g/ogYAAeSwQW9p7oHN/s-l225.jpg" alt="Listing image for Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Faith-Based Daily Planner: Vision Board &amp; Habit Tracker in Ultra Violet"><img src="https://i.ebayimg.com/images/g/sE0AAeSwSBNpjUl~/s-l225.jpg" alt="Listing image for 2026 Faith-Based Daily Planner: Vision Board &amp; Habit Tracker in Ultra Violet" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Faith-Based Daily Planner: Vision Board &amp; Habit Tracker in Ultra Violet</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -658,7 +646,7 @@ This is how a habit remains sustainable while still moving somewhere. The behavi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-habit-growth-rule-most-plans-miss-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="the-habit-growth-rule-most-plans-miss-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -868,6 +856,7 @@ This is how a habit remains sustainable while still moving somewhere. The behavi
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

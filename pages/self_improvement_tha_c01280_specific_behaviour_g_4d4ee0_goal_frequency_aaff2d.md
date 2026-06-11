@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /goal-setting/
 nav_short_title: Frequency
 title: Should Your Goal Really Be Daily?
-title_full: Should Your Goal Really Be Daily? | Goal Setting
+title_full: Should Your Goal Really Be Daily?
 display_title_short: Frequency
 display_title: Frequency
 heading_title: Should Your Goal Really Be Daily?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:15:27'
-parent_title: Why Vague Goals Fail So Often | Better Change
+parent_title: Why Vague Goals Fail So Often
 parent_permalink: /goal-setting/
 parent_nav_short_title: Goal Setting
 parent_heading_title: Why Vague Goals Fail So Often
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_go
 
 A common mistake in self-improvement is assuming that the most effective goal is the most frequent one. People often default to “every day” because it sounds committed and disciplined. In practice, however, the best goal frequency is usually the one that still works when life becomes inconvenient. Illness, travel, family responsibilities, busy work periods and simple fatigue are not rare interruptions; they are normal parts of life.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_goal_frequency_aaff2d-Illustration-1-dark.svg" | relative_url }}" alt="Frequency illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_goal_frequency_aaff2d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_goal_frequency_aaff2d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A behaviour goal succeeds when it can be repeated over months, not when it survives a perfect week. Research on habit formation and self-regulation consistently points toward repetition in stable contexts, but it does not suggest that every worthwhile behaviour must occur daily. Sustainable frequency matters because missed days are inevitable, and a goal that collapses after ordinary disruption is often poorly designed rather than poorly motivated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The meta-analysis showed significant...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span>
 
@@ -320,7 +319,6 @@ Research on habit formation also suggests that [automaticity]({{ 'automaticity/'
 
 This distinction matters. A goal that can survive occasional misses is often stronger than a goal that demands uninterrupted compliance.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iJ5niLZx6xo" title="This is Why New Habits Fail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iJ5niLZx6xo" target="_blank" rel="noopener noreferrer">This is Why New Habits Fail</a></p><p class="youtube-embed-meta">Channel: The Productivity Psychologist &middot; Views: 271 &middot; Uploaded: January 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iJ5niLZx6xo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iJ5niLZx6xo">Open on YouTube</a></p></div></div></div>
 
 ## Building Recovery Into the Schedule
@@ -361,12 +359,10 @@ Different behaviours benefit from different frequencies.
 
 A useful rule is to match the schedule to the nature of the behaviour rather than forcing every goal into a daily format.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_goal_frequency_aaff2d-Illustration-2-dark.svg" | relative_url }}" alt="Frequency illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_goal_frequency_aaff2d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_goal_frequency_aaff2d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When daily often makes sense
 
 Daily frequency can work well when the behaviour:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -379,7 +375,6 @@ Daily frequency can work well when the behaviour:
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Taking medication.
@@ -391,13 +386,11 @@ Examples include:
 
 These behaviours are small enough that daily repetition creates consistency without creating excessive burden.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iw8L87W_70U" title="Webinar: The Science Behind The WHO Guidelines on Physical Activity &amp; Sedentary Behaviour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iw8L87W_70U" target="_blank" rel="noopener noreferrer">Webinar: The Science Behind The WHO Guidelines on Physical Activity &amp; Sedentary Behaviour</a></p><p class="youtube-embed-meta">Channel: ISPAH &middot; Views: 3.9K &middot; Uploaded: June 2021 &middot; Length: 1 hour 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iw8L87W_70U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iw8L87W_70U">Open on YouTube</a></p></div></div></div>
 
 ### When several times per week is often better
 
 A less frequent schedule may work better when the behaviour:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -410,7 +403,6 @@ A less frequent schedule may work better when the behaviour:
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Gym training.
@@ -422,14 +414,12 @@ Examples include:
 
 Attempting these daily can create unnecessary friction. Three or four successful sessions each week often produce better long-term adherence than seven partially completed attempts.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_goal_frequency_aaff2d-Illustration-3-dark.svg" | relative_url }}" alt="Frequency illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_goal_frequency_aaff2d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_goal_frequency_aaff2d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When weekly goals are the right unit
 
 Some goals naturally belong at the weekly level.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -443,7 +433,6 @@ Examples include:
 For these behaviours, forcing daily action may add complexity without adding value.
 
 The schedule should reflect the behaviour's natural rhythm.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/baBs0--gxjw" title="Stephen Guise on Using “Elastic Habits” to Create Positive Changes That Stick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=baBs0--gxjw" target="_blank" rel="noopener noreferrer">Stephen Guise on Using “Elastic Habits” to Create Positive Changes That Stick</a></p><p class="youtube-embed-meta">Channel: Muscle for Life with Mike Matthews &middot; Views: 4.8K &middot; Uploaded: December 2019 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=baBs0--gxjw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=baBs0--gxjw">Open on YouTube</a></p></div></div></div>
 
@@ -594,15 +583,15 @@ The most effective behaviour goals are not the most ambitious on paper. They are
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Topps Premier League 2026 Tins Globaller Goal Machine Big Game Baller Full Set"><img src="https://i.ebayimg.com/images/g/uVIAAeSweDNp5N1M/s-l225.jpg" alt="Listing image for Topps Premier League 2026 Tins Globaller Goal Machine Big Game Baller Full Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60 Minute Visual Timer Kitchen Cooking Timer Homework Focus Aid"><img src="https://i.ebayimg.com/images/g/OQkAAeSwHpNqDBue/s-l225.jpg" alt="Listing image for 60 Minute Visual Timer Kitchen Cooking Timer Homework Focus Aid" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">Topps Premier League 2026 Tins Globaller Goal Machine Big Game Baller Full Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" target="_blank" rel="sponsored noopener noreferrer">60 Minute Visual Timer Kitchen Cooking Timer Homework Focus Aid</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -610,15 +599,15 @@ The most effective behaviour goals are not the most ambitious on paper. They are
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Topps Premier League 2026 Goal Machine Limited Edition Watkins Wood Haaland Set"><img src="https://i.ebayimg.com/images/g/KpIAAeSwih9pQD2K/s-l225.jpg" alt="Listing image for Topps Premier League 2026 Goal Machine Limited Edition Watkins Wood Haaland Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60-Minute Visual Timer- Clock Timer for Kids perfect Time Management Tool"><img src="https://i.ebayimg.com/images/g/o2wAAOSwVEVizEf~/s-l225.jpg" alt="Listing image for 60-Minute Visual Timer- Clock Timer for Kids perfect Time Management Tool" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">Topps Premier League 2026 Goal Machine Limited Edition Watkins Wood Haaland Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" target="_blank" rel="sponsored noopener noreferrer">60-Minute Visual Timer- Clock Timer for Kids perfect Time Management Tool</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -626,15 +615,15 @@ The most effective behaviour goals are not the most ambitious on paper. They are
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Topps 2026 Premier League Goal Machines Set SEALED"><img src="https://i.ebayimg.com/images/g/~psAAeSwyUlqHf-8/s-l225.jpg" alt="Listing image for Topps 2026 Premier League Goal Machines Set SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60-Minute Visual Timer- Clock Timer For Kids Perfect Time Management Tool UK"><img src="https://i.ebayimg.com/images/g/2RUAAOSwpAVoB0xC/s-l225.jpg" alt="Listing image for 60-Minute Visual Timer- Clock Timer For Kids Perfect Time Management Tool UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">Topps 2026 Premier League Goal Machines Set SEALED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" target="_blank" rel="sponsored noopener noreferrer">60-Minute Visual Timer- Clock Timer For Kids Perfect Time Management Tool UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -642,15 +631,15 @@ The most effective behaviour goals are not the most ambitious on paper. They are
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Topps Blue/Grey Back 1976 UK Football Gum Card 1 to 165 #Pick from List"><img src="https://i.ebayimg.com/images/g/uDoAAeSwpFxp3Cpv/s-l225.jpg" alt="Listing image for Topps Blue/Grey Back 1976 UK Football Gum Card 1 to 165 #Pick from List" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yunbaoit Visual Timer with Night Light, 60-Minute Countdown Timer for Kids and A"><img src="https://i.ebayimg.com/images/g/Wq4AAeSw2J9psrEr/s-l225.jpg" alt="Listing image for Yunbaoit Visual Timer with Night Light, 60-Minute Countdown Timer for Kids and A" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">Topps Blue/Grey Back 1976 UK Football Gum Card 1 to 165 #Pick from List</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" target="_blank" rel="sponsored noopener noreferrer">Yunbaoit Visual Timer with Night Light, 60-Minute Countdown Timer for Kids and A</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -658,7 +647,7 @@ The most effective behaviour goals are not the most ambitious on paper. They are
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="should-your-goal-really-be-daily-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-your-goal-really-be-daily-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="should-your-goal-really-be-daily-visual-timer" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -868,6 +857,7 @@ The most effective behaviour goals are not the most ambitious on paper. They are
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

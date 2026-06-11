@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /health-habits/
 nav_short_title: Missed Days
 title: Does missing one day ruin a habit?
-title_full: Does missing one day ruin a habit? | Health Habits
+title_full: Does missing one day ruin a habit?
 display_title_short: Missed Days
 display_title: Missed Days
 heading_title: Does missing one day ruin a habit?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 16:17:15'
-parent_title: What Health Habits Teach About Change | Better Change
+parent_title: What Health Habits Teach About Change
 parent_permalink: /health-habits/
 parent_nav_short_title: Health Habits
 parent_heading_title: What Health Habits Teach About Change
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_mi
 
 Does missing one day ruin a habit? The evidence says no. One of the most persistent mistakes in self-improvement is treating a habit as a fragile streak that must remain unbroken. In reality, [health habits]({{ 'health-habits/' | relative_url }}) are built through repeated returns to the same cue and behaviour over time, not through flawless execution. The research that helped popularise the modern understanding of habit formation found that missing a single opportunity to perform a behaviour did not significantly disrupt the habit-building process. What mattered was the larger pattern of repetition. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">How long does it take to form a habit? &#124; UCL News4 Aug 2009 — In our study we showed that missing one opportunity did not significantly i...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-1-dark.svg" | relative_url }}" alt="Missed Days illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because many people abandon habits not when they fail repeatedly, but when they fail once. A missed walk, skipped workout, or forgotten flossing session can trigger an all-or-nothing reaction: “the streak is broken, so I may as well stop”. The evidence points in the opposite direction. Effective health habit formation assumes imperfect weeks and focuses on recovery rather than perfection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Missing the occasio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Missing the occasio...</span></span></span>
 
@@ -290,7 +289,6 @@ The streak mindset also creates a psychological cliff edge. Progress appears bin
 
 For health habits, this is especially unhelpful because illness, travel, family obligations, poor sleep, work deadlines, and unexpected events are inevitable. A system that assumes uninterrupted performance is often less realistic than the life it is supposed to improve.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MbXzY8kpA8Q" title="Never Skip Twice: The Rule That Changed My Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MbXzY8kpA8Q" target="_blank" rel="noopener noreferrer">Never Skip Twice: The Rule That Changed My Life</a></p><p class="youtube-embed-meta">Channel: MindFlow &middot; Views: 9.8K &middot; Uploaded: March 2025 &middot; Length: 4 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MbXzY8kpA8Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MbXzY8kpA8Q">Open on YouTube</a></p></div></div></div>
 
 ## How stable repetition absorbs imperfect days
@@ -300,7 +298,6 @@ The strongest evidence against the [streak trap]({{ 'streak-trap/' | relative_ur
 This finding makes sense when viewed as a learning process rather than a scorekeeping exercise.
 
 A habit develops because the brain repeatedly encounters a stable relationship:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -324,7 +321,6 @@ The evidence suggests that habit strength grows through accumulated repetitions.
 
 This reframing shifts attention from preserving perfection to preserving continuity.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-2-dark.svg" | relative_url }}" alt="Missed Days illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Designing a restart plan before lapses happen
 
@@ -338,7 +334,6 @@ A stronger approach is to define recovery rules before they are needed.
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * **Return at the next opportunity.** If the morning walk is missed, take the next scheduled walk rather than trying to compensate immediately.
@@ -350,15 +345,13 @@ Examples include:
 
 These strategies keep attention on the behaviour that actually predicts habit formation: returning to the cue repeatedly enough that the association continues to strengthen. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">Taylor &amp; Francis Online How does habit form?</span><span class="citation-popover-snippet">Guidelines for tracking real-world...by B Gardner · 2022 · Cited by 106 — This paper proposes methodological criteria for studies tracki...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LwTfZmFgMjs" title="What the Hell Effect: The REAL Reason You Often Binge on a Bad Habit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LwTfZmFgMjs" target="_blank" rel="noopener noreferrer">What the Hell Effect: The REAL Reason You Often Binge on a Bad Habit</a></p><p class="youtube-embed-meta">Channel: Develop Good Habits &middot; Views: 3.4K &middot; Uploaded: October 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LwTfZmFgMjs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LwTfZmFgMjs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2-y3n3Hppno" title="The Real Reason You Can&#x27;t Stay Consistent (Even When You Try)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2-y3n3Hppno" target="_blank" rel="noopener noreferrer">The Real Reason You Can&#x27;t Stay Consistent (Even When You Try)</a></p><p class="youtube-embed-meta">Channel: What’s The Next Level &middot; Views: 3.0K &middot; Uploaded: April 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2-y3n3Hppno" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2-y3n3Hppno">Open on YouTube</a></p></div></div></div>
 
 ### A better metric than streak length
 
 For health habits, a more useful question than “How long is my streak?” is “How often do I recover?”
 
 Consider two people trying to establish a daily walking habit:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -371,7 +364,6 @@ The second person has the stronger habit-building process despite having the sho
 
 This illustrates a broader principle in evidence-based self-improvement: resilience of repetition matters more than perfection of repetition. Habit formation occurs in the real world, where interruptions are unavoidable. The individuals who succeed are often not those who never miss a day, but those who treat missed days as temporary deviations rather than evidence that the project has failed. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">How long does it take to form a habit? &#124; UCL News4 Aug 2009 — In our study we showed that missing one opportunity did not significantly i...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-3-dark.svg" | relative_url }}" alt="Missed Days illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_missed_day_habit_str_6b66a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical takeaway
 
@@ -379,9 +371,7 @@ The habit streak trap confuses uninterrupted performance with successful habit f
 
 For health habits, the most useful standard is not “never miss”. It is “never let one miss become the reason you stop”. In imperfect weeks, recovery is not a backup strategy. It is part of the habit itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Missing the occasio...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2-y3n3Hppno" title="The Real Reason You Can&#x27;t Stay Consistent (Even When You Try)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2-y3n3Hppno" target="_blank" rel="noopener noreferrer">The Real Reason You Can&#x27;t Stay Consistent (Even When You Try)</a></p><p class="youtube-embed-meta">Channel: What’s The Next Level &middot; Views: 3.0K &middot; Uploaded: April 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2-y3n3Hppno" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2-y3n3Hppno">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LwTfZmFgMjs" title="What the Hell Effect: The REAL Reason You Often Binge on a Bad Habit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LwTfZmFgMjs" target="_blank" rel="noopener noreferrer">What the Hell Effect: The REAL Reason You Often Binge on a Bad Habit</a></p><p class="youtube-embed-meta">Channel: Develop Good Habits &middot; Views: 3.4K &middot; Uploaded: October 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LwTfZmFgMjs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LwTfZmFgMjs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -516,11 +506,11 @@ For health habits, the most useful standard is not “never miss”. It is “ne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun"><img src="https://i.ebayimg.com/images/g/FskAAeSwncVpaL0F/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/RPkAAeSwAjhqKFRS/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
@@ -532,11 +522,11 @@ For health habits, the most useful standard is not “never miss”. It is “ne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun"><img src="https://i.ebayimg.com/images/g/cOEAAeSw5jFppzlq/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1Pc Habit Tracker Calendar to Do List Planner Spiral Bound Daily Weekly and Mont"><img src="https://i.ebayimg.com/images/g/HOMAAeSwHUxp6goB/s-l225.jpg" alt="Listing image for 1Pc Habit Tracker Calendar to Do List Planner Spiral Bound Daily Weekly and Mont" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">1Pc Habit Tracker Calendar to Do List Planner Spiral Bound Daily Weekly and Mont</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
@@ -548,11 +538,11 @@ For health habits, the most useful standard is not “never miss”. It is “ne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound"><img src="https://i.ebayimg.com/images/g/WrEAAeSwMX9pTtTw/s-l225.jpg" alt="Listing image for A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="https://i.ebayimg.com/images/g/RVoAAOSwSo9lDgFu/s-l225.jpg" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-missing-one-day-ruin-a-habit-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="does-missing-one-day-ruin-a-habit-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
         <div class="fr-book-actions">
@@ -774,6 +764,7 @@ For health habits, the most useful standard is not “never miss”. It is “ne
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

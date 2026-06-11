@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /goals-vs-systems/
 nav_short_title: Busywork Trap
 title: When the System Becomes the Goal
-title_full: When the System Becomes the Goal | Goals vs Systems
+title_full: When the System Becomes the Goal
 display_title_short: Busywork Trap
 display_title: Busywork Trap
 heading_title: When the System Becomes the Goal
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:17:56'
-parent_title: Do Goals or Systems Matter More? | Better Change
+parent_title: Do Goals or Systems Matter More?
 parent_permalink: /goals-vs-systems/
 parent_nav_short_title: Goals vs Systems
 parent_heading_title: Do Goals or Systems Matter More?
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_system
 
 A productivity system becomes busywork when the activities designed to [support]({{ 'support/' | relative_url }}) progress start competing with the progress itself. The calendar, tracker, dashboard, note-taking method or review process may look organised and disciplined, yet the underlying goal moves little. In the language of systems design, the mechanism has begun protecting itself.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-1-dark.svg" | relative_url }}" alt="Busywork Trap illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is a common failure mode in self-improvement because systems are meant to create consistency. Tracking, planning and reviewing can genuinely improve [behaviour change]({{ 'behaviour-change/' | relative_url }}). Research on habit formation and digital behaviour-change interventions consistently finds that self-monitoring and feedback are among the most effective [techniques]({{ 'techniques/' | relative_url }}) for sustaining desired behaviours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
@@ -283,7 +282,6 @@ Most productivity systems begin with a legitimate need. Someone wants to exercis
 The [warning signs]({{ 'warning-signs/' | relative_url }}) appear when maintaining the system becomes increasingly detached from the outcome.
 
 Common examples include:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -313,7 +311,6 @@ As a result, people can drift towards activities that create immediate signals o
 
 The danger is not laziness. It is misalignment. A person may work extremely hard while optimising for indicators that only loosely relate to the intended result.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MV0LK4r-xYM" title="The Difference Between Being Busy and Being Productive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MV0LK4r-xYM" target="_blank" rel="noopener noreferrer">The Difference Between Being Busy and Being Productive</a></p><p class="youtube-embed-meta">Channel: Dave Edwards &middot; Views: 148 &middot; Uploaded: April 2026 &middot; Length: 4 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MV0LK4r-xYM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MV0LK4r-xYM">Open on YouTube</a></p></div></div></div>
 
 ### Complexity Creates a False Sense of Control
@@ -332,7 +329,6 @@ One of the most revealing mechanisms behind busywork is target replacement.
 
 The original goal might be:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Learn a language.
@@ -343,7 +339,6 @@ The original goal might be:
 </div>
 
 The operational target gradually becomes: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.splunk.com/en_us/blog/learn/goodharts-law.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: splunk.com">[splunk.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">splunk.com</span><span class="citation-popover-title">goodharts law</span><span class="citation-popover-snippet">What is Goodhart&#x27;s Law?6 Mar 2024 — Goodhart&#x27;s Law warns of distorted metrics when tied to goals: It states, &quot;When a measure become...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -357,7 +352,6 @@ The operational target gradually becomes: <span class="citation-chip-wrap"><a cl
 The replacement target is easier to observe and control. Over time, [attention shifts]({{ 'attention-shift/' | relative_url }}) towards preserving the proxy rather than pursuing the underlying objective. Analysts discussing Goodhart's Law frequently describe this as a form of metric distortion or target substitution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: changeassociates.com">[Change Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">changeassociates.com</span><span class="citation-popover-snippet">Change AssociatesGoodhart&#x27;s Law in change programmesGoodhart&#x27;s Law warns us: “When a measure becomes a target, it ceases to be a good mea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kpitree.co/guides/frameworks/goodharts-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kpitree.co">[KPI Tree]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kpitree.co</span><span class="citation-popover-title">KPI Tree Goodhart&#x27;s Law and metric design</span><span class="citation-popover-snippet">Goodhart&#x27;s Law and metric design - KPI TreeGoodhart&#x27;s Law warns that when a measure becomes a target, it ceases to be a good measure. Lea...</span></span></span>
 
 The result is a peculiar form of failure: the system appears healthy according to its own measures while the outcome stagnates.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-2-dark.svg" | relative_url }}" alt="Busywork Trap illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Review Questions That Reconnect Method and Outcome
@@ -376,7 +370,6 @@ Would the underlying behaviour continue?
 
 If the answer is yes, the tool is probably supporting behaviour rather than controlling it. If the answer is no, the system may have become dependent on its own maintenance.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GeirTEgX-lE" title="The Fake Productivity Trap Killing Your Startup (And How to Escape It)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GeirTEgX-lE" target="_blank" rel="noopener noreferrer">The Fake Productivity Trap Killing Your Startup (And How to Escape It)</a></p><p class="youtube-embed-meta">Channel: Ash Maurya - LEANFoundry &middot; Views: 1.3K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GeirTEgX-lE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GeirTEgX-lE">Open on YouTube</a></p></div></div></div>
 
 ### Which Parts Directly Change Behaviour?
@@ -384,7 +377,6 @@ If the answer is yes, the tool is probably supporting behaviour rather than cont
 Every component should earn its place.
 
 Ask:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -405,7 +397,6 @@ Pages written are a proxy for completing a manuscript. Study hours are a proxy f
 
 Proxy measures are often necessary, but they should remain visibly connected to the result they represent. If the proxy becomes the only thing reviewed, drift becomes more likely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Goodhart&#x27;s law</span><span class="citation-popover-snippet">Goodhart&#x27;s law</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kpitree.co/guides/frameworks/goodharts-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kpitree.co">[KPI Tree]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kpitree.co</span><span class="citation-popover-title">KPI Tree Goodhart&#x27;s Law and metric design</span><span class="citation-popover-snippet">Goodhart&#x27;s Law and metric design - KPI TreeGoodhart&#x27;s Law warns that when a measure becomes a target, it ceases to be a good measure. Lea...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-3-dark.svg" | relative_url }}" alt="Busywork Trap illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What Has Improved in the Last Month?
 
@@ -421,9 +412,7 @@ The busywork trap emerges when the supporting structure acquires its own priorit
 
 A healthy productivity system remains willing to simplify itself, discard unused components and change course whenever the original purpose demands it. The outcome remains the master; the system remains the servant.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s4Oc7RE7xWY" title="You Are Working Hard, But Doing Nothing (Fake Productivity)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s4Oc7RE7xWY" target="_blank" rel="noopener noreferrer">You Are Working Hard, But Doing Nothing (Fake Productivity)</a></p><p class="youtube-embed-meta">Channel: Anli &middot; Views: 38 &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s4Oc7RE7xWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s4Oc7RE7xWY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -542,15 +531,15 @@ A healthy productivity system remains willing to simplify itself, discard unused
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Vision Board And Goal Planner: Manifest Your Best Life With Planning"><img src="https://i.ebayimg.com/images/g/oqIAAeSwpFxp14Co/s-l225.jpg" alt="Listing image for 2026 Vision Board And Goal Planner: Manifest Your Best Life With Planning" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Undated Weekly &amp; Monthly Planner with Stickers for Goals &amp; Productivity. Size A5"><img src="https://i.ebayimg.com/images/g/45AAAeSwB81pExkI/s-l225.jpg" alt="Listing image for Undated Weekly &amp; Monthly Planner with Stickers for Goals &amp; Productivity. Size A5" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" target="_blank" rel="sponsored noopener noreferrer">2026 Vision Board And Goal Planner: Manifest Your Best Life With Planning</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">Undated Weekly &amp; Monthly Planner with Stickers for Goals &amp; Productivity. Size A5</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +547,15 @@ A healthy productivity system remains willing to simplify itself, discard unused
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vision Board Planner Goals Manifestation Board Motivation Pink Dream Believe"><img src="https://i.ebayimg.com/images/g/3KAAAeSwi5hp0Voj/s-l225.jpg" alt="Listing image for Vision Board Planner Goals Manifestation Board Motivation Pink Dream Believe" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g"><img src="https://i.ebayimg.com/images/g/TeoAAeSwR-pqGv2L/s-l225.jpg" alt="Listing image for A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" target="_blank" rel="sponsored noopener noreferrer">Vision Board Planner Goals Manifestation Board Motivation Pink Dream Believe</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,15 +563,15 @@ A healthy productivity system remains willing to simplify itself, discard unused
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Life &amp; Goal Planner - a 12 Month Journey to Crush Your Goals, Increase Productiv"><img src="https://i.ebayimg.com/images/g/QDsAAeSw60JqHkyz/s-l225.jpg" alt="Listing image for Life &amp; Goal Planner - a 12 Month Journey to Crush Your Goals, Increase Productiv" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goal-Focused Journal Planner - Productivity Planner &amp; Goal Success Daily Planner"><img src="https://i.ebayimg.com/images/g/1u8AAeSw8MdoyXtx/s-l225.jpg" alt="Listing image for Goal-Focused Journal Planner - Productivity Planner &amp; Goal Success Daily Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" target="_blank" rel="sponsored noopener noreferrer">Life &amp; Goal Planner - a 12 Month Journey to Crush Your Goals, Increase Productiv</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">Goal-Focused Journal Planner - Productivity Planner &amp; Goal Success Daily Planner</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -590,15 +579,15 @@ A healthy productivity system remains willing to simplify itself, discard unused
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Vision Board And Goal Planner: Manifest Your Best Life With Planning"><img src="https://i.ebayimg.com/images/g/yUcAAeSwiJ5p8YWm/s-l225.jpg" alt="Listing image for 2026 Vision Board And Goal Planner: Manifest Your Best Life With Planning" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner Desk Pad Undated with To Do List Productivity OrganiserPU 120g"><img src="https://i.ebayimg.com/images/g/HmAAAeSwdbJqGvZt/s-l225.jpg" alt="Listing image for A4 Weekly Planner Desk Pad Undated with To Do List Productivity OrganiserPU 120g" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" target="_blank" rel="sponsored noopener noreferrer">2026 Vision Board And Goal Planner: Manifest Your Best Life With Planning</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner Desk Pad Undated with To Do List Productivity OrganiserPU 120g</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner board">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -606,7 +595,7 @@ A healthy productivity system remains willing to simplify itself, discard unused
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-goal-planner-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner board" data-ebay-reference="when-the-system-becomes-the-goal-goal-planner-board" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -816,6 +805,7 @@ A healthy productivity system remains willing to simplify itself, discard unused
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

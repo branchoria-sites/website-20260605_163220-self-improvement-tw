@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /motivation/
 nav_short_title: Shame vs Values
 title: When goals motivate by hurting first
-title_full: When goals motivate by hurting first | Motivation
+title_full: When goals motivate by hurting first
 display_title_short: Shame vs Values
 display_title: Shame vs Values
 heading_title: When goals motivate by hurting first
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:19:35'
-parent_title: Why Chosen Goals Last Longer | Better Change
+parent_title: Why Chosen Goals Last Longer
 parent_permalink: /motivation/
 parent_nav_short_title: Motivation
 parent_heading_title: Why Chosen Goals Last Longer
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_sham
 
 Many self-improvement goals fail not because the target is wrong, but because the [motivation]({{ 'motivation/' | relative_url }}) behind it is emotionally expensive. The same behaviour—going to the gym, studying, [saving]({{ 'saving/' | relative_url }}) money, eating differently—can feel either like self-punishment or like a chosen act of self-respect. The difference often lies in whether the goal is powered by shame or by personal values.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_shame_vs_values_goal_f3526a-Illustration-1-dark.svg" | relative_url }}" alt="Shame vs Values illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_shame_vs_values_goal_f3526a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_shame_vs_values_goal_f3526a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Shame-based goals create urgency by making a person feel inadequate, flawed, or unacceptable until they change. Values-based goals connect action to something the person genuinely cares about, such as health, mastery, contribution, family, or independence. Research in self-determination theory consistently finds that motivations rooted in guilt, shame, and pressure belong to a more controlled form of motivation, while goals aligned with personal values are more autonomous and more likely to be sustained over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0001879120300841" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">controlled form motivation. When the pressure is experienced internally (e.g., motivation to avoid shame or guilt), it reflects introject...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[TheoryHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 —... shame, or the pursuit of self-worth (Deci &amp; Ryan, 2000; Deci &amp; Ryan... mot...</span></span></span>
 
@@ -289,7 +288,6 @@ Shame is often misunderstood because it can be motivating in the short term. Peo
 The problem is not that shame never motivates. The problem is the price it charges.
 
 A shame-based goal usually sounds like:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,7 +314,6 @@ This creates several predictable problems:
 
 This helps explain a common self-improvement cycle: harsh self-criticism produces a burst of action, the burst fades, a setback occurs, shame increases, and the person abandons the effort altogether.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pFRlJ87GlIQ" title="Self-Determination Theory: The Secret to Unlocking Better Motivation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pFRlJ87GlIQ" target="_blank" rel="noopener noreferrer">Self-Determination Theory: The Secret to Unlocking Better Motivation</a></p><p class="youtube-embed-meta">Channel: John Spencer &middot; Views: 16.4K &middot; Uploaded: May 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pFRlJ87GlIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pFRlJ87GlIQ">Open on YouTube</a></p></div></div></div>
 
 ## Why values-based goals feel more self-endorsed
@@ -326,7 +323,6 @@ Values-based goals can look almost identical on the surface.
 A person may still exercise four times a week, study every evening, or maintain a budget. The difference is not necessarily the behaviour. It is the reason.
 
 Values-based goals sound more like:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -355,7 +351,6 @@ The internal message becomes:
 
 The action may remain difficult, but it no longer feels like a punishment.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_shame_vs_values_goal_f3526a-Illustration-2-dark.svg" | relative_url }}" alt="Shame vs Values illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_shame_vs_values_goal_f3526a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_shame_vs_values_goal_f3526a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hidden trap: approval-seeking goals that look positive
 
@@ -364,7 +359,6 @@ Not all non-shame goals are genuinely values-based.
 Many goals sit in a middle category where behaviour is driven by the pursuit of approval, status, pride, or validation.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -382,7 +376,6 @@ Research within self-determination theory refers to this pattern as introjected 
 The practical consequence is that motivation remains fragile. It depends on maintaining a particular image rather than expressing a value.
 
 If admiration disappears, the reason for effort may disappear with it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gIosWS8jyMo" title="SELF-DETERMINATION THEORY. EXTRINSEC MOTIVATION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gIosWS8jyMo" target="_blank" rel="noopener noreferrer">SELF-DETERMINATION THEORY. EXTRINSEC MOTIVATION</a></p><p class="youtube-embed-meta">Channel: UVa_Online &middot; Views: 23 &middot; Uploaded: September 2025 &middot; Length: 2 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gIosWS8jyMo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gIosWS8jyMo">Open on YouTube</a></p></div></div></div>
 
@@ -402,14 +395,12 @@ A useful test is to ask:
 
 If the answer is yes, the goal is more likely to be rooted in personal values.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_shame_vs_values_goal_f3526a-Illustration-3-dark.svg" | relative_url }}" alt="Shame vs Values illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_shame_vs_values_goal_f3526a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_shame_vs_values_goal_f3526a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What happens after failure reveals the true motivation
 
 The clearest way to distinguish shame-based and values-based goals is not during success but during failure.
 
 When a shame-based goal encounters a setback, the setback often becomes evidence of personal deficiency:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -423,7 +414,6 @@ The goal and identity become fused together.
 
 Values-based goals create a different interpretation:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “That did not go well.”
@@ -435,7 +425,6 @@ Values-based goals create a different interpretation:
 The failure remains meaningful, but it does not become a verdict on personal worth.
 
 This distinction helps explain why values-based motivation is often more durable. The person can recover from mistakes because the goal remains connected to something they care about rather than something they are trying to escape. Research on self-concordance suggests that when goals are aligned with core values and interests, people are more likely to sustain effort and derive psychological benefits from the pursuit itself. Frontiers 3Self-Determination Theory <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25401288/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Shame and the motivation to change the selfWe report 2 studies examining people&#x27;s lived experiences of self-conscious emotions, par...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qo95mXidnlQ" title="Ep 26: Why Resolutions Don’t Stick — And How to Set Goals That Last | Relish Podcast (Entreé)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qo95mXidnlQ" target="_blank" rel="noopener noreferrer">Ep 26: Why Resolutions Don’t Stick — And How to Set Goals That Last | Relish Podcast (Entreé)</a></p><p class="youtube-embed-meta">Channel: Alyssia Sheikh &middot; Views: 599 &middot; Uploaded: December 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qo95mXidnlQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qo95mXidnlQ">Open on YouTube</a></p></div></div></div>
 

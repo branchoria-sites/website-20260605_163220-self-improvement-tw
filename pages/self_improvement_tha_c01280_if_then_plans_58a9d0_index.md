@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-if-then/
 description: Focused pages that expand on If Then Plans.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: self_improvement_tha_c01280_if_then_plans_58a9d0
-parent_title: If Then Plans | Self Improvement That Works
+parent_title: If Then Plans
 parent_nav_short_title: If Then Plans
 parent_permalink: /if-then-plans/
 ---

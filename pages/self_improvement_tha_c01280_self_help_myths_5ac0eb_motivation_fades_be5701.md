@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /self-help-myths/
 nav_short_title: Motivation Highs
 title: Why Motivation Fades by Tuesday Afternoon
-title_full: Why Motivation Fades by Tuesday Afternoon | Self Help Myths
+title_full: Why Motivation Fades by Tuesday Afternoon
 display_title_short: Motivation Highs
 display_title: Motivation Highs
 heading_title: Why Motivation Fades by Tuesday Afternoon
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:00:01'
-parent_title: Which Self Help Promises Should You Doubt? | Better Change
+parent_title: Which Self Help Promises Should You Doubt?
 parent_permalink: /self-help-myths/
 parent_nav_short_title: Self Help Myths
 parent_heading_title: Which Self Help Promises Should You Doubt?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivat
 
 A familiar pattern runs through much of the self-help industry. You attend a seminar, watch a powerful talk, or finish an inspiring book feeling different. You are energised, optimistic and convinced that change will be easy this time. Then ordinary life returns. Work becomes busy, routines reassert themselves, unexpected problems appear, and by Tuesday afternoon the new commitment is fading.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-1-dark.svg" | relative_url }}" alt="Motivation Highs illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not necessarily mean the event failed or that the participant lacked commitment. The deeper problem is that [motivation]({{ 'motivation/' | relative_url }}) and behaviour are not the same thing. High-energy experiences can create genuine intention, but intention alone rarely produces lasting change. Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) repeatedly finds that people often form strong intentions without consistently translating them into action, a phenomenon known as the intention–behaviour gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Why We Don&#x27;t “Just Do It”: Understanding the Intention</span><span class="citation-popover-snippet">by MD Faries · 2016 · Cited by 264 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/107519/3/The" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">White Rose Research OnlineThe Intention–Behavior Gapby P Sheeran · 2016 · Cited by 2982 — This analysis revealed that it is people who in...</span></span></span>
 
@@ -307,7 +306,6 @@ After the event:
 
 The result is a predictable decline in the emotional intensity that originally fuelled the commitment. The feeling was real, but the circumstances that produced it were temporary.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l3KNiPHhB9s" title="BJ Fogg - How To Think Clearly About Behavior Change | Nudgestock 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l3KNiPHhB9s" target="_blank" rel="noopener noreferrer">BJ Fogg - How To Think Clearly About Behavior Change | Nudgestock 2020</a></p><p class="youtube-embed-meta">Channel: Nudgestock &middot; Views: 3.2K &middot; Uploaded: April 2021 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l3KNiPHhB9s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l3KNiPHhB9s">Open on YouTube</a></p></div></div></div>
 
 ## Why Emotional Readiness Is Not a Behaviour System
@@ -328,7 +326,6 @@ The motivational explanation says:
 
 The behavioural explanation asks:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * When exactly?
@@ -344,7 +341,6 @@ Those questions sound less inspiring, but they are often more predictive of what
 
 The self-help industry frequently markets emotional certainty as evidence that change has already begun. Behaviour research suggests that certainty is often only the beginning of the process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Why We Don&#x27;t “Just Do It”: Understanding the Intention</span><span class="citation-popover-snippet">by MD Faries · 2016 · Cited by 264 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-2-dark.svg" | relative_url }}" alt="Motivation Highs illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Hidden Power of Existing Habits
 
@@ -357,7 +353,6 @@ For example, a person may leave a seminar determined to read every evening. Yet 
 Research on behaviour maintenance consistently finds that lasting change depends heavily on creating stable routines and habits that reduce dependence on ongoing motivation. Behaviour change interventions often succeed in creating temporary improvement but struggle to maintain results unless the new behaviour becomes integrated into everyday life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6125069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Why We Don&#x27;t “Just Do It”: Understanding the Intention</span><span class="citation-popover-snippet">by MD Faries · 2016 · Cited by 264 — This review introduces 5 factors that could help the practitioner understand the patient intentio...</span></span></span>
 
 This is one reason tiny, repeatable actions often outperform dramatic resolutions. Small actions are easier to repeat under ordinary conditions, including stressful ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinyhabits.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinyhabits.com</span><span class="citation-popover-snippet">Tiny HabitsTiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsb.stanford.edu">[Stanford Graduate School of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsb.stanford.edu</span><span class="citation-popover-title">building habits key lasting behavior change</span><span class="citation-popover-snippet">Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior Change18 Apr 2023 — In this episode, BJ Fogg reveals the...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-3-dark.svg" | relative_url }}" alt="Motivation Highs illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb_motivation_fades_be5701-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Planning Adds When Motivation Drops
@@ -384,7 +379,6 @@ Recent reporting on habit formation has highlighted similar principles. [Techniq
 
 In practical terms, planning contributes three things that motivation alone cannot reliably provide:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Consistency:** the action has a defined place in daily life.
@@ -392,7 +386,6 @@ In practical terms, planning contributes three things that motivation alone cann
 * **Repeatability:** success depends less on inspiration and more on execution.
 
 </div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TazniYessts" title="Stanford Professor Reveals The 3-Second Formula That Changes ANY Habit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TazniYessts" target="_blank" rel="noopener noreferrer">Stanford Professor Reveals The 3-Second Formula That Changes ANY Habit</a></p><p class="youtube-embed-meta">Channel: Think Fast Talk Smart &middot; Views: 1.2K &middot; Uploaded: March 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TazniYessts" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TazniYessts">Open on YouTube</a></p></div></div></div>
 
@@ -408,9 +401,7 @@ That is why so many people feel transformed on Sunday and unchanged by the follo
 
 The uncomfortable lesson is also the practical one: lasting self-improvement usually begins when inspiration is translated into schedules, cues, plans and routines that continue working during ordinary, unremarkable days. The test is not whether a message feels powerful in the moment. The test is whether the behaviour still happens when the moment has passed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kD3-DKkiVeA" title="Why you feel stuck — and how to get motivated - Shannon Odell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kD3-DKkiVeA" target="_blank" rel="noopener noreferrer">Why you feel stuck — and how to get motivated - Shannon Odell</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 1.5M &middot; Uploaded: February 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kD3-DKkiVeA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kD3-DKkiVeA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -529,15 +520,15 @@ The uncomfortable lesson is also the practical one: lasting self-improvement usu
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/RngAAeSwppdoomKF/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 laminated motivation poster"><img src="https://i.ebayimg.com/images/g/mLsAAeSwQIxqJ~Nf/s-l225.jpg" alt="Listing image for A4 laminated motivation poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">A4 laminated motivation poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,15 +536,15 @@ The uncomfortable lesson is also the practical one: lasting self-improvement usu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational A4 Framed Print Poster With Frame, Motivational Poster, Inspiration"><img src="https://i.ebayimg.com/images/g/gjYAAeSw-mxqIbTy/s-l225.jpg" alt="Listing image for Motivational A4 Framed Print Poster With Frame, Motivational Poster, Inspiration" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="https://i.ebayimg.com/images/g/BDsAAeSwA0Bo~9mc/s-l225.jpg" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational A4 Framed Print Poster With Frame, Motivational Poster, Inspiration</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,15 +552,15 @@ The uncomfortable lesson is also the practical one: lasting self-improvement usu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspirational Wall Art Print for Home Office Decor"><img src="https://i.ebayimg.com/images/g/XXwAAeSwVTRozDsH/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspirational Wall Art Print for Home Office Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/YEYAAeSwIy5pFf1O/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspirational Wall Art Print for Home Office Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -577,15 +568,15 @@ The uncomfortable lesson is also the practical one: lasting self-improvement usu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for INSPIRATIONAL Posters Motivational Prints - A4 A3 A2 Poster - Wall Home Decor"><img src="https://i.ebayimg.com/images/g/Z~gAAOSwSGNeSxom/s-l225.jpg" alt="Listing image for INSPIRATIONAL Posters Motivational Prints - A4 A3 A2 Poster - Wall Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for What If It All Works Out A4 Framed Print Poster With Frame, Motivational Poster"><img src="https://i.ebayimg.com/images/g/rbMAAeSwMgVqIbZC/s-l225.jpg" alt="Listing image for What If It All Works Out A4 Framed Print Poster With Frame, Motivational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer">INSPIRATIONAL Posters Motivational Prints - A4 A3 A2 Poster - Wall Home Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">What If It All Works Out A4 Framed Print Poster With Frame, Motivational Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -593,7 +584,7 @@ The uncomfortable lesson is also the practical one: lasting self-improvement usu
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivation poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivation-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-motivation-fades-by-tuesday-afternoon-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="why-motivation-fades-by-tuesday-afternoon-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -803,6 +794,7 @@ The uncomfortable lesson is also the practical one: lasting self-improvement usu
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

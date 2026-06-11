@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /feedback/
 nav_short_title: Steering Metrics
 title: Track the Steering Wheel, Not Just the Score
-title_full: Track the Steering Wheel, Not Just the Score | Feedback
+title_full: Track the Steering Wheel, Not Just the Score
 display_title_short: Steering Metrics
 display_title: Steering Metrics
 heading_title: Track the Steering Wheel, Not Just the Score
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:18:08'
-parent_title: The Feedback Loop Behind Real Progress | Better Change
+parent_title: The Feedback Loop Behind Real Progress
 parent_permalink: /feedback/
 parent_nav_short_title: Feedback
 parent_heading_title: The Feedback Loop Behind Real Progress
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_steering
 
 Most people track outcomes because outcomes are what they ultimately care about. They want to lose weight, publish more writing, save money, improve concentration, or achieve a better result at work. The problem is that outcomes are often delayed, noisy and only partly under direct control. By the time an outcome changes, the behaviour that caused it may have happened weeks or months earlier.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_steering_metrics_0ee19c-Illustration-1-dark.svg" | relative_url }}" alt="Steering Metrics illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_steering_metrics_0ee19c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_steering_metrics_0ee19c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A more effective [feedback]({{ 'feedback/' | relative_url }}) loop usually tracks behaviours that drive the outcome. In management language, these are often called leading indicators rather than lagging indicators. In self-improvement, they function as steering wheels rather than scoreboards. The scoreboard tells you whether you won; the steering wheel helps you influence what happens next. Research on progress monitoring and [behaviour change]({{ 'behaviour-change/' | relative_url }}) consistently finds that monitoring actions and progress can improve goal attainment, particularly when progress is recorded and made visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when th...</span></span></span>
 
@@ -328,7 +327,6 @@ A fitness goal is a miniature production system. A writing career is a miniature
 
 The historical lesson is not that outcomes should be ignored. It is that outcomes alone make poor steering instruments.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4v4_7kfESiw" title="High Output Management by Andrew S. Grove - Book Summary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4v4_7kfESiw" target="_blank" rel="noopener noreferrer">High Output Management by Andrew S. Grove - Book Summary</a></p><p class="youtube-embed-meta">Channel: Famous Labs &middot; Views: 120 &middot; Uploaded: January 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4v4_7kfESiw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4v4_7kfESiw">Open on YouTube</a></p></div></div></div>
 
 ## How to Choose Behaviour Measures You Can Change
@@ -343,7 +341,6 @@ Track something you can decide to do.
 
 Good examples:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Minutes spent writing.
@@ -354,7 +351,6 @@ Good examples:
 </div>
 
 Weak examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -379,7 +375,6 @@ A steering metric should plausibly influence the destination.
 
 Counting how many productivity apps you install is unlikely to predict meaningful achievement. Counting uninterrupted hours of focused work probably will.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_steering_metrics_0ee19c-Illustration-2-dark.svg" | relative_url }}" alt="Steering Metrics illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_steering_metrics_0ee19c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_steering_metrics_0ee19c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Can it trigger a next action?
 
@@ -399,7 +394,6 @@ Weight matters if fat loss is the goal, but it fluctuates because of hydration, 
 
 Better steering measures include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Workouts completed.
@@ -412,7 +406,6 @@ Better steering measures include:
 
 The scale remains the scoreboard. The behaviours become the steering wheel.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9yhJDL5ttSU" title="What is a leading indicator? What Are The Best Examples?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9yhJDL5ttSU" target="_blank" rel="noopener noreferrer">What is a leading indicator? What Are The Best Examples?</a></p><p class="youtube-embed-meta">Channel: Bernard Marr &middot; Views: 18.1K &middot; Uploaded: May 2020 &middot; Length: 4 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9yhJDL5ttSU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9yhJDL5ttSU">Open on YouTube</a></p></div></div></div>
 
 ### Writing
@@ -422,7 +415,6 @@ Writers often focus on outcomes such as publication, readership or sales.
 Those outcomes are meaningful but delayed.
 
 More useful behavioural measures include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -435,7 +427,6 @@ More useful behavioural measures include:
 
 A writer cannot force publication success today. They can decide whether they write today.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_steering_metrics_0ee19c-Illustration-3-dark.svg" | relative_url }}" alt="Steering Metrics illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_steering_metrics_0ee19c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_steering_metrics_0ee19c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Money
 
@@ -444,7 +435,6 @@ People often watch account balances obsessively.
 Balances matter, but market returns, interest rates and unexpected expenses create noise.
 
 More actionable measures include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -474,7 +464,6 @@ Behaviour measures create clearer feedback:
 </div>
 
 The behaviour data identifies where attention was won or lost.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vCjRTCbu7WU" title="Brian Tracy’s Goal System: Write It, Hit It, Repeat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vCjRTCbu7WU" target="_blank" rel="noopener noreferrer">Brian Tracy’s Goal System: Write It, Hit It, Repeat</a></p><p class="youtube-embed-meta">Channel: Motivation Radio &middot; Views: 574 &middot; Uploaded: January 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vCjRTCbu7WU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vCjRTCbu7WU">Open on YouTube</a></p></div></div></div>
 

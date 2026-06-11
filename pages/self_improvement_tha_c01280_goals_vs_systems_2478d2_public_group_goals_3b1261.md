@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /goals-vs-systems/
 nav_short_title: Group Goals
 title: Do Public Goals Help or Backfire?
-title_full: Do Public Goals Help or Backfire? | Goals vs Systems
+title_full: Do Public Goals Help or Backfire?
 display_title_short: Group Goals
 display_title: Group Goals
 heading_title: Do Public Goals Help or Backfire?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:17:11'
-parent_title: Do Goals or Systems Matter More? | Better Change
+parent_title: Do Goals or Systems Matter More?
 parent_permalink: /goals-vs-systems/
 parent_nav_short_title: Goals vs Systems
 parent_heading_title: Do Goals or Systems Matter More?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_public
 
 Public goals can help, but they are not automatically better than private ones. Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) suggests that shared goals often improve follow-through because they create accountability, feedback and [social support]({{ 'social-support/' | relative_url }}). At the same time, public commitment can backfire when it turns progress into a performance, creates fear of failure, or encourages people to protect their image rather than improve their habits. The practical question is not whether goals should be public or private. It is how accountability is designed.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_public_group_goals_3b1261-Illustration-1-dark.svg" | relative_url }}" alt="Group Goals illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_public_group_goals_3b1261-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_public_group_goals_3b1261-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader debate of [goal setting]({{ 'goal-setting/' | relative_url }}) versus systems design, public and group goals work best when they strengthen the system around a behaviour. They work less well when they become a test of identity, status or [willpower]({{ 'willpower/' | relative_url }}). Evidence suggests that public, challenging and group-based goals can be particularly effective under the right conditions, but the quality of the accountability structure matters as much as the goal itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 483 — Goal setting is an effective behavior change t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-title">unique effects of setting goals on behavior change systematic rev</span><span class="citation-popover-snippet">Research ExplorerUnique Effects of Setting Goals on Behavior Changeby T Epton · 2017 · Cited by 490 — Objective: Goal setting is a common...</span></span></span>
 
@@ -287,7 +286,6 @@ One reason public and group goals can work is that they change the social [envir
 A systematic review and meta-analysis of goal-setting interventions found that goal setting produced a positive effect on behaviour change and that effects tended to be stronger when goals were public or group-based. The finding does not mean that publicity guarantees success, but it suggests that social visibility can amplify the motivational impact of a target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 483 — Goal setting is an effective behavior change t...</span></span></span>
 
 Public commitment can help through several mechanisms:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -312,7 +310,6 @@ Large audiences often provide attention rather than support. They may know the o
 
 This distinction helps explain why many successful behaviour-change programmes rely on peer groups, coaching relationships or small communities rather than public declarations to hundreds of people. The accountability comes from interaction, not visibility alone. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/goal-setting-interventions/E4C86D215EE876772F83DF0DFA74D3E6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Goal Setting Interventions (Chapter 38</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentGoal Setting Interventions (Chapter 38) - The Handbook of...Meta-analyses have found that goal se...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KcQj2fFU5ow" title="Best Tools For Making Better Decisions | Dr. David Eagleman &amp; Dr. Andrew Huberman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KcQj2fFU5ow" target="_blank" rel="noopener noreferrer">Best Tools For Making Better Decisions | Dr. David Eagleman &amp; Dr. Andrew Huberman</a></p><p class="youtube-embed-meta">Channel: Huberman Lab Clips &middot; Views: 8.9K &middot; Uploaded: April 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KcQj2fFU5ow" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KcQj2fFU5ow">Open on YouTube</a></p></div></div></div>
 
 ## The pressure risks of public commitment
@@ -333,7 +330,6 @@ This creates several common failure modes.
 
 These risks help explain why public goals show mixed results in practice. The problem is rarely accountability itself. The problem is accountability becoming judgement.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_public_group_goals_3b1261-Illustration-2-dark.svg" | relative_url }}" alt="Group Goals illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_public_group_goals_3b1261-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_public_group_goals_3b1261-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When accountability becomes surveillance
 
@@ -351,7 +347,6 @@ The strongest forms of accountability support action without turning every resul
 
 A practical approach is to make behaviours more visible than outcomes. For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Report whether you completed planned study sessions, not whether you achieved a perfect grade.
@@ -361,7 +356,6 @@ A practical approach is to make behaviours more visible than outcomes. For examp
 </div>
 
 Behaviour-focused accountability keeps attention on actions people can directly control.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CwhbGq93SXA" title="The Daily Review — Accountability In Action | Jim Rohn Motivation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CwhbGq93SXA" target="_blank" rel="noopener noreferrer">The Daily Review — Accountability In Action | Jim Rohn Motivation</a></p><p class="youtube-embed-meta">Channel: Jim Rohn Motivation &middot; Views: 5.4K &middot; Uploaded: January 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CwhbGq93SXA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CwhbGq93SXA">Open on YouTube</a></p></div></div></div>
 
@@ -381,14 +375,12 @@ More resilient accountability systems encourage discussion of obstacles, missed 
 
 This approach keeps the group focused on learning rather than status.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_public_group_goals_3b1261-Illustration-3-dark.svg" | relative_url }}" alt="Group Goals illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_public_group_goals_3b1261-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_public_group_goals_3b1261-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Use small circles instead of large stages
 
 For most self-improvement goals, a trusted accountability partner or small group offers better conditions than a large public audience.
 
 Small groups provide:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -409,9 +401,7 @@ A useful accountability group increases the likelihood that people monitor progr
 
 The evidence therefore points towards a balanced conclusion. Shared goals can improve behaviour change and follow-through, particularly when accountability is built into supportive groups and regular feedback processes. However, the benefits come from constructive accountability, not public pressure itself. The most effective arrangements make progress easier to discuss, easier to measure and easier to recover when things go wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2603.17887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 483 — Goal setting is an effective behavior change t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-title">unique effects of setting goals on behavior change systematic rev</span><span class="citation-popover-snippet">Research ExplorerUnique Effects of Setting Goals on Behavior Changeby T Epton · 2017 · Cited by 490 — Objective: Goal setting is a common...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oOjxKXyZ1Hw" title="Psychological Safety (in the workplace)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oOjxKXyZ1Hw" target="_blank" rel="noopener noreferrer">Psychological Safety (in the workplace)</a></p><p class="youtube-embed-meta">Channel: Bryter Training &middot; Views: 1.8K &middot; Uploaded: March 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oOjxKXyZ1Hw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oOjxKXyZ1Hw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

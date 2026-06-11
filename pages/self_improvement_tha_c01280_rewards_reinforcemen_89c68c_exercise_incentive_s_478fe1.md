@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /rewards/
 nav_short_title: Exercise Incentives
 title: Can Gym Rewards Become Real Habits?
-title_full: Can Gym Rewards Become Real Habits? | Rewards
+title_full: Can Gym Rewards Become Real Habits?
 display_title_short: Exercise Incentives
 display_title: Exercise Incentives
 heading_title: Can Gym Rewards Become Real Habits?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 16:20:00'
-parent_title: How to Reward Habits Without Ruining Them | Better Change
+parent_title: How to Reward Habits Without Ruining Them
 parent_permalink: /rewards/
 parent_nav_short_title: Rewards
 parent_heading_title: How to Reward Habits Without Ruining Them
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_ex
 
 Exercise incentives are one of the clearest examples of [rewards]({{ 'rewards/' | relative_url }}) that reinforce without becoming pure bribery. Going to the gym has immediate costs—time, effort, discomfort and often self-consciousness—while most benefits arrive weeks or months later. Because of that timing gap, rewards can be remarkably effective at helping people start. The crucial question is whether they create a lasting exercise habit or merely rent behaviour for a short period.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_exercise_incentive_s_478fe1-Illustration-1-dark.svg" | relative_url }}" alt="Exercise Incentives illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_exercise_incentive_s_478fe1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_exercise_incentive_s_478fe1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The evidence suggests a nuanced answer. Financial rewards, rebates, competitions and other incentives often increase gym attendance in the short term, especially among people who are not already regular exercisers. However, the most successful approaches treat rewards as scaffolding: temporary supports that help people build routines until [enjoyment]({{ 'enjoyment/' | relative_url }}), competence and [identity]({{ 'identity/' | relative_url }}) can take over. When incentives become the entire reason for exercising, behaviour often fades once the rewards disappear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7416" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Incentives to Exercise</span><span class="citation-popover-snippet">Wiley Online LibraryIncentives to Exercise - Charness - 2009 - Econometricaby G Charness · 2009 · Cited by 1037 — We investigate the post...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24139781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Financial incentives for exercise adherence in adultsby MS Mitchell · 2013 · Cited by 395 — Conclusions: The effect estimate from t...</span></span></span>
 
@@ -311,7 +310,6 @@ Recent behavioural research highlights the importance of routine formation rathe
 
 The practical implication is that a £5 reward attached to a consistent Monday-Wednesday-Friday workout may be more valuable than a larger reward attached to unpredictable attendance. The scaffold works because it supports repetition.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zaf3yQ4OLdw" title="Why we fail and how we stand up afterwards | Katherine Milkman | TEDxPenn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zaf3yQ4OLdw" target="_blank" rel="noopener noreferrer">Why we fail and how we stand up afterwards | Katherine Milkman | TEDxPenn</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 40.5K &middot; Uploaded: August 2017 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zaf3yQ4OLdw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zaf3yQ4OLdw">Open on YouTube</a></p></div></div></div>
 
 ## What Happens When Rewards Stop?
@@ -331,7 +329,6 @@ The historical pattern across studies is revealing:
 
 In other words, incentives are rarely enough by themselves. They are most useful when they buy time for deeper motivational processes to develop.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_exercise_incentive_s_478fe1-Illustration-2-dark.svg" | relative_url }}" alt="Exercise Incentives illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_exercise_incentive_s_478fe1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_exercise_incentive_s_478fe1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Building an Exit Plan from Payment to Identity
 
@@ -347,7 +344,6 @@ As attendance stabilises, rewards should point toward evidence of improvement.
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
 * Tracking increased strength.
@@ -359,15 +355,13 @@ Examples include:
 
 This transition matters because competence is one of the strongest predictors of sustained exercise participation. People continue activities they feel capable of doing well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5899425/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralCan Financial Incentives Help People Trying to Establish New...by M Carrera · 2018 · Cited by 87 — We provide evidence on...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1Y7Ud35Gwfw" title="The True Cost of Exercise (It&#x27;s More Than You Think)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1Y7Ud35Gwfw" target="_blank" rel="noopener noreferrer">The True Cost of Exercise (It&#x27;s More Than You Think)</a></p><p class="youtube-embed-meta">Channel: At-Home Exercise 55+ | Be Mobile Physiotherapy &middot; Views: 620 &middot; Uploaded: January 2026 &middot; Length: 4 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1Y7Ud35Gwfw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1Y7Ud35Gwfw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DVU-43t2iGI" title="Creating Happy Habits (Temptation Bundling) | Atomic Habits - James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DVU-43t2iGI" target="_blank" rel="noopener noreferrer">Creating Happy Habits (Temptation Bundling) | Atomic Habits - James Clear</a></p><p class="youtube-embed-meta">Channel: Reece Caruso &middot; Views: 325 &middot; Uploaded: March 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DVU-43t2iGI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DVU-43t2iGI">Open on YouTube</a></p></div></div></div>
 
 ### Stage 3: Develop exercise identity
 
 The final step is moving from “I exercise because I get rewarded” to “I am someone who exercises.”
 
 Research grounded in self-determination theory consistently finds that more autonomous forms of motivation predict longer-term exercise adherence. Identity-focused studies similarly suggest that people who see physical activity as part of who they are tend to maintain it more reliably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1751057/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The influence of exercise identity on college students&#x27;...by X ZHAO · Cited by 1 — A strong exercise identity promotes self-determined m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5899425/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralCan Financial Incentives Help People Trying to Establish New...by M Carrera · 2018 · Cited by 87 — We provide evidence on...</span></span></span> PubMed The reward at this stage becomes largely internal: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/24139781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Financial incentives for exercise adherence in adultsby MS Mitchell · 2013 · Cited by 395 — Conclusions: The effect estimate from t...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -381,7 +375,6 @@ Research grounded in self-determination theory consistently finds that more auto
 
 When those motives become established, removing the original incentive has far less impact.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_exercise_incentive_s_478fe1-Illustration-3-dark.svg" | relative_url }}" alt="Exercise Incentives illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_exercise_incentive_s_478fe1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_exercise_incentive_s_478fe1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Historical Lesson from Exercise Incentives
 
@@ -389,9 +382,7 @@ Exercise incentives have served as an important testing ground for a broader pri
 
 Decades of experiments show that paying people to attend the gym can increase participation and sometimes create lasting changes, particularly among those who were previously inactive. But the most durable outcomes occur when incentives act as temporary scaffolding for routines, competence and identity. The reward opens the door; habit formation requires walking through it repeatedly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5899425/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralCan Financial Incentives Help People Trying to Establish New...by M Carrera · 2018 · Cited by 87 — We provide evidence on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7416" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Incentives to Exercise</span><span class="citation-popover-snippet">Wiley Online LibraryIncentives to Exercise - Charness - 2009 - Econometricaby G Charness · 2009 · Cited by 1037 — We investigate the post...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/ecm/emetrp/v77y2009i3p909-931.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v77y2009i3p909 931</span><span class="citation-popover-snippet">Abstract. Can incentives be effective in encouraging the development of good habits? We investigate the post-intervention effects...Read...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DVU-43t2iGI" title="Creating Happy Habits (Temptation Bundling) | Atomic Habits - James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DVU-43t2iGI" target="_blank" rel="noopener noreferrer">Creating Happy Habits (Temptation Bundling) | Atomic Habits - James Clear</a></p><p class="youtube-embed-meta">Channel: Reece Caruso &middot; Views: 325 &middot; Uploaded: March 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DVU-43t2iGI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DVU-43t2iGI">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PmcUVs2rF3g" title="Angela Duckworth and Katherine Milkman Unlock the Science of Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PmcUVs2rF3g" target="_blank" rel="noopener noreferrer">Angela Duckworth and Katherine Milkman Unlock the Science of Change</a></p><p class="youtube-embed-meta">Channel: 24Life &middot; Views: 1.2K &middot; Uploaded: April 2018 &middot; Length: 1 minute 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PmcUVs2rF3g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PmcUVs2rF3g">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /app-blockers/
 nav_short_title: Work Blocks
 title: Why blocks should begin before work starts
-title_full: Why blocks should begin before work starts | App Blockers
+title_full: Why blocks should begin before work starts
 display_title_short: Work Blocks
 display_title: Work Blocks
 heading_title: Why blocks should begin before work starts
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 14:58:40'
-parent_title: Do App Blockers Actually Help? | Better Change
+parent_title: Do App Blockers Actually Help?
 parent_permalink: /app-blockers/
 parent_nav_short_title: App Blockers
 parent_heading_title: Do App Blockers Actually Help?
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_app_blockers_1932a2_scheduled_
 
 Scheduled app blocks are most effective when they begin before a deep work session starts. The key idea is simple: a blocker should be active before temptation appears, not after attention has already drifted. Deep work often fails in the first few seconds of distraction—a quick social media check, a messaging notification, or a habitual browser tab opening. By pre-scheduling restrictions around these predictable moments, a blocker turns an intention to focus into a rule that is already in force. Research on digital self-control tools consistently finds that interventions which alter the [environment]({{ 'environment/' | relative_url }}) through blocking, delays, or access restrictions tend to be more effective than those that merely remind users to focus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/full/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">The analysis...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">more...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_scheduled_deep_work_42389b-Illustration-1-dark.svg" | relative_url }}" alt="Work Blocks illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_scheduled_deep_work_42389b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_scheduled_deep_work_42389b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader category of app [blockers]({{ 'blockers/' | relative_url }}) and digital friction, scheduled blocks are specifically designed to protect a defined period of concentrated work. Their value comes less from punishment and more from timing.
 
@@ -292,7 +291,6 @@ A writer planning to begin at 9:00 may start checking messages at 8:50. A studen
 
 A useful method is to identify three periods:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * **The runway:** the 15–30 minutes before focused work begins.
@@ -305,7 +303,6 @@ For a two-hour writing session from 9:00 to 11:00, a more effective schedule mig
 
 This matters because distraction is often triggered during task-switching moments rather than during sustained concentration itself. Once someone is fully engaged in demanding work, resisting distraction becomes easier. The vulnerable period is usually the beginning.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kSWgRC8nws4" title="Block EVERY distraction with 5 Apps!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kSWgRC8nws4" target="_blank" rel="noopener noreferrer">Block EVERY distraction with 5 Apps!</a></p><p class="youtube-embed-meta">Channel: Tool Finder &middot; Views: 16.1K &middot; Uploaded: April 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kSWgRC8nws4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kSWgRC8nws4">Open on YouTube</a></p></div></div></div>
 
 ## Blocking the right apps and sites
@@ -315,7 +312,6 @@ Not every distraction deserves a block. Overly broad restrictions often create f
 Research examining digital self-control tools has found that users respond best when restrictions match their personal definition of distraction and their actual work context. A tool that blocks everything can interfere with legitimate work, while a tool that blocks nothing important becomes irrelevant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0160791X21002530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Digital wellbeing tools through users lensby MB Almourad · 2021 · Cited by 86 — In this paper, we examine the quality of the...</span></span></span>
 
 For deep work sessions, the highest-value targets are usually:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -332,7 +328,6 @@ The goal is not to eliminate technology but to remove the specific pathways that
 
 A useful test is to ask: “What app am I most likely to open automatically when the work becomes difficult?” That app belongs on the block list.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_scheduled_deep_work_42389b-Illustration-2-dark.svg" | relative_url }}" alt="Work Blocks illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_scheduled_deep_work_42389b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_scheduled_deep_work_42389b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Building a replacement break
 
@@ -341,7 +336,6 @@ A scheduled block works best when it removes distractions and provides an altern
 Without a replacement, people often spend their breaks searching for loopholes. They disable the blocker, switch devices, or substitute one distraction for another.
 
 The strongest replacement activities are simple and low-stimulation:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -358,8 +352,7 @@ These activities create genuine recovery without restarting the cycle of endless
 
 The principle is important because deep work requires alternating periods of effort and renewal. The block protects concentration; the replacement break protects recovery.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NMdl7hG04Vc" title="Freedom Productivity App Review 2026 | Pros and Cons – Honest &amp; Unbiased" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NMdl7hG04Vc" target="_blank" rel="noopener noreferrer">Freedom Productivity App Review 2026 | Pros and Cons – Honest &amp; Unbiased</a></p><p class="youtube-embed-meta">Channel: Bytes Media &middot; Views: 473 &middot; Uploaded: February 2026 &middot; Length: 2 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NMdl7hG04Vc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NMdl7hG04Vc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jgzpCRqHc58" title="Top 5 Focus Apps to Block Distractions Fast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jgzpCRqHc58" target="_blank" rel="noopener noreferrer">Top 5 Focus Apps to Block Distractions Fast</a></p><p class="youtube-embed-meta">Channel: Tech·WHYS &middot; Views: 95 &middot; Uploaded: May 2025 &middot; Length: 3 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jgzpCRqHc58" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jgzpCRqHc58">Open on YouTube</a></p></div></div></div>
 
 ## Making blocks harder to override
 
@@ -368,7 +361,6 @@ The effectiveness of a scheduled block depends partly on how easy it is to remov
 Many digital wellbeing tools now include strict modes, delayed overrides, approval requirements, or scheduled lockouts specifically because users often disable restrictions during moments of weakness. Reviews of digital self-control tools show that balancing flexibility with meaningful friction is one of the central design challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/full/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">The analysis...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0160791X21002530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Digital wellbeing tools through users lensby MB Almourad · 2021 · Cited by 86 — In this paper, we examine the quality of the...</span></span></span>
 
 For deep work, useful safeguards include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -380,7 +372,6 @@ For deep work, useful safeguards include:
 </div>
 
 The objective is not to create an inescapable prison. It is to ensure that breaking the rule requires a deliberate choice rather than a reflexive tap.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_scheduled_deep_work_42389b-Illustration-3-dark.svg" | relative_url }}" alt="Work Blocks illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_scheduled_deep_work_42389b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_scheduled_deep_work_42389b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What evidence suggests about interruption and friction
@@ -395,7 +386,6 @@ The evidence does not suggest that blocking alone solves every productivity prob
 
 For most knowledge work, a practical scheduled blocking policy looks like this:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Define a single high-value task.
@@ -409,9 +399,7 @@ For most knowledge work, a practical scheduled blocking policy looks like this:
 
 This approach keeps the blocker focused on its real purpose: protecting a specific period of deep work from predictable interruptions. Rather than demanding constant self-control, it creates conditions where concentration is the default option when the work begins.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jgzpCRqHc58" title="Top 5 Focus Apps to Block Distractions Fast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jgzpCRqHc58" target="_blank" rel="noopener noreferrer">Top 5 Focus Apps to Block Distractions Fast</a></p><p class="youtube-embed-meta">Channel: Tech·WHYS &middot; Views: 95 &middot; Uploaded: May 2025 &middot; Length: 3 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jgzpCRqHc58" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jgzpCRqHc58">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7-94MBKqeRA" title="How To Block Sites That Distract You To Maintain Focus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7-94MBKqeRA" target="_blank" rel="noopener noreferrer">How To Block Sites That Distract You To Maintain Focus</a></p><p class="youtube-embed-meta">Channel: Lori Thayer &middot; Views: 77 &middot; Uploaded: May 2017 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7-94MBKqeRA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7-94MBKqeRA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /false-progress/
 nav_short_title: Planning Trap
 title: Are You Planning or Avoiding the Real Task?
-title_full: Are You Planning or Avoiding the Real Task? | False Progress
+title_full: Are You Planning or Avoiding the Real Task?
 display_title_short: Planning Trap
 display_title: Planning Trap
 heading_title: Are You Planning or Avoiding the Real Task?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:05:55'
-parent_title: When Self Improvement Feels Productive but Fails | Better Change
+parent_title: When Self Improvement Feels Productive but Fails
 parent_permalink: /false-progress/
 parent_nav_short_title: False Progress
 parent_heading_title: When Self Improvement Feels Productive but Fails
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning
 
 Planning is one of the most respected activities in self-improvement. It looks responsible, organised and forward-looking. Yet planning can quietly become a form of productive procrastination: work that feels useful because it is related to the goal, while delaying the action that would reveal whether progress is actually happening.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8-Illustration-1-dark.svg" | relative_url }}" alt="Planning Trap illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is a common trap within self-improvement theatre. The person is not doing nothing. They may be researching, outlining, scheduling, tracking and refining. The problem is that these activities can provide many of the emotional [rewards]({{ 'rewards/' | relative_url }}) of progress without requiring the discomfort of performance. A study timetable avoids the struggle of studying. A business strategy avoids the risk of selling. A detailed fitness programme avoids the effort of training. The plan grows while the behaviour remains unchanged.
 
@@ -291,7 +290,6 @@ Every meaningful goal eventually reaches a point where uncertainty disappears an
 Planning remains useful when it reduces friction before that moment. It becomes avoidance when it repeatedly postpones that moment.
 
 A common pattern looks like this:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -318,7 +316,6 @@ The problem emerges when planning crosses a subtle boundary.
 
 Useful planning answers questions that would otherwise block action:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * When will I do this?
@@ -331,7 +328,6 @@ Useful planning answers questions that would otherwise block action:
 
 This type of planning shortens the distance between intention and action. It simplifies execution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24591064/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">state of the research and proposals for the way forwardby MS Hagger · 2014 · Cited by 717 — Overall, evidence supports the effectiv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — It has been proposed that implementation intentions render the mental representation of the situat...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jwiM-s44hE8" title="Why I Keep Avoiding the Things That Could Change My Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jwiM-s44hE8" target="_blank" rel="noopener noreferrer">Why I Keep Avoiding the Things That Could Change My Life</a></p><p class="youtube-embed-meta">Channel: Merle O&#x27;Neal &middot; Views: 8.0K &middot; Uploaded: May 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jwiM-s44hE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jwiM-s44hE8">Open on YouTube</a></p></div></div></div>
 
 ### Planning that expands friction
@@ -339,7 +335,6 @@ This type of planning shortens the distance between intention and action. It sim
 Avoidant planning does the opposite.
 
 Instead of reducing uncertainty enough to begin, it continually creates new preparation requirements:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -373,7 +368,6 @@ The substitute task reduces discomfort now. The cost arrives later when deadline
 
 Research on emotion regulation and procrastination repeatedly finds that avoiding difficult emotions can create temporary relief while increasing future stress. The mood benefit is real but short-lived. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — It has been proposed that implementation intentions render the mental representation of the situat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — It has been proposed that implementation intentions render the mental representation of the situat...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8-Illustration-2-dark.svg" | relative_url }}" alt="Planning Trap illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Hidden Reward of Endless Preparation
 
@@ -382,7 +376,6 @@ Many people assume procrastination means choosing pleasure over responsibility. 
 The reward is often not entertainment but [identity]({{ 'identity/' | relative_url }}).
 
 Planning allows someone to feel like:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -403,7 +396,6 @@ A detailed plan can survive indefinitely. A first attempt cannot.
 
 For someone protecting a desired self-image, planning may therefore feel safer than evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NLQ0cczBU40" title="Productive Procrastination" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NLQ0cczBU40" target="_blank" rel="noopener noreferrer">Productive Procrastination</a></p><p class="youtube-embed-meta">Channel: CES Warren &middot; Views: 156 &middot; Uploaded: April 2024 &middot; Length: 4 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NLQ0cczBU40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NLQ0cczBU40">Open on YouTube</a></p></div></div></div>
 
 ## A Two-Minute Reality Test for Any Plan
@@ -418,7 +410,6 @@ The answer must be behavioural and observable.
 
 Good answers:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Write 200 words.
@@ -430,7 +421,6 @@ Good answers:
 
 Weak answers:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Refine the strategy.
@@ -441,7 +431,6 @@ Weak answers:
 </div>
 
 If the next step is another planning activity, caution is warranted.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8-Illustration-3-dark.svg" | relative_url }}" alt="Planning Trap illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Could I start within two minutes?
@@ -465,8 +454,7 @@ Possible answers include:
 
 Once the emotion is identified, the purpose of the planning session often becomes obvious. Many plans are not solving logistical problems at all. They are attempting to solve emotional ones.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sqQ17ealbVc" title="Planning as a Form of Procrastination" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sqQ17ealbVc" target="_blank" rel="noopener noreferrer">Planning as a Form of Procrastination</a></p><p class="youtube-embed-meta">Channel: Megan Sumrell | Work + Life Harmony &middot; Views: 1.1K &middot; Uploaded: November 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sqQ17ealbVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sqQ17ealbVc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xx9FqlzlN3M" title="The Difference Between Productive Procrastination and Resistance (And When to Ship)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xx9FqlzlN3M" target="_blank" rel="noopener noreferrer">The Difference Between Productive Procrastination and Resistance (And When to Ship)</a></p><p class="youtube-embed-meta">Channel: Ryan Levesque | The Digital Contrarian &middot; Views: 83 &middot; Uploaded: January 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xx9FqlzlN3M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xx9FqlzlN3M">Open on YouTube</a></p></div></div></div>
 
 ## The Small Shift That Breaks the Planning Trap
 

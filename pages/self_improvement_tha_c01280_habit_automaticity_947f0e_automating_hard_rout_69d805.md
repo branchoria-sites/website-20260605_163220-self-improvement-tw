@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /automaticity/
 nav_short_title: Start Cue
 title: Automate the Start, Not the Whole Routine
-title_full: Automate the Start, Not the Whole Routine | Automaticity
+title_full: Automate the Start, Not the Whole Routine
 display_title_short: Start Cue
 display_title: Start Cue
 heading_title: Automate the Start, Not the Whole Routine
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:19:18'
-parent_title: How Repetition Becomes Automatic | Better Change
+parent_title: How Repetition Becomes Automatic
 parent_permalink: /automaticity/
 parent_nav_short_title: Automaticity
 parent_heading_title: How Repetition Becomes Automatic
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_auto
 
 Many self-improvement goals are too complex to become fully automatic. Writing a chapter, completing a demanding workout, studying for an exam or responding calmly during conflict all involve too many decisions, adjustments and changing conditions. What can become automatic, however, is the start.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_automating_hard_rout_69d805-Illustration-1-dark.svg" | relative_url }}" alt="Start Cue illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_automating_hard_rout_69d805-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_automating_hard_rout_69d805-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Habit researchers increasingly distinguish between **habitual instigation**—automatically beginning a behaviour when a cue appears—and **habitual execution**—performing the behaviour itself automatically. Evidence suggests that for many complex behaviours, the key habit is not the whole routine but the moment of initiation. A stable cue can reliably launch a difficult activity even when the activity itself still requires effort, attention and skill. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S266651822200016X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Habit and behavioural complexity: habitual instigation and...by B Gardner · 2022 · Cited by 34 — This study assessed the ro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26991427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Definition, measurement, and effects on behaviour frequencyby B Gardner · 2016 · Cited by 221 — Results show habit-behaviour effect...</span></span></span>
 
@@ -304,7 +303,6 @@ A doorway action reduces this burden. It is a deliberately small action linked t
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Opening the manuscript immediately after morning coffee.
@@ -318,7 +316,6 @@ The doorway action succeeds because it is concrete, repeatable and cue-linked. T
 
 Importantly, the doorway action is not a motivational trick. It is a structural solution to initiation friction.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cfAQ8oJIGoA" title="BJ Fogg: Starter Kata for Behavior Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cfAQ8oJIGoA" target="_blank" rel="noopener noreferrer">BJ Fogg: Starter Kata for Behavior Change</a></p><p class="youtube-embed-meta">Channel: Mike Rother &middot; Views: 15.0K &middot; Uploaded: November 2014 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cfAQ8oJIGoA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cfAQ8oJIGoA">Open on YouTube</a></p></div></div></div>
 
 ## Building a Reliable Start Cue
@@ -331,7 +328,6 @@ Useful start cues often fall into three categories:
 
 **After an existing action**
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * After making coffee.
@@ -341,7 +337,6 @@ Useful start cues often fall into three categories:
 </div>
 
 **At a specific location**
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -353,7 +348,6 @@ Useful start cues often fall into three categories:
 
 **At a predictable moment**
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Immediately after lunch.
@@ -364,14 +358,12 @@ Useful start cues often fall into three categories:
 
 The critical feature is consistency. A mediocre cue that appears every day is usually more valuable than an ideal cue that appears unpredictably.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_automating_hard_rout_69d805-Illustration-2-dark.svg" | relative_url }}" alt="Start Cue illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_automating_hard_rout_69d805-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_automating_hard_rout_69d805-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Using “If–Then” Plans to Automate Initiation
 
 One of the most researched methods for strengthening starts is the implementation intention, often called an “if–then” plan.
 
 Rather than setting a broad goal, the person specifies both a cue and a response:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -385,8 +377,7 @@ Research by Peter Gollwitzer and others suggests that implementation intentions 
 
 The practical lesson is simple: do not merely decide what you want to achieve. Decide what you will do when a particular cue arrives.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AdKUJxjn-R8" title="Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer">Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.3M &middot; Uploaded: December 2012 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AdKUJxjn-R8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LPkDTfigHwg" title="The 3 KEYS To Staying CONSISTENT With NEW HABITS - James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LPkDTfigHwg" target="_blank" rel="noopener noreferrer">The 3 KEYS To Staying CONSISTENT With NEW HABITS - James Clear</a></p><p class="youtube-embed-meta">Channel: Mind Pump Show &middot; Views: 9.6K &middot; Uploaded: December 2022 &middot; Length: 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LPkDTfigHwg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LPkDTfigHwg">Open on YouTube</a></p></div></div></div>
 
 ## Doorway Actions for Exercise, Writing and Calmer Replies
 
@@ -395,7 +386,6 @@ The practical lesson is simple: do not merely decide what you want to achieve. D
 Many people attempt to automate exercise itself and become discouraged when workouts vary in quality.
 
 A more effective target is often the first physical action:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -412,7 +402,6 @@ Once these actions become strongly linked to a cue, the odds of completing meani
 Writing is rarely automatic. Planning, drafting and revising require active thinking.
 
 What can become automatic is opening the document at a specific time and place. A writer who sits down every morning, opens the manuscript and writes one sentence is creating an instigation habit. The session may last five minutes or two hours, but the start becomes increasingly reliable.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_automating_hard_rout_69d805-Illustration-3-dark.svg" | relative_url }}" alt="Start Cue illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_automating_hard_rout_69d805-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_automaticity_947f0e_automating_hard_rout_69d805-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Calmer Replies
@@ -448,8 +437,7 @@ Habit formation depends on repetition in similar circumstances. Constantly chang
 
 A difficult workout, mediocre writing session or imperfect conversation can still reinforce the start habit if the cue successfully triggered initiation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LPkDTfigHwg" title="The 3 KEYS To Staying CONSISTENT With NEW HABITS - James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LPkDTfigHwg" target="_blank" rel="noopener noreferrer">The 3 KEYS To Staying CONSISTENT With NEW HABITS - James Clear</a></p><p class="youtube-embed-meta">Channel: Mind Pump Show &middot; Views: 9.6K &middot; Uploaded: December 2022 &middot; Length: 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LPkDTfigHwg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LPkDTfigHwg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SwYW0ZslDV8" title="The Psychology of Habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SwYW0ZslDV8" target="_blank" rel="noopener noreferrer">The Psychology of Habits</a></p><p class="youtube-embed-meta">Channel: Everything&#x27;s Psychology &middot; Views: 326 &middot; Uploaded: June 2025 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SwYW0ZslDV8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SwYW0ZslDV8">Open on YouTube</a></p></div></div></div>
 
 ## The Real Power of Start Automation
 

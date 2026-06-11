@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-starting/
 description: Focused pages that expand on Small Starts.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: self_improvement_tha_c01280_starting_small_31cbaf
-parent_title: Small Starts | Self Improvement That Works
+parent_title: Small Starts
 parent_nav_short_title: Small Starts
 parent_permalink: /small-starts/
 ---

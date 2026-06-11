@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /feedback/
 nav_short_title: Weekly Reviews
 title: The Weekly Review That Fixes the Plan
-title_full: The Weekly Review That Fixes the Plan | Feedback
+title_full: The Weekly Review That Fixes the Plan
 display_title_short: Weekly Reviews
 display_title: Weekly Reviews
 heading_title: The Weekly Review That Fixes the Plan
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:17:53'
-parent_title: The Feedback Loop Behind Real Progress | Better Change
+parent_title: The Feedback Loop Behind Real Progress
 parent_permalink: /feedback/
 parent_nav_short_title: Feedback
 parent_heading_title: The Feedback Loop Behind Real Progress
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_weekly_r
 
 A [weekly review]({{ 'weekly-review/' | relative_url }}) is the point where a habit system learns from reality. Instead of treating a missed workout, abandoned study session or broken morning routine as a personal failure, the review asks a narrower question: what in the system failed, and what should be changed before the next attempt?
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_weekly_review_repair_23b466-Illustration-1-dark.svg" | relative_url }}" alt="Weekly Reviews illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_weekly_review_repair_23b466-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_weekly_review_repair_23b466-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because [behaviour change]({{ 'behaviour-change/' | relative_url }}) is rarely a straight line. Research on self-regulation, relapse and habit formation consistently finds that lapses are common and that monitoring behaviour improves goal attainment when progress is recorded and used to guide adjustments. The value comes not from collecting data but from turning that data into a better plan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 737 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMonitoring Interventions (Chapter 37) - The Handbook of...This chapter reviews the evidence that...</span></span></span>
 
@@ -281,7 +280,6 @@ A useful weekly review therefore acts as a repair mechanism. It converts seven d
 The first task of a weekly review is to examine what happened without constructing a dramatic story about it.
 
 Many people review their week by asking, “Was I disciplined?” That question usually produces vague answers. A more useful review looks at observable behaviour:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -304,7 +302,6 @@ A weekly review does not require detailed journalling. In fact, excessive analys
 
 The most useful records are usually brief:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Planned actions completed.
@@ -319,8 +316,7 @@ Behaviour-change research repeatedly identifies self-monitoring as one of the mo
 
 The review is not an attempt to explain everything. It is an attempt to identify the strongest signal.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sJpfP7UOYQk" title="The 3 Types Of Weekly Review." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sJpfP7UOYQk" target="_blank" rel="noopener noreferrer">The 3 Types Of Weekly Review.</a></p><p class="youtube-embed-meta">Channel: Carl Pullein &middot; Views: 22.8K &middot; Uploaded: February 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sJpfP7UOYQk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sJpfP7UOYQk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l44xofE_9jE" title="How To Plan Your Week For Clarity, Focus and Purpose" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l44xofE_9jE" target="_blank" rel="noopener noreferrer">How To Plan Your Week For Clarity, Focus and Purpose</a></p><p class="youtube-embed-meta">Channel: Carl Pullein &middot; Views: 10.2K &middot; Uploaded: March 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l44xofE_9jE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l44xofE_9jE">Open on YouTube</a></p></div></div></div>
 
 ## Find the Bottleneck Before Changing the Goal
 
@@ -356,14 +352,12 @@ One disruption created several missed days because there was no restart rule.
 
 These explanations fit well with evidence from habit and self-regulation research, which emphasises the role of cues, environmental conditions, planning and coping with barriers rather than relying solely on motivation. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/09637214241246480" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHabits, Goals, and Effective Behavior Change3 June 2024 — Although habits can form as people pursue goals, once habits devel...</span><span class="citation-popover-meta">Published: June 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_weekly_review_repair_23b466-Illustration-2-dark.svg" | relative_url }}" alt="Weekly Reviews illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_weekly_review_repair_23b466-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_weekly_review_repair_23b466-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### A Practical Example
 
 Imagine a person who planned to write for thirty minutes every weekday morning.
 
 The weekly record shows:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -381,7 +375,6 @@ A poor review concludes: “I am inconsistent.”
 
 A useful review concludes:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Sleep affected Wednesday.
@@ -392,8 +385,7 @@ A useful review concludes:
 
 The system now has specific points of intervention.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A4lfeAW6oCw" title="GTD Weekly Review For Beginners Part 1: 3 Habits That Make GTD Stick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A4lfeAW6oCw" target="_blank" rel="noopener noreferrer">GTD Weekly Review For Beginners Part 1: 3 Habits That Make GTD Stick</a></p><p class="youtube-embed-meta">Channel: GTD® focus &middot; Views: 2.7K &middot; Uploaded: May 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A4lfeAW6oCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A4lfeAW6oCw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sJpfP7UOYQk" title="The 3 Types Of Weekly Review." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sJpfP7UOYQk" target="_blank" rel="noopener noreferrer">The 3 Types Of Weekly Review.</a></p><p class="youtube-embed-meta">Channel: Carl Pullein &middot; Views: 22.8K &middot; Uploaded: February 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sJpfP7UOYQk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sJpfP7UOYQk">Open on YouTube</a></p></div></div></div>
 
 ## Choose One Next Test for the Coming Week
 
@@ -404,7 +396,6 @@ Many reviews fail because they generate a long list of improvements. The result 
 A better approach is to identify the strongest bottleneck and create one modification.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -430,7 +421,6 @@ The output becomes:
 
 That statement gives the coming week something concrete to test.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_weekly_review_repair_23b466-Illustration-3-dark.svg" | relative_url }}" alt="Weekly Reviews illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_weekly_review_repair_23b466-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_weekly_review_repair_23b466-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Small Repairs Beat Complete Overhauls
 
@@ -451,9 +441,7 @@ A useful weekly review is short, evidence-based and focused on adaptation.
 
 The sequence is simple:
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l44xofE_9jE" title="How To Plan Your Week For Clarity, Focus and Purpose" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l44xofE_9jE" target="_blank" rel="noopener noreferrer">How To Plan Your Week For Clarity, Focus and Purpose</a></p><p class="youtube-embed-meta">Channel: Carl Pullein &middot; Views: 10.2K &middot; Uploaded: March 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l44xofE_9jE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l44xofE_9jE">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A4lfeAW6oCw" title="GTD Weekly Review For Beginners Part 1: 3 Habits That Make GTD Stick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A4lfeAW6oCw" target="_blank" rel="noopener noreferrer">GTD Weekly Review For Beginners Part 1: 3 Habits That Make GTD Stick</a></p><p class="youtube-embed-meta">Channel: GTD® focus &middot; Views: 2.7K &middot; Uploaded: May 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A4lfeAW6oCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A4lfeAW6oCw">Open on YouTube</a></p></div></div></div>
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 

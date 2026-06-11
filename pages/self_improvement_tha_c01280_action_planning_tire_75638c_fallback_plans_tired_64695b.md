@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /action-plans/
 nav_short_title: Fallback Plans
 title: What Is Your Plan When Energy Drops?
-title_full: What Is Your Plan When Energy Drops? | Action Plans
+title_full: What Is Your Plan When Energy Drops?
 display_title_short: Fallback Plans
 display_title: Fallback Plans
 heading_title: What Is Your Plan When Energy Drops?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:15:50'
-parent_title: The Plan That Still Works When You Are Tired | Better Change
+parent_title: The Plan That Still Works When You Are Tired
 parent_permalink: /action-plans/
 parent_nav_short_title: Action Plans
 parent_heading_title: The Plan That Still Works When You Are Tired
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_fa
 
 Busy days rarely destroy a habit because the goal was wrong. More often, they destroy it because the planned version was too ambitious for the conditions that actually arrived. A fallback plan is a pre-decided, easier version of the same behaviour that keeps the habit alive when exhaustion, delays, [bad weather]({{ 'bad-weather/' | relative_url }}), travel, stress or low mood make the full version unrealistic.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_fallback_plans_tired_64695b-Illustration-1-dark.svg" | relative_url }}" alt="Fallback Plans illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_fallback_plans_tired_64695b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_fallback_plans_tired_64695b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key idea is simple: do not wait until you are tired to decide what “counts”. Decide in advance. Behaviour-change research on implementation intentions shows that specific if-then plans help people translate intentions into action by linking predictable situations to predetermined responses. Rather than negotiating with yourself in the moment, you follow a prepared rule. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Division of Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Division of Cancer ControlImplementation Intentionsby PM Gollwitzer — Accumulated evidence indicates that if-then plan formation promotes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
 
@@ -287,7 +286,6 @@ A good fallback plan is not an excuse to do less forever. It is insurance agains
 Most people plan only for ideal conditions. They imagine the version of themselves who sleeps well, leaves work on time and feels motivated. Yet many obstacles are predictable long before they occur.
 
 Common examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,7 +318,6 @@ The habit survives even when the original plan does not.
 
 A full-sized plan often assumes more time, energy and attention than a difficult day provides. When tiredness appears, people must suddenly answer several questions:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Should I still do it?
@@ -334,15 +331,13 @@ Every extra decision increases the chance of [abandonment]({{ 'abandonment/' | r
 
 Implementation-intention research suggests that pre-selecting responses reduces the need for deliberation at the critical moment. The cue triggers the behaviour rather than a fresh round of decision-making. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Division of Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Division of Cancer ControlImplementation Intentionsby PM Gollwitzer — Accumulated evidence indicates that if-then plan formation promotes...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A_u9PQGFC_Q" title="18 habits that (quietly) doubled my output" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A_u9PQGFC_Q" target="_blank" rel="noopener noreferrer">18 habits that (quietly) doubled my output</a></p><p class="youtube-embed-meta">Channel: Ideas To Thrive &middot; Views: 255.3K &middot; Uploaded: November 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A_u9PQGFC_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A_u9PQGFC_Q">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AdKUJxjn-R8" title="Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer">Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.3M &middot; Uploaded: December 2012 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AdKUJxjn-R8">Open on YouTube</a></p></div></div></div>
 
 ### All-or-nothing thinking
 
 Another common failure mode is treating the ideal version as the only acceptable version.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -361,7 +356,6 @@ Tiny-habit approaches and related behaviour-design models argue that reducing th
 A fallback plan should be small enough that it remains realistic on a genuinely difficult day while still preserving the [identity]({{ 'identity/' | relative_url }}) of the habit.
 
 A useful process is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -382,7 +376,6 @@ A minimum viable habit usually passes three tests.
 
 The fallback should be the same behaviour family, not a different goal.
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Run becomes walk.
@@ -401,7 +394,6 @@ The goal is not symbolic box-ticking. The action should still reinforce the desi
 
 Research on habit formation and implementation intentions suggests that consistency of cue-response links matters because repeated execution strengthens behavioural patterns over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36476147/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This may be achieved by mentally forming stimulus...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/joop.12540" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS Psych Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">BPS Psych HubPromoting new habits at work through implementation intentions9 Aug 2024 — The results indicate that implementation intentio...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_fallback_plans_tired_64695b-Illustration-2-dark.svg" | relative_url }}" alt="Fallback Plans illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_fallback_plans_tired_64695b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_fallback_plans_tired_64695b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples for Exercise, Writing, Food and Sleep
 
@@ -415,7 +407,6 @@ Normal plan:
 
 Fallback plans:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Ten-minute walk.
@@ -427,8 +418,7 @@ Fallback plans:
 
 The purpose is not fitness optimisation. The purpose is preventing the exercise habit from disappearing whenever energy falls below ideal levels.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K0S9xJwRohI" title="I Finally Figured Out How To Be Consistent (It’s Not Discipline)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K0S9xJwRohI" target="_blank" rel="noopener noreferrer">I Finally Figured Out How To Be Consistent (It’s Not Discipline)</a></p><p class="youtube-embed-meta">Channel: Adete Dahiya &middot; Views: 111.4K &middot; Uploaded: February 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K0S9xJwRohI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K0S9xJwRohI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A_u9PQGFC_Q" title="18 habits that (quietly) doubled my output" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A_u9PQGFC_Q" target="_blank" rel="noopener noreferrer">18 habits that (quietly) doubled my output</a></p><p class="youtube-embed-meta">Channel: Ideas To Thrive &middot; Views: 255.3K &middot; Uploaded: November 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A_u9PQGFC_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A_u9PQGFC_Q">Open on YouTube</a></p></div></div></div>
 
 ### Writing
 
@@ -445,7 +435,6 @@ Fallback plans:
 * Spend five minutes outlining tomorrow's work.
 
 The fallback keeps contact with the project. Tomorrow begins from momentum rather than from zero.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_fallback_plans_tired_64695b-Illustration-3-dark.svg" | relative_url }}" alt="Fallback Plans illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_fallback_plans_tired_64695b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_action_planning_tire_75638c_fallback_plans_tired_64695b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Food
@@ -480,8 +469,7 @@ Fallback plans:
 
 A reduced routine still protects the broader sleep habit.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HeLfHo43joo" title="THIS is Where to Spend Your Time &amp; Energy 🧘🏻‍♀️ Life Reset Day 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HeLfHo43joo" target="_blank" rel="noopener noreferrer">THIS is Where to Spend Your Time &amp; Energy 🧘🏻‍♀️ Life Reset Day 5</a></p><p class="youtube-embed-meta">Channel: The Productivity Psychologist &middot; Views: 1.8K &middot; Uploaded: October 2024 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HeLfHo43joo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HeLfHo43joo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K0S9xJwRohI" title="I Finally Figured Out How To Be Consistent (It’s Not Discipline)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K0S9xJwRohI" target="_blank" rel="noopener noreferrer">I Finally Figured Out How To Be Consistent (It’s Not Discipline)</a></p><p class="youtube-embed-meta">Channel: Adete Dahiya &middot; Views: 111.4K &middot; Uploaded: February 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K0S9xJwRohI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K0S9xJwRohI">Open on YouTube</a></p></div></div></div>
 
 ## Build Fallbacks Around Predictable Obstacles
 

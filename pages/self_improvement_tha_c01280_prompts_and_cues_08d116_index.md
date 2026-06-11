@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-prompts/
 description: Focused pages that expand on Cues.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: self_improvement_tha_c01280_prompts_and_cues_08d116
-parent_title: Cues | Self Improvement That Works
+parent_title: Cues
 parent_nav_short_title: Cues
 parent_permalink: /cues/
 ---

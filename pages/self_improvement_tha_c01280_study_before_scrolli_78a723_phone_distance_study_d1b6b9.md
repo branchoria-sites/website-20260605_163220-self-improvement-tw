@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /study-first/
 nav_short_title: Phone Distance
 title: Why the Phone Belongs Across the Room
-title_full: Why the Phone Belongs Across the Room | Study First
+title_full: Why the Phone Belongs Across the Room
 display_title_short: Phone Distance
 display_title: Phone Distance
 heading_title: Why the Phone Belongs Across the Room
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:18:40'
-parent_title: How to Study Before You Start Scrolling | Better Change
+parent_title: How to Study Before You Start Scrolling
 parent_permalink: /study-first/
 parent_nav_short_title: Study First
 parent_heading_title: How to Study Before You Start Scrolling
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_ph
 
 One of the simplest ways to protect a study session is to move the phone out of reach before the first page is read, the first problem is attempted, or the first note is written. This matters because the opening minutes of a study block are unusually fragile. If the phone is already on the desk, checking it can become the default behaviour before academic work has gained any momentum. The goal is not permanent phone avoidance. It is to create a short protected window—roughly the first ten minutes—during which studying becomes the activity that gets started first.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9-Illustration-1-dark.svg" | relative_url }}" alt="Phone Distance illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on smartphone presence suggests that distance matters more than many students assume. The benefit is not only avoiding active scrolling. A phone that is visible and reachable can compete for attention even when it is silent and unused. Moving it across the room creates a small barrier at exactly the moment when attention is easiest to lose and hardest to rebuild. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.journals.uchicago.edu/doi/full/10.1086/691462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.uchicago.edu">[Chicago Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.uchicago.edu</span><span class="citation-popover-snippet">Chicago JournalsBrain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF Ward · 2017 · Cited by 1355 — In this research, we test t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.utexas.edu">[UT Austin News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.utexas.edu</span><span class="citation-popover-title">the mere presence of your smartphone reduces brain power</span><span class="citation-popover-snippet">UT Austin NewsThe Mere Presence of Your Smartphone Reduces Brain...26 Jun 2017 — The findings suggest that the mere presence of one&#x27;s sm...</span></span></span>
 
@@ -298,7 +297,6 @@ The value of phone distance comes from reducing immediate access during the tran
 
 A practical setup is deliberately simple:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Put the phone across the room, on a shelf, or on charge before sitting down.
@@ -313,7 +311,6 @@ The key mechanism is friction. When the phone sits beside the notebook, checking
 This matters because habits often run faster than intentions. Many students do not decide to spend twenty minutes scrolling. They decide to check one notification, then discover they are already inside an app. By placing the device elsewhere, the chain of behaviour is interrupted before it starts.
 
 The distance does not need to be extreme. Another room may be ideal, but even placing the phone on a windowsill, bookshelf, or charging station away from the desk changes the physical [environment]({{ 'environment/' | relative_url }}). The goal is not impossibility. The goal is making the first impulse slightly harder to follow.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9-Illustration-2-dark.svg" | relative_url }}" alt="Phone Distance illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Ten Minutes Is Often Enough
@@ -334,7 +331,6 @@ Some students find themselves repeatedly standing up to retrieve the phone. Othe
 
 Useful options include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Activating Do Not Disturb or Focus modes.
@@ -348,7 +344,6 @@ Useful options include:
 Research on notifications consistently shows that alerts can disrupt attention and cognitive control. Even brief signals can pull attention away from an ongoing task and encourage checking behaviour. Recent work suggests that notifications create immediate attentional shifts, while notification suppression is associated with longer periods of uninterrupted focus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.22657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 45 — The present study aimed to examine...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 48 — The current study examined the effects of...</span></span></span>
 
 Another common problem is anxiety about missing something important. For those students, a scheduled check can work better than total restriction. For example, placing the phone across the room and allowing a two-minute check after the first ten minutes preserves the protective barrier while reducing worry about being unreachable.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9-Illustration-3-dark.svg" | relative_url }}" alt="Phone Distance illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Real Benefit: Protecting the Start
@@ -476,15 +471,15 @@ For students trying to study before scrolling, the first victory is often not an
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cell Phone Lock Box with Timer Portable Timed Phone Lock Box for iPhone Android"><img src="https://i.ebayimg.com/images/g/gakAAeSw9zpqF9vd/s-l225.jpg" alt="Listing image for Cell Phone Lock Box with Timer Portable Timed Phone Lock Box for iPhone Android" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PU Leather Phone And TV Remote Control Holder Desk Organizer Box Storage Boxes"><img src="https://i.ebayimg.com/images/g/gAgAAeSwPeFp~A79/s-l225.jpg" alt="Listing image for PU Leather Phone And TV Remote Control Holder Desk Organizer Box Storage Boxes" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Cell Phone Lock Box with Timer Portable Timed Phone Lock Box for iPhone Android</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer">PU Leather Phone And TV Remote Control Holder Desk Organizer Box Storage Boxes</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone storage box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -492,15 +487,15 @@ For students trying to study before scrolling, the first victory is often not an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cell Phone Lock Box with Timer, Portable Time Lock and for iphone Box /UK✅"><img src="https://i.ebayimg.com/images/g/1D4AAOSwhl1mYBTn/s-l225.jpg" alt="Listing image for Cell Phone Lock Box with Timer, Portable Time Lock and for iphone Box /UK✅" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack"><img src="https://i.ebayimg.com/images/g/1dgAAeSwU9BqDqEz/s-l225.jpg" alt="Listing image for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Cell Phone Lock Box with Timer, Portable Time Lock and for iphone Box /UK✅</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer">Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone storage box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +503,15 @@ For students trying to study before scrolling, the first victory is often not an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phone Lock Box With Phone Jail, Self-control Universal Phone Safe Lock Box"><img src="https://i.ebayimg.com/images/g/jtAAAeSwcYFoZNDi/s-l225.jpg" alt="Listing image for Phone Lock Box With Phone Jail, Self-control Universal Phone Safe Lock Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silicone Cell Phone Data Cable Storage Box Travel Earphone Wire Key USB Bag"><img src="https://i.ebayimg.com/images/g/5A8AAeSwe5lp8MjG/s-l225.jpg" alt="Listing image for Silicone Cell Phone Data Cable Storage Box Travel Earphone Wire Key USB Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">Phone Lock Box With Phone Jail, Self-control Universal Phone Safe Lock Box</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer">Silicone Cell Phone Data Cable Storage Box Travel Earphone Wire Key USB Bag</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone storage box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +519,15 @@ For students trying to study before scrolling, the first victory is often not an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 48- Slot Mobile Phone Wall-Mountable Deposit Box Lock Box"><img src="https://i.ebayimg.com/images/g/aW0AAeSw~WhqFpTD/s-l225.jpg" alt="Listing image for 48- Slot Mobile Phone Wall-Mountable Deposit Box Lock Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack"><img src="https://i.ebayimg.com/images/g/cwcAAeSwV~5pd57f/s-l225.jpg" alt="Listing image for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">48- Slot Mobile Phone Wall-Mountable Deposit Box Lock Box</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer">Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lock box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lock box</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone storage box</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,7 +535,7 @@ For students trying to study before scrolling, the first victory is often not an
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lock+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-lock-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lock box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-lock-box" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -750,6 +745,7 @@ For students trying to study before scrolling, the first victory is often not an
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

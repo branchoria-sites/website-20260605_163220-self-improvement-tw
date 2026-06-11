@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /meaning/
 nav_short_title: Owned Goals
 title: Is This Goal Yours or Borrowed?
-title_full: Is This Goal Yours or Borrowed? | Meaning
+title_full: Is This Goal Yours or Borrowed?
 display_title_short: Owned Goals
 display_title: Owned Goals
 heading_title: Is This Goal Yours or Borrowed?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:08:16'
-parent_title: What Makes a Goal Worth Repeating? | Better Change
+parent_title: What Makes a Goal Worth Repeating?
 parent_permalink: /meaning/
 parent_nav_short_title: Meaning
 parent_heading_title: What Makes a Goal Worth Repeating?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_owned_
 
 Many goals look sensible on the surface yet fail once the excitement wears off. Often the problem is not the action itself but the source of [motivation]({{ 'motivation/' | relative_url }}) behind it. The same goal—getting fit, earning a qualification, building a business, learning a language—can either feel steady and resilient or fragile and exhausting depending on whether it is personally endorsed or primarily driven by approval, status, guilt, or comparison.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_owned_vs_borrowed_go_4b5ae7-Illustration-1-dark.svg" | relative_url }}" alt="Owned Goals illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_owned_vs_borrowed_go_4b5ae7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_owned_vs_borrowed_go_4b5ae7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research in Self-Determination Theory (SDT) draws a useful distinction between autonomous motivation and controlled motivation. Autonomous goals are pursued because they reflect a person's values, interests, [identity]({{ 'identity/' | relative_url }}), or chosen priorities. Controlled goals are pursued mainly because of pressure, obligation, fear of judgement, or the desire to gain approval. These motives can produce identical behaviour at first, but they tend to create very different experiences over time. Self-Determination Theory <span class="citation-chip-wrap"><a class="citation-chip" href="https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stial.ie">[stial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stial.ie</span><span class="citation-popover-title">Ryan and Deci 2020 self determination theory</span><span class="citation-popover-snippet">pdfby RM Ryan · 2020 · Cited by 10296 — Self-determination theory (SDT) is a broad framework for understanding factors that facilitate or...</span></span></span> For [meaningful goals]({{ 'meaning/' | relative_url }}) that survive boredom, ownership matters. A goal does not need to be enjoyable every day. It does need to feel like it belongs to the person pursuing it.
 
@@ -316,7 +315,6 @@ Controlled goals are driven by pressure.
 
 That pressure may come from outside:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Seeking praise.
@@ -328,7 +326,6 @@ That pressure may come from outside:
 
 Or it may come from within:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * Shame.
@@ -339,7 +336,6 @@ Or it may come from within:
 </div>
 
 Controlled motivation can be powerful in the short term. In fact, many ambitious people initially achieve impressive results through pressure. The problem is that pressure must be continually supplied. When approval disappears, comparison loses its sting, or the audience stops watching, the goal can suddenly feel empty. Self-Determination Theory <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govSelf-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soc...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7WUDV8TLR0Q" title="Autonomous and controlled motivation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7WUDV8TLR0Q" target="_blank" rel="noopener noreferrer">Autonomous and controlled motivation</a></p><p class="youtube-embed-meta">Channel: Work Well-being and Motivation &middot; Views: 2.0K &middot; Uploaded: April 2020 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7WUDV8TLR0Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7WUDV8TLR0Q">Open on YouTube</a></p></div></div></div>
 
@@ -376,7 +372,6 @@ Imagine completing the same work privately.
 
 Would the goal still matter if:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * You could never post about it?
@@ -395,14 +390,12 @@ The self-concordance model developed by Kennon Sheldon and Andrew Elliot suggest
 
 This explains why some people achieve milestones they once desperately wanted and immediately begin chasing the next one. The achievement solved a status problem but never fulfilled a personal value.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_owned_vs_borrowed_go_4b5ae7-Illustration-2-dark.svg" | relative_url }}" alt="Owned Goals illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_owned_vs_borrowed_go_4b5ae7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_owned_vs_borrowed_go_4b5ae7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Your reasons sound like other people's voices
 
 Listen to the language behind the goal.
 
 Common approval-driven phrases include:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -415,7 +408,6 @@ Common approval-driven phrases include:
 </div>
 
 These statements may contain valid concerns. But when they dominate the motivation structure, the goal often becomes harder to sustain.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VSNvy_48exY" title="Mental Performance Tips #2: Motivation (Intrinsic, Extrinsic, Amotivation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VSNvy_48exY" target="_blank" rel="noopener noreferrer">Mental Performance Tips #2: Motivation (Intrinsic, Extrinsic, Amotivation)</a></p><p class="youtube-embed-meta">Channel: UWGB Psychology &middot; Views: 931 &middot; Uploaded: March 2020 &middot; Length: 3 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VSNvy_48exY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VSNvy_48exY">Open on YouTube</a></p></div></div></div>
 
@@ -438,7 +430,6 @@ Research across educational and behavioural domains repeatedly finds that autono
 ## How to Rewrite a Borrowed Goal Into a Personally Endorsed One
 
 The solution is not necessarily to abandon the goal. Often the better move is to reconnect it to reasons you genuinely endorse.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_owned_vs_borrowed_go_4b5ae7-Illustration-3-dark.svg" | relative_url }}" alt="Owned Goals illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_owned_vs_borrowed_go_4b5ae7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_owned_vs_borrowed_go_4b5ae7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Move from outcome to value
@@ -465,7 +456,6 @@ If the answer is yes, explore what remains.
 
 Perhaps:
 
-
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
 * Strength remains even if admiration disappears.
@@ -475,7 +465,6 @@ Perhaps:
 </div>
 
 Those remaining reasons often reveal the autonomous core.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZpAwJKq8TOc" title="Self-Determination Theory Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZpAwJKq8TOc" target="_blank" rel="noopener noreferrer">Self-Determination Theory Explained</a></p><p class="youtube-embed-meta">Channel: Psychology Exposed &middot; Views: 7.7K &middot; Uploaded: February 2025 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZpAwJKq8TOc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZpAwJKq8TOc">Open on YouTube</a></p></div></div></div>
 
@@ -627,15 +616,15 @@ When a goal feels meaningful even without applause, comparison, or external pres
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOPPS NOW #146 Mikkel Damsgaard &quot;Settles Sever Goal Thriller In Injury-Time&quot;"><img src="https://i.ebayimg.com/images/g/01gAAeSwW3Rpt~gW/s-l225.jpg" alt="Listing image for TOPPS NOW #146 Mikkel Damsgaard &quot;Settles Sever Goal Thriller In Injury-Time&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/RngAAeSwppdoomKF/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">TOPPS NOW #146 Mikkel Damsgaard &quot;Settles Sever Goal Thriller In Injury-Time&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -643,15 +632,15 @@ When a goal feels meaningful even without applause, comparison, or external pres
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GERRY DALY TOPPS 1977 SHOOT/GOAL EIRE ALL-STARS CARD #247 MANCHESTER UNITED"><img src="https://i.ebayimg.com/images/g/~lkAAeSwWm5pdjUg/s-l225.jpg" alt="Listing image for GERRY DALY TOPPS 1977 SHOOT/GOAL EIRE ALL-STARS CARD #247 MANCHESTER UNITED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/JPsAAeSwYqhpFjp3/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">GERRY DALY TOPPS 1977 SHOOT/GOAL EIRE ALL-STARS CARD #247 MANCHESTER UNITED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -659,15 +648,15 @@ When a goal feels meaningful even without applause, comparison, or external pres
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HERNAN CRESPO Topps Argentina Team Set 2024 25 Bookends First Goal"><img src="https://i.ebayimg.com/images/g/OWAAAOSwJDFnnjOL/s-l225.jpg" alt="Listing image for HERNAN CRESPO Topps Argentina Team Set 2024 25 Bookends First Goal" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 laminated motivation poster"><img src="https://i.ebayimg.com/images/g/mLsAAeSwQIxqJ~Nf/s-l225.jpg" alt="Listing image for A4 laminated motivation poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">HERNAN CRESPO Topps Argentina Team Set 2024 25 Bookends First Goal</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">A4 laminated motivation poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -675,15 +664,15 @@ When a goal feels meaningful even without applause, comparison, or external pres
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Topps Man United Team Set 2024/25 -First Old Trafford Goal x8 Card Bundle"><img src="https://i.ebayimg.com/images/g/-dMAAeSwUv5p7E08/s-l225.jpg" alt="Listing image for Topps Man United Team Set 2024/25 -First Old Trafford Goal x8 Card Bundle" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/TAMAAeSw3iFoo0of/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">Topps Man United Team Set 2024/25 -First Old Trafford Goal x8 Card Bundle</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -691,7 +680,7 @@ When a goal feels meaningful even without applause, comparison, or external pres
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-goal-setting-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting cards" data-ebay-reference="is-this-goal-yours-or-borrowed-goal-setting-cards" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-this-goal-yours-or-borrowed-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="is-this-goal-yours-or-borrowed-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -901,6 +890,7 @@ When a goal feels meaningful even without applause, comparison, or external pres
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

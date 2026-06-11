@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /cycle-commute/
 nav_short_title: Coping Plans
 title: The If Then Plan That Saves the Ride
-title_full: The If Then Plan That Saves the Ride | Cycle Commute
+title_full: The If Then Plan That Saves the Ride
 display_title_short: Coping Plans
 display_title: Coping Plans
 heading_title: The If Then Plan That Saves the Ride
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:22:24'
-parent_title: Why the Habit Starts the Night Before | Better Change
+parent_title: Why the Habit Starts the Night Before
 parent_permalink: /cycle-commute/
 parent_nav_short_title: Cycle Commute
 parent_heading_title: Why the Habit Starts the Night Before
@@ -276,14 +276,12 @@ image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_if_then
 
 The difference between intending to cycle to work and actually doing it is often decided the previous evening. Many commuters already want to ride. The problem is that morning reality introduces obstacles: rain at the window, tiredness, darkness, a forgotten laptop charger, or a feeling that there is not enough time. Coping plans are designed for exactly this moment. Instead of hoping [motivation]({{ 'motivation/' | relative_url }}) survives every obstacle, they pre-decide what happens when predictable barriers appear.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_if_then_commute_plan_5a6cd3-Illustration-1-dark.svg" | relative_url }}" alt="Coping Plans illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_if_then_commute_plan_5a6cd3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_if_then_commute_plan_5a6cd3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Behaviour-change research distinguishes between action planning (“when, where and how will I ride?”) and coping planning (“what will I do if something gets in the way?”). Evidence suggests that both help bridge the intention–behaviour gap, with coping planning specifically focused on anticipated barriers and responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17553212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">planning mediates between intentions and physical activityby U Scholz · 2008 · Cited by 306 — Action planning comprises the when, w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[2D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">where and how of implementing a behaviour. Coping planning involves the anticipation of barriers and ways to overcome them.Read more...</span></span></span>
 
 ## The If-Then Plan That Saves the Ride
 
 A night-before coping plan is usually written as an if–then statement:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -302,8 +300,7 @@ This is important because intentions alone are often poor predictors of behaviou
 
 For cycle commuting, action planning and coping planning work together but solve different problems.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[**Action planning answers:**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">where and how of implementing a behaviour. Coping planning involves the anticipation of barriers and ways to overcome them.Read more...</span></span></span>
-
+**Action planning answers:** <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[d-nb.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">where and how of implementing a behaviour. Coping planning involves the anticipation of barriers and ways to overcome them.Read more...</span></span></span>
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -316,8 +313,7 @@ For cycle commuting, action planning and coping planning work together but solve
 
 An example is: “On Tuesday and Thursday I will cycle to work, leaving home at 7:40 a.m.”
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[**Coping planning answers:**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">where and how of implementing a behaviour. Coping planning involves the anticipation of barriers and ways to overcome them.Read more...</span></span></span>
-
+**Coping planning answers:** <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[d-nb.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">where and how of implementing a behaviour. Coping planning involves the anticipation of barriers and ways to overcome them.Read more...</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -335,7 +331,6 @@ Research on physical activity repeatedly finds that planning interventions are m
 ## Matching Common Commute Barriers to Responses
 
 The most effective coping plans target barriers that are both predictable and personally relevant.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9ty8IcqbVys" title="Beverly Landais - If Then Planning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9ty8IcqbVys" target="_blank" rel="noopener noreferrer">Beverly Landais - If Then Planning</a></p><p class="youtube-embed-meta">Channel: Psychologies UK &middot; Views: 1.1K &middot; Uploaded: August 2019 &middot; Length: 2 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9ty8IcqbVys" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9ty8IcqbVys">Open on YouTube</a></p></div></div></div>
 
@@ -363,7 +358,6 @@ A useful coping plan is:
 
 This preserves the behaviour while reducing the perceived cost.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_if_then_commute_plan_5a6cd3-Illustration-2-dark.svg" | relative_url }}" alt="Coping Plans illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_if_then_commute_plan_5a6cd3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_if_then_commute_plan_5a6cd3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Darkness
 
@@ -378,7 +372,6 @@ Use:
 > “If I expect to return home after dark, then both lights will be charged and attached before I go to bed.”
 
 The response removes a common source of last-minute friction.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CrwqYp7rs7Y" title="The SECRET Brain Hack You&#x27;re Missing When It Comes To Making New Habits Stick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CrwqYp7rs7Y" target="_blank" rel="noopener noreferrer">The SECRET Brain Hack You&#x27;re Missing When It Comes To Making New Habits Stick</a></p><p class="youtube-embed-meta">Channel: Friederike Fabritius &middot; Views: 83 &middot; Uploaded: April 2026 &middot; Length: 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CrwqYp7rs7Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CrwqYp7rs7Y">Open on YouTube</a></p></div></div></div>
 
@@ -401,7 +394,6 @@ A practical coping plan is:
 > “If a key item is missing, then I will use the backup stored permanently in my [commute bag]({{ 'commute-bag/' | relative_url }}).”
 
 The aim is not perfection. It is resilience.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_if_then_commute_plan_5a6cd3-Illustration-3-dark.svg" | relative_url }}" alt="Coping Plans illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_if_then_commute_plan_5a6cd3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_if_then_commute_plan_5a6cd3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Coping Plans Work Better Than Motivation
@@ -427,9 +419,7 @@ For many commuters, Sunday evening and Wednesday evening work well because they 
 
 A Sunday routine might include:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2ZDzojkfZDw" title="Why You Can’t Start (Even When You Want To)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2ZDzojkfZDw" target="_blank" rel="noopener noreferrer">Why You Can’t Start (Even When You Want To)</a></p><p class="youtube-embed-meta">Channel: Applied Brain Lab &middot; Views: 82 &middot; Uploaded: May 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2ZDzojkfZDw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2ZDzojkfZDw">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 

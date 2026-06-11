@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /wearables/
 nav_short_title: Minimums
 title: The Smallest Version That Still Counts
-title_full: The Smallest Version That Still Counts | Wearables
+title_full: The Smallest Version That Still Counts
 display_title_short: Minimums
 display_title: Minimums
 heading_title: The Smallest Version That Still Counts
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:44:36'
-parent_title: When Streaks Help and When They Trap You | Better Change
+parent_title: When Streaks Help and When They Trap You
 parent_permalink: /wearables/
 parent_nav_short_title: Wearables
 parent_heading_title: When Streaks Help and When They Trap You
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minim
 
 A habit does not survive difficult days because of [motivation]({{ 'motivation/' | relative_url }}). It survives because there is a version of the behaviour small enough to perform when motivation disappears. The most effective long-term routines often have a realistic minimum: a short walk instead of a workout, one sentence instead of a writing session, or five minutes of study instead of an hour.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-1-dark.svg" | relative_url }}" alt="Minimums illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This idea matters because habits are most vulnerable during illness, travel, deadlines, family [emergencies]({{ 'emergencies/' | relative_url }}) and periods of [low energy]({{ 'low-energy/' | relative_url }}). Missing occasional days is normal, but repeatedly stopping and restarting can weaken the cues and routines that make habits automatic. Research on habit formation suggests that habits develop through repeated performance in stable contexts, often over many weeks or months rather than a few days. Protecting repetition, even at a very small scale, helps preserve that process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — Four studies reported the...</span></span></span>
 
@@ -312,8 +311,7 @@ This is why many habit-building systems emphasise starting extremely small. The 
 
 The psychological benefit is equally important. Completing a minimum action produces evidence that the habit remains part of everyday life. Missing a full workout may feel like failure. Completing a five-minute version feels like continuity. Over time, continuity usually matters more than occasional bursts of intensity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/us/blog/staying-sane-inside-insanity/202007/the-magic-tiny-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the magic tiny habits</span><span class="citation-popover-snippet">Psychology TodayThe Magic of Tiny Habits28 Jul 2020 — These little starter steps create a momentum that blooms into consistent, durable...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[James]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — Four studies reported the...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U_nzqnXWvSo" title="Atomic Habits: How to Get 1% Better Every Day - James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U_nzqnXWvSo" target="_blank" rel="noopener noreferrer">Atomic Habits: How to Get 1% Better Every Day - James Clear</a></p><p class="youtube-embed-meta">Channel: APB Speakers &middot; Views: 2.9M &middot; Uploaded: August 2018 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U_nzqnXWvSo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U_nzqnXWvSo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7itvByUOxo8" title="Tiny Habits Will Change Your Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7itvByUOxo8" target="_blank" rel="noopener noreferrer">Tiny Habits Will Change Your Life</a></p><p class="youtube-embed-meta">Channel: Tim Hill &middot; Views: 21.3K &middot; Uploaded: September 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7itvByUOxo8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7itvByUOxo8">Open on YouTube</a></p></div></div></div>
 
 ## Examples of Minimum Actions for Movement, Writing and Learning
 
@@ -324,7 +322,6 @@ The best minimum actions are deliberately small. They should feel almost impossi
 For exercise habits, the minimum should preserve the routine of moving rather than attempt to preserve training volume.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -343,7 +340,6 @@ Writers often abandon routines because they measure success only by word count.
 
 Useful minimums include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Write one sentence.
@@ -355,14 +351,12 @@ Useful minimums include:
 
 These actions preserve familiarity with the work. Many people continue beyond the minimum once they begin, but continuation is optional. The minimum counts even if it remains small. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-title">James Clear The Ultimate Habit Tracker Guide: Why and How to Track</span><span class="citation-popover-snippet">The most basic format is to get a calendar and cross off each day you stick with your...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-2-dark.svg" | relative_url }}" alt="Minimums illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Learning
 
 Learning habits are especially vulnerable during busy periods because they require concentration.
 
 Minimum versions might include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -389,7 +383,6 @@ If the answer is no, the minimum is probably too small.
 
 The action should satisfy three conditions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * It is achievable even on difficult days.
@@ -400,8 +393,7 @@ The action should satisfy three conditions:
 
 For example, one push-up may be sufficient because it is still exercise. Sitting on the sofa and thinking about exercise is not.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7itvByUOxo8" title="Tiny Habits Will Change Your Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7itvByUOxo8" target="_blank" rel="noopener noreferrer">Tiny Habits Will Change Your Life</a></p><p class="youtube-embed-meta">Channel: Tim Hill &middot; Views: 21.3K &middot; Uploaded: September 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7itvByUOxo8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7itvByUOxo8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U_nzqnXWvSo" title="Atomic Habits: How to Get 1% Better Every Day - James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U_nzqnXWvSo" target="_blank" rel="noopener noreferrer">Atomic Habits: How to Get 1% Better Every Day - James Clear</a></p><p class="youtube-embed-meta">Channel: APB Speakers &middot; Views: 2.9M &middot; Uploaded: August 2018 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U_nzqnXWvSo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U_nzqnXWvSo">Open on YouTube</a></p></div></div></div>
 
 ## How to Avoid Cheating the Value Behind the Habit
 
@@ -415,7 +407,6 @@ A minimum action is a reduced version of the real habit. A substitute action mer
 
 Useful safeguards include:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Defining minimums in advance rather than during moments of low motivation.
@@ -426,7 +417,6 @@ Useful safeguards include:
 </div>
 
 The purpose of a minimum action is survival, not permanent downsizing. It should help a habit endure difficult periods and then expand naturally when circumstances improve.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-3-dark.svg" | relative_url }}" alt="Minimums illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Minimums and Visible Feedback
@@ -439,9 +429,7 @@ The most useful interpretation of those signals is not perfection. It is resilie
 
 When life becomes complicated, the smallest version that still counts can be enough to keep the habit connected to daily life. That connection is often what allows the full routine to return later without needing to be rebuilt from the beginning.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ijInaXZy0pU" title="TINY HABITS by B.J. Fogg – Animated Book Summary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ijInaXZy0pU" target="_blank" rel="noopener noreferrer">TINY HABITS by B.J. Fogg – Animated Book Summary</a></p><p class="youtube-embed-meta">Channel: Upgraded Mentality &middot; Views: 34.7K &middot; Uploaded: September 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ijInaXZy0pU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ijInaXZy0pU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /accountability/
 nav_short_title: Retrieval groups
 title: The study group that actually helps learning
-title_full: The study group that actually helps learning | Accountability
+title_full: The study group that actually helps learning
 display_title_short: Retrieval groups
 display_title: Retrieval groups
 heading_title: The study group that actually helps learning
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 16:04:10'
-parent_title: What Makes an Accountability Partner Useful? | Better Change
+parent_title: What Makes an Accountability Partner Useful?
 parent_permalink: /accountability/
 parent_nav_short_title: Accountability
 parent_heading_title: What Makes an Accountability Partner Useful?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_re
 
 [A study group]({{ 'a-study-group/' | relative_url }}) becomes genuinely useful when it changes how members learn rather than simply giving them a place to sit. One of the strongest findings in learning science is that actively retrieving information from memory produces better long-term retention than rereading or reviewing notes. This is often called the testing effect or retrieval practice. Across many studies and educational settings, learners who repeatedly try to recall information outperform those who mainly restudy it. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learningscientists.org/blog/2017/2/9-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-snippet">The Learning ScientistsNew Meta-analysis of 217 Retrieval Practice StudiesFeb 9, 2017 — Retrieval practice was consistently found to be b...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_retrieval_practice_g_b16d23-Illustration-1-dark.svg" | relative_url }}" alt="Retrieval groups illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_retrieval_practice_g_b16d23-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_retrieval_practice_g_b16d23-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That insight has an important implication for accountability-based [study groups]({{ 'study-groups/' | relative_url }}). The best group is not one that spends an hour silently reading together. It is one that regularly asks members to recall, explain, apply and correct information from memory. A retrieval-focused group creates accountability around learning itself, not just attendance. Members arrive prepared to test what they know, expose gaps in understanding and leave with clear next actions.
 
@@ -300,7 +299,6 @@ The mechanism is straightforward. When group members know they may be asked to a
 
 Several formats work particularly well:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * **Round-robin questioning:** each member asks and answers questions in turn.
@@ -313,8 +311,7 @@ Several formats work particularly well:
 
 The common feature is that information must be produced, not merely recognised.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/96xBOchLlWk" title="Making Retrieval Practice a Classroom Routine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=96xBOchLlWk" target="_blank" rel="noopener noreferrer">Making Retrieval Practice a Classroom Routine</a></p><p class="youtube-embed-meta">Channel: Edutopia &middot; Views: 283.0K &middot; Uploaded: September 2025 &middot; Length: 3 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=96xBOchLlWk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=96xBOchLlWk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lSgLa6-nvRQ" title="The Revision Mistake 90% of Students Make | Best Revision Method Based on How Your Brain Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lSgLa6-nvRQ" target="_blank" rel="noopener noreferrer">The Revision Mistake 90% of Students Make | Best Revision Method Based on How Your Brain Works</a></p><p class="youtube-embed-meta">Channel: Miss Estruch &middot; Views: 2.2K &middot; Uploaded: March 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lSgLa6-nvRQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lSgLa6-nvRQ">Open on YouTube</a></p></div></div></div>
 
 ## Why explanation improves retrieval
 
@@ -325,7 +322,6 @@ Explaining requires learners to organise knowledge into a coherent structure. If
 Research on peer instruction and collaborative learning suggests that structured explanation and discussion can improve learning outcomes beyond passive listening. When learners must justify their reasoning to others, they often notice misunderstandings that would otherwise remain hidden. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.15.010105" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.aps.org">[APS Links]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.aps.org</span><span class="citation-popover-snippet">APS LinksComparing retrieval-based practice and peer instruction in...by T Zu · 2019 · Cited by 24 — In this study, we compared the effe...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/320069708_A_meta_-analysis_of_the_effect_of_Peer_Instruction_on_learning_gain_Identification_of_informational_and_cultural_moderators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A meta -analysis of the effect of Peer Instruction on learning...Peer Instruction has a positive impact on learning compared to traditio...</span></span></span>
 
 A useful rule for study groups is that answers should rarely end with the correct fact alone. Members should be encouraged to continue with questions such as:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -339,16 +335,14 @@ A useful rule for study groups is that answers should rarely end with the correc
 
 These prompts turn recall into understanding.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_retrieval_practice_g_b16d23-Illustration-2-dark.svg" | relative_url }}" alt="Retrieval groups illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_retrieval_practice_g_b16d23-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_retrieval_practice_g_b16d23-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Review mistakes, not just correct answers
 
 One of the most valuable moments in a retrieval-focused study group occurs immediately after an incorrect answer.
 
-Many learners experience mistakes as evidence of failure. Learning research suggests the opposite interpretation is often more useful. A failed retrieval attempt reveals exactly where understanding is incomplete. Once corrected, that information can guide future study more efficiently than vague confidence judgments. Pooja K. Agarwal, Ph.D. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.retrievalpractice.org/why-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: retrievalpractice.org">[retrievalpractice.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">retrievalpractice.org</span><span class="citation-popover-title">Pooja K</span><span class="citation-popover-snippet">Agarwal, Ph.D.What is retrieval practice? - RetrievalPractice.orgRetrieval practice is a strategy in which bringing information to mind e...</span></span></span>
+Many learners experience mistakes as evidence of failure. Learning research suggests the opposite interpretation is often more useful. A failed retrieval attempt reveals exactly where understanding is incomplete. Once corrected, that information can guide future study more efficiently than vague confidence judgments. [Pooja K. Agarwal, Ph.D.]
 
 Groups benefit from treating errors as shared learning opportunities rather than personal shortcomings. A practical review sequence is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -365,8 +359,7 @@ This process helps prevent the common pattern in which members celebrate correct
 
 Some research on collaborative testing and practice testing suggests that group-based retrieval activities can produce meaningful gains in later retention, especially when learners actively engage with answers and corrections rather than merely observing others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00986283251316581" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Effects of Collaborative Practice Testing on Memory for...Jan 31, 2025 — The present research suggests that collaborati...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2k52Vfon5oY" title="Research@Work: Retrieval Practice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2k52Vfon5oY" target="_blank" rel="noopener noreferrer">Research@Work: Retrieval Practice</a></p><p class="youtube-embed-meta">Channel: Digital Promise &middot; Views: 13.2K &middot; Uploaded: October 2016 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2k52Vfon5oY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2k52Vfon5oY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/96xBOchLlWk" title="Making Retrieval Practice a Classroom Routine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=96xBOchLlWk" target="_blank" rel="noopener noreferrer">Making Retrieval Practice a Classroom Routine</a></p><p class="youtube-embed-meta">Channel: Edutopia &middot; Views: 283.0K &middot; Uploaded: September 2025 &middot; Length: 3 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=96xBOchLlWk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=96xBOchLlWk">Open on YouTube</a></p></div></div></div>
 
 ## A simple retrieval-group structure
 
@@ -376,7 +369,7 @@ A retrieval-focused study group does not need elaborate rules. A sixty-minute se
 
 Each member writes answers, definitions, concepts or problems from memory without using notes.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[**20 minutes: collaborative retrieval**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralCollaborative Retrieval Practice Reduces Mind-Wandering...by AG Knopps · 2023 · Cited by 9 — The results showed that engag...</span></span></span>
+**20 minutes: collaborative retrieval** <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralCollaborative Retrieval Practice Reduces Mind-Wandering...by AG Knopps · 2023 · Cited by 9 — The results showed that engag...</span></span></span>
 
 Members compare answers, quiz one another and attempt increasingly difficult questions.
 
@@ -388,7 +381,6 @@ The group analyses disagreements, explains reasoning and checks uncertain answer
 
 Each person identifies:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Topics they could not recall confidently.
@@ -399,7 +391,6 @@ Each person identifies:
 
 This structure keeps accountability tied to learning behaviour rather than attendance alone.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_retrieval_practice_g_b16d23-Illustration-3-dark.svg" | relative_url }}" alt="Retrieval groups illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_retrieval_practice_g_b16d23-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_retrieval_practice_g_b16d23-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What successful retrieval groups look like
 
@@ -409,9 +400,7 @@ Members arrive expecting to be tested in a low-stakes way. They explain ideas ra
 
 Within an accountability partnership or study group, retrieval practice turns learning into something visible and reviewable. Instead of asking, “Did we study?”, the group can ask a far more useful question: “What could we actually remember and explain today that we could not explain last week?” That shift moves the group from co-working towards genuine learning.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lSgLa6-nvRQ" title="The Revision Mistake 90% of Students Make | Best Revision Method Based on How Your Brain Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lSgLa6-nvRQ" target="_blank" rel="noopener noreferrer">The Revision Mistake 90% of Students Make | Best Revision Method Based on How Your Brain Works</a></p><p class="youtube-embed-meta">Channel: Miss Estruch &middot; Views: 2.2K &middot; Uploaded: March 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lSgLa6-nvRQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lSgLa6-nvRQ">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jXm2qqfDCr0" title="The Testing Effect: The Science of How To Actually Remember" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jXm2qqfDCr0" target="_blank" rel="noopener noreferrer">The Testing Effect: The Science of How To Actually Remember</a></p><p class="youtube-embed-meta">Channel: Dr. Erik Albinson | Learning &amp; Performance Coach &middot; Views: 740 &middot; Uploaded: February 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jXm2qqfDCr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jXm2qqfDCr0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -506,7 +495,7 @@ Within an accountability partnership or study group, retrieval practice turns le
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -530,15 +519,15 @@ Within an accountability partnership or study group, retrieval practice turns le
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Cube Timer LED Display Countdown Productivity Cooking Study Tool UK"><img src="https://i.ebayimg.com/images/g/Zz0AAeSwOtdpcy63/s-l225.jpg" alt="Listing image for Digital Cube Timer LED Display Countdown Productivity Cooking Study Tool UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self-esteem and Confidence Building Flash Card Set"><img src="https://i.ebayimg.com/images/g/8dkAAOSwB~BfWKeH/s-l225.jpg" alt="Listing image for Self-esteem and Confidence Building Flash Card Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer">Digital Cube Timer LED Display Countdown Productivity Cooking Study Tool UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">Self-esteem and Confidence Building Flash Card Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flash card set">Search <span data-ebay-domain-label>eBay.co.uk</span>: flash card set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,15 +535,15 @@ Within an accountability partnership or study group, retrieval practice turns le
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small Digital Kitchen Timer w/ Magnetic Back Large Display Cooking Study Timer"><img src="https://i.ebayimg.com/images/g/Lp0AAeSw-wlqHR1n/s-l225.jpg" alt="Listing image for Small Digital Kitchen Timer w/ Magnetic Back Large Display Cooking Study Timer" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Vintage Compact Facts VIS-ED Spanish Flash Card Complete Cards Set"><img src="https://i.ebayimg.com/images/g/Wh4AAeSwLxhqHBeC/s-l225.jpg" alt="Listing image for 2 x Vintage Compact Facts VIS-ED Spanish Flash Card Complete Cards Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer">Small Digital Kitchen Timer w/ Magnetic Back Large Display Cooking Study Timer</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">2 x Vintage Compact Facts VIS-ED Spanish Flash Card Complete Cards Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flash card set">Search <span data-ebay-domain-label>eBay.co.uk</span>: flash card set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,15 +551,15 @@ Within an accountability partnership or study group, retrieval practice turns le
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small Digital Kitchen Timer w/ Magnetic Back Large Display Cooking Study Timer"><img src="https://i.ebayimg.com/images/g/lfIAAeSwJZJqH99C/s-l225.jpg" alt="Listing image for Small Digital Kitchen Timer w/ Magnetic Back Large Display Cooking Study Timer" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Multicolor Flash Cards Set - 300PCS Lined Revision Cards for Efficient Learning"><img src="https://i.ebayimg.com/images/g/dq4AAeSwgYNozaY1/s-l225.jpg" alt="Listing image for Multicolor Flash Cards Set - 300PCS Lined Revision Cards for Efficient Learning" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer">Small Digital Kitchen Timer w/ Magnetic Back Large Display Cooking Study Timer</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">Multicolor Flash Cards Set - 300PCS Lined Revision Cards for Efficient Learning</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flash card set">Search <span data-ebay-domain-label>eBay.co.uk</span>: flash card set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -578,15 +567,15 @@ Within an accountability partnership or study group, retrieval practice turns le
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic LCD Digital Kitchen Timer Large Display Count Up/Down Loud Alarm Study"><img src="https://i.ebayimg.com/images/g/t2QAAeSwxPxpAyPr/s-l225.jpg" alt="Listing image for Magnetic LCD Digital Kitchen Timer Large Display Count Up/Down Loud Alarm Study" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Confidence Flash Card Set - Positive Affirmations"><img src="https://i.ebayimg.com/images/g/168AAOSw2z9gQT3f/s-l225.jpg" alt="Listing image for Confidence Flash Card Set - Positive Affirmations" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer">Magnetic LCD Digital Kitchen Timer Large Display Count Up/Down Loud Alarm Study</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">Confidence Flash Card Set - Positive Affirmations</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flash card set">Search <span data-ebay-domain-label>eBay.co.uk</span>: flash card set</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -594,7 +583,7 @@ Within an accountability partnership or study group, retrieval practice turns le
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-that-actually-helps-learning-study-timer" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -804,6 +793,7 @@ Within an accountability partnership or study group, retrieval practice turns le
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

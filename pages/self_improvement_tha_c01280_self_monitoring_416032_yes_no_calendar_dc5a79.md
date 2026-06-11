@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /tracking/
 nav_short_title: Yes No Calendar
 title: The simplest habit tracker that works
-title_full: The simplest habit tracker that works | Tracking
+title_full: The simplest habit tracker that works
 display_title_short: Yes No Calendar
 display_title: Yes No Calendar
 heading_title: The simplest habit tracker that works
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:17:00'
-parent_title: What Should You Track to Actually Change? | Better Change
+parent_title: What Should You Track to Actually Change?
 parent_permalink: /tracking/
 parent_nav_short_title: Tracking
 parent_heading_title: What Should You Track to Actually Change?
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_self_monitoring_416032_yes_no_
 
 A yes-or-no calendar is one of the simplest forms of self-monitoring: each day, you mark whether a behaviour happened or did not happen. No scores, no percentages, no dashboards. For many habits, that is enough.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_yes_no_calendar_dc5a79-Illustration-1-dark.svg" | relative_url }}" alt="Yes No Calendar illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_yes_no_calendar_dc5a79-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_yes_no_calendar_dc5a79-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This approach works particularly well when the behaviour itself matters more than the exact amount. If the goal is to read, take a walk, avoid alcohol on weekdays, or keep your phone out of the bedroom, the most important question is often not “How much?” but “Did I do it?” A simple visible record creates awareness and accountability while avoiding the complexity that causes many tracking systems to collapse under their own weight. Research on goal progress monitoring consistently finds that recording progress helps [behaviour change]({{ 'behaviour-change/' | relative_url }}), especially when progress is physically recorded and reviewed over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span>
 
@@ -281,7 +280,6 @@ Within a broader approach of self-monitoring without obsessing, the yes-or-no ca
 Many people start tracking habits with far more detail than they need. They record minutes, repetitions, ratings, notes and statistics. That can be useful for specialised goals, but it often creates friction that eventually stops the tracking itself.
 
 Binary tracking is sufficient when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,7 +314,6 @@ Research on goal monitoring suggests that physically recording progress strength
 
 Importantly, a yes-or-no calendar does not require daily interpretation. You simply record what happened and review patterns later.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W6AB-dxnAkA" title="8 Habit Tracking Apps That Actually Work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W6AB-dxnAkA" target="_blank" rel="noopener noreferrer">8 Habit Tracking Apps That Actually Work</a></p><p class="youtube-embed-meta">Channel: Tool Finder &middot; Views: 51.8K &middot; Uploaded: August 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W6AB-dxnAkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W6AB-dxnAkA">Open on YouTube</a></p></div></div></div>
 
 ## How to Avoid Streak Pressure
@@ -333,7 +330,6 @@ A healthier approach is to treat the calendar as a record, not a scoreboard.
 
 Several practical rules help:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Never erase missed days.
@@ -345,7 +341,6 @@ Several practical rules help:
 </div>
 
 The goal is not perfection. The goal is to make behaviour visible enough that recovery happens quickly after inevitable interruptions.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_yes_no_calendar_dc5a79-Illustration-2-dark.svg" | relative_url }}" alt="Yes No Calendar illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_yes_no_calendar_dc5a79-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_yes_no_calendar_dc5a79-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples for Reading, Walking, Alcohol and Phone Habits
@@ -362,7 +357,6 @@ Each day receives:
 After a month, the question becomes: "How often did reading occur?" rather than "How many pages did I manage?"
 
 Once reading is established, additional metrics can be added if needed. Most people never need them.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DpOBvWw1oPg" title="Jerry Seinfeld’s Don’t Break the Chain Method: A Trick for MASTERING a New Habit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DpOBvWw1oPg" target="_blank" rel="noopener noreferrer">Jerry Seinfeld’s Don’t Break the Chain Method: A Trick for MASTERING a New Habit</a></p><p class="youtube-embed-meta">Channel: Develop Good Habits &middot; Views: 16.1K &middot; Uploaded: September 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DpOBvWw1oPg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DpOBvWw1oPg">Open on YouTube</a></p></div></div></div>
 
@@ -385,14 +379,12 @@ For example:
 
 The calendar quickly reveals patterns such as weekend clustering, social triggers or gradual improvement. The emphasis remains on behaviour [frequency]({{ 'frequency/' | relative_url }}) rather than obsessively counting units every day.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_yes_no_calendar_dc5a79-Illustration-3-dark.svg" | relative_url }}" alt="Yes No Calendar illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_yes_no_calendar_dc5a79-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_yes_no_calendar_dc5a79-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Phone Boundaries
 
 Phone habits often benefit from simple pass-fail tracking.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -410,7 +402,6 @@ The most effective yes-or-no calendars are deliberately boring.
 
 Use:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * A paper wall calendar.
@@ -423,7 +414,6 @@ Use:
 Avoid features that create unnecessary complexity unless they solve a specific problem.
 
 Research on self-monitoring consistently shows that monitoring works best when it remains connected to action. The purpose is not data collection for its own sake. The purpose is to notice behaviour, compare it with intentions and make small adjustments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">Monitoring involves a person, group, or organization taking stock of the...Read more...</span></span></span> University Press & Assessment <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1750946723001940" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For most simple habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A meta-analysis of self-management interventions for...by G Scheibel · 2024 · Cited by 11 — Self-monitoring requires the student to be a...</span></span></span>, one mark per day is enough information. If a tracker requires charts, categories, colour coding and weekly calculations before it becomes useful, it may be violating the central principle of self-monitoring without obsessing: track only what helps you act.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YYTSUywL6ts" title="Jerry Seinfeld&#x27;s ToDoIst Habit Tracker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YYTSUywL6ts" target="_blank" rel="noopener noreferrer">Jerry Seinfeld&#x27;s ToDoIst Habit Tracker</a></p><p class="youtube-embed-meta">Channel: Demetri Panici &middot; Views: 2.0K &middot; Uploaded: February 2022 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YYTSUywL6ts" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YYTSUywL6ts">Open on YouTube</a></p></div></div></div>
 
@@ -552,15 +542,15 @@ For behaviours where completion matters more than quantity, a small mark on a ca
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FITNESS SMART WATCH BAND SPORT ACTIVITY TRACKER STEP COUNTER KID ADULT WOMEN MEN"><img src="https://i.ebayimg.com/images/g/-30AAeSwmw9qH1mU/s-l225.jpg" alt="Listing image for FITNESS SMART WATCH BAND SPORT ACTIVITY TRACKER STEP COUNTER KID ADULT WOMEN MEN" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Planner Desk Notepad To Do List Study Work Home Organiser Habit Tracker"><img src="https://i.ebayimg.com/images/g/h58AAeSwGf9pAjx8/s-l225.jpg" alt="Listing image for Weekly Planner Desk Notepad To Do List Study Work Home Organiser Habit Tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer">FITNESS SMART WATCH BAND SPORT ACTIVITY TRACKER STEP COUNTER KID ADULT WOMEN MEN</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Weekly Planner Desk Notepad To Do List Study Work Home Organiser Habit Tracker</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +558,15 @@ For behaviours where completion matters more than quantity, a small mark on a ca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2025 NEW!! Smart Watch Activity Tracker Fitness Watches Heart Rate Monitor Women"><img src="https://i.ebayimg.com/images/g/obwAAOSwXGtkwebf/s-l225.jpg" alt="Listing image for 2025 NEW!! Smart Watch Activity Tracker Fitness Watches Heart Rate Monitor Women" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/~0oAAeSwKCNo8eh-/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer">2025 NEW!! Smart Watch Activity Tracker Fitness Watches Heart Rate Monitor Women</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,15 +574,15 @@ For behaviours where completion matters more than quantity, a small mark on a ca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FITNESS SMART WATCH BAND SPORT ACTIVITY TRACKER STEP COUNTER KID ADULT WOMEN MEN"><img src="https://i.ebayimg.com/images/g/d-8AAeSwEeNp58NB/s-l225.jpg" alt="Listing image for FITNESS SMART WATCH BAND SPORT ACTIVITY TRACKER STEP COUNTER KID ADULT WOMEN MEN" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook"><img src="https://i.ebayimg.com/images/g/ogYAAeSwQW9p7oHN/s-l225.jpg" alt="Listing image for Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer">FITNESS SMART WATCH BAND SPORT ACTIVITY TRACKER STEP COUNTER KID ADULT WOMEN MEN</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -600,15 +590,15 @@ For behaviours where completion matters more than quantity, a small mark on a ca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Band Sport Fitness Activity Tracker Adult Kid Fitbit Step Counter"><img src="https://i.ebayimg.com/images/g/xocAAeSwHpNqE~jM/s-l225.jpg" alt="Listing image for Smart Watch Band Sport Fitness Activity Tracker Adult Kid Fitbit Step Counter" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a"><img src="https://i.ebayimg.com/images/g/HuUAAeSwIiFqGz~v/s-l225.jpg" alt="Listing image for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Band Sport Fitness Activity Tracker Adult Kid Fitbit Step Counter</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -616,7 +606,7 @@ For behaviours where completion matters more than quantity, a small mark on a ca
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -826,6 +816,7 @@ For behaviours where completion matters more than quantity, a small mark on a ca
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

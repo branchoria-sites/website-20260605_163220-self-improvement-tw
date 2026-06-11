@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /social-support/
 nav_short_title: Study groups
 title: The study group where confusion is safe
-title_full: The study group where confusion is safe | Social Support
+title_full: The study group where confusion is safe
 display_title_short: Study groups
 display_title: Study groups
 heading_title: The study group where confusion is safe
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 07:55:31'
-parent_title: When Accountability Helps Instead of Hurts | Better Change
+parent_title: When Accountability Helps Instead of Hurts
 parent_permalink: /social-support/
 parent_nav_short_title: Social Support
 parent_heading_title: When Accountability Helps Instead of Hurts
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_social_support_057e53_study_gr
 
 A good study group does more than share notes. It creates a regular block of time in which starting work becomes easier and confusion becomes normal rather than embarrassing. Within the broader goal of [social support]({{ 'social-support/' | relative_url }}) without shame, the most effective study groups are not miniature competitions. They are environments where people can admit what they do not understand, ask basic questions, and receive help without feeling that they are exposing a personal weakness.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_study_groups_75e665-Illustration-1-dark.svg" | relative_url }}" alt="Study groups illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_study_groups_75e665-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_study_groups_75e665-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on learning repeatedly finds that peer discussion can improve understanding, especially when learners explain ideas to one another and work through uncertainty together. However, the benefits depend heavily on the social climate. Groups that encourage comparison, status displays, or public ranking can make people hide confusion. Groups that normalise questions and collaborative problem-solving tend to produce better learning and greater confidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7145884/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy does peer instruction benefit student learning?</span><span class="citation-popover-snippet">NIHby JG Tullis · 2020 · Cited by 309 — We discuss the benefits of peer instruction in terms of differences in the coherence of exp...</span></span></span>
 
@@ -302,7 +301,6 @@ In practice, this means that a supportive group treats confusion as information 
 
 Consider two reactions to the same question:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * “You still don't understand that?”
@@ -313,7 +311,6 @@ Consider two reactions to the same question:
 Both responses address the same knowledge gap. Only the second protects the learner's willingness to keep participating.
 
 The danger of ranking-oriented groups is not merely hurt feelings. Social-comparison research suggests that frequent upward comparisons—measuring oneself against people perceived as doing better—can undermine confidence, increase feelings of futility and contribute to unhelpful rumination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7145884/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy does peer instruction benefit student learning?</span><span class="citation-popover-snippet">NIHby JG Tullis · 2020 · Cited by 309 — We discuss the benefits of peer instruction in terms of differences in the coherence of exp...</span></span></span> ResearchGate A study group becomes more effective when members compare today's understanding with yesterday's understanding rather than comparing themselv <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/268328210_Psychological_Safety_Trust_and_Learning_in_Organizations_A_Group-level_Lens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Psychological Safety, Trust, and Learning in Organizations</span><span class="citation-popover-snippet">Psychological Safety, Trust, and Learning in OrganizationsOctober 28, 2011 — This paper discusses psychological safety and di...</span><span class="citation-popover-meta">Published: October 28, 2011</span></span></span> es with the smartest person in the room.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oNRdQAI8L8g" title="Tools for Teaching Science: Peer Instruction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oNRdQAI8L8g" target="_blank" rel="noopener noreferrer">Tools for Teaching Science: Peer Instruction</a></p><p class="youtube-embed-meta">Channel: Perimeter Institute for Theoretical Physics &middot; Views: 2.6K &middot; Uploaded: August 2020 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oNRdQAI8L8g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oNRdQAI8L8g">Open on YouTube</a></p></div></div></div>
 
@@ -333,7 +330,6 @@ That structure reduces shame because needing help is expected. Everyone occupies
 
 Study groups often fail not because members lack goodwill but because they never establish norms. A few simple rules can dramatically improve the experience.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_study_groups_75e665-Illustration-2-dark.svg" | relative_url }}" alt="Study groups illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_study_groups_75e665-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_study_groups_75e665-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Focus on the problem, not the person
 
@@ -349,7 +345,6 @@ Use:
 * “Let's check how you got this result.”
 
 The discussion remains attached to the task rather than the learner's [identity]({{ 'identity/' | relative_url }}).
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dw64waOG1hs" title="How to Establish Goals and Expectations in Your Study Group" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dw64waOG1hs" target="_blank" rel="noopener noreferrer">How to Establish Goals and Expectations in Your Study Group</a></p><p class="youtube-embed-meta">Channel: Listen and Learn English &middot; Views: 1 &middot; Uploaded: August 2023 &middot; Length: 3 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dw64waOG1hs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dw64waOG1hs">Open on YouTube</a></p></div></div></div>
 
@@ -371,12 +366,10 @@ Groups work best when discussion is distributed rather than dominated by one con
 
 A practical technique is to pause after a question and allow quieter members space to respond before the fastest speaker answers.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_study_groups_75e665-Illustration-3-dark.svg" | relative_url }}" alt="Study groups illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_study_groups_75e665-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_study_groups_75e665-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Normalise partial understanding
 
 People often think they should only speak when they are certain. Effective study groups do the opposite. Members are encouraged to say:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -394,7 +387,6 @@ Psychological safety does not mean everyone agrees or that mistakes go uncorrect
 
 In a psychologically safe study session:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Members admit confusion quickly rather than hiding it.
@@ -410,9 +402,7 @@ Research on collaborative learning suggests that these conditions [support]({{ '
 
 For [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), this is the key insight. The best study group is not the one that makes people feel constantly evaluated. It is the one that makes it easier to start working, easier to ask for help and easier to stay engaged when understanding is incomplete. Confusion is not treated as proof that someone is behind. It is treated as the normal starting point of learning.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mHVwl7Dntg0" title="How Does Group Tutoring Facilitate Peer Learning? - Ultimate Study Hacks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mHVwl7Dntg0" target="_blank" rel="noopener noreferrer">How Does Group Tutoring Facilitate Peer Learning? - Ultimate Study Hacks</a></p><p class="youtube-embed-meta">Channel: Ultimate Study Hacks &middot; Views: 10 &middot; Uploaded: July 2025 &middot; Length: 2 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mHVwl7Dntg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mHVwl7Dntg0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -531,15 +521,15 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Study Kitchen Timer konqkin Countdown Count up Magnetic Timer Pink"><img src="https://i.ebayimg.com/images/g/4xkAAOSwC~pnXx9B/s-l225.jpg" alt="Listing image for Digital Study Kitchen Timer konqkin Countdown Count up Magnetic Timer Pink" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Desk Lamp Clip On Adjustable Office Bed Study Table Clamp Reading Light"><img src="https://i.ebayimg.com/images/g/FacAAeSw1Hpp25gg/s-l225.jpg" alt="Listing image for LED Desk Lamp Clip On Adjustable Office Bed Study Table Clamp Reading Light" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" target="_blank" rel="sponsored noopener noreferrer">Digital Study Kitchen Timer konqkin Countdown Count up Magnetic Timer Pink</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" target="_blank" rel="sponsored noopener noreferrer">LED Desk Lamp Clip On Adjustable Office Bed Study Table Clamp Reading Light</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk lamp">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk lamp</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +537,15 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Visual Timer Rechargeable Digital Silcent Timers for Kids Study Kitchen Teaching"><img src="https://i.ebayimg.com/images/g/VYoAAeSwpypoYkNe/s-l225.jpg" alt="Listing image for Visual Timer Rechargeable Digital Silcent Timers for Kids Study Kitchen Teaching" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adjustable Table Lamp Flexible Desk Lamp Office Study Reading Light Spotlight UK"><img src="https://i.ebayimg.com/images/g/FAYAAeSwDdBqGUeQ/s-l225.jpg" alt="Listing image for Adjustable Table Lamp Flexible Desk Lamp Office Study Reading Light Spotlight UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" target="_blank" rel="sponsored noopener noreferrer">Visual Timer Rechargeable Digital Silcent Timers for Kids Study Kitchen Teaching</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" target="_blank" rel="sponsored noopener noreferrer">Adjustable Table Lamp Flexible Desk Lamp Office Study Reading Light Spotlight UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk lamp">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk lamp</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +553,15 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yunbaoit VT01 Visual Timer 60 Min Silent Countdown Kids Study Classroom Timer"><img src="https://i.ebayimg.com/images/g/1jgAAeSw1URp82CQ/s-l225.jpg" alt="Listing image for Yunbaoit VT01 Visual Timer 60 Min Silent Countdown Kids Study Classroom Timer" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Honeywell Desk Lamp Dimmable Foldable Reading Work Light with USB Charging Ports"><img src="https://i.ebayimg.com/images/g/agoAAeSwLDppzkkh/s-l225.jpg" alt="Listing image for Honeywell Desk Lamp Dimmable Foldable Reading Work Light with USB Charging Ports" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" target="_blank" rel="sponsored noopener noreferrer">Yunbaoit VT01 Visual Timer 60 Min Silent Countdown Kids Study Classroom Timer</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" target="_blank" rel="sponsored noopener noreferrer">Honeywell Desk Lamp Dimmable Foldable Reading Work Light with USB Charging Ports</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk lamp">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk lamp</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,15 +569,15 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Cube Timer LED Display Countdown Productivity Cooking Study Tool UK"><img src="https://i.ebayimg.com/images/g/QzkAAOSwZudoJQv5/s-l225.jpg" alt="Listing image for Digital Cube Timer LED Display Countdown Productivity Cooking Study Tool UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED USB Clip On Flexible Desk Lamp Dimmable Bed Read Table Light Rechargeable UK"><img src="https://i.ebayimg.com/images/g/U3wAAeSwNh9o0~AH/s-l225.jpg" alt="Listing image for LED USB Clip On Flexible Desk Lamp Dimmable Bed Read Table Light Rechargeable UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" target="_blank" rel="sponsored noopener noreferrer">Digital Cube Timer LED Display Countdown Productivity Cooking Study Tool UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" target="_blank" rel="sponsored noopener noreferrer">LED USB Clip On Flexible Desk Lamp Dimmable Bed Read Table Light Rechargeable UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk lamp">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk lamp</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -595,7 +585,7 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-study-group-where-confusion-is-safe-study-timer" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+lamp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-where-confusion-is-safe-study-desk-lamp&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk lamp" data-ebay-reference="the-study-group-where-confusion-is-safe-study-desk-lamp" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -805,6 +795,7 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /lunch-walks/
 nav_short_title: Bad Weather
 title: What happens when the weather breaks the habit?
-title_full: What happens when the weather breaks the habit? | Lunch Walks
+title_full: What happens when the weather breaks the habit?
 display_title_short: Bad Weather
 display_title: Bad Weather
 heading_title: What happens when the weather breaks the habit?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 04:39:30'
-parent_title: Why a Ten Minute Walk Can Stick | Better Change
+parent_title: Why a Ten Minute Walk Can Stick
 parent_permalink: /lunch-walks/
 parent_nav_short_title: Lunch Walks
 parent_heading_title: Why a Ten Minute Walk Can Stick
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_wea
 
 A lunch walk only becomes a reliable habit when it survives ordinary disruptions. Weather is one of the most common reasons walking routines fail, not because rain, wind, heat, or cold make walking impossible, but because many people have no pre-decided alternative. When the forecast turns bad, the decision shifts from “walk after lunch” to “should I walk today at all?” and the habit often loses. Research on physical activity and weather consistently finds that adverse weather reduces outdoor exercise participation, making weather one of the most predictable threats to routine movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6349565/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of weather on summer and winter exercise behaviorsby AL Wagner · 2016 · Cited by 190 — This study examines the association...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_weather_fallback_lun_9427f7-Illustration-1-dark.svg" | relative_url }}" alt="Bad Weather illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_weather_fallback_lun_9427f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_weather_fallback_lun_9427f7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For a lunch-walk habit to work over months rather than days, the goal is not to eliminate weather disruptions. The goal is to remove weather as a reason to skip movement entirely. A useful plan assumes that some lunches will happen in rain, strong wind, heatwaves, cold snaps, or icy conditions and provides a simple fallback before those conditions arrive.
 
@@ -288,7 +287,6 @@ Different weather conditions create different risks:
 * **Cold, ice, and snow** increase slip risks and can make outdoor routes less accessible. NHS and hospital safety guidance commonly emphasises careful footing and appropriate footwear in icy conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gatesheadhealth.nhs.uk/news/stay-safe-and-avoid-hazards-essential-tips-for-winter-walking-from-gateshead-healths-frontline-staff/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gatesheadhealth.nhs.uk">[Gateshead Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gatesheadhealth.nhs.uk</span><span class="citation-popover-title">Gateshead Health Stay safe and avoid hazards: Essential tips for winter</span><span class="citation-popover-snippet">Gateshead HealthStay safe and avoid hazards: Essential tips for winter...January 18, 2024 — 17 Jan 2024 — One of the most important thin...</span><span class="citation-popover-meta">Published: January 18, 2024</span></span></span>
 
 The mistake is treating all of these conditions as reasons not to move. Most are reasons to change the route, duration, or location rather than abandon the habit.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m3v3PN5bvZo" title="30-Minute Power Walking Workout | Tanner Courted | Walk at Home®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m3v3PN5bvZo" target="_blank" rel="noopener noreferrer">30-Minute Power Walking Workout | Tanner Courted | Walk at Home®</a></p><p class="youtube-embed-meta">Channel: Walk at Home &middot; Views: 3.0M &middot; Uploaded: February 2026 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m3v3PN5bvZo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m3v3PN5bvZo">Open on YouTube</a></p></div></div></div>
 
@@ -311,7 +309,6 @@ A simple rule might be:
 
 The same cue remains: finish lunch and start walking.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WlOLKP_xmXI" title="20 Minute Indoor Walking Workout 🔥 Walk at Home" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WlOLKP_xmXI" target="_blank" rel="noopener noreferrer">20 Minute Indoor Walking Workout 🔥 Walk at Home</a></p><p class="youtube-embed-meta">Channel: Lucy Wyndham-Read &middot; Views: 154.9K &middot; Uploaded: January 2025 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WlOLKP_xmXI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WlOLKP_xmXI">Open on YouTube</a></p></div></div></div>
 
 ### Covered outdoor routes
@@ -326,7 +323,6 @@ Public health guidance frequently recommends climate-controlled indoor walking l
 
 Useful examples include:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * Shopping centres
@@ -338,7 +334,6 @@ Useful examples include:
 </div>
 
 The advantage is predictability. These spaces remain usable whether it is raining, windy, or extremely hot.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_weather_fallback_lun_9427f7-Illustration-2-dark.svg" | relative_url }}" alt="Bad Weather illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_weather_fallback_lun_9427f7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_weather_fallback_lun_9427f7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Stair routes
@@ -356,7 +351,6 @@ Not every weather challenge deserves the same response.
 These conditions are often more annoying than dangerous. Appropriate clothing, waterproof layers, and suitable footwear frequently solve the problem.
 
 Many experienced walkers discover that anticipated discomfort is often worse than the actual experience. The challenge is usually motivational rather than physical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2022/oct/29/bad-weather-is-good-for-you-take-a-walk-in-the-wind-and-rain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Bad weather is good for you: take a walk in the wind and rain</span><span class="citation-popover-snippet">The GuardianBad weather is good for you: take a walk in the wind and rainOctober 29, 2022 — 29 Oct 2022 — Don&#x27;t be put off by winter weat...</span><span class="citation-popover-meta">Published: October 29, 2022</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S2a0dAW2iQo" title="Walk 1 Mile at Home | 15-Minute Indoor Walking Workout (No Repeats!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S2a0dAW2iQo" target="_blank" rel="noopener noreferrer">Walk 1 Mile at Home | 15-Minute Indoor Walking Workout (No Repeats!)</a></p><p class="youtube-embed-meta">Channel: nourishmovelove &middot; Views: 115.1K &middot; Uploaded: February 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S2a0dAW2iQo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S2a0dAW2iQo">Open on YouTube</a></p></div></div></div>
 
@@ -380,7 +374,6 @@ A person who normally walks for fifteen minutes outdoors might adopt a rainy-day
 
 A useful rainy-day minimum should be:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * Small enough to feel easy.
@@ -391,7 +384,6 @@ A useful rainy-day minimum should be:
 </div>
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -406,12 +398,10 @@ The minimum protects continuity. Once movement starts, people often exceed the t
 
 The key question is not, “Can I do my normal walk?” The key question is, “What is the smallest version of today's walk that still counts?”
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_weather_fallback_lun_9427f7-Illustration-3-dark.svg" | relative_url }}" alt="Bad Weather illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_weather_fallback_lun_9427f7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_weather_fallback_lun_9427f7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The habit-saving principle
 
 Weather becomes a threat when it forces a daily decision. The most resilient lunch-walk routines remove that decision by establishing a simple rule beforehand:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -540,15 +530,15 @@ This approach recognises an important reality of self-improvement that works: co
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Law of Attraction Planner – Undated B5 (Undated) 7.2&quot; x 10.1&quot;, [&#x27;Vanilla&#x27;]"><img src="https://i.ebayimg.com/images/g/XeoAAeSwptlpW6E2/s-l225.jpg" alt="Listing image for Law of Attraction Planner – Undated B5 (Undated) 7.2&quot; x 10.1&quot;, [&#x27;Vanilla&#x27;]" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adults Waterproof Kagool Unisex Lightweight Hooded Rain Jacket with pockets"><img src="https://i.ebayimg.com/images/g/2qsAAeSwDN9oeQbv/s-l225.jpg" alt="Listing image for Adults Waterproof Kagool Unisex Lightweight Hooded Rain Jacket with pockets" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Law of Attraction Planner – Undated B5 (Undated) 7.2&quot; x 10.1&quot;, [&#x27;Vanilla&#x27;]</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" target="_blank" rel="sponsored noopener noreferrer">Adults Waterproof Kagool Unisex Lightweight Hooded Rain Jacket with pockets</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rain jacket">Search <span data-ebay-domain-label>eBay.co.uk</span>: rain jacket</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +546,15 @@ This approach recognises an important reality of self-improvement that works: co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Law of Attraction Planner 2025 – Undated Hourly, Weekly &amp; Monthly Goal Settin..."><img src="https://i.ebayimg.com/images/g/2PYAAeSwdvZodXQF/s-l225.jpg" alt="Listing image for Law of Attraction Planner 2025 – Undated Hourly, Weekly &amp; Monthly Goal Settin..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mens Waterproof Hooded Bomber Jacket Goggle Style Rain Coat Black or Camouflage"><img src="https://i.ebayimg.com/images/g/cw8AAOSw2rVj6khB/s-l225.jpg" alt="Listing image for Mens Waterproof Hooded Bomber Jacket Goggle Style Rain Coat Black or Camouflage" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Law of Attraction Planner 2025 – Undated Hourly, Weekly &amp; Monthly Goal Settin...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" target="_blank" rel="sponsored noopener noreferrer">Mens Waterproof Hooded Bomber Jacket Goggle Style Rain Coat Black or Camouflage</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rain jacket">Search <span data-ebay-domain-label>eBay.co.uk</span>: rain jacket</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,15 +562,15 @@ This approach recognises an important reality of self-improvement that works: co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manifestation Journal – Hourly, Weekly &amp; Monthly Planner | 2- to Increase Pro..."><img src="https://i.ebayimg.com/images/g/SS8AAeSw13Zp365g/s-l225.jpg" alt="Listing image for Manifestation Journal – Hourly, Weekly &amp; Monthly Planner | 2- to Increase Pro..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Regatta Mens Womens Stormbreak Waterproof Rain Coat Windproof Jacket Hooded"><img src="https://i.ebayimg.com/images/g/SIcAAOSw91Bixr0P/s-l225.jpg" alt="Listing image for Regatta Mens Womens Stormbreak Waterproof Rain Coat Windproof Jacket Hooded" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Manifestation Journal – Hourly, Weekly &amp; Monthly Planner | 2- to Increase Pro...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" target="_blank" rel="sponsored noopener noreferrer">Regatta Mens Womens Stormbreak Waterproof Rain Coat Windproof Jacket Hooded</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rain jacket">Search <span data-ebay-domain-label>eBay.co.uk</span>: rain jacket</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,15 +578,15 @@ This approach recognises an important reality of self-improvement that works: co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adhd Daily Planner - A Self Care Personal Gratitude Journal to Productivity a..."><img src="https://i.ebayimg.com/images/g/9AEAAOSwM4Jmasgh/s-l225.jpg" alt="Listing image for Adhd Daily Planner - A Self Care Personal Gratitude Journal to Productivity a..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Heavy Rain Jacket 100% Waterproof High Visibility Running Top Quality Rain Cover"><img src="https://i.ebayimg.com/images/g/Gt8AAeSwnyhqKzXw/s-l225.jpg" alt="Listing image for Heavy Rain Jacket 100% Waterproof High Visibility Running Top Quality Rain Cover" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Adhd Daily Planner - A Self Care Personal Gratitude Journal to Productivity a...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" target="_blank" rel="sponsored noopener noreferrer">Heavy Rain Jacket 100% Waterproof High Visibility Running Top Quality Rain Cover</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rain jacket">Search <span data-ebay-domain-label>eBay.co.uk</span>: rain jacket</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -604,7 +594,7 @@ This approach recognises an important reality of self-improvement that works: co
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rain+jacket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happens-when-the-weather-breaks-the-habit-rain-jacket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rain jacket" data-ebay-reference="what-happens-when-the-weather-breaks-the-habit-rain-jacket" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -814,6 +804,7 @@ This approach recognises an important reality of self-improvement that works: co
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

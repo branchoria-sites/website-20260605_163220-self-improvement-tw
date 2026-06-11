@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /weekly-review/
 nav_short_title: If Then Plans
 title: Plan for the Barrier Before It Wins
-title_full: Plan for the Barrier Before It Wins | Weekly Review
+title_full: Plan for the Barrier Before It Wins
 display_title_short: If Then Plans
 display_title: If Then Plans
 heading_title: Plan for the Barrier Before It Wins
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:19:11'
-parent_title: The Weekly Review That Fixes the Plan | Better Change
+parent_title: The Weekly Review That Fixes the Plan
 parent_permalink: /weekly-review/
 parent_nav_short_title: Weekly Review
 parent_heading_title: The Weekly Review That Fixes the Plan
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_
 
 When the same habit fails for the same reason week after week, the problem is often not commitment but a missing response plan. A [weekly review]({{ 'weekly-review/' | relative_url }}) may reveal a predictable pattern: travel disrupts exercise, late meetings disrupt reading, tired evenings disrupt healthy eating. If-then coping plans address this problem by linking a known obstacle to a pre-decided response. Instead of relying on [willpower]({{ 'willpower/' | relative_url }}) in the moment, the person decides in advance: “If situation X happens, then I will do Y.” Research on implementation intentions and coping planning suggests that these plans help close the gap between intention and action by creating strong links between specific cues and specific responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — The effectiveness of implementation intentions is assumed to be based on two processes (Gollwitzer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_coping_plans_a4cc28-Illustration-1-dark.svg" | relative_url }}" alt="If Then Plans illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_coping_plans_a4cc28-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_coping_plans_a4cc28-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within a weekly review, if-then plans are most useful after a habit goal is already clear. They are not a replacement for [goal setting]({{ 'goal-setting/' | relative_url }}). They are a way of preventing recurring barriers from becoming recurring excuses.
 
@@ -285,7 +284,6 @@ Within a weekly review, if-then plans are most useful after a habit goal is alre
 A useful weekly review looks for patterns rather than isolated misses. One missed workout because of an emergency tells you little. Four missed workouts because meetings ran late tells you a great deal.
 
 Repeated barriers usually appear in one of four forms:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -300,7 +298,6 @@ The key insight is that recurring obstacles are often highly predictable. Coping
 
 For example, a review might reveal:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Every skipped gym session happened after a long commute.
@@ -310,7 +307,6 @@ For example, a review might reveal:
 </div>
 
 These are not random failures. They are candidate triggers for coping plans.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6JqPF_8BWjw" title="What is Implementation Intention | Explained in 2 min" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6JqPF_8BWjw" target="_blank" rel="noopener noreferrer">What is Implementation Intention | Explained in 2 min</a></p><p class="youtube-embed-meta">Channel: Productivity Guy &middot; Views: 4.7K &middot; Uploaded: June 2020 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6JqPF_8BWjw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6JqPF_8BWjw">Open on YouTube</a></p></div></div></div>
 
@@ -345,7 +341,6 @@ Repeated barrierWeak reactionStrong if-then planTravel daySkip workoutIf I am tr
 
 The goal is not perfection. The goal is preventing a predictable obstacle from automatically ending the behaviour.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_coping_plans_a4cc28-Illustration-2-dark.svg" | relative_url }}" alt="If Then Plans illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_coping_plans_a4cc28-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_coping_plans_a4cc28-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Coping Plans Work Better Than Repeated Motivation
 
@@ -354,7 +349,6 @@ People often respond to recurring failures by trying to become more motivated. W
 Implementation-intention research suggests that pre-deciding a response reduces the need for deliberation at the critical moment. Rather than asking, “Should I still do the habit?” the person simply executes the response linked to the situation. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Promoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — The effectiveness of implementation intentions is assumed to be based on two processes (Gollwitzer...</span></span></span>
 
 This matters because habit barriers often appear when decision quality is lowest:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -369,8 +363,7 @@ In these situations, people tend to default to familiar behaviour. If-then plans
 
 Evidence from meta-analyses has found that implementation intentions produce meaningful improvements in goal attainment across many contexts, with effects observed not only for starting actions but also for protecting ongoing goal pursuit from common disruptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementImplementation intentions were effective in promoting the initiation of g...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_woLfQBeMmA" title="If Your Plans Look Like This... You May Be In Trouble..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_woLfQBeMmA" target="_blank" rel="noopener noreferrer">If Your Plans Look Like This... You May Be In Trouble...</a></p><p class="youtube-embed-meta">Channel: Jim Rohn Motivation &middot; Views: 8.1K &middot; Uploaded: January 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_woLfQBeMmA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_woLfQBeMmA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S0MEmLGYQS0" title="Implementation Intentions - Increase Goal Completion by 40%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S0MEmLGYQS0" target="_blank" rel="noopener noreferrer">Implementation Intentions - Increase Goal Completion by 40%</a></p><p class="youtube-embed-meta">Channel: Sam Martin - Peak Performance &middot; Views: 521 &middot; Uploaded: August 2020 &middot; Length: 4 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S0MEmLGYQS0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S0MEmLGYQS0">Open on YouTube</a></p></div></div></div>
 
 ## Common Mistakes in If-Then Planning
 
@@ -385,7 +378,6 @@ A review showing three weeks of interruptions should lead to plans for interrupt
 A coping response should be easier than the original plan.
 
 If a missed one-hour workout is replaced by another one-hour workout later in the evening, the plan may fail for exactly the same reason.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_coping_plans_a4cc28-Illustration-3-dark.svg" | relative_url }}" alt="If Then Plans illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_coping_plans_a4cc28-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_if_then_coping_plans_a4cc28-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Creating too many plans at once
@@ -402,15 +394,13 @@ Specific situations such as “unexpected client calls after lunch” or “chil
 
 Research on implementation intentions repeatedly emphasises the value of precise cue-response links rather than broad intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementImplementation intentions were effective in promoting the initiation of g...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 564 — Implementation intentions are plans that s...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S0MEmLGYQS0" title="Implementation Intentions - Increase Goal Completion by 40%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S0MEmLGYQS0" target="_blank" rel="noopener noreferrer">Implementation Intentions - Increase Goal Completion by 40%</a></p><p class="youtube-embed-meta">Channel: Sam Martin - Peak Performance &middot; Views: 521 &middot; Uploaded: August 2020 &middot; Length: 4 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S0MEmLGYQS0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S0MEmLGYQS0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0J8HmpArrvs" title="Health Behaviour Change | Dr. Dom Kwasnicka | 61" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0J8HmpArrvs" target="_blank" rel="noopener noreferrer">Health Behaviour Change | Dr. Dom Kwasnicka | 61</a></p><p class="youtube-embed-meta">Channel: The Mental Wellbeing College &middot; Views: 3.2K &middot; Uploaded: August 2024 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0J8HmpArrvs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0J8HmpArrvs">Open on YouTube</a></p></div></div></div>
 
 ## Testing Coping Plans Over the Next Week
 
 A weekly review should treat coping plans as experiments rather than permanent solutions.
 
 For the next seven days:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -423,7 +413,6 @@ For the next seven days:
 </div>
 
 At the following review, ask:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 

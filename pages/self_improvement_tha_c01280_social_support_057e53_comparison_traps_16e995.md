@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /social-support/
 nav_short_title: Comparison traps
 title: When leaderboards make people quit
-title_full: When leaderboards make people quit | Social Support
+title_full: When leaderboards make people quit
 display_title_short: Comparison traps
 display_title: Comparison traps
 heading_title: When leaderboards make people quit
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 07:56:26'
-parent_title: When Accountability Helps Instead of Hurts | Better Change
+parent_title: When Accountability Helps Instead of Hurts
 parent_permalink: /social-support/
 parent_nav_short_title: Social Support
 parent_heading_title: When Accountability Helps Instead of Hurts
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_social_support_057e53_comparis
 
 Step challenges and leaderboards are often presented as a simple way to make healthy behaviour more engaging. Sometimes they work exactly as intended. Seeing friends walk more can provide a useful benchmark, create a sense of momentum and encourage people to take a few extra walks. Research on physical activity apps consistently finds that social comparison can increase activity for at least some users under some conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExercise or lie down?</span><span class="citation-popover-snippet">The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_comparison_traps_16e995-Illustration-1-dark.svg" | relative_url }}" alt="Comparison traps illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_comparison_traps_16e995-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_comparison_traps_16e995-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is that the same mechanism that motivates one person can quietly push another person out. Public rankings change the [meaning]({{ 'meaning/' | relative_url }}) of a walk. Instead of asking, “Did I move more than usual?” people begin asking, “How do I compare with everyone else?” When beginners, injured people, older adults, busy parents or people having a difficult week repeatedly appear near the bottom of a leaderboard, participation can become emotionally costly. The challenge may still look successful from the outside, while some of the people who could benefit most have already stopped engaging.
 
@@ -285,7 +284,6 @@ The problem is that the same mechanism that motivates one person can quietly pus
 Comparison is not automatically harmful. Human beings naturally use other people as reference points. In physical activity settings, seeing what others achieve can help people judge what is realistic, identify role models and discover new habits. Research examining social comparison features in physical activity apps suggests that comparison can support [motivation]({{ 'motivation/' | relative_url }}) and [behaviour change]({{ 'behaviour-change/' | relative_url }}), particularly when it provides relevant and attainable information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExercise or lie down?</span><span class="citation-popover-snippet">The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</span></span></span>
 
 Leaderboards can be especially useful when they answer practical questions:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -312,7 +310,6 @@ Social comparison theory helps explain why. People often compare themselves upwa
 
 The emotional stakes increase further when rankings are persistent and public:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * A bad day becomes visible to others.
@@ -326,8 +323,7 @@ This creates a subtle shift from behaviour [support]({{ 'support/' | relative_ur
 
 The risk is not necessarily that participants feel intense shame. More often, they simply disengage. They stop opening the app, stop checking the challenge or stop participating in future competitions. From an organisational perspective, this can be mistaken for lack of motivation when the real problem is the design of the comparison environment.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T3M0KlVfJec" title="Escaping the &quot;Should&quot; Trap: Mental Health &amp; Social Comparison" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T3M0KlVfJec" target="_blank" rel="noopener noreferrer">Escaping the &quot;Should&quot; Trap: Mental Health &amp; Social Comparison</a></p><p class="youtube-embed-meta">Channel: Dr. Tracey Marks &middot; Views: 48.9K &middot; Uploaded: April 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T3M0KlVfJec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T3M0KlVfJec">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iX3zQo_TCM0" title="Top 4 Gamification Techniques" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iX3zQo_TCM0" target="_blank" rel="noopener noreferrer">Top 4 Gamification Techniques</a></p><p class="youtube-embed-meta">Channel: Gamify &middot; Views: 140.2K &middot; Uploaded: April 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iX3zQo_TCM0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iX3zQo_TCM0">Open on YouTube</a></p></div></div></div>
 
 ## The beginner's dilemma
 
@@ -338,7 +334,6 @@ One person may already average 15,000 steps per day. Another may be recovering f
 Research on social-comparison interventions highlights the importance of comparison targets. People tend to respond differently depending on who they compare themselves with and how large the performance gap is. Large, persistent gaps can make comparison less useful as a source of actionable information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://humanfactors.jmir.org/2023/1/e41239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: humanfactors.jmir.org">[JMIR Human Factors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">humanfactors.jmir.org</span><span class="citation-popover-snippet">JMIR Human FactorsSelection of and Response to Physical Activity–Based Social...by D Arigo · 2023 · Cited by 9 — We examined the types o...</span></span></span>
 
 Imagine a newcomer who finishes near the bottom every week:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -353,7 +348,6 @@ Yet none of these gains are reflected in the leaderboard position.
 The participant receives a message that their progress is invisible while their rank is highly visible.
 
 This is one reason why a challenge can increase total group activity while still producing negative experiences for specific participants. Aggregate success and individual experience are not the same thing.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_comparison_traps_16e995-Illustration-2-dark.svg" | relative_url }}" alt="Comparison traps illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_comparison_traps_16e995-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_comparison_traps_16e995-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why more competition is not always better
@@ -370,7 +364,6 @@ An important lesson emerges: competition is not a free motivational upgrade. It 
 
 Competition can:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Increase effort among some participants.
@@ -380,7 +373,6 @@ Competition can:
 </div>
 
 But it can also:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -392,8 +384,7 @@ But it can also:
 
 For self-improvement that works, the goal is not to maximise competitive pressure. The goal is to help more people continue the behaviour.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JkwkmzQ4GRs" title="Social media and mental health: How to have a healthier experience online | Stanford" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JkwkmzQ4GRs" target="_blank" rel="noopener noreferrer">Social media and mental health: How to have a healthier experience online | Stanford</a></p><p class="youtube-embed-meta">Channel: Stanford Center for Health Education &middot; Views: 66.1K &middot; Uploaded: August 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JkwkmzQ4GRs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JkwkmzQ4GRs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xp4OkUhu95Y" title="FUN vs MOTIVATION ?!? - Psychology and Gamification - (Must Watch!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xp4OkUhu95Y" target="_blank" rel="noopener noreferrer">FUN vs MOTIVATION ?!? - Psychology and Gamification - (Must Watch!)</a></p><p class="youtube-embed-meta">Channel: Jonas Tyroller &middot; Views: 2.2K &middot; Uploaded: March 2018 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xp4OkUhu95Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xp4OkUhu95Y">Open on YouTube</a></p></div></div></div>
 
 ## Designing challenges that beginners can survive
 
@@ -407,7 +398,6 @@ Personal improvement leaderboards often create healthier incentives than absolut
 
 Instead of rewarding the highest total steps, a challenge might recognise:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * Percentage improvement from baseline.
@@ -418,7 +408,6 @@ Instead of rewarding the highest total steps, a challenge might recognise:
 </div>
 
 A participant who moves from 3,000 to 6,000 daily steps can then be recognised for meaningful progress rather than punished for not matching a veteran walker.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_comparison_traps_16e995-Illustration-3-dark.svg" | relative_url }}" alt="Comparison traps illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_comparison_traps_16e995-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_comparison_traps_16e995-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Use peer groups rather than one giant ranking
@@ -447,8 +436,7 @@ Recognition can instead include:
 
 These achievements reinforce behaviour while protecting dignity.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iX3zQo_TCM0" title="Top 4 Gamification Techniques" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iX3zQo_TCM0" target="_blank" rel="noopener noreferrer">Top 4 Gamification Techniques</a></p><p class="youtube-embed-meta">Channel: Gamify &middot; Views: 140.2K &middot; Uploaded: April 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iX3zQo_TCM0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iX3zQo_TCM0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T3M0KlVfJec" title="Escaping the &quot;Should&quot; Trap: Mental Health &amp; Social Comparison" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T3M0KlVfJec" target="_blank" rel="noopener noreferrer">Escaping the &quot;Should&quot; Trap: Mental Health &amp; Social Comparison</a></p><p class="youtube-embed-meta">Channel: Dr. Tracey Marks &middot; Views: 48.9K &middot; Uploaded: April 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T3M0KlVfJec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T3M0KlVfJec">Open on YouTube</a></p></div></div></div>
 
 ### Allow private participation
 

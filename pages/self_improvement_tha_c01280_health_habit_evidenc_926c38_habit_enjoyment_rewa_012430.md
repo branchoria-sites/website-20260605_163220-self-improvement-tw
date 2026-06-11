@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /health-habits/
 nav_short_title: Enjoyment
 title: Why enjoyable habits are not cheating
-title_full: Why enjoyable habits are not cheating | Health Habits
+title_full: Why enjoyable habits are not cheating
 display_title_short: Enjoyment
 display_title: Enjoyment
 heading_title: Why enjoyable habits are not cheating
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 16:16:26'
-parent_title: What Health Habits Teach About Change | Better Change
+parent_title: What Health Habits Teach About Change
 parent_permalink: /health-habits/
 parent_nav_short_title: Health Habits
 parent_heading_title: What Health Habits Teach About Change
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_ha
 
 Healthy habits are often presented as a test of discipline: endure enough discomfort for long enough and the behaviour will eventually become automatic. The evidence points in a different direction. Repetition matters, but repetition is easier when the behaviour feels rewarding in the moment. Enjoyment is not a luxury added after a habit is established. In many cases it is part of the mechanism that helps the habit form in the first place.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_enjoyment_rewa_012430-Illustration-1-dark.svg" | relative_url }}" alt="Enjoyment illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_enjoyment_rewa_012430-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_enjoyment_rewa_012430-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on health behaviour suggests that people are more likely to repeat actions that provide some form of intrinsic reward—pleasure, satisfaction, interest, competence, or a sense that the activity fits who they are. Those [rewards]({{ 'rewards/' | relative_url }}) appear to strengthen the link between a behaviour and its context, helping habits develop more efficiently than when actions are performed only out of pressure, guilt, or obligation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Perceived reward can...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: helda.helsinki.fi">[Helda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">helda.helsinki.fi</span><span class="citation-popover-snippet">Developing habit-based health behaviour change interventionsby B Gardner · 2023 · Cited by 157 — Studies of physical activity, dieta...</span></span></span>
 
@@ -296,7 +295,6 @@ Habit researchers increasingly distinguish between simple repetition and rewardi
 
 The relevant reward does not need to be excitement or fun. Intrinsic reward can include:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * Enjoying the activity itself.
@@ -310,7 +308,6 @@ The relevant reward does not need to be excitement or fun. Intrinsic reward can 
 Self-Determination Theory, one of the most influential frameworks in health psychology, argues that behaviours persist more reliably when motivation is autonomous rather than controlled. Autonomous motivation means acting because the behaviour feels personally valuable or genuinely satisfying. Controlled motivation relies more on pressure, guilt, rewards, or fear of negative consequences. Across exercise and health-behaviour research, autonomous motivation is consistently linked to stronger adherence and long-term maintenance. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Perceived reward can...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/1479-5868-9-78" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkExercise, physical activity, and self-determination theoryby PJ Teixeira · 2012 · Cited by 4504 — The results show co...</span></span></span>
 
 Importantly, enjoyment and personal value are not identical. Someone may not love every workout, yet still experience the activity as rewarding because it provides mastery, stress relief, or a sense of accomplishment. Those experiences create positive [feedback]({{ 'feedback/' | relative_url }}) that encourages repetition.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/snHnUc9Yudk" title="Professor Katherine Milkman on Temptation Bundling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=snHnUc9Yudk" target="_blank" rel="noopener noreferrer">Professor Katherine Milkman on Temptation Bundling</a></p><p class="youtube-embed-meta">Channel: Katherine Milkman &middot; Views: 9.3K &middot; Uploaded: January 2014 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=snHnUc9Yudk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=snHnUc9Yudk">Open on YouTube</a></p></div></div></div>
 
@@ -330,7 +327,6 @@ Many people choose exercise plans based on what seems maximally effective rather
 
 In practice, this often means:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Choosing a form of movement you genuinely prefer.
@@ -342,7 +338,6 @@ In practice, this often means:
 
 The best exercise habit is frequently not the physiologically optimal workout on paper. It is the workout that remains attractive enough to repeat hundreds of times.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_enjoyment_rewa_012430-Illustration-2-dark.svg" | relative_url }}" alt="Enjoyment illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_enjoyment_rewa_012430-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_enjoyment_rewa_012430-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Healthy eating
 
@@ -351,7 +346,6 @@ The same principle applies to food. People often attempt dietary improvement thr
 Habit formation research suggests a more effective strategy: make healthy options easier and more rewarding to consume. Vegetables prepared with flavours, textures, and cooking methods a person actually enjoys are more likely to become routine than vegetables eaten solely out of obligation. The goal is not to eliminate nutritional standards but to increase the probability of repetition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: helda.helsinki.fi">[Helda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">helda.helsinki.fi</span><span class="citation-popover-snippet">Developing habit-based health behaviour change interventionsby B Gardner · 2023 · Cited by 157 — Studies of physical activity, dieta...</span></span></span>
 
 A vegetable habit built around meals someone likes is usually more durable than a theoretically perfect diet that feels punitive.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_enjoyment_rewa_012430-Illustration-3-dark.svg" | relative_url }}" alt="Enjoyment illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_enjoyment_rewa_012430-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_enjoyment_rewa_012430-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When pleasure helps without weakening the goal
@@ -362,7 +356,6 @@ Pleasure becomes problematic when it replaces the target behaviour rather than s
 
 Researchers studying autonomous motivation often describe a process of internalisation. A behaviour that begins as something a person "should" do can gradually become something they value and choose for themselves. As this shift occurs, persistence becomes less dependent on constant self-control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Self-Determination Theory</span><span class="citation-popover-snippet">an overviewSelf-determination theory is defined as a framework that explores the relationship between personality, human motivation, and...</span></span></span> PubMed This is one reason successful long-term exercisers often describe their routines differently from beginners. They may still appreciate health <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3441783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Exercise, physical activity, and self-determination theory</span><span class="citation-popover-snippet">PubMed CentralExercise, physical activity, and self-determination theory - PMCby PJ Teixeira · 2012 · Cited by 4451 — This article examin...</span></span></span> benefits, but they also report enjoying the activity, valuing the [identity]({{ 'identity/' | relative_url }}) attached to it, or missing it when it is absent. The behaviour has become rewarding in its own right.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wcs2PFz5q6g" title="The Science of Making &amp; Breaking Habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wcs2PFz5q6g" target="_blank" rel="noopener noreferrer">The Science of Making &amp; Breaking Habits</a></p><p class="youtube-embed-meta">Channel: Andrew Huberman &middot; Views: 5.6M &middot; Uploaded: January 2022 &middot; Length: 1 hour 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wcs2PFz5q6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wcs2PFz5q6g">Open on YouTube</a></p></div></div></div>
 
 ## The self-improvement lesson
@@ -371,9 +364,7 @@ The strongest interpretation of the evidence is not that people should only do w
 
 A behaviour that is enjoyable, satisfying, meaningful, or competence-building gives the brain a reason to repeat it beyond sheer obligation. Repetition remains essential, but enjoyment helps repetition happen. That makes pleasure not a distraction from habit formation, but one of the mechanisms through which healthy actions become automatic. Springer Nature Link <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Perceived reward can...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://helda.helsinki.fi/server/api/core/bitstreams/5c3dcce8-5ced-44ee-87a4-e6fa151b6232/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: helda.helsinki.fi">[Helda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">helda.helsinki.fi</span><span class="citation-popover-snippet">Developing habit-based health behaviour change interventionsby B Gardner · 2023 · Cited by 157 — Studies of physical activity, dieta...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ROV36xBFD20" title="Advantages of creating systems and not just setting goals | Peter Attia, M.D. with James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ROV36xBFD20" target="_blank" rel="noopener noreferrer">Advantages of creating systems and not just setting goals | Peter Attia, M.D. with James Clear</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 365.7K &middot; Uploaded: December 2022 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ROV36xBFD20" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ROV36xBFD20">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

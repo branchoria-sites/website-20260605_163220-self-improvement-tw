@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /accountability/
 nav_short_title: Check ins
 title: Make check ins specific enough to matter
-title_full: Make check ins specific enough to matter | Accountability
+title_full: Make check ins specific enough to matter
 display_title_short: Check ins
 display_title: Check ins
 heading_title: Make check ins specific enough to matter
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 16:05:11'
-parent_title: What Makes an Accountability Partner Useful? | Better Change
+parent_title: What Makes an Accountability Partner Useful?
 parent_permalink: /accountability/
 parent_nav_short_title: Accountability
 parent_heading_title: What Makes an Accountability Partner Useful?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_we
 
 Weekly check-ins are one of the simplest tools in an accountability partnership or study group, yet they often fail because they ask the wrong question. “How is it going?” invites impressions, feelings and optimistic summaries. It does not reliably reveal what was done, what blocked progress, or what should happen next. Effective self-improvement depends on [feedback]({{ 'feedback/' | relative_url }}) loops that turn intentions into observable actions, and behaviour-change research consistently highlights goal review, self-monitoring, feedback, problem-solving and action planning as important ingredients in successful [behaviour change]({{ 'behaviour-change/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-title">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesweek</span><span class="citation-popover-snippet">1.5. Review behavior goal(s) Review behavior goal(s) jointly with the person and consider modifying goal(s) or behavior change strategy i...</span></span></span> PubMed A useful weekly check-in therefore acts less like a conversation and more like a lightweight review system. It creates enough structure that <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21393123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a model for providing human support to enhance adherence...by DC Mohr · 2011 · Cited by 1347 — We argue that human support increas...</span></span></span> progress can be examined honestly without becoming bureaucratic. The goal is not to judge the past week but to produce a clearer next attempt.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_weekly_checkin_struc_c1b8f3-Illustration-1-dark.svg" | relative_url }}" alt="Check ins illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_weekly_checkin_struc_c1b8f3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_weekly_checkin_struc_c1b8f3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why “how is it going?” fails
 
@@ -310,7 +309,6 @@ Start with the previous commitment.
 
 Examples:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “I planned three gym sessions.”
@@ -321,7 +319,6 @@ Examples:
 
 This establishes the baseline. Without it, there is nothing to compare against.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EG6muVcHNqM" title="5 Secrets to Running Effective Weekly Team Meetings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EG6muVcHNqM" target="_blank" rel="noopener noreferrer">5 Secrets to Running Effective Weekly Team Meetings</a></p><p class="youtube-embed-meta">Channel: Leaders Talk - ThinkEduca &middot; Views: 54.4K &middot; Uploaded: November 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EG6muVcHNqM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EG6muVcHNqM">Open on YouTube</a></p></div></div></div>
 
 ### 2. What actually happened?
@@ -329,7 +326,6 @@ This establishes the baseline. Without it, there is nothing to compare against.
 Focus on observable behaviour rather than effort or intention.
 
 Examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -346,7 +342,6 @@ Behaviour-change frameworks place substantial emphasis on self-monitoring and fe
 This is often the most valuable question.
 
 The purpose is not to excuse failure but to identify friction. Common answers include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -367,7 +362,6 @@ Once the obstacle is visible, the plan can be adjusted.
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Move study sessions from evenings to mornings.
@@ -378,7 +372,6 @@ For example:
 </div>
 
 This transforms failure into information. The review becomes a problem-solving exercise rather than a verdict.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_weekly_checkin_struc_c1b8f3-Illustration-2-dark.svg" | relative_url }}" alt="Check ins illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_weekly_checkin_struc_c1b8f3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_weekly_checkin_struc_c1b8f3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### 5. What exactly happens next week?
@@ -392,7 +385,6 @@ Instead of:
 
 Use:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “I will study from 7:00–8:00 a.m. on Monday, Wednesday and Friday.”
@@ -403,8 +395,7 @@ Use:
 
 Research on implementation intentions and action planning shows that specifying when, where and how an action will occur helps bridge the gap between intention and behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prospectivepsych.org">[Prospective Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prospectivepsych.org</span><span class="citation-popover-snippet">Prospective PsychologyImplementation IntentionsHow good intentions can be implemented effectively has been analyzed in recent research on...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fQAxCmUYqeg" title="How to Do a Weekly Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fQAxCmUYqeg" target="_blank" rel="noopener noreferrer">How to Do a Weekly Review</a></p><p class="youtube-embed-meta">Channel: Simpletivity &middot; Views: 5.7K &middot; Uploaded: February 2016 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fQAxCmUYqeg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fQAxCmUYqeg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HrmK6mvQRlw" title="How to Check-In Effectively" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HrmK6mvQRlw" target="_blank" rel="noopener noreferrer">How to Check-In Effectively</a></p><p class="youtube-embed-meta">Channel: Jason Lauritsen &middot; Views: 3.8K &middot; Uploaded: January 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HrmK6mvQRlw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HrmK6mvQRlw">Open on YouTube</a></p></div></div></div>
 
 ## Turning obstacles into useful data
 
@@ -426,7 +417,6 @@ This distinction matters because behaviour-change research frequently identifies
 
 The weekly check-in should therefore normalise discussion of failures. If people feel compelled to defend themselves, they will hide information. If they feel safe describing obstacles, the review becomes more accurate.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_weekly_checkin_struc_c1b8f3-Illustration-3-dark.svg" | relative_url }}" alt="Check ins illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_weekly_checkin_struc_c1b8f3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_weekly_checkin_struc_c1b8f3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ending with a concrete next action
 
@@ -435,7 +425,6 @@ The final minute of a check-in is often the most important.
 A review that ends with analysis alone leaves the next week undefined. A review that ends with a specific commitment creates a new experiment.
 
 Good next actions share three characteristics:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -457,8 +446,7 @@ Within accountability partnerships and [study groups]({{ 'study-groups/' | relat
 
 If the answer is concrete, the check-in has done its job. If the answer is vague, the next review will likely be vague as well.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zjKUX7sHEGI" title="From Chaos to Clarity: My 4-Step Weekly Review System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zjKUX7sHEGI" target="_blank" rel="noopener noreferrer">From Chaos to Clarity: My 4-Step Weekly Review System</a></p><p class="youtube-embed-meta">Channel: Tiago Forte &middot; Views: 74.9K &middot; Uploaded: January 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zjKUX7sHEGI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zjKUX7sHEGI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fQAxCmUYqeg" title="How to Do a Weekly Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fQAxCmUYqeg" target="_blank" rel="noopener noreferrer">How to Do a Weekly Review</a></p><p class="youtube-embed-meta">Channel: Simpletivity &middot; Views: 5.7K &middot; Uploaded: February 2016 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fQAxCmUYqeg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fQAxCmUYqeg">Open on YouTube</a></p></div></div></div>
 
 ## A simple weekly check-in template
 

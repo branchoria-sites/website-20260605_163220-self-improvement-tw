@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /expert-help/
 nav_short_title: Skill feedback
 title: Why Practice Alone Can Make Skills Worse
-title_full: Why Practice Alone Can Make Skills Worse | Expert Help
+title_full: Why Practice Alone Can Make Skills Worse
 display_title_short: Skill feedback
 display_title: Skill feedback
 heading_title: Why Practice Alone Can Make Skills Worse
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:09:08'
-parent_title: When Should You Get Outside Help? | Better Change
+parent_title: When Should You Get Outside Help?
 parent_permalink: /expert-help/
 parent_nav_short_title: Expert Help
 parent_heading_title: When Should You Get Outside Help?
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_deliber
 
 Practising a skill is not the same as improving it. In high-stakes domains—surgery, aviation, emergency response, elite sport, music performance, leadership communication, or professional writing—the greatest danger is often not lack of effort but repeated mistakes becoming automatic. Deliberate practice [feedback]({{ 'feedback/' | relative_url }}) exists to prevent that outcome. It helps learners see the gap between what they think they are doing and what expert performance actually requires.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_deliberate_practice_04354f-Illustration-1-dark.svg" | relative_url }}" alt="Skill feedback illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_deliberate_practice_04354f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_deliberate_practice_04354f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on deliberate practice consistently identifies feedback as a core ingredient of expert development. Improvement is fastest when practice targets specific weaknesses, performance is observed against a clear standard, and corrections arrive quickly enough to influence the next attempt. Without that feedback loop, people often reinforce existing habits rather than build better ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02396/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersDeliberate Practice and Proposed Limits on the Effects of...by KA Ericsson · 2019 · Cited by 520 — The original stimulus for th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18778378/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Deliberate practice and acquisition of expert performanceby KA Ericsson · 2008 · Cited by 2875 — In this article, we draw upon the...</span></span></span>
 
@@ -312,9 +311,7 @@ Deliberate practice differs from ordinary practice because it operates near the 
 
 A useful way to think about deliberate practice is as a cycle: <span class="citation-chip-wrap"><a class="citation-chip" href="https://commoncog.com/the-problems-with-deliberate-practice/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commoncog.com">[commoncog.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commoncog.com</span><span class="citation-popover-title">the problems with deliberate practice</span><span class="citation-popover-snippet">The Problems with Deliberate Practice30 Jan 2019 — In its most general form, Ericsson notes that feedback need not be immediate...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5eW6Eagr9XA" title="The Expert Myth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5eW6Eagr9XA" target="_blank" rel="noopener noreferrer">The Expert Myth</a></p><p class="youtube-embed-meta">Channel: Veritasium &middot; Views: 15.7M &middot; Uploaded: August 2022 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5eW6Eagr9XA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5eW6Eagr9XA">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aIPS4ugcanM" title="Practice More Efficiently | Deliberate Practice &amp; Skill Improvement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aIPS4ugcanM" target="_blank" rel="noopener noreferrer">Practice More Efficiently | Deliberate Practice &amp; Skill Improvement</a></p><p class="youtube-embed-meta">Channel: Benjamin Keep, PhD, JD &middot; Views: 33.6K &middot; Uploaded: August 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aIPS4ugcanM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aIPS4ugcanM">Open on YouTube</a></p></div></div></div>
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -335,7 +332,6 @@ Short feedback loops are especially important in high-stakes skills because memo
 Many people imagine expert feedback as criticism. Research suggests the reality is more specific.
 
 Influential feedback models describe effective feedback as answering three questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -365,7 +361,6 @@ More effective:
 
 Specificity matters because it produces an actionable next attempt. The learner leaves knowing what to practise, not merely how to feel.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_deliberate_practice_04354f-Illustration-2-dark.svg" | relative_url }}" alt="Skill feedback illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_deliberate_practice_04354f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_deliberate_practice_04354f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples from Writing, Sport, Music, and Work
 
@@ -385,8 +380,7 @@ Modern athletes use coaches, video analysis, biomechanical measurements, and per
 
 The key is not that athletes receive more [motivation]({{ 'motivation/' | relative_url }}). They receive more accurate information about performance. Every training session becomes a diagnostic opportunity.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aIPS4ugcanM" title="Practice More Efficiently | Deliberate Practice &amp; Skill Improvement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aIPS4ugcanM" target="_blank" rel="noopener noreferrer">Practice More Efficiently | Deliberate Practice &amp; Skill Improvement</a></p><p class="youtube-embed-meta">Channel: Benjamin Keep, PhD, JD &middot; Views: 33.6K &middot; Uploaded: August 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aIPS4ugcanM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aIPS4ugcanM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uoUHlZP094Q" title="How to Master Anything: PEAK by Anders Ericsson | Core Message" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uoUHlZP094Q" target="_blank" rel="noopener noreferrer">How to Master Anything: PEAK by Anders Ericsson | Core Message</a></p><p class="youtube-embed-meta">Channel: Productivity Game &middot; Views: 746.5K &middot; Uploaded: June 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uoUHlZP094Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uoUHlZP094Q">Open on YouTube</a></p></div></div></div>
 
 ### Music
 
@@ -402,7 +396,6 @@ Managers may not discover communication weaknesses for years. Sales professional
 
 Structured observation, coaching, and review systems create feedback that ordinary work often lacks. The goal is not surveillance but accelerated learning.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_deliberate_practice_04354f-Illustration-3-dark.svg" | relative_url }}" alt="Skill feedback illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_deliberate_practice_04354f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_deliberate_practice_04354f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Feedback Helps and When It Backfires
 
@@ -411,7 +404,6 @@ Feedback is powerful, but it is not automatically beneficial.
 A major meta-analysis found that while feedback interventions improved performance on average, more than a third produced negative effects. Feedback can reduce performance when it shifts attention away from the task and towards self-consciousness, status concerns, or personal judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Effects of Feedback Interventions on PerformanceA meta-analysis (607 effect sizes; 23, 663 observations) suggests t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Wisniewski · 2020 · Cited by 1984 — Feedback is information provided by an agent regarding aspects of one&#x27;s performance or unders...</span></span></span>
 
 Common failure modes include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -426,15 +418,13 @@ Common failure modes include:
 
 High-quality coaches and experts typically do the opposite. They narrow attention to a small number of controllable adjustments and create a learning [environment]({{ 'environment/' | relative_url }}) where errors become information rather than evidence of failure.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uoUHlZP094Q" title="How to Master Anything: PEAK by Anders Ericsson | Core Message" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uoUHlZP094Q" target="_blank" rel="noopener noreferrer">How to Master Anything: PEAK by Anders Ericsson | Core Message</a></p><p class="youtube-embed-meta">Channel: Productivity Game &middot; Views: 746.5K &middot; Uploaded: June 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uoUHlZP094Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uoUHlZP094Q">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5eW6Eagr9XA" title="The Expert Myth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5eW6Eagr9XA" target="_blank" rel="noopener noreferrer">The Expert Myth</a></p><p class="youtube-embed-meta">Channel: Veritasium &middot; Views: 15.7M &middot; Uploaded: August 2022 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5eW6Eagr9XA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5eW6Eagr9XA">Open on YouTube</a></p></div></div></div>
 
 ## How to Use Expert Feedback More Effectively
 
 The value of expert feedback depends partly on how it is used.
 
 For high-stakes skills, several practices consistently improve the quality of the learning loop:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 

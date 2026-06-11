@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280/
 description: Focused pages that expand on Accountability.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: self_improvement_tha_c01280_accountability_partn_0abd4b
-parent_title: Accountability | Self Improvement That Works
+parent_title: Accountability
 parent_nav_short_title: Accountability
 parent_permalink: /accountability/
 ---

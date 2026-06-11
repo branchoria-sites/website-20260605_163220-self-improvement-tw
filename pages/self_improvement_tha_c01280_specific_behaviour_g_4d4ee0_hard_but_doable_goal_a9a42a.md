@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /goal-setting/
 nav_short_title: Doable Stretch
 title: When Specific Goals Get Too Hard
-title_full: When Specific Goals Get Too Hard | Goal Setting
+title_full: When Specific Goals Get Too Hard
 display_title_short: Doable Stretch
 display_title: Doable Stretch
 heading_title: When Specific Goals Get Too Hard
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:15:32'
-parent_title: Why Vague Goals Fail So Often | Better Change
+parent_title: Why Vague Goals Fail So Often
 parent_permalink: /goal-setting/
 parent_nav_short_title: Goal Setting
 parent_heading_title: Why Vague Goals Fail So Often
@@ -270,14 +270,12 @@ image: /assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_ha
 
 Specific behaviour goals work best when they are challenging enough to require effort but not so difficult that they produce repeated failure. This balance is especially important for beginners. A goal that is too easy may not create meaningful progress, but a goal that is too hard can damage confidence, disrupt consistency and make [abandonment]({{ 'abandonment/' | relative_url }}) more likely. Research on goal-setting consistently finds that specific, difficult goals outperform vague or easy ones, yet that finding comes with an important condition: people must believe the goal is achievable and possess enough skill or knowledge to pursue it effectively. Stanford Medicine PubMed For someone new to a behaviour <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.notion.com/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notion.com">[notion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notion.com</span><span class="citation-popover-title">goal setting theory</span><span class="citation-popover-snippet">What&#x27;s goal-setting theory, and how does it work?1 May 2023 — Latham and Locke&#x27;s goal-setting theory has five rules that provide a...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>, the most effective goal is often not the one that maximises performance immediately. It is the one that creates enough challenge to stimulate growth while allowing enough success to build competence, confidence and continuity.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_hard_but_doable_goal_a9a42a-Illustration-1-dark.svg" | relative_url }}" alt="Doable Stretch illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_hard_but_doable_goal_a9a42a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_hard_but_doable_goal_a9a42a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Edge of Current Capacity
 
 The phrase “hard but doable” sounds subjective, but it describes a practical principle. Effective beginner goals usually sit near the edge of current ability rather than far beyond it.
 
 Goal-setting research has repeatedly shown that challenging goals tend to produce higher performance than easy goals. However, goals that are perceived as impossible or disconnected from current capability can become demotivating rather than motivating. The value comes from challenge combined with attainability. Stanford Medicine LyondellBasell Consider three people who want to begin exercising: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyondellbasell.com">[lyondellbasell.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyondellbasell.com</span><span class="citation-popover-title">newdirectioningoalsetting locke et al</span><span class="citation-popover-snippet">New Directions in Goal-Setting Theoryby EA Locke · Cited by 4032 — These studies showed that specific, high (hard) goals le...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -293,7 +291,6 @@ The key question is not, “What would an advanced person do?” It is, “What 
 
 This distinction matters because early success creates evidence that improvement is possible. According to Albert Bandura’s work on self-efficacy, successful performance experiences are among the strongest sources of confidence in future performance. Repeated success builds belief that effort can produce results. Repeated failure often produces the opposite effect. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educational-innovation.sydney.edu.au">[2educational-innovation.sydney.edu.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educational-innovation.sydney.edu.au</span><span class="citation-popover-snippet">1977). Self-Efficacyby A Bandura · Cited by 132145 — In the enhancement of previously learned behavior, reinforcement is conceived of ma...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TKVAGxoU2AM" title="How to set goals you&#x27;ll actually accomplish | Chuck Wachendorfer | TEDxGreenhouse Road" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TKVAGxoU2AM" target="_blank" rel="noopener noreferrer">How to set goals you&#x27;ll actually accomplish | Chuck Wachendorfer | TEDxGreenhouse Road</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.1M &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TKVAGxoU2AM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TKVAGxoU2AM">Open on YouTube</a></p></div></div></div>
 
 ## Performance Goals Versus Learning Goals
@@ -301,7 +298,6 @@ This distinction matters because early success creates evidence that improvement
 One of the most common beginner mistakes is choosing a performance goal when a learning goal would be more useful.
 
 Performance goals focus on outcomes:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -313,7 +309,6 @@ Performance goals focus on outcomes:
 </div>
 
 Learning goals focus on acquiring skill and competence:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -341,7 +336,6 @@ When people are new to a behaviour, they often lack accurate information about h
 
 This does not mean abandoning ambition. The long-term outcome still matters. The difference is that beginners usually benefit from treating performance as a destination and learning as the immediate target.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_hard_but_doable_goal_a9a42a-Illustration-2-dark.svg" | relative_url }}" alt="Doable Stretch illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_hard_but_doable_goal_a9a42a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_hard_but_doable_goal_a9a42a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Overly Difficult Goals Often Backfire
 
@@ -361,7 +355,6 @@ This helps explain why a beginner who reads five pages every evening often progr
 
 The challenge is not to maximise effort on day one. The challenge is to create a level of effort that survives long enough to accumulate.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fxJjAuG3qkQ" title="How to Achieve Any Goal You Have in 6 Simple Steps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fxJjAuG3qkQ" target="_blank" rel="noopener noreferrer">How to Achieve Any Goal You Have in 6 Simple Steps</a></p><p class="youtube-embed-meta">Channel: Mel Robbins &middot; Views: 322.8K &middot; Uploaded: January 2025 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fxJjAuG3qkQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fxJjAuG3qkQ">Open on YouTube</a></p></div></div></div>
 
 ## How to Scale a Goal After Failure
@@ -371,7 +364,6 @@ Failure is not necessarily evidence that a person lacks discipline. Often it is 
 When a beginner repeatedly misses a goal, the most useful response is usually adjustment rather than self-criticism.
 
 A practical sequence is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -385,7 +377,6 @@ A practical sequence is:
 Suppose someone sets a goal of studying for ninety minutes every evening and succeeds only once per week.
 
 Rather than abandoning studying altogether, they might reduce the goal to:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -402,7 +393,6 @@ This approach preserves the behaviour while adjusting the demand level. It treat
 Goal-setting theory identifies feedback as a critical component of effective goals because feedback allows people to compare current performance against the target and modify strategy accordingly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.notion.com/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notion.com">[Notion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notion.com</span><span class="citation-popover-title">goal setting theory</span><span class="citation-popover-snippet">What&#x27;s goal-setting theory, and how does it work?1 May 2023 — Latham and Locke&#x27;s goal-setting theory has five rules that provide a...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 The important lesson is that a failed goal does not automatically indicate a weak person. It may indicate an inaccurate estimate of current capacity.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_hard_but_doable_goal_a9a42a-Illustration-3-dark.svg" | relative_url }}" alt="Doable Stretch illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_hard_but_doable_goal_a9a42a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_hard_but_doable_goal_a9a42a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Signs That a Beginner Goal Is in the Right Range
@@ -425,9 +415,7 @@ These characteristics align with the broader finding that specific and challengi
 
 For beginners, the ideal goal is rarely the most ambitious version imaginable. It is the version that stretches current ability while remaining repeatable. That balance creates skill, confidence and momentum—the foundations that make larger goals possible later.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LCW_R_HH0r8" title="BEST Goal Setting Strategy that made me a TOP ACHIEVER (every single year)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LCW_R_HH0r8" target="_blank" rel="noopener noreferrer">BEST Goal Setting Strategy that made me a TOP ACHIEVER (every single year)</a></p><p class="youtube-embed-meta">Channel: Dr Faye Bate &middot; Views: 73.1K &middot; Uploaded: January 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LCW_R_HH0r8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LCW_R_HH0r8">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ICLG8VdnHO0" title="How to Set Clear, Realistic Goals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ICLG8VdnHO0" target="_blank" rel="noopener noreferrer">How to Set Clear, Realistic Goals</a></p><p class="youtube-embed-meta">Channel: Management Courses - Mike Clayton &middot; Views: 1.3K &middot; Uploaded: October 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ICLG8VdnHO0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ICLG8VdnHO0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

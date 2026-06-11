@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /coffee-cue/
 nav_short_title: Caffeine Limits
 title: What Coffee Can and Cannot Do
-title_full: What Coffee Can and Cannot Do | Coffee Cue
+title_full: What Coffee Can and Cannot Do
 display_title_short: Caffeine Limits
 display_title: Caffeine Limits
 heading_title: What Coffee Can and Cannot Do
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:50:55'
-parent_title: How Coffee Can Trigger the First Work Task | Better Change
+parent_title: How Coffee Can Trigger the First Work Task
 parent_permalink: /coffee-cue/
 parent_nav_short_title: Coffee Cue
 parent_heading_title: How Coffee Can Trigger the First Work Task
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caff
 
 Coffee can be a useful morning productivity cue, but the stimulant inside it has clear [limits]({{ 'limits/' | relative_url }}). The strongest evidence is not that caffeine turns ordinary work into exceptional work. Rather, moderate doses can increase alertness, reduce feelings of sleepiness and improve vigilance, especially when attention is flagging. What caffeine cannot reliably do is replace sleep, guarantee deep concentration, or continuously improve performance as the dose rises. Beyond a certain point, more caffeine often delivers diminishing returns while increasing the risks of anxiety, jitteriness and disrupted sleep. For people interested in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), this distinction matters: the value of morning coffee often comes as much from the ritual that starts work as from the pharmacological effect itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.onlinelibrary.wiley.com">[EFSA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0149763416300690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A review of caffeine&#x27;s effects on cognitive, physical and...by TM McLellan · 2016 · Cited by 1225 — This review examines th...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-1-dark.svg" | relative_url }}" alt="Caffeine Limits illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Alertness, vigilance, and the moderate-dose case
 
@@ -283,7 +282,6 @@ A practical implication follows. If the first hour of work is being lost to slug
 The limits become even clearer when sleep loss enters the picture. Research shows that caffeine can partially counteract declines in vigilant attention caused by sleep deprivation. However, it does not fully restore cognitive performance, and some executive functions remain impaired despite caffeine use. In other words, caffeine can mask part of the symptom of being tired without eliminating the underlying deficit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span>
 
 A useful mental model is that caffeine often improves “staying switched on” more than it improves “doing brilliant work”. For many morning tasks, that is valuable. It is simply not limitless.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n3b9QKo_VpM" title="How to Use Caffeine &amp; Coffee to Improve Focus | Dr. Andrew Huberman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n3b9QKo_VpM" target="_blank" rel="noopener noreferrer">How to Use Caffeine &amp; Coffee to Improve Focus | Dr. Andrew Huberman</a></p><p class="youtube-embed-meta">Channel: Huberman Lab Clips &middot; Views: 673.9K &middot; Uploaded: October 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n3b9QKo_VpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n3b9QKo_VpM">Open on YouTube</a></p></div></div></div>
 
@@ -305,14 +303,12 @@ Sleep disruption is an even bigger limitation because it can undermine the next 
 
 This creates a common cycle. Poor sleep leads to more caffeine. More caffeine makes sleep worse. Worse sleep increases the perceived need for caffeine. The short-term gain in morning alertness can be outweighed by the long-term cost to recovery and cognitive function.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-2-dark.svg" | relative_url }}" alt="Caffeine Limits illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Testing whether the habit works with less caffeine
 
 Because coffee serves both as a ritual and a stimulant, it is easy to overestimate how much of its productivity effect comes from caffeine itself.
 
 One useful experiment is to keep the morning routine unchanged while reducing caffeine. For example:
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-3-dark.svg" | relative_url }}" alt="Caffeine Limits illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -331,7 +327,6 @@ Another reason to test lower doses is tolerance. The brain adapts to regular caf
 
 For many adults, the most effective approach is not maximising caffeine but finding the smallest amount that reliably improves morning alertness. That keeps the stimulant working as a tool rather than turning it into a requirement for basic functioning.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yCJr49GU9yY" title="Is Andrew Huberman Ruining Your Morning Coffee?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yCJr49GU9yY" target="_blank" rel="noopener noreferrer">Is Andrew Huberman Ruining Your Morning Coffee?</a></p><p class="youtube-embed-meta">Channel: James Hoffmann &middot; Views: 1.4M &middot; Uploaded: August 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yCJr49GU9yY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yCJr49GU9yY">Open on YouTube</a></p></div></div></div>
 
 ## The practical takeaway
@@ -340,9 +335,7 @@ The evidence supports a restrained view of caffeine. Moderate amounts can increa
 
 Within a productivity system built around reliable cues, coffee is often most useful as a start signal. The ritual may get you to the desk; a moderate dose of caffeine may help you feel awake enough to begin. Beyond that point, the quality of the work depends far more on sleep, attention management and task selection than on another cup. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iw97uvIge7c" title="Using Caffeine to Optimize Mental &amp; Physical Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iw97uvIge7c" target="_blank" rel="noopener noreferrer">Using Caffeine to Optimize Mental &amp; Physical Performance</a></p><p class="youtube-embed-meta">Channel: Andrew Huberman &middot; Views: 1.0M &middot; Uploaded: December 2022 &middot; Length: 2 hours 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iw97uvIge7c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iw97uvIge7c">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

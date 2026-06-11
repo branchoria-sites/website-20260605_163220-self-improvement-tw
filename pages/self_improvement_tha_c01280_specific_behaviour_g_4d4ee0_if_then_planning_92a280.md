@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /goal-setting/
 nav_short_title: If Then Plans
 title: Why If Then Plans Beat Willpower
-title_full: Why If Then Plans Beat Willpower | Goal Setting
+title_full: Why If Then Plans Beat Willpower
 display_title_short: If Then Plans
 display_title: If Then Plans
 heading_title: Why If Then Plans Beat Willpower
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:15:21'
-parent_title: Why Vague Goals Fail So Often | Better Change
+parent_title: Why Vague Goals Fail So Often
 parent_permalink: /goal-setting/
 parent_nav_short_title: Goal Setting
 parent_heading_title: Why Vague Goals Fail So Often
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_if
 
 A specific behaviour goal answers the question “what am I trying to do?”. An implementation intention answers a different question: “what will I do when the moment arrives?” Instead of relying on memory, [motivation]({{ 'motivation/' | relative_url }}) or [willpower]({{ 'willpower/' | relative_url }}), an implementation intention links a concrete situation to a predetermined response using an if-then format: “If situation X occurs, then I will do behaviour Y.” Research by psychologist Peter Gollwitzer and many subsequent studies suggests that this simple planning technique helps close the gap between intentions and actions by making the right cue easier to notice and the desired response easier to execute. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Division of Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Division of Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing t...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_if_then_planning_92a280-Illustration-1-dark.svg" | relative_url }}" alt="If Then Plans illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_if_then_planning_92a280-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_if_then_planning_92a280-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within [self improvement]({{ 'self-improvement-that-works/' | relative_url }}), this matters because many failures are not failures of desire. People often want to exercise, study, save money or read more. The problem is that they must repeatedly decide when to act. If-then plans reduce that burden by attaching behaviour to a specific trigger already present in daily life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/how-do-implementation-intentions-promote-goal-attainment-a-test-o/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-title">Research Explorer How do implementation intentions promote goal attainment?</span><span class="citation-popover-snippet">TL Webb · 2006 · Cited by 564 — Findings indicated that participants who planned to undertake a verbal task better attained their...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Implementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5043 — The idea tested in the...</span></span></span>
 
@@ -301,7 +300,6 @@ Every implementation intention contains two parts:
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * If I sit down at my desk at 9:00, then I will open the report and work on it for 20 minutes.
@@ -316,8 +314,7 @@ The cue acts as a retrieval system. Instead of remembering a goal at the right t
 
 Researchers sometimes describe the effect as “strategic [automaticity]({{ 'automaticity/' | relative_url }})”. The behaviour is not fully automatic in the way a long-established habit is, but it begins to require less conscious deliberation. The person still chooses the plan in advance; the cue then helps trigger execution later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Instant habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation intentions (stra...</span></span></span> HabitDex This distinction is important. Implementation intentions do not remove self-control entirely. They simply move part of the self-control work <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Instant habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation intentions (stra...</span></span></span> to an earlier moment, when planning is easier than resisting temptation in the moment.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wMez5BY375Y" title="Build Self-Control: The Habit Architecture Method" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wMez5BY375Y" target="_blank" rel="noopener noreferrer">Build Self-Control: The Habit Architecture Method</a></p><p class="youtube-embed-meta">Channel: Inner Dominion Engine &middot; Views: 6 &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wMez5BY375Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wMez5BY375Y">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tUeQQ2OB8r0" title="How implementation intentions can break bad habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tUeQQ2OB8r0" target="_blank" rel="noopener noreferrer">How implementation intentions can break bad habits</a></p><p class="youtube-embed-meta">Channel: Positive Experiments &middot; Views: 44 &middot; Uploaded: April 2025 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tUeQQ2OB8r0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tUeQQ2OB8r0">Open on YouTube</a></p></div></div></div>
 
 ## Choosing Reliable Existing Routines
 
@@ -326,7 +323,6 @@ The most effective cues tend to be cues that already happen consistently.
 Many people fail because they attach a new behaviour to an event that occurs unpredictably: “If I feel motivated, then I will exercise.” Motivation is not a reliable cue. In contrast, daily routines often are.
 
 Useful cues include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -353,7 +349,6 @@ The second version creates a visible, recurring trigger. The person no longer ne
 
 The strongest cues are usually:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Frequent enough** to create repetition.
@@ -364,7 +359,6 @@ The strongest cues are usually:
 </div>
 
 For example, linking reading to bedtime may work because the cue happens every evening and the book can be kept beside the bed. Linking reading to “whenever I have spare time” creates ambiguity and invites postponement.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_if_then_planning_92a280-Illustration-2-dark.svg" | relative_url }}" alt="If Then Plans illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_if_then_planning_92a280-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_if_then_planning_92a280-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Planning for Obstacles, Not Just Opportunities
@@ -383,8 +377,7 @@ Research suggests that identifying the specific cues associated with unwanted be
 
 This approach shifts attention away from vague self-discipline and towards practical contingency planning.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tUeQQ2OB8r0" title="How implementation intentions can break bad habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tUeQQ2OB8r0" target="_blank" rel="noopener noreferrer">How implementation intentions can break bad habits</a></p><p class="youtube-embed-meta">Channel: Positive Experiments &middot; Views: 44 &middot; Uploaded: April 2025 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tUeQQ2OB8r0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tUeQQ2OB8r0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wMez5BY375Y" title="Build Self-Control: The Habit Architecture Method" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wMez5BY375Y" target="_blank" rel="noopener noreferrer">Build Self-Control: The Habit Architecture Method</a></p><p class="youtube-embed-meta">Channel: Inner Dominion Engine &middot; Views: 6 &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wMez5BY375Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wMez5BY375Y">Open on YouTube</a></p></div></div></div>
 
 ## Common If-Then Planning Mistakes
 
@@ -400,7 +393,6 @@ Better example:
 
 * If it is 7:00 pm on weekdays, then I will complete one practice exercise.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_if_then_planning_92a280-Illustration-3-dark.svg" | relative_url }}" alt="If Then Plans illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_if_then_planning_92a280-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_if_then_planning_92a280-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Making the response too large
 
@@ -415,7 +407,6 @@ Better example:
 * If I get home, then I will exercise for ten minutes.
 
 Smaller responses create more opportunities for successful repetition.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8PrpkJOGsms" title="Stop letting your goals fizzle out! Why implementation intentions unlock success" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8PrpkJOGsms" target="_blank" rel="noopener noreferrer">Stop letting your goals fizzle out! Why implementation intentions unlock success</a></p><p class="youtube-embed-meta">Channel: Everyday English Podcast &middot; Views: 4 &middot; Uploaded: April 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8PrpkJOGsms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8PrpkJOGsms">Open on YouTube</a></p></div></div></div>
 

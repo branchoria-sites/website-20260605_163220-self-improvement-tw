@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /coffee-cue/
 nav_short_title: Tiny Review
 title: The Two Minute Review Before Email
-title_full: The Two Minute Review Before Email | Coffee Cue
+title_full: The Two Minute Review Before Email
 display_title_short: Tiny Review
 display_title: Tiny Review
 heading_title: The Two Minute Review Before Email
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:51:12'
-parent_title: How Coffee Can Trigger the First Work Task | Better Change
+parent_title: How Coffee Can Trigger the First Work Task
 parent_permalink: /coffee-cue/
 parent_nav_short_title: Coffee Cue
 parent_heading_title: How Coffee Can Trigger the First Work Task
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_
 
 A two-minute task review before opening email is one of the smallest productivity habits that consistently pays off. The purpose is not to create a detailed plan or redesign the day. It is to decide what matters before other people start making decisions for you.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-1-dark.svg" | relative_url }}" alt="Tiny Review illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 When the first screen of the day is an inbox, attention often begins reactively. Requests, notifications and unanswered messages compete for priority before any deliberate choice has been made. A brief review during a morning coffee routine creates a different starting point: identify the most important task, define the first visible action and begin it before checking messages. Research on implementation intentions suggests that specific “when X happens, I will do Y” plans make follow-through more likely by linking behaviour to a concrete cue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intention</span></span></span>
 
@@ -294,7 +293,6 @@ The answer should usually be yes. Even five or ten minutes of progress establish
 
 These questions can be answered on a notebook page, a task manager or a sticky note beside a coffee cup. The medium matters less than the speed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FKOMTZ7PPLg" title="Eat That Frog &amp; The ABCDE Method" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FKOMTZ7PPLg" target="_blank" rel="noopener noreferrer">Eat That Frog &amp; The ABCDE Method</a></p><p class="youtube-embed-meta">Channel: Brian Tracy &middot; Views: 416.6K &middot; Uploaded: August 2011 &middot; Length: 4 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FKOMTZ7PPLg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FKOMTZ7PPLg">Open on YouTube</a></p></div></div></div>
 
 ## Turning a Vague Priority Into a Visible Action
@@ -311,7 +309,6 @@ This matters because task initiation is often a larger obstacle than task comple
 
 A useful test is simple: if someone interrupted you and asked, “What are you doing first today?”, you should be able to answer in a single sentence.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-2-dark.svg" | relative_url }}" alt="Tiny Review illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Inbox Changes Priorities So Easily
 
@@ -324,7 +321,6 @@ Studies of interruptions and attention have repeatedly found that switching focu
 The two-minute review creates a protective buffer. Instead of asking, “What needs my attention?”, it asks, “What deserves my attention first?”
 
 That distinction seems minor, but it changes the direction of the morning.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OZWewKyQJn0" title="Master Email Efficiency: Shift to a Task Mindset for Better Message Prioritization &amp; Productivity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OZWewKyQJn0" target="_blank" rel="noopener noreferrer">Master Email Efficiency: Shift to a Task Mindset for Better Message Prioritization &amp; Productivity</a></p><p class="youtube-embed-meta">Channel: Randy Dean, MBA, CVP: The E-mail Sanity Expert(R) &middot; Views: 903 &middot; Uploaded: March 2025 &middot; Length: 4 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OZWewKyQJn0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OZWewKyQJn0">Open on YouTube</a></p></div></div></div>
 
@@ -348,14 +344,12 @@ A practical rule is that the review should end with a physical action:
 
 If the review does not lead directly into work, it risks becoming another form of procrastination disguised as organisation.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-3-dark.svg" | relative_url }}" alt="Tiny Review illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Tiny Ritual With a Disproportionate Effect
 
 The strength of the two-minute review is not that it produces better plans. It produces earlier action.
 
 During a morning coffee routine, the review creates a clear sequence:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -368,9 +362,7 @@ During a morning coffee routine, the review creates a clear sequence:
 
 That sequence is small enough to repeat every day and specific enough to become automatic. Over time, the habit teaches a simple lesson: the first minutes of the day do not have to belong to the inbox. They can belong to the work that matters most.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HohKbgtUSSQ" title="How to work hard and achieve nothing ... using email!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HohKbgtUSSQ" target="_blank" rel="noopener noreferrer">How to work hard and achieve nothing ... using email!</a></p><p class="youtube-embed-meta">Channel: Daniel Sih &middot; Views: 317 &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HohKbgtUSSQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HohKbgtUSSQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

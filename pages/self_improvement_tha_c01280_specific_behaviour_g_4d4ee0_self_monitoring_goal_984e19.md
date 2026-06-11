@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /goal-setting/
 nav_short_title: Tracking
 title: What Tracking Reveals About Your Goals
-title_full: What Tracking Reveals About Your Goals | Goal Setting
+title_full: What Tracking Reveals About Your Goals
 display_title_short: Tracking
 display_title: Tracking
 heading_title: What Tracking Reveals About Your Goals
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:15:38'
-parent_title: Why Vague Goals Fail So Often | Better Change
+parent_title: Why Vague Goals Fail So Often
 parent_permalink: /goal-setting/
 parent_nav_short_title: Goal Setting
 parent_heading_title: Why Vague Goals Fail So Often
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_se
 
 Specific behaviour goals become far more useful when they generate evidence. Self-monitoring is the process of recording whether a defined behaviour happened, while [feedback]({{ 'feedback/' | relative_url }}) is the information used to interpret those records. Together, they convert self-improvement from a matter of memory and mood into something observable.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_self_monitoring_goal_984e19-Illustration-1-dark.svg" | relative_url }}" alt="Tracking illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_self_monitoring_goal_984e19-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_self_monitoring_goal_984e19-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because people are often poor judges of their own consistency. A week can feel productive despite repeated misses, or disappointing despite steady progress. Tracking a clearly defined behaviour creates a record that can be reviewed rather than guessed. In behaviour-change research, self-monitoring and feedback are recognised as core [behaviour change]({{ 'behaviour-change/' | relative_url }}) techniques and frequently appear in successful interventions alongside [goal setting]({{ 'goal-setting/' | relative_url }}) and action planning. City Research Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4444702/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Applying the behaviour change technique (BCT) taxonomy v1by CE Wood · 2014 · Cited by 138 — Goal setting, self-monitoring of behaviour...</span></span></span>
 
@@ -291,7 +290,6 @@ Behaviour-change frameworks treat self-monitoring as a distinct technique becaus
 
 Tracking also exposes hidden assumptions. A goal that seemed realistic on paper may consistently fail on certain days, times or contexts. That information is valuable because it points towards redesign rather than self-blame.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q8uqza4wz2Y" title="How to Break Bad Habits &amp; Build Good Ones - The Science of Habit Formation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q8uqza4wz2Y" target="_blank" rel="noopener noreferrer">How to Break Bad Habits &amp; Build Good Ones - The Science of Habit Formation</a></p><p class="youtube-embed-meta">Channel: Olly Wood &middot; Views: 113 &middot; Uploaded: March 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q8uqza4wz2Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q8uqza4wz2Y">Open on YouTube</a></p></div></div></div>
 
 ## Why Undefined Behaviour Cannot Be Tracked Honestly
@@ -301,7 +299,6 @@ Many people believe they are tracking progress when they are actually tracking f
 A goal such as “be healthier” cannot be measured directly in daily life. One day may feel healthy because of a good breakfast, another because of a gym session, and another because of a positive mood. The standard changes from day to day.
 
 Undefined goals create three problems:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -317,7 +314,6 @@ The distinction appears in behaviour change research as well. Self-monitoring is
 
 A useful test is simple: if two independent observers would disagree about whether the behaviour happened, the goal is probably still too vague to track reliably.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4C0cfxETfus" title="4 Steps To Behavioral Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4C0cfxETfus" target="_blank" rel="noopener noreferrer">4 Steps To Behavioral Change</a></p><p class="youtube-embed-meta">Channel: University of California Television (UCTV) &middot; Views: 4.0K &middot; Uploaded: March 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4C0cfxETfus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4C0cfxETfus">Open on YouTube</a></p></div></div></div>
 
 ## Simple Ways to Record Behaviour Without Obsession
@@ -325,7 +321,6 @@ A useful test is simple: if two independent observers would disagree about wheth
 Effective self-monitoring is usually simpler than people expect. The objective is not exhaustive measurement. It is creating enough evidence to learn from.
 
 For most behaviour goals, a minimal system works best:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -349,14 +344,12 @@ Notice that none of these systems require constant measurement. They capture eno
 
 One warning is worth noting. Tracking can become counterproductive when the record becomes more important than the behaviour. Spending ten minutes perfecting a tracking spreadsheet for a five-minute habit reverses the purpose of the exercise. The record should [support]({{ 'support/' | relative_url }}) the behaviour, not replace it.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_self_monitoring_goal_984e19-Illustration-2-dark.svg" | relative_url }}" alt="Tracking illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_self_monitoring_goal_984e19-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_self_monitoring_goal_984e19-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Feedback Turns Records Into Decisions
 
 Recording behaviour creates data. Feedback creates meaning.
 
 Feedback answers questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -372,7 +365,6 @@ For example, a person tracking writing sessions may discover that completion rat
 Systematic reviews of self-monitoring interventions suggest that feedback often strengthens the impact of monitoring by helping individuals interpret their records and adjust behaviour. Researchers examining self-monitoring systems repeatedly identify feedback as a major companion technique rather than an optional extra. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4444702/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Applying the behaviour change technique (BCT) taxonomy v1by CE Wood · 2014 · Cited by 138 — Goal setting, self-monitoring of behaviour...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkImpact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the...</span></span></span>
 
 Good feedback is specific and actionable:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -390,7 +382,6 @@ Poor feedback is vague:
 
 The first category suggests adjustments. The second provides judgement without information.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qOycEsN-4Z4" title="The Science of Habit Tracking: Why Visible Progress Doubles Follow-Through" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qOycEsN-4Z4" target="_blank" rel="noopener noreferrer">The Science of Habit Tracking: Why Visible Progress Doubles Follow-Through</a></p><p class="youtube-embed-meta">Channel: Habits, Backed by Science &middot; Views: 6 &middot; Uploaded: April 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qOycEsN-4Z4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qOycEsN-4Z4">Open on YouTube</a></p></div></div></div>
 
 ## Using Misses as Diagnostic Evidence
@@ -406,7 +397,6 @@ Viewed this way, a missed behaviour becomes evidence about system design.
 For example, if a person plans a 45-minute exercise session and completes it only once every two weeks, the record may suggest that the target is unrealistic. Replacing it with a ten-minute version may dramatically increase consistency. The lesson is not that the person lacks character. The lesson is that the behavioural specification was poorly matched to reality.
 
 This interpretation aligns with broader behaviour-change evidence showing that self-monitoring tends to work best when it forms part of a self-regulation cycle: set a goal, observe behaviour, review outcomes, adjust strategy, and repeat. Monitoring without adjustment provides information but little adaptation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4444702/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Applying the behaviour change technique (BCT) taxonomy v1by CE Wood · 2014 · Cited by 138 — Goal setting, self-monitoring of behaviour...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4444702/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Applying the behaviour change technique (BCT) taxonomy v1by CE Wood · 2014 · Cited by 138 — Goal setting, self-monitoring of behaviour...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_self_monitoring_goal_984e19-Illustration-3-dark.svg" | relative_url }}" alt="Tracking illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_self_monitoring_goal_984e19-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_self_monitoring_goal_984e19-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Most Useful Question a Tracker Can Answer
@@ -512,7 +502,7 @@ That is why self-monitoring and feedback fit naturally alongside specific behavi
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -536,15 +526,15 @@ That is why self-monitoring and feedback fit naturally alongside specific behavi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 30 Pcs Cash Savings Tracking Templates Piggy Bank Planner Goals Charts"><img src="https://i.ebayimg.com/images/g/hLQAAeSw129p~Yr1/s-l225.jpg" alt="Listing image for 30 Pcs Cash Savings Tracking Templates Piggy Bank Planner Goals Charts" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Premium Habit Tracker Calendar 2026 - Daily Journal &amp; Goal Board for Motivation"><img src="https://i.ebayimg.com/images/g/Vc0AAeSwxO5ptcYy/s-l225.jpg" alt="Listing image for Premium Habit Tracker Calendar 2026 - Daily Journal &amp; Goal Board for Motivation" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">30 Pcs Cash Savings Tracking Templates Piggy Bank Planner Goals Charts</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Premium Habit Tracker Calendar 2026 - Daily Journal &amp; Goal Board for Motivation</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,15 +542,15 @@ That is why self-monitoring and feedback fit naturally alongside specific behavi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personal Development and Goal Planning Guide: Habit Tracking Charts by Mustafa N"><img src="https://i.ebayimg.com/images/g/TxoAAeSwdHtpcNuP/s-l225.jpg" alt="Listing image for Personal Development and Goal Planning Guide: Habit Tracking Charts by Mustafa N" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board"><img src="https://i.ebayimg.com/images/g/R4EAAeSwC6dpFKqr/s-l225.jpg" alt="Listing image for 2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">Personal Development and Goal Planning Guide: Habit Tracking Charts by Mustafa N</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +558,15 @@ That is why self-monitoring and feedback fit naturally alongside specific behavi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat..."><img src="https://i.ebayimg.com/images/g/h-cAAeSwhrZp8V5P/s-l225.jpg" alt="Listing image for Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board"><img src="https://i.ebayimg.com/images/g/1roAAeSwZ9FpXwDg/s-l225.jpg" alt="Listing image for Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">Dry Erase Goal Setting Fundraising Thermometer Chart Blue Goal Chart Temperat...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,15 +574,15 @@ That is why self-monitoring and feedback fit naturally alongside specific behavi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Responsibility Charts for Kids &amp; Adults - Dry Erase Family Chore Boa..."><img src="https://i.ebayimg.com/images/g/e2oAAeSwxhNoj77H/s-l225.jpg" alt="Listing image for Magnetic Responsibility Charts for Kids &amp; Adults - Dry Erase Family Chore Boa..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manifestation Journal – Hourly, Weekly &amp; Monthly Planner | 2- to Increase Pro..."><img src="https://i.ebayimg.com/images/g/7KcAAeSw27Bp3m42/s-l225.jpg" alt="Listing image for Manifestation Journal – Hourly, Weekly &amp; Monthly Planner | 2- to Increase Pro..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">Magnetic Responsibility Charts for Kids &amp; Adults - Dry Erase Family Chore Boa...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Manifestation Journal – Hourly, Weekly &amp; Monthly Planner | 2- to Increase Pro...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracking chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracking chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -600,7 +590,7 @@ That is why self-monitoring and feedback fit naturally alongside specific behavi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracking+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-goal-tracking-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracking chart" data-ebay-reference="what-tracking-reveals-about-your-goals-goal-tracking-chart" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-tracking-reveals-about-your-goals-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-tracking-reveals-about-your-goals-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -810,6 +800,7 @@ That is why self-monitoring and feedback fit naturally alongside specific behavi
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

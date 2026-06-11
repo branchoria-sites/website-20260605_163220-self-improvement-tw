@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /app-blockers/
 nav_short_title: Fit Patterns
 title: The blocker has to fit the habit
-title_full: The blocker has to fit the habit | App Blockers
+title_full: The blocker has to fit the habit
 display_title_short: Fit Patterns
 display_title: Fit Patterns
 heading_title: The blocker has to fit the habit
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 14:58:15'
-parent_title: Do App Blockers Actually Help? | Better Change
+parent_title: Do App Blockers Actually Help?
 parent_permalink: /app-blockers/
 parent_nav_short_title: App Blockers
 parent_heading_title: Do App Blockers Actually Help?
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_app_blockers_1932a2_distractio
 
 The most effective app blocker is rarely the strictest one. It is the one that matches the specific way a person gets distracted. Research on digital self-control tools consistently finds that people respond best when [blockers]({{ 'blockers/' | relative_url }}) fit their own definition of distraction, their daily routine, and the situations in which attention breaks down. A tool that works brilliantly for one person can fail completely for another because the underlying behaviour pattern is different. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_distraction_pattern_a68713-Illustration-1-dark.svg" | relative_url }}" alt="Fit Patterns illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_distraction_pattern_a68713-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_distraction_pattern_a68713-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because distraction is not a single habit. Some people open social media automatically without thinking. Others use entertainment to avoid difficult work. Some lose sleep because of late-night scrolling, while others get pulled into messaging apps throughout the day. Matching the blocker to the failure pattern creates targeted friction at the right moment instead of imposing a blanket ban that is constantly fought, bypassed, or abandoned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/361246406_The_Goldilocks_Level_of_Support_Using_User_Reviews_Ratings_and_Installation_Numbers_to_Investigate_Digital_Self-Control_Tools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The Goldilocks Level of Support: Using User Reviews...To help users reduce distractions, many digital self-control tools (DS...</span></span></span>
 
@@ -286,8 +285,7 @@ The practical question is therefore not, “Which app should I block?” but “
 
 Different distraction patterns call for different forms of friction.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FRt3VvkKSCU" title="I Dumb-i-fied My iPhone to Kill My Phone Addiction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FRt3VvkKSCU" target="_blank" rel="noopener noreferrer">I Dumb-i-fied My iPhone to Kill My Phone Addiction</a></p><p class="youtube-embed-meta">Channel: Ryan Loofy &middot; Views: 1.5K &middot; Uploaded: December 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FRt3VvkKSCU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FRt3VvkKSCU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kSWgRC8nws4" title="Block EVERY distraction with 5 Apps!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kSWgRC8nws4" target="_blank" rel="noopener noreferrer">Block EVERY distraction with 5 Apps!</a></p><p class="youtube-embed-meta">Channel: Tool Finder &middot; Views: 16.1K &middot; Uploaded: April 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kSWgRC8nws4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kSWgRC8nws4">Open on YouTube</a></p></div></div></div>
 
 ### Autopilot checking
 
@@ -302,7 +300,6 @@ The key insight is that the user does not necessarily want permanent restriction
 Some people are not derailed by long scrolling sessions. Instead, they lose focus through dozens of brief interruptions.
 
 For this pattern, scheduled blocking during work sessions is often more useful than daily [limits]({{ 'limits/' | relative_url }}). The problem is not total screen time but fragmentation of attention. Blocking notifications, messaging services, and quick-check websites during designated focus periods directly targets the source of leakage. Research reviews of digital self-control interventions suggest that environmental changes such as blocking and access restrictions tend to be more effective than awareness alone because they alter the action pathway itself. Wiley Online Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://michael-inzlicht.squarespace.com/s/Self-Control-in-Cyberspace.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michael-inzlicht.squarespace.com">[Michael Inzlicht]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michael-inzlicht.squarespace.com</span><span class="citation-popover-title">Self Control in Cyberspace</span><span class="citation-popover-snippet">DIGITAL SELF-CONTROL TOOLS. To explore how this model may be useful in mapping digital self-control interventions, we...Read mor...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yuJMIs_XSIQ" title="A 5-Step Approach to Ending Your Phone Addiction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yuJMIs_XSIQ" target="_blank" rel="noopener noreferrer">A 5-Step Approach to Ending Your Phone Addiction</a></p><p class="youtube-embed-meta">Channel: Dr. Arthur Brooks &middot; Views: 118.8K &middot; Uploaded: November 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yuJMIs_XSIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yuJMIs_XSIQ">Open on YouTube</a></p></div></div></div>
 
@@ -320,14 +317,12 @@ Late-night phone use follows a different pattern from daytime procrastination. F
 
 Here, timing matters more than app category. Night-time schedules, device lockouts, greyscale displays, and automated shutdown periods are often more appropriate than all-day restrictions. The objective is not productivity but protection of sleep and recovery. Studies of smartphone reduction strategies commonly include interventions such as disabling notifications and modifying phone settings because environmental changes can reduce habitual engagement during vulnerable periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9112639/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central A Nudge-Based Intervention to Reduce Problematic</span><span class="citation-popover-snippet">by JA Olson · 2022 · Cited by 114 — We tested an intervention with ten strategies that nudge users to reduce their smartphone use, for...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_distraction_pattern_a68713-Illustration-2-dark.svg" | relative_url }}" alt="Fit Patterns illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_distraction_pattern_a68713-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_distraction_pattern_a68713-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the same app changes by context
 
 People often assume that if an app is distracting, it should always be blocked. Real behaviour is rarely that simple.
 
 A messaging platform may serve four different functions in the same week:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -344,7 +339,6 @@ This explains why blanket restrictions frequently fail. They treat all interacti
 
 A more effective approach is to identify the specific combination of:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * App.
@@ -359,7 +353,6 @@ That combination is often the real target.
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Social media during a lunch break may be harmless.
@@ -370,8 +363,7 @@ For example:
 
 The app is the same. The behavioural context is not.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kSWgRC8nws4" title="Block EVERY distraction with 5 Apps!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kSWgRC8nws4" target="_blank" rel="noopener noreferrer">Block EVERY distraction with 5 Apps!</a></p><p class="youtube-embed-meta">Channel: Tool Finder &middot; Views: 16.1K &middot; Uploaded: April 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kSWgRC8nws4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kSWgRC8nws4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FRt3VvkKSCU" title="I Dumb-i-fied My iPhone to Kill My Phone Addiction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FRt3VvkKSCU" target="_blank" rel="noopener noreferrer">I Dumb-i-fied My iPhone to Kill My Phone Addiction</a></p><p class="youtube-embed-meta">Channel: Ryan Loofy &middot; Views: 1.5K &middot; Uploaded: December 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FRt3VvkKSCU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FRt3VvkKSCU">Open on YouTube</a></p></div></div></div>
 
 ## Designing escape routes without collapse
 
@@ -382,7 +374,6 @@ Research on digital self-control tools repeatedly identifies a tension between e
 Well-designed escape routes preserve commitment while reducing rebellion.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -397,7 +388,6 @@ Examples include:
 The goal is not to make failure impossible. It is to make impulsive failure less convenient than sticking with the original intention.
 
 The evidence points towards a “Goldilocks” balance: enough friction to interrupt the unwanted habit, but not so much restriction that the system feels hostile. Users consistently rate adaptable, autonomy-supporting tools more highly than systems that rely solely on rigid enforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3A1b26d9f8-8a14-467a-97db-634e583036b5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[ORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">The Goldilocks level of support: using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — The Goldilocks level of support: usi...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_distraction_pattern_a68713-Illustration-3-dark.svg" | relative_url }}" alt="Fit Patterns illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_distraction_pattern_a68713-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_distraction_pattern_a68713-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fit patterns, not apps
@@ -525,15 +515,15 @@ The practical lesson is simple: identify the recurring failure pattern first, th
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bullet Journal tarot cheat sheet To do List Dot Grid Pages Habit Tracker Inve..."><img src="https://i.ebayimg.com/images/g/~ckAAOSwBrNlRQW8/s-l225.jpg" alt="Listing image for Bullet Journal tarot cheat sheet To do List Dot Grid Pages Habit Tracker Inve..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Efficana Magnetic Productivity Digital Kitchen Timer Clock Rotary Timer Home"><img src="https://i.ebayimg.com/images/g/BUoAAeSw4q9paAxe/s-l225.jpg" alt="Listing image for Efficana Magnetic Productivity Digital Kitchen Timer Clock Rotary Timer Home" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Bullet Journal tarot cheat sheet To do List Dot Grid Pages Habit Tracker Inve...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" target="_blank" rel="sponsored noopener noreferrer">Efficana Magnetic Productivity Digital Kitchen Timer Clock Rotary Timer Home</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +531,15 @@ The practical lesson is simple: identify the recurring failure pattern first, th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 234 Weekly Habit Tracker Planner Stickers, Daily Routine Journal Stickers"><img src="https://i.ebayimg.com/images/g/2WYAAOSwGQpiKx5r/s-l225.jpg" alt="Listing image for 234 Weekly Habit Tracker Planner Stickers, Daily Routine Journal Stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Cube Pomodoro Timer Productivity Timer kitchen Timer Desk Timer"><img src="https://i.ebayimg.com/images/g/BdgAAeSwAStpTlnl/s-l225.jpg" alt="Listing image for Digital Cube Pomodoro Timer Productivity Timer kitchen Timer Desk Timer" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">234 Weekly Habit Tracker Planner Stickers, Daily Routine Journal Stickers</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" target="_blank" rel="sponsored noopener noreferrer">Digital Cube Pomodoro Timer Productivity Timer kitchen Timer Desk Timer</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,15 +547,15 @@ The practical lesson is simple: identify the recurring failure pattern first, th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 648 Habit Tracker Planner Stickers, Daily Routine Organiser Journal Stickers"><img src="https://i.ebayimg.com/images/g/DUMAAOSwaxtiMhRe/s-l225.jpg" alt="Listing image for 648 Habit Tracker Planner Stickers, Daily Routine Organiser Journal Stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Upgraded Magnetic Digital Kitchen &amp; Productivity Timer with Large LED Display, V"><img src="https://i.ebayimg.com/images/g/ExYAAeSwRihplekE/s-l225.jpg" alt="Listing image for Upgraded Magnetic Digital Kitchen &amp; Productivity Timer with Large LED Display, V" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">648 Habit Tracker Planner Stickers, Daily Routine Organiser Journal Stickers</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" target="_blank" rel="sponsored noopener noreferrer">Upgraded Magnetic Digital Kitchen &amp; Productivity Timer with Large LED Display, V</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,15 +563,15 @@ The practical lesson is simple: identify the recurring failure pattern first, th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="https://i.ebayimg.com/images/g/RVoAAOSwSo9lDgFu/s-l225.jpg" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rechargeable Pomodoro Timer Countdown Timer Productivity Rotating Cube Timer"><img src="https://i.ebayimg.com/images/g/PVwAAeSwnj9qKr77/s-l225.jpg" alt="Listing image for Rechargeable Pomodoro Timer Countdown Timer Productivity Rotating Cube Timer" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" target="_blank" rel="sponsored noopener noreferrer">Rechargeable Pomodoro Timer Countdown Timer Productivity Rotating Cube Timer</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity timer</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -589,7 +579,7 @@ The practical lesson is simple: identify the recurring failure pattern first, th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-blocker-has-to-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-blocker-has-to-fit-the-habit-productivity-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity timer" data-ebay-reference="the-blocker-has-to-fit-the-habit-productivity-timer" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -799,6 +789,7 @@ The practical lesson is simple: identify the recurring failure pattern first, th
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

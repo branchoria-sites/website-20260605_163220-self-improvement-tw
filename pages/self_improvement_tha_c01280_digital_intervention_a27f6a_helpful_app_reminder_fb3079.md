@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /digital-tools/
 nav_short_title: Reminders
 title: Why some reminders help and others nag
-title_full: Why some reminders help and others nag | Digital Tools
+title_full: Why some reminders help and others nag
 display_title_short: Reminders
 display_title: Reminders
 heading_title: Why some reminders help and others nag
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 16:11:15'
-parent_title: What Makes a Self Improvement App Useful? | Better Change
+parent_title: What Makes a Self Improvement App Useful?
 parent_permalink: /digital-tools/
 parent_nav_short_title: Digital Tools
 parent_heading_title: What Makes a Self Improvement App Useful?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_he
 
 Most reminders fail for a simple reason: they assume forgetting is the problem. In many real-world situations, people already remember what they intend to do. The obstacle is lack of time, [low energy]({{ 'low-energy/' | relative_url }}), stress, pain, competing priorities, or the fact that the suggested action is inconvenient at that moment. A reminder that arrives when action is feasible can help bridge the gap between intention and behaviour. A reminder that arrives when action is impossible often feels like nagging.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-1-dark.svg" | relative_url }}" alt="Reminders illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on digital behaviour-change interventions consistently finds that prompts and cues can [support]({{ 'support/' | relative_url }}) action, but their effectiveness depends heavily on timing, context and the user's ability to act. The most useful reminders do not merely repeat instructions. They increase the chances that a person can do something useful right now. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Forget big change, start with a tiny habit: BJ Fogg at TEDx Fremont</span><span class="citation-popover-snippet">TINY HABITS by BJ Fogg &#124; Core Message...</span></span></span>
 
@@ -287,7 +286,6 @@ A reminder is best understood as a cue rather than a motivational speech. Its jo
 Behaviour scientist BJ Fogg's Behaviour Model argues that behaviour occurs when [motivation]({{ 'motivation/' | relative_url }}), ability and a prompt converge at the same time. If the prompt arrives but the person lacks the ability to act, the behaviour is unlikely to happen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Forget big change, start with a tiny habit: BJ Fogg at TEDx Fremont</span><span class="citation-popover-snippet">TINY HABITS by BJ Fogg &#124; Core Message...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span>
 
 This helps explain why some app reminders feel surprisingly useful:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -322,7 +320,6 @@ The practical lesson is that reminders are poor solutions for barriers involving
 
 This insight is reflected in behaviour-design frameworks that emphasise ability and simplicity alongside prompting. When behaviour does not occur, the missing ingredient is often feasibility rather than motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Forget big change, start with a tiny habit: BJ Fogg at TEDx Fremont</span><span class="citation-popover-snippet">TINY HABITS by BJ Fogg &#124; Core Message...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Fogg Behavior ModelMotivation: The desire to perform the behavior, driven by factors such as pleasure/pain, hope/fear, and social accepta...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oRkKWPqEkYU" title="How Simplicity Changes Behavior -- BJ Fogg&#x27;s Behavior Model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oRkKWPqEkYU" target="_blank" rel="noopener noreferrer">How Simplicity Changes Behavior -- BJ Fogg&#x27;s Behavior Model</a></p><p class="youtube-embed-meta">Channel: Dr. BJ Fogg &middot; Views: 8.9K &middot; Uploaded: November 2020 &middot; Length: 1 minute 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oRkKWPqEkYU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oRkKWPqEkYU">Open on YouTube</a></p></div></div></div>
 
 ## Designing prompts around feasible actions
@@ -339,7 +336,6 @@ A notification saying "Improve your fitness" is vague. A notification saying "Ta
 
 The smaller the required action, the less the reminder depends on high motivation. This aligns with behaviour-design research showing that making an action easier often produces more reliable results than attempting to increase motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=k-TCLz37IPE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The Fogg Behavior Model: How to Turn Learning into ActionFog argues that making a behavior easier is often more efficient than try...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-2-dark.svg" | relative_url }}" alt="Reminders illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Match the reminder to context
 
@@ -348,7 +344,6 @@ A reminder is more useful when it reflects current circumstances.
 Researchers describe this approach as a Just-In-Time Adaptive Intervention ([JITAI]({{ 'jitai/' | relative_url }})): support delivered at the right moment, based on changing conditions rather than a fixed schedule. Instead of sending the same notification every day, a system adapts according to location, activity patterns, time availability or behavioural risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10337295/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">How Notifications Affect Engagement With a Behavior Change...by L Bell · 2023 · Cited by 38 — Push notifications (reminders or pop-up...</span></span></span>
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -360,7 +355,6 @@ Examples include:
 </div>
 
 The key idea is responsiveness. The reminder is triggered by opportunity rather than merely by the clock.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iQLhihcfBSY" title="Just-In-Time Adaptive Interventions (JITAI) in mHealth | DIGIT-MI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iQLhihcfBSY" target="_blank" rel="noopener noreferrer">Just-In-Time Adaptive Interventions (JITAI) in mHealth | DIGIT-MI</a></p><p class="youtube-embed-meta">Channel: Eisenberg Family Depression Center &middot; Views: 710 &middot; Uploaded: December 2023 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iQLhihcfBSY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iQLhihcfBSY">Open on YouTube</a></p></div></div></div>
 
@@ -378,7 +372,6 @@ Many apps repeatedly send the same notification after it is ignored. A more help
 
 If reminders are consistently dismissed, the system can:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Change timing.
@@ -391,7 +384,6 @@ If reminders are consistently dismissed, the system can:
 
 Adaptive reminder systems using machine learning and reinforcement learning have been explored specifically to identify moments when users are more likely to respond. Early studies suggest that timing can be improved by learning from behavioural patterns rather than relying on fixed schedules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edepot.wur.nl/549193" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edepot.wur.nl">[eDepot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edepot.wur.nl</span><span class="citation-popover-title">e Depot Reinforcement Learning to Send Reminders at Right Moments</span><span class="citation-popover-snippet">Reinforcement Learning to Send Reminders at Right Moments...June 4, 2021 — by S Wang · 2021 · Cited by 36 — In our study, a smartp...</span><span class="citation-popover-meta">Published: June 4, 2021</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-3-dark.svg" | relative_url }}" alt="Reminders illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_helpful_app_reminder_fb3079-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the best reminders often disappear
 
@@ -400,7 +392,6 @@ One sign that a reminder is working is that it eventually becomes less necessary
 Habit-formation research suggests that behaviours become more automatic when they are repeatedly linked to [stable cues]({{ 'stable-cues/' | relative_url }}) in daily life. The long-term goal is often not permanent dependence on notifications but transferring control to natural routines and environmental triggers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://usabilitypanda.com/publications/StawarzCoxBlandford2015-habit-apps.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usabilitypanda.com">[usabilitypanda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usabilitypanda.com</span><span class="citation-popover-snippet">4-weeN study exploring the impact of different types of cues and positive reinforcement on the development...</span></span></span>
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -412,7 +403,6 @@ For example:
 </div>
 
 In these cases, the app reminder acts as temporary scaffolding. Once the behaviour becomes reliably attached to an existing routine, the notification can often be reduced or removed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jsbF9z6adAo" title="Fogg behavior model in 2 minutes and 30 seconds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jsbF9z6adAo" target="_blank" rel="noopener noreferrer">Fogg behavior model in 2 minutes and 30 seconds</a></p><p class="youtube-embed-meta">Channel: Kris Skrinak &middot; Views: 78.3K &middot; Uploaded: March 2015 &middot; Length: 2 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jsbF9z6adAo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jsbF9z6adAo">Open on YouTube</a></p></div></div></div>
 

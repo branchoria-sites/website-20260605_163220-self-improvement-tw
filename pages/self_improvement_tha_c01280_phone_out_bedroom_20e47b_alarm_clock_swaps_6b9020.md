@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /bedroom-phone/
 nav_short_title: Alarm Swaps
 title: The Alarm Excuse Is Solvable
-title_full: The Alarm Excuse Is Solvable | Bedroom Phone
+title_full: The Alarm Excuse Is Solvable
 display_title_short: Alarm Swaps
 display_title: Alarm Swaps
 heading_title: The Alarm Excuse Is Solvable
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:15:35'
-parent_title: Why the Phone Belongs Outside the Bedroom | Better Change
+parent_title: Why the Phone Belongs Outside the Bedroom
 parent_permalink: /bedroom-phone/
 parent_nav_short_title: Bedroom Phone
 parent_heading_title: Why the Phone Belongs Outside the Bedroom
@@ -270,14 +270,12 @@ image: /assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_alarm
 
 One of the strongest reasons people give for keeping a phone beside the bed is simple: “It’s my alarm clock.” In practice, that is usually a product problem, not a sleep problem. A separate alarm removes the most common excuse for keeping an internet-connected device within arm’s reach all night.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_alarm_clock_swaps_6b9020-Illustration-1-dark.svg" | relative_url }}" alt="Alarm Swaps illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_alarm_clock_swaps_6b9020-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_alarm_clock_swaps_6b9020-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For a phone-free bedroom, the goal is not to buy the most advanced alarm clock available. It is to find the least distracting device that reliably wakes you up. A good replacement should help you sleep, wake, and then disappear into the background. It should not become a new source of light, notifications, apps, or late-night tinkering. Sleep organisations and NHS guidance consistently recommend reducing bedroom technology, avoiding screens before bed, and keeping devices that encourage clock-watching or stimulation out of the sleep [environment]({{ 'environment/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhsinform.scot/mind-to-mind/sleeping-better/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhsinform.scot">[NHS inform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhsinform.scot</span><span class="citation-popover-snippet">NHS informSleeping betterAvoid having phones, computers or TVs in the bedroom, as they can be a distraction and deprive you of sleep. Vid...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whittington.nhs.uk/default.asp?c=46665&amp;print=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whittington.nhs.uk">[Whittington NHS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whittington.nhs.uk</span><span class="citation-popover-snippet">Improving Sleep (print version)10 Sept 2025 — Try to switch off screens 1 to 2 hours before bedtime and take screens out o...</span></span></span>
 
 ## The Alarm Excuse Is Solvable
 
 Once the phone leaves the bedroom, three concerns usually appear:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -291,8 +289,7 @@ Dedicated alarm clocks already solve all three.
 
 The key advantage is not that an alarm clock is magical. It is that a purpose-built device does one job. A smartphone brings messages, social media, news, work, entertainment, and an infinite number of reasons to stay awake. Sleep specialists frequently recommend replacing the phone alarm with a standalone alarm for exactly this reason. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-title">technology in the bedroom</span><span class="citation-popover-snippet">Sleep FoundationTechnology in the Bedroom11 Jul 2025 — Use a basic alarm clock: If you use your phone as an alarm, a basic alarm clock ca...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.realsimple.com/manual-alarm-clocks-vs-phone-11874808" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: realsimple.com">[Real Simple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">realsimple.com</span><span class="citation-popover-snippet">It explains that smartphones, often used right before bed and upon waking, emit blue light and constant notifications that overstimulate...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kfvFSkette4" title="Hatch Restore 3 Sunrise Alarm Clock Review - My Experience Using It!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kfvFSkette4" target="_blank" rel="noopener noreferrer">Hatch Restore 3 Sunrise Alarm Clock Review - My Experience Using It!</a></p><p class="youtube-embed-meta">Channel: Sleepopolis &middot; Views: 4.4K &middot; Uploaded: March 2026 &middot; Length: 4 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kfvFSkette4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kfvFSkette4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xhwujFMRGuc" title="Testing the Philips SmartSleep Sunrise Alarm Clocks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xhwujFMRGuc" target="_blank" rel="noopener noreferrer">Testing the Philips SmartSleep Sunrise Alarm Clocks</a></p><p class="youtube-embed-meta">Channel: Optimize Your Biology &middot; Views: 62.1K &middot; Uploaded: February 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xhwujFMRGuc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xhwujFMRGuc">Open on YouTube</a></p></div></div></div>
 
 ## Basic, Sunrise, Vibrating and Low-Light Alarms
 
@@ -301,7 +298,6 @@ Different sleepers need different solutions. Choosing the right category matters
 ### Basic Alarm Clocks
 
 For many people, the best option is a simple alarm clock with: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthline.com/health/sunrise-alarm-clock-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthline.com">[healthline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthline.com</span><span class="citation-popover-title">sunrise alarm clock review</span><span class="citation-popover-snippet">It concluded that they may help, but the effects weren&#x27;t overwhelming. Researchers have found...Read more...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -316,7 +312,6 @@ The strength of a basic alarm is its lack of temptation. There are no notificati
 
 A useful detail is display control. Bright clocks can act like miniature night lights. Many modern alarms allow the display to dim significantly or switch off completely until needed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oyjozITm4Ws" title="RECLAIM YOUR MORNINGS: Get your time back!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oyjozITm4Ws" target="_blank" rel="noopener noreferrer">RECLAIM YOUR MORNINGS: Get your time back!</a></p><p class="youtube-embed-meta">Channel: Clean My Space &middot; Views: 11.8K &middot; Uploaded: July 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oyjozITm4Ws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oyjozITm4Ws">Open on YouTube</a></p></div></div></div>
 
 ### Sunrise Alarms
@@ -326,7 +321,6 @@ Sunrise alarms gradually increase light before the wake-up time, attempting to m
 Research on dawn simulation and wake-up lights is mixed but generally encouraging. Studies and sleep specialists suggest that gradual light exposure can improve morning alertness and reduce the feeling of being abruptly jolted awake, although effects vary between individuals. They appear particularly helpful during dark winter mornings or for people who struggle with waking in darkness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allure.com/story/best-sunrise-alarm-clocks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allure.com">[Allure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allure.com</span><span class="citation-popover-snippet">These clocks can be highly beneficial, particularly during the darker winter months when natural light is scarce. When selecting a sunris...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://guysandstthomasspecialistcare.co.uk/news/light-therapy-and-sleep/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guysandstthomasspecialistcare.co.uk">[Guy&#x27;s and St Thomas&#x27; Specialist Care]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guysandstthomasspecialistcare.co.uk</span><span class="citation-popover-snippet">Guy&#x27;s and St Thomas&#x27; Specialist CareLight therapy and sleepIt is thought that by imitating a natural process, sunrise alarm clocks may he...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepreviewmag.com/sleep-treatments/therapy-devices/light-therapy/light-dawn-simulation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepreviewmag.com">[Sleep Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepreviewmag.com</span><span class="citation-popover-snippet">Sleep ReviewShedding Light on Dawn Simulationby C Care — Dawn simulators expose sleepers to a slowly increasing intensity of light for 30...</span></span></span>
 
 A sunrise alarm is most useful when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthline.com/health/sunrise-alarm-clock-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthline.com">[healthline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthline.com</span><span class="citation-popover-title">sunrise alarm clock review</span><span class="citation-popover-snippet">It concluded that they may help, but the effects weren&#x27;t overwhelming. Researchers have found...Read more...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -348,14 +342,12 @@ Research examining alarm technologies for deaf and hard-of-hearing sleepers foun
 
 For some households, a vibrating alarm also reduces the chance of waking a partner with a loud audible alarm.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_alarm_clock_swaps_6b9020-Illustration-2-dark.svg" | relative_url }}" alt="Alarm Swaps illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_alarm_clock_swaps_6b9020-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_alarm_clock_swaps_6b9020-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Low-Light Alarms
 
 Many people replace the phone but accidentally introduce another problem: a bright digital clock glowing across the room.
 
 Low-light alarms prioritise darkness by offering:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -376,7 +368,6 @@ Sleep clinics and NHS sleep guidance frequently advise people not to watch the c
 
 A practical setup is surprisingly simple:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Place the alarm across the room.
@@ -390,8 +381,7 @@ This preserves the alarm function while removing the habit of repeatedly monitor
 
 Many people discover that they rarely need to know the exact time at 2 a.m. What they actually need is confidence that the alarm is set.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xhwujFMRGuc" title="Testing the Philips SmartSleep Sunrise Alarm Clocks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xhwujFMRGuc" target="_blank" rel="noopener noreferrer">Testing the Philips SmartSleep Sunrise Alarm Clocks</a></p><p class="youtube-embed-meta">Channel: Optimize Your Biology &middot; Views: 62.1K &middot; Uploaded: February 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xhwujFMRGuc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xhwujFMRGuc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iV9K54TE9qk" title="A Magic Alarm Clock That Stops Your Bedroom Doom Scrolling? (He Invented That Product)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iV9K54TE9qk" target="_blank" rel="noopener noreferrer">A Magic Alarm Clock That Stops Your Bedroom Doom Scrolling? (He Invented That Product)</a></p><p class="youtube-embed-meta">Channel: Shopify Masters &middot; Views: 1.3K &middot; Uploaded: April 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iV9K54TE9qk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iV9K54TE9qk">Open on YouTube</a></p></div></div></div>
 
 ## Choosing an Alarm That Does Not Become a New Distraction
 
@@ -412,7 +402,6 @@ A permanently bright clock face can become a source of distraction. Look for dim
 An alarm should not become a new hobby. If it offers news feeds, notifications, social features, voice assistants, or extensive screen-based controls, it may recreate many of the same problems the phone introduced.
 
 The best replacement is usually the one that fades into the background after setup.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_alarm_clock_swaps_6b9020-Illustration-3-dark.svg" | relative_url }}" alt="Alarm Swaps illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_alarm_clock_swaps_6b9020-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_alarm_clock_swaps_6b9020-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Matching the Alarm to the Sleeper
@@ -556,11 +545,11 @@ The important shift is behavioural rather than technological. Once the phone no 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AFEXOA Sunrise Alarm Clock with Wake Up Light, White Noise Machine"><img src="https://i.ebayimg.com/images/g/vxIAAeSw5vBqBeNj/s-l225.jpg" alt="Listing image for AFEXOA Sunrise Alarm Clock with Wake Up Light, White Noise Machine" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Bodyclock Starter 30 Wake Up Light Alarm Clock With Sunrise/Sunset Feature"><img src="https://i.ebayimg.com/images/g/xHYAAeSw6LhqKm4c/s-l225.jpg" alt="Listing image for Lumie Bodyclock Starter 30 Wake Up Light Alarm Clock With Sunrise/Sunset Feature" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">AFEXOA Sunrise Alarm Clock with Wake Up Light, White Noise Machine</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Bodyclock Starter 30 Wake Up Light Alarm Clock With Sunrise/Sunset Feature</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
         <div class="fr-book-actions">
@@ -572,11 +561,11 @@ The important shift is behavioural rather than technological. Once the phone no 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Sunrise Alarm Sunrise Wake-up Alarm, Sunset Sleep Feature, Sounds &amp; Mood"><img src="https://i.ebayimg.com/images/g/GuUAAeSwQdhp6hlK/s-l225.jpg" alt="Listing image for Lumie Sunrise Alarm Sunrise Wake-up Alarm, Sunset Sleep Feature, Sounds &amp; Mood" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night"><img src="https://i.ebayimg.com/images/g/-LMAAeSwUEFqJS65/s-l225.jpg" alt="Listing image for Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Sunrise Alarm Sunrise Wake-up Alarm, Sunset Sleep Feature, Sounds &amp; Mood</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
         <div class="fr-book-actions">
@@ -588,11 +577,11 @@ The important shift is behavioural rather than technological. Once the phone no 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KEPLUG Sunrise Alarm Clock Wake Up Light, Digital Alarm Clocks Bedside Dimmable"><img src="https://i.ebayimg.com/images/g/75UAAeSwp25pooPG/s-l225.jpg" alt="Listing image for KEPLUG Sunrise Alarm Clock Wake Up Light, Digital Alarm Clocks Bedside Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Sunrise Alarm Wake Up Light Digital Clock Alarm/Snooze, White Plastic"><img src="https://i.ebayimg.com/images/g/u90AAeSwvIJqKWW7/s-l225.jpg" alt="Listing image for Lumie Sunrise Alarm Wake Up Light Digital Clock Alarm/Snooze, White Plastic" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">KEPLUG Sunrise Alarm Clock Wake Up Light, Digital Alarm Clocks Bedside Dimmable</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Sunrise Alarm Wake Up Light Digital Clock Alarm/Snooze, White Plastic</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
         <div class="fr-book-actions">
@@ -814,6 +803,7 @@ The important shift is behavioural rather than technological. Once the phone no 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -926,4 +916,4 @@ The important shift is behavioural rather than technological. Once the phone no 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Hatch Restore 3 Sunrise Alarm Clock Review  
-   Link: <a href="https://www.youtube.com/watch?v=kfvFSkette4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kfvFSkette4</a>  
+   Link: <a href="https://www.youtube.com/watch?v=kfvFSkette4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kfvFSkette4</a>

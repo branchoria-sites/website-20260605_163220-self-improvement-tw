@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /willpower/
 nav_short_title: Habit Repetition
 title: Let Repetition Carry the Habit
-title_full: Let Repetition Carry the Habit | Willpower
+title_full: Let Repetition Carry the Habit
 display_title_short: Habit Repetition
 display_title: Habit Repetition
 heading_title: Let Repetition Carry the Habit
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 07:59:50'
-parent_title: Why Willpower Should Be Your Backup Plan | Better Change
+parent_title: Why Willpower Should Be Your Backup Plan
 parent_permalink: /willpower/
 parent_nav_short_title: Willpower
 parent_heading_title: Why Willpower Should Be Your Backup Plan
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_
 
 The central idea behind habit formation is simple: if a useful behaviour depends on feeling motivated every time, it is fragile. If the behaviour becomes a habit, repetition carries more of the workload. In the context of [self improvement]({{ 'self-improvement-that-works/' | relative_url }}), this is one of the most practical ways to treat [willpower]({{ 'willpower/' | relative_url }}) as a backup rather than an engine. Instead of repeatedly deciding whether to act, you create conditions in which the action becomes the normal response to a familiar situation.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-1-dark.svg" | relative_url }}" alt="Habit Repetition illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on habit formation consistently finds that habits develop when behaviours are repeated in stable contexts. Over time, cues in the [environment]({{ 'environment/' | relative_url }}) become linked to specific actions, reducing the need for conscious deliberation. The goal is not to eliminate choice entirely but to reduce the number of moments that require [motivation]({{ 'motivation/' | relative_url }}), negotiation or self-control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 875 — Decades of psychological resea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1867 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
 
@@ -285,7 +284,6 @@ Research on habit formation consistently finds that habits develop when behaviou
 Many people imagine habits as behaviours repeated so often that they become effortless through sheer practice. Repetition matters, but the mechanism is more specific than that. Habits form when repetition occurs in a consistent context.
 
 A context cue can be almost anything:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -318,7 +316,6 @@ Habit researchers often distinguish between performing a behaviour frequently an
 
 That shift is important because automatic behaviours place fewer demands on attention and self-control. The behaviour does not become effortless in every respect, but getting started requires less mental friction.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/krm3Mv77Olw" title="How to Pronounce Philippa? (CORRECTLY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=krm3Mv77Olw" target="_blank" rel="noopener noreferrer">How to Pronounce Philippa? (CORRECTLY)</a></p><p class="youtube-embed-meta">Channel: Julien Miquel &middot; Views: 24.1K &middot; Uploaded: May 2021 &middot; Length: 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=krm3Mv77Olw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=krm3Mv77Olw">Open on YouTube</a></p></div></div></div>
 
 ## Why Timelines Vary Between Habits
@@ -341,7 +338,6 @@ Several factors influence how quickly repetition becomes automatic:
 
 Importantly, missing a single repetition does not appear to erase progress. The habit-building process is generally more resilient than many people assume. What matters most is returning to the pattern rather than interpreting an interruption as failure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3636 — The aim of the present...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-2-dark.svg" | relative_url }}" alt="Habit Repetition illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Some Habits Feel Stuck
 
@@ -357,7 +353,6 @@ The most effective habit-building strategies often look surprisingly modest. The
 
 A repeatable routine typically has three characteristics:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FoAODalKhv8" title="The secret habits that control your life | Wendy Wood" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FoAODalKhv8" target="_blank" rel="noopener noreferrer">The secret habits that control your life | Wendy Wood</a></p><p class="youtube-embed-meta">Channel: The Well &middot; Views: 33.7K &middot; Uploaded: May 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FoAODalKhv8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FoAODalKhv8">Open on YouTube</a></p></div></div></div>
 
 ### Start With a Small Action
@@ -365,7 +360,6 @@ A repeatable routine typically has three characteristics:
 Smaller actions create more consistent repetition.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -383,7 +377,6 @@ One of the most reliable approaches is to place a new behaviour immediately afte
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * After brushing teeth, floss one tooth.
@@ -395,14 +388,12 @@ Examples include:
 
 This approach works because the existing routine supplies a stable cue. Recent discussions of habit-stacking build on this principle: the old habit acts as an anchor for the new one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Popularized by authors BJ Fogg and James Clear, and widely used by behavioral therapists, habit-stacking involves &quot;stacking&quot; small, speci...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-3-dark.svg" | relative_url }}" alt="Habit Repetition illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reduce Friction Before It Appears
 
 Habit formation is easier when the desired action is the easiest available option.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -425,9 +416,7 @@ This does not mean habits eliminate the need for willpower. Difficult days still
 
 That transfer is precisely why habits fit the broader principle that self improvement works best when willpower serves as a backup system. The more useful behaviour can be tied to [stable cues]({{ 'stable-cues/' | relative_url }}) and repeated under consistent conditions, the less progress depends on winning the same motivational argument over and over again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 875 — Decades of psychological resea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1867 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i4-CnaZllMo" title="Introduction to Good Habits, Bad Habits with Wendy Wood" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i4-CnaZllMo" target="_blank" rel="noopener noreferrer">Introduction to Good Habits, Bad Habits with Wendy Wood</a></p><p class="youtube-embed-meta">Channel: The Next Big Idea Podcast &middot; Views: 4.8K &middot; Uploaded: February 2022 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i4-CnaZllMo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i4-CnaZllMo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -546,15 +535,15 @@ That transfer is precisely why habits fit the broader principle that self improv
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manifestation Journal &amp; Vision Board Kit Guided Journal | Goal Planner &amp; Habi..."><img src="https://i.ebayimg.com/images/g/SJ4AAeSw47FpzkhF/s-l225.jpg" alt="Listing image for Manifestation Journal &amp; Vision Board Kit Guided Journal | Goal Planner &amp; Habi..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pavlok 3 Silent Alarm Wearable Habit Tracker Device"><img src="https://i.ebayimg.com/images/g/n4wAAeSwQIJqJ9bn/s-l225.jpg" alt="Listing image for Pavlok 3 Silent Alarm Wearable Habit Tracker Device" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Manifestation Journal &amp; Vision Board Kit Guided Journal | Goal Planner &amp; Habi...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer">Pavlok 3 Silent Alarm Wearable Habit Tracker Device</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker device">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker device</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,47 +551,15 @@ That transfer is precisely why habits fit the broader principle that self improv
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar and planner with notebook - Inspirational Habit Journa..."><img src="https://i.ebayimg.com/images/g/h4MAAeSwxUdo9LM3/s-l225.jpg" alt="Listing image for Habit Tracker Calendar and planner with notebook - Inspirational Habit Journa..." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15.6&#x27;&#x27; Touch Screen Digital Calendar &amp; Planner for Modern Family Organization"><img src="https://i.ebayimg.com/images/g/CSgAAeSwIKhqJd~8/s-l225.jpg" alt="Listing image for 15.6&#x27;&#x27; Touch Screen Digital Calendar &amp; Planner for Modern Family Organization" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar and planner with notebook - Inspirational Habit Journa...</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer">15.6&#x27;&#x27; Touch Screen Digital Calendar &amp; Planner for Modern Family Organization</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker device">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker device</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mood Journal Journal Track Your Feelings &amp; Identify Patterns NEW"><img src="https://i.ebayimg.com/images/g/DcUAAeSwXWdpC4my/s-l225.jpg" alt="Listing image for Mood Journal Journal Track Your Feelings &amp; Identify Patterns NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Mood Journal Journal Track Your Feelings &amp; Identify Patterns NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Law of Attraction Planner 2025 – Undated Hourly, Weekly &amp; Monthly Goal Settin..."><img src="https://i.ebayimg.com/images/g/2PYAAeSwdvZodXQF/s-l225.jpg" alt="Listing image for Law of Attraction Planner 2025 – Undated Hourly, Weekly &amp; Monthly Goal Settin..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Law of Attraction Planner 2025 – Undated Hourly, Weekly &amp; Monthly Goal Settin...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -610,7 +567,7 @@ That transfer is precisely why habits fit the broader principle that self improv
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -820,6 +777,7 @@ That transfer is precisely why habits fit the broader principle that self improv
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /weekly-review/
 nav_short_title: Fallback Habit
 title: The Version That Survives a Bad Week
-title_full: The Version That Survives a Bad Week | Weekly Review
+title_full: The Version That Survives a Bad Week
 display_title_short: Fallback Habit
 display_title: Fallback Habit
 heading_title: The Version That Survives a Bad Week
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:19:44'
-parent_title: The Weekly Review That Fixes the Plan | Better Change
+parent_title: The Weekly Review That Fixes the Plan
 parent_permalink: /weekly-review/
 parent_nav_short_title: Weekly Review
 parent_heading_title: The Weekly Review That Fixes the Plan
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_minimum_
 
 A [weekly review]({{ 'weekly-review/' | relative_url }}) is supposed to improve behaviour in the week you are actually going to live, not the ideal week you imagined on Sunday. That is why effective self-improvement needs a fallback version of important habits. A minimum viable habit is the smallest version of a behaviour that still counts, still reinforces the identity behind the habit, and still keeps the routine alive during travel, deadlines, illness, family demands, or periods of [low energy]({{ 'low-energy/' | relative_url }}).
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_minimum_viable_habit_cc4239-Illustration-1-dark.svg" | relative_url }}" alt="Fallback Habit illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_minimum_viable_habit_cc4239-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_minimum_viable_habit_cc4239-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The purpose is not to lower standards permanently. It is to prevent an all-or-nothing pattern in which one difficult week becomes two months of inactivity. Research on habit formation and implementation intentions suggests that behaviours are more likely to survive disruption when they are easy to perform, attached to clear cues, and adapted to real-world constraints rather than dependent on [motivation]({{ 'motivation/' | relative_url }}) alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are plans that s...</span></span></span>
 
@@ -302,7 +301,6 @@ The fallback habit exists to preserve continuity, not maximise performance.
 Many habit failures are not caused by laziness. They are caused by planning for an unusually calm week.
 
 A review may reveal patterns such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -330,8 +328,7 @@ The weekly review might produce:
 
 The second plan survives contact with reality more often.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AdKUJxjn-R8" title="Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer">Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.3M &middot; Uploaded: December 2012 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AdKUJxjn-R8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S_8e-6ZHKLs" title="TINY HABITS by BJ Fogg | Core Message" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer">TINY HABITS by BJ Fogg | Core Message</a></p><p class="youtube-embed-meta">Channel: Productivity Game &middot; Views: 121.3K &middot; Uploaded: November 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S_8e-6ZHKLs">Open on YouTube</a></p></div></div></div>
 
 ## How to Choose a Credible Minimum Version
 
@@ -343,7 +340,6 @@ The minimum version should still resemble the behaviour you are trying to become
 
 Examples:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Read one page rather than stopping reading entirely.
@@ -353,7 +349,6 @@ Examples:
 </div>
 
 The behaviour remains recognisably connected to the larger goal.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_minimum_viable_habit_cc4239-Illustration-2-dark.svg" | relative_url }}" alt="Fallback Habit illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_minimum_viable_habit_cc4239-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_minimum_viable_habit_cc4239-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### It is almost impossible to fail
@@ -370,15 +365,13 @@ A useful test is:
 
 If the answer is no, the minimum is still too large.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S_8e-6ZHKLs" title="TINY HABITS by BJ Fogg | Core Message" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer">TINY HABITS by BJ Fogg | Core Message</a></p><p class="youtube-embed-meta">Channel: Productivity Game &middot; Views: 121.3K &middot; Uploaded: November 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S_8e-6ZHKLs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AdKUJxjn-R8" title="Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer">Forget big change, start with a tiny habit: BJ Fogg at TEDxFremont</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.3M &middot; Uploaded: December 2012 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AdKUJxjn-R8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AdKUJxjn-R8">Open on YouTube</a></p></div></div></div>
 
 ### It contains a clear cue
 
 Fallback habits work best when attached to something that already happens.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -400,7 +393,6 @@ The goal of a fallback habit is not immediate improvement. The goal is maintenan
 
 A five-minute workout does little for fitness. But it does something important for habit survival:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The cue remains active.
@@ -414,7 +406,6 @@ Research on habit formation indicates that habits emerge through repeated perfor
 
 From a behaviour-debugging perspective, the critical metric during a difficult week is often not progress but preservation.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_minimum_viable_habit_cc4239-Illustration-3-dark.svg" | relative_url }}" alt="Fallback Habit illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_minimum_viable_habit_cc4239-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_minimum_viable_habit_cc4239-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Using Fallback Rules Without Lowering Standards Forever
 
@@ -423,7 +414,6 @@ The biggest risk is obvious: a fallback habit can become a permanent excuse.
 A weekly review should therefore include explicit rules about when the minimum version is acceptable.
 
 One useful approach is to define fallback conditions in advance:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -442,7 +432,6 @@ Another safeguard is to review how often fallback mode appears. If the minimum v
 The purpose of a fallback habit is resilience, not avoidance.
 
 Implementation-intention research highlights the value of planning responses to obstacles before they occur. The plan should anticipate disruption while still protecting the original goal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1364661324002663" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Leveraging cognitive neuroscience for making and...by EK Buabang · 2025 · Cited by 45 — Both chunking and habit stacking le...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DSnxsTRFeYA" title="2 MINUTE MIRACLE - Atomic Habits: The 2-Minute Rule" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DSnxsTRFeYA" target="_blank" rel="noopener noreferrer">2 MINUTE MIRACLE - Atomic Habits: The 2-Minute Rule</a></p><p class="youtube-embed-meta">Channel: Simple Success Labs &middot; Views: 26 &middot; Uploaded: July 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DSnxsTRFeYA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DSnxsTRFeYA">Open on YouTube</a></p></div></div></div>
 
@@ -938,4 +927,4 @@ The most durable habits are often not the most ambitious. They are the ones with
 
 29. <a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z</a>  
+   Link: <a href="https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z</a>

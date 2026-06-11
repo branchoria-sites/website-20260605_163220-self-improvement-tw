@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /low-energy/
 nav_short_title: Cues
 title: Make the next good action obvious
-title_full: Make the next good action obvious | Low Energy
+title_full: Make the next good action obvious
 display_title_short: Cues
 display_title: Cues
 heading_title: Make the next good action obvious
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:06:54'
-parent_title: Build the Plan for Your Worst Day | Better Change
+parent_title: Build the Plan for Your Worst Day
 parent_permalink: /low-energy/
 parent_nav_short_title: Low Energy
 parent_heading_title: Build the Plan for Your Worst Day
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_environ
 
 On low-energy days, the hardest part of a useful habit is often not the work itself but getting started. Environmental cues reduce that starting friction by making the next good action easier to notice, easier to remember and easier to begin. Instead of relying on [motivation]({{ 'motivation/' | relative_url }}), they use the physical [environment]({{ 'environment/' | relative_url }}) as a prompt: a book left on a pillow, a water bottle already on a desk, walking shoes placed by the door, or a prepared workspace that requires no setup. Research on habit formation shows that stable contextual cues help behaviours become more automatic over time, reducing the need for conscious effort and decision-making. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">They not only support memory but may also help to make the new...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 156 — Understanding the &#x27;shape&#x27; o...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_environmental_cues_e06b07-Illustration-1-dark.svg" | relative_url }}" alt="Cues illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_environmental_cues_e06b07-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_environmental_cues_e06b07-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For a low-energy self-improvement plan, the goal is not to create a perfect environment. It is to make the next useful action obvious enough that tiredness does not immediately derail it.
 
@@ -279,7 +278,6 @@ For a low-energy self-improvement plan, the goal is not to create a perfect envi
 Starting friction is the effort required to begin an action. Decision friction is the mental effort required to decide what action to take. Low-energy days amplify both.
 
 Consider two versions of the same reading habit:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -313,7 +311,6 @@ There is also a memory component. Studies of context-dependent memory show that 
 
 Different environments naturally support different behaviours. The most effective cues are usually those placed exactly where the behaviour should begin.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6F-DnF37n_E" title="How to Actually Start a Habit | James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6F-DnF37n_E" target="_blank" rel="noopener noreferrer">How to Actually Start a Habit | James Clear</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 15.0K &middot; Uploaded: January 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6F-DnF37n_E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6F-DnF37n_E">Open on YouTube</a></p></div></div></div>
 
 ### Bedrooms
@@ -321,7 +318,6 @@ Different environments naturally support different behaviours. The most effectiv
 A bedroom can either encourage passive scrolling or support recovery-focused habits.
 
 Useful examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -340,7 +336,6 @@ Kitchens strongly influence eating and hydration habits because they contain con
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Leaving a filled water bottle on the counter.
@@ -352,14 +347,12 @@ Examples include:
 
 Choice architecture research shows that how options are presented influences behaviour. Small changes in visibility, accessibility and default options can meaningfully affect choices without requiring stronger motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Habit Formation and ChangeAs people repeat behavior in a stable context, their intentions and goals to perform the behavior. gradua...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabChoice ArchitectureThe three main types of choice architecture are defaults, information restructuring, and information f...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">They not only support memory but may also help to make the new...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_environmental_cues_e06b07-Illustration-2-dark.svg" | relative_url }}" alt="Cues illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_environmental_cues_e06b07-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_environmental_cues_e06b07-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Workspaces
 
 Workspaces are particularly vulnerable to friction because productive tasks often require setup.
 
 Useful cues include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -380,7 +373,6 @@ Research examining contextual cues found that people frequently choose cues that
 
 Strong cues tend to have three characteristics:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **They are encountered reliably.** You see them almost every day.
@@ -393,7 +385,6 @@ For example, "exercise more" attached to a vague phone reminder is weaker than p
 
 This principle appears in habit-stacking approaches, where a new behaviour is attached to an existing routine. An established event becomes the cue for the new action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thrivestreetadvisors.com/leadership-library/tiny-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thrivestreetadvisors.com">[Thrive Street Advisors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thrivestreetadvisors.com</span><span class="citation-popover-snippet">Thrive Street AdvisorsTiny HabitsA simple version of the new habit you want, such as flossing one tooth or doing two push-ups. You do the...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T-ufbcvDCyU" title="Stop Relying on Willpower - How to Engineer Your Environment for Success" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T-ufbcvDCyU" target="_blank" rel="noopener noreferrer">Stop Relying on Willpower - How to Engineer Your Environment for Success</a></p><p class="youtube-embed-meta">Channel: BE THANKFUL &middot; Views: 17 &middot; Uploaded: May 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T-ufbcvDCyU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T-ufbcvDCyU">Open on YouTube</a></p></div></div></div>
 
 ## When setup becomes another barrier
@@ -403,7 +394,6 @@ Environmental design can fail when people turn preparation into a project.
 A low-energy plan does not require colour-coded systems, expensive equipment or elaborate organisation. In fact, excessive setup often creates a new layer of friction.
 
 [Warning signs]({{ 'warning-signs/' | relative_url }}) include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -417,7 +407,6 @@ A low-energy plan does not require colour-coded systems, expensive equipment or 
 The strongest environmental cues are usually simple and practical. A visible book is often more useful than a sophisticated reading tracker. A pair of shoes by the door is often more useful than a detailed exercise spreadsheet.
 
 The purpose of the environment is not to impress you. It is to reduce the distance between noticing and doing.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_environmental_cues_e06b07-Illustration-3-dark.svg" | relative_url }}" alt="Cues illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_environmental_cues_e06b07-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e_environmental_cues_e06b07-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Design for the next action, not the entire goal
@@ -434,9 +423,7 @@ This focus aligns with evidence that habits develop through repeated responses t
 
 For low-energy days, that distinction matters. Goals require energy to interpret. Clear environmental cues reduce interpretation and make the next useful action obvious. When motivation fluctuates, that small reduction in friction can be the difference between doing nothing and maintaining momentum.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pAjc5vS7hHI" title="Your Room Is Killing Your Willpower (Environment Design Protocol)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pAjc5vS7hHI" target="_blank" rel="noopener noreferrer">Your Room Is Killing Your Willpower (Environment Design Protocol)</a></p><p class="youtube-embed-meta">Channel: OrderOfBusiness &middot; Views: 12 &middot; Uploaded: February 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pAjc5vS7hHI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pAjc5vS7hHI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

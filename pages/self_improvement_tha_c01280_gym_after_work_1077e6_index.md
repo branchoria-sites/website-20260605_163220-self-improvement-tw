@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-gym-after/
 description: Focused pages that expand on Gym Routine.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: self_improvement_tha_c01280_gym_after_work_1077e6
-parent_title: Gym Routine | Self Improvement That Works
+parent_title: Gym Routine
 parent_nav_short_title: Gym Routine
 parent_permalink: /gym-routine/
 ---

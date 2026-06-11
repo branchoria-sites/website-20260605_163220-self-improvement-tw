@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /motivation/
 nav_short_title: Self Concordance
 title: The goal fit test that predicts persistence
-title_full: The goal fit test that predicts persistence | Motivation
+title_full: The goal fit test that predicts persistence
 display_title_short: Self Concordance
 display_title: Self Concordance
 heading_title: The goal fit test that predicts persistence
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 03:19:50'
-parent_title: Why Chosen Goals Last Longer | Better Change
+parent_title: Why Chosen Goals Last Longer
 parent_permalink: /motivation/
 parent_nav_short_title: Motivation
 parent_heading_title: Why Chosen Goals Last Longer
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self
 
 Many self-improvement goals fail not because they are too ambitious, but because they never truly belonged to the person pursuing them. Research on self-concordance suggests that the fit between a goal and the self is a powerful predictor of whether effort will continue when enthusiasm fades. A self-concordant goal is one that reflects a person's genuine interests, values, and developing [identity]({{ 'identity/' | relative_url }}) rather than external pressure, status competition, guilt, or obligation. Studies consistently find that people invest more sustained effort in such goals, make greater progress, and are more likely to achieve them. The implication is practical: before asking whether a goal is challenging enough, it is worth asking whether it is genuinely yours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4392 — First, those pursuing self-conc...</span></span></span>
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self_concordant_goal_0818a1-Illustration-1-dark.svg" | relative_url }}" alt="Self Concordance illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self_concordant_goal_0818a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self_concordant_goal_0818a1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Goal-Fit Test That Predicts Persistence
 
@@ -312,7 +311,6 @@ A useful everyday test is whether a person can complete the sentence:
 
 The easier that statement is to endorse, the more likely the goal is to be self-concordant.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EMfpbqWkPS8" title="The Real Reason Nothing Feels ENOUGH | Arthur C. Brooks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EMfpbqWkPS8" target="_blank" rel="noopener noreferrer">The Real Reason Nothing Feels ENOUGH | Arthur C. Brooks</a></p><p class="youtube-embed-meta">Channel: John R. Miles &middot; Views: 10.3K &middot; Uploaded: March 2026 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EMfpbqWkPS8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EMfpbqWkPS8">Open on YouTube</a></p></div></div></div>
 
 ## Why Aligned Goals Invite More Sustained Effort
@@ -330,7 +328,6 @@ A writer who genuinely values creative expression may view rejection as part of 
 ### Effort Feels More Voluntary
 
 Self-concordant goals still require discipline, but the discipline feels chosen rather than imposed. This distinction matters because voluntary effort tends to generate less psychological resistance than effort experienced as coercion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Sheldon K. M., Elliot A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. Journal...</span></span></span>
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self_concordant_goal_0818a1-Illustration-2-dark.svg" | relative_url }}" alt="Self Concordance illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self_concordant_goal_0818a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self_concordant_goal_0818a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Motivation Recovers More Easily
@@ -353,7 +350,6 @@ Reviews of the self-concordance literature have generally reached similar conclu
 
 Importantly, this does not mean self-concordant goals guarantee success. Life circumstances, resources, health, and opportunity still matter. The evidence instead suggests that alignment increases the probability that effort will be sustained long enough for success to become possible.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MdwDd9NUITg" title="The Science of Achieving Goals: How to Change Your Life in 5 Simple Steps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MdwDd9NUITg" target="_blank" rel="noopener noreferrer">The Science of Achieving Goals: How to Change Your Life in 5 Simple Steps</a></p><p class="youtube-embed-meta">Channel: Mel Robbins &middot; Views: 204.2K &middot; Uploaded: April 2026 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MdwDd9NUITg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MdwDd9NUITg">Open on YouTube</a></p></div></div></div>
 
 ## Questions That Reveal Borrowed Goals
@@ -361,7 +357,6 @@ Importantly, this does not mean self-concordant goals guarantee success. Life ci
 Many goals are inherited from family expectations, workplace culture, social media, or peer comparison. These goals can produce short-term motivation, but they often struggle to survive difficulty.
 
 The following questions help identify whether a goal may be borrowed rather than self-concordant:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -374,7 +369,6 @@ The following questions help identify whether a goal may be borrowed rather than
 </div>
 
 A revealing sign is when success feels like the end of pressure rather than the fulfilment of a meaningful aspiration. Relief can indicate that the goal was largely driven by obligation.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self_concordant_goal_0818a1-Illustration-3-dark.svg" | relative_url }}" alt="Self Concordance illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self_concordant_goal_0818a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_self_concordant_goal_0818a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Better Alternatives to Borrowed Goals
@@ -393,9 +387,7 @@ Many self-improvement systems focus heavily on planning, tracking, accountabilit
 
 A useful sequence is:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L6SbP0Aimwo" title="Values Aligned Goal Setting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L6SbP0Aimwo" target="_blank" rel="noopener noreferrer">Values Aligned Goal Setting</a></p><p class="youtube-embed-meta">Channel: Athletics Coach &middot; Views: 83 &middot; Uploaded: February 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L6SbP0Aimwo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L6SbP0Aimwo">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -526,15 +518,15 @@ The result is not necessarily greater enthusiasm. It is something more valuable:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set A Goal Never Give Up Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/qu8AAeSwCQFpqXbQ/s-l225.jpg" alt="Listing image for Set A Goal Never Give Up Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/xfgAAeSwe6dopJsu/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Set A Goal Never Give Up Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,15 +534,15 @@ The result is not necessarily greater enthusiasm. It is something more valuable:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Setting Goals Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lZgAAeSwZqVpqXUy/s-l225.jpg" alt="Listing image for Setting Goals Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set A Goal Never Give Up Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/qu8AAeSwCQFpqXbQ/s-l225.jpg" alt="Listing image for Set A Goal Never Give Up Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Setting Goals Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" target="_blank" rel="sponsored noopener noreferrer">Set A Goal Never Give Up Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +550,15 @@ The result is not necessarily greater enthusiasm. It is something more valuable:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/9WEAAeSwIpBopZeg/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goal Setting Quote Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/w78AAeSwDAJpqXSe/s-l225.jpg" alt="Listing image for Goal Setting Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" target="_blank" rel="sponsored noopener noreferrer">Goal Setting Quote Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,15 +566,15 @@ The result is not necessarily greater enthusiasm. It is something more valuable:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goal Setting Quote Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/w78AAeSwDAJpqXSe/s-l225.jpg" alt="Listing image for Goal Setting Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goal Setting Definition Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SkoAAeSwQEBpiOBp/s-l225.jpg" alt="Listing image for Goal Setting Definition Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">Goal Setting Quote Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" target="_blank" rel="sponsored noopener noreferrer">Goal Setting Definition Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal setting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal setting poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -590,7 +582,7 @@ The result is not necessarily greater enthusiasm. It is something more valuable:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting wall art" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+setting+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-goal-fit-test-that-predicts-persistence-goal-setting-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal setting poster" data-ebay-reference="the-goal-fit-test-that-predicts-persistence-goal-setting-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -800,6 +792,7 @@ The result is not necessarily greater enthusiasm. It is something more valuable:
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

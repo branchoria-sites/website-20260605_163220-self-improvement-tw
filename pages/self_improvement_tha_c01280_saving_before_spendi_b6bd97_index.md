@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-saving/
 description: Focused pages that expand on Saving.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: self_improvement_tha_c01280_saving_before_spendi_b6bd97
-parent_title: Saving | Self Improvement That Works
+parent_title: Saving
 parent_nav_short_title: Saving
 parent_permalink: /saving/
 ---

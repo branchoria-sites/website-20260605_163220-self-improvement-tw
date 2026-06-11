@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /missed-days/
 nav_short_title: Restart action
 title: The Tiny Restart That Keeps Habits Alive
-title_full: The Tiny Restart That Keeps Habits Alive | Missed Days
+title_full: The Tiny Restart That Keeps Habits Alive
 display_title_short: Restart action
 display_title: Restart action
 heading_title: The Tiny Restart That Keeps Habits Alive
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 15:58:59'
-parent_title: What to Do After You Miss a Day | Better Change
+parent_title: What to Do After You Miss a Day
 parent_permalink: /missed-days/
 parent_nav_short_title: Missed Days
 parent_heading_title: What to Do After You Miss a Day
@@ -270,7 +270,6 @@ image: /assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_min
 
 When a habit is interrupted, the most effective restart is usually not a full return to the original behaviour. It is a deliberately smaller version that can be completed even when [motivation]({{ 'motivation/' | relative_url }}) is low, time is short, and confidence has taken a hit. The goal is not to make progress on that day. The goal is to restore the pattern.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_minimum_restart_acti_37560a-Illustration-1-dark.svg" | relative_url }}" alt="Restart action illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_minimum_restart_acti_37560a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_minimum_restart_acti_37560a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on habit formation suggests that a single missed opportunity does not significantly damage the development of a habit, but long gaps and repeated misses are more problematic. The critical skill after a lapse is therefore rapid re-entry rather than compensation. A tiny restart action keeps the behaviour connected to its cue, protects the [identity]({{ 'identity/' | relative_url }}) of “someone who still does this”, and reduces the risk that one missed day becomes several. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">UCL NewsAug 4, 2009 — In our study we showed that missing one opportunity did not significantly impact the habit formation process, but...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">With repetition of a behaviour in a consistent...Read more...</span></span></span>
 
@@ -281,7 +280,6 @@ Many people respond to a missed day by planning a stronger comeback. They decide
 Behavioural science points in a different direction. According to the Fogg Behavior Model, behaviour becomes more likely when it is easier to perform. When motivation is uncertain, increasing ability by making the task simpler is often more reliable than trying to increase motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviordesign.stanford.edu">[Behavior Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviordesign.stanford.edu</span><span class="citation-popover-snippet">Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</span></span></span>
 
 A missed day creates three common problems:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +301,6 @@ Habit researchers describe habits as responses that become increasingly automati
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The cue may be finishing breakfast.
@@ -316,7 +313,6 @@ Physically, the two actions are very different. Behaviourally, they serve the sa
 
 This distinction matters because habits are built around recurring situations more than around heroic effort. Studies of habit formation found that missing one opportunity did not materially disrupt the overall habit-building process, suggesting that preserving the pattern over time is more important than achieving perfection every day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">UCL NewsAug 4, 2009 — In our study we showed that missing one opportunity did not significantly impact the habit formation process, but...</span></span></span> ResearchGate A useful way to think about a minimum restart is that it protects the route even when traffic is light. The path from cue to action remains o <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">With repetition of a behaviour in a consistent...Read more...</span></span></span> pen.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S_8e-6ZHKLs" title="TINY HABITS by BJ Fogg | Core Message" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer">TINY HABITS by BJ Fogg | Core Message</a></p><p class="youtube-embed-meta">Channel: Productivity Game &middot; Views: 121.3K &middot; Uploaded: November 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S_8e-6ZHKLs">Open on YouTube</a></p></div></div></div>
 
 ## The Restart Rule: Success Means Showing Up
@@ -328,7 +324,6 @@ On a normal day, success may mean completing the full habit. On a restart day, s
 This principle appears in several practical habit-building approaches. Tiny Habits, for example, emphasises behaviours that are small enough to be performed without relying on high motivation. The emphasis is on maintaining the behaviour pattern first and expanding later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinyhabits.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinyhabits.com</span><span class="citation-popover-snippet">Tiny HabitsTiny Habits: BJ FoggChange your life for good with the Tiny Habits method—where simple changes lead to real, life-changing res...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://brain.health/tiny-habits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brain.health">[Brain Health Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brain.health</span><span class="citation-popover-snippet">NetworkTiny Habits® by BJ FoggThe essence of Tiny Habits is this: Take a behaviour you want, make it tiny, find where it fits naturally i...</span></span></span>
 
 The restart action should have three characteristics:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -366,7 +361,6 @@ A restart rule could be:
 
 Reading a single page may seem trivial, but it restores the behaviour sequence of sitting down, opening the book, and beginning.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_minimum_restart_acti_37560a-Illustration-2-dark.svg" | relative_url }}" alt="Restart action illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_minimum_restart_acti_37560a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_minimum_restart_acti_37560a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Writing
 
@@ -389,7 +383,6 @@ Instead:
 * Restart version: 60 seconds.
 
 The cue remains intact and the meditation habit survives the interruption.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GECcjrYHH8w" title="How small habits and a two-minute rule can help your productivity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GECcjrYHH8w" target="_blank" rel="noopener noreferrer">How small habits and a two-minute rule can help your productivity</a></p><p class="youtube-embed-meta">Channel: CBS Mornings &middot; Views: 174.2K &middot; Uploaded: February 2018 &middot; Length: 4 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GECcjrYHH8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GECcjrYHH8w">Open on YouTube</a></p></div></div></div>
 
@@ -416,7 +409,6 @@ Someone who cannot fit a full workout into a chaotic day may still be able to pe
 
 Without that bridge, “never miss twice” becomes an aspiration. With it, the rule becomes operational.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_minimum_restart_acti_37560a-Illustration-3-dark.svg" | relative_url }}" alt="Restart action illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_minimum_restart_acti_37560a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_minimum_restart_acti_37560a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common Mistakes When Designing Restart Actions
 
@@ -437,7 +429,6 @@ Restarting at a different time or in a different context may weaken the existing
 **Treating the restart as temporary failure.**
 
 The minimum version should be viewed as part of the habit system, not evidence that the habit is collapsing.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vmR03B4cnYI" title="How to Restart a Habit After Missing Days (So You Don’t Quit)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vmR03B4cnYI" target="_blank" rel="noopener noreferrer">How to Restart a Habit After Missing Days (So You Don’t Quit)</a></p><p class="youtube-embed-meta">Channel: UnshakableMe &middot; Views: 387 &middot; Uploaded: January 2026 &middot; Length: 4 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vmR03B4cnYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vmR03B4cnYI">Open on YouTube</a></p></div></div></div>
 

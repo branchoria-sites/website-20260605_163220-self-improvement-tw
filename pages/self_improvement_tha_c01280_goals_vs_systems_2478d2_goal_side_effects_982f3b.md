@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /goals-vs-systems/
 nav_short_title: Goal Side Effects
 title: When Goals Start Rewarding the Wrong Thing
-title_full: When Goals Start Rewarding the Wrong Thing | Goals vs Systems
+title_full: When Goals Start Rewarding the Wrong Thing
 display_title_short: Goal Side Effects
 display_title: Goal Side Effects
 heading_title: When Goals Start Rewarding the Wrong Thing
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 08:16:12'
-parent_title: Do Goals or Systems Matter More? | Better Change
+parent_title: Do Goals or Systems Matter More?
 parent_permalink: /goals-vs-systems/
 parent_nav_short_title: Goals vs Systems
 parent_heading_title: Do Goals or Systems Matter More?
@@ -276,7 +276,6 @@ image: /assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_goal_s
 
 Goals can be powerful motivators, but they have a weakness that is often overlooked: they do not just direct behaviour, they define what gets rewarded. When a target becomes the main measure of success, people naturally focus on whatever improves that measure, even if it undermines the deeper purpose behind it. This is one of the most important reasons why self-improvement efforts sometimes produce disappointing results. A weight-loss target can encourage crash dieting. A reading target can encourage skimming. A savings target can encourage excessive frugality that damages quality of life.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_goal_side_effects_982f3b-Illustration-1-dark.svg" | relative_url }}" alt="Goal Side Effects illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_goal_side_effects_982f3b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_goal_side_effects_982f3b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is not that goals are useless. Research on goal-setting consistently shows that specific, challenging goals can improve performance. The problem arises when the goal becomes so dominant that it crowds out other values, signals and [feedback]({{ 'feedback/' | relative_url }}). Researchers have described this as a recurring side effect of narrowly defined goals, while economists and social scientists often discuss the same mechanism through Goodhart's Law: when a measure becomes a target, it stops being a reliable measure of what you actually care about. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Goal_setting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Goal setting</span><span class="citation-popover-snippet">Goal setting</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Goodhart&#x27;s law</span><span class="citation-popover-snippet">Goodhart&#x27;s law</span></span></span>
 
@@ -287,7 +286,6 @@ Achievement goals work by focusing attention. That is usually their strength. Th
 When a target is highly visible, people devote more mental resources to actions that improve that target and fewer resources to everything else. Goal-setting researchers have repeatedly noted that goals channel attention towards goal-relevant activities. The risk is that important non-goal activities become less visible simply because they are not being measured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.aom.org/doi/10.5465/AMP.2009.37007999" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.aom.org">[Academy of Management Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.aom.org</span><span class="citation-popover-snippet">Academy of Management JournalsThe Systematic Side Effects of Overprescribing Goal Settingby LD Ordóñez · 2009 · Cited by 1157 — There are...</span></span></span>
 
 Consider a simple personal example. Suppose someone sets a goal of reading fifty books this year. The target may increase reading time, which is good. But it can also subtly change behaviour:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -311,7 +309,6 @@ Research examining the darker side of [goal setting]({{ 'goal-setting/' | relati
 
 The mechanism is straightforward:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A target is established.
@@ -328,7 +325,6 @@ The shortcut may not even feel dishonest. It often appears rational because the 
 A person whose only fitness goal is a lower number on the scales may skip strength training, under-eat protein or use unsustainable dieting methods. The scale improves, but health, strength and long-term adherence may suffer. The goal rewarded weight reduction, not overall fitness.
 
 Similarly, someone aiming to write every day might begin producing low-quality work simply to maintain a streak. The streak remains intact while the actual purpose—improving as a writer—receives less attention.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZpLvrbyHp8I" title="Locke’s Goal-Setting Theory | Organizational Behavior | From A Business Professor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZpLvrbyHp8I" target="_blank" rel="noopener noreferrer">Locke’s Goal-Setting Theory | Organizational Behavior | From A Business Professor</a></p><p class="youtube-embed-meta">Channel: Business School 101 &middot; Views: 10.4K &middot; Uploaded: January 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZpLvrbyHp8I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZpLvrbyHp8I">Open on YouTube</a></p></div></div></div>
 
@@ -360,7 +356,6 @@ Weight is one of the clearest examples because it is measurable and emotionally 
 
 A target based solely on kilograms lost may encourage dehydration, excessive restriction or unsustainable exercise patterns. The measurement improves while health markers, energy levels and long-term habits deteriorate. The goal is technically achieved while the larger objective is missed.
 
-
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_goal_side_effects_982f3b-Illustration-2-dark.svg" | relative_url }}" alt="Goal Side Effects illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_goal_side_effects_982f3b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_goal_side_effects_982f3b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Systems Often Outperform Pure Achievement Targets
 
@@ -374,7 +369,6 @@ A goal says, "Lose ten kilograms."
 
 A system asks:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Are you sleeping enough?
@@ -385,7 +379,6 @@ A system asks:
 </div>
 
 Systems are not immune to distortion, but they reduce the temptation to chase a single outcome at any cost.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V0i017i1Ywo" title="What are the Strengths and Weaknesses of Locke and Latham&#x27;s Goal Setting Theory?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V0i017i1Ywo" target="_blank" rel="noopener noreferrer">What are the Strengths and Weaknesses of Locke and Latham&#x27;s Goal Setting Theory?</a></p><p class="youtube-embed-meta">Channel: School of Learning &middot; Views: 309 &middot; Uploaded: January 2024 &middot; Length: 4 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V0i017i1Ywo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V0i017i1Ywo">Open on YouTube</a></p></div></div></div>
 
@@ -401,7 +394,6 @@ Every measure leaves something out.
 
 When reviewing a goal, ask:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * What behaviours would improve this number without improving the underlying outcome?
@@ -411,7 +403,6 @@ When reviewing a goal, ask:
 </div>
 
 These questions often reveal loopholes before they become habits.
-
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_goal_side_effects_982f3b-Illustration-3-dark.svg" | relative_url }}" alt="Goal Side Effects illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_goal_side_effects_982f3b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_goal_side_effects_982f3b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Track More Than One Indicator
@@ -433,7 +424,6 @@ A writing project might track:
 
 Multiple indicators make it harder for one number to dominate decision-making.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OU5W-b_e8a4" title="Things Go South When You Trust DATA Too Much - Goodhart&#x27;s Law - FutureIQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OU5W-b_e8a4" target="_blank" rel="noopener noreferrer">Things Go South When You Trust DATA Too Much - Goodhart&#x27;s Law - FutureIQ</a></p><p class="youtube-embed-meta">Channel: Future IQ &middot; Views: 4.2K &middot; Uploaded: March 2023 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OU5W-b_e8a4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OU5W-b_e8a4">Open on YouTube</a></p></div></div></div>
 
 ### Review the Behaviour, Not Just the Outcome
@@ -451,7 +441,6 @@ Outcome goals provide direction, but they work best when paired with process goa
 An outcome goal might be running a half marathon.
 
 The supporting process goals might include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
