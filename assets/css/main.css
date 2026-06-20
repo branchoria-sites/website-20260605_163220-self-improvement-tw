@@ -7187,51 +7187,51 @@ body.right-sidebar-collapsed .layout-grid-article {
 
 /* Visual DNA overrides (deterministic per site) */
 :root {
-  --font-heading-stack: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
-  --font-body-stack: "Merriweather", Georgia, serif;
-  --brand: #1d7c58;
-  --brand-dark: #165a40;
-  --accent: #b45f10;
-  --dna-bg-orb-1: rgba(29, 124, 88, 0.18);
-  --dna-bg-orb-2: rgba(180, 95, 16, 0.14);
-  --dna-bg-orb-3: rgba(47, 140, 109, 0.1);
-  --dna-bg-top: #f7fbf8;
-  --dna-bg-bottom: #eef4ef;
-  --dna-hero-start: rgba(235, 251, 243, 0.92);
-  --dna-hero-end: rgba(255, 244, 230, 0.84);
-  --dna-hero-glow: rgba(22, 90, 64, 0.2);
-  --dna-level-1-start: #1d7c58;
-  --dna-level-1-end: #4ab488;
-  --dna-level-2-start: #2f7468;
-  --dna-level-2-end: #67b2a4;
-  --dna-level-3-start: #98591a;
-  --dna-level-3-end: #d7964e;
-  --dna-pill-border: rgba(29, 124, 88, 0.28);
-  --dna-pill-bg: linear-gradient(180deg, #ffffff 0%, #e9f8ef 100%);
-  --dna-pill-hover-border: rgba(22, 90, 64, 0.52);
-  --dna-pill-hover-bg: linear-gradient(180deg, #ffffff 0%, #d8f0e0 100%);
-  --dna-pill-text: #165a40;
+  --font-heading-stack: "Space Grotesk", "Avenir Next", "Segoe UI", sans-serif;
+  --font-body-stack: "Source Serif 4", Georgia, serif;
+  --brand: #2e7d32;
+  --brand-dark: #1f5a24;
+  --accent: #6b4638;
+  --dna-bg-orb-1: rgba(46, 125, 50, 0.18);
+  --dna-bg-orb-2: rgba(107, 70, 56, 0.14);
+  --dna-bg-orb-3: rgba(120, 156, 102, 0.16);
+  --dna-bg-top: #f8fbf6;
+  --dna-bg-bottom: #e9efe3;
+  --dna-hero-start: rgba(240, 248, 238, 0.96);
+  --dna-hero-end: rgba(247, 241, 236, 0.9);
+  --dna-hero-glow: rgba(46, 125, 50, 0.18);
+  --dna-level-1-start: #1f5a24;
+  --dna-level-1-end: #3f9150;
+  --dna-level-2-start: #4c7c46;
+  --dna-level-2-end: #84ad72;
+  --dna-level-3-start: #6b4638;
+  --dna-level-3-end: #a9775f;
+  --dna-pill-border: rgba(46, 125, 50, 0.24);
+  --dna-pill-bg: linear-gradient(180deg, #fffef9 0%, #eef5e9 100%);
+  --dna-pill-hover-border: rgba(31, 90, 36, 0.48);
+  --dna-pill-hover-bg: linear-gradient(180deg, #fffef9 0%, #e5f0df 100%);
+  --dna-pill-text: #1f5a24;
   --dna-orb-pos-1: 12% 2%;
   --dna-orb-pos-2: 90% 22%;
   --dna-orb-pos-3: 56% 86%;
 }
 :root[data-theme="dark"] {
-  --brand: #8de8bf;
-  --brand-dark: #cbf9e3;
-  --accent: #ffc982;
-  --dna-bg-orb-1: rgba(141, 232, 191, 0.2);
-  --dna-bg-orb-2: rgba(255, 201, 130, 0.16);
-  --dna-bg-orb-3: rgba(104, 199, 163, 0.14);
-  --dna-bg-top: #0b1614;
-  --dna-bg-bottom: #0c1918;
-  --dna-hero-start: rgba(18, 38, 33, 0.95);
-  --dna-hero-end: rgba(33, 28, 22, 0.9);
-  --dna-hero-glow: rgba(141, 232, 191, 0.24);
-  --dna-pill-border: rgba(141, 232, 191, 0.4);
-  --dna-pill-bg: linear-gradient(180deg, #1f3a34 0%, #162c28 100%);
-  --dna-pill-hover-border: rgba(255, 201, 130, 0.5);
-  --dna-pill-hover-bg: linear-gradient(180deg, #2a4a42 0%, #1f3a34 100%);
-  --dna-pill-text: #dff7ea;
+  --brand: #7ed2df;
+  --brand-dark: #bde7f0;
+  --accent: #ffbe86;
+  --dna-bg-orb-1: rgba(126, 210, 223, 0.18);
+  --dna-bg-orb-2: rgba(255, 190, 134, 0.16);
+  --dna-bg-orb-3: rgba(104, 168, 255, 0.14);
+  --dna-bg-top: #0a1220;
+  --dna-bg-bottom: #0b1322;
+  --dna-hero-start: rgba(20, 39, 64, 0.94);
+  --dna-hero-end: rgba(34, 28, 44, 0.9);
+  --dna-hero-glow: rgba(126, 210, 223, 0.22);
+  --dna-pill-border: rgba(126, 210, 223, 0.38);
+  --dna-pill-bg: linear-gradient(180deg, #1e2e46 0%, #18263b 100%);
+  --dna-pill-hover-border: rgba(255, 190, 134, 0.5);
+  --dna-pill-hover-bg: linear-gradient(180deg, #263a59 0%, #1e2e46 100%);
+  --dna-pill-text: #d3ebff;
 }
 body.motif-orbital {
   --dna-orb-pos-1: 12% 2%;
@@ -15870,17 +15870,23 @@ a.fr-book-fit:focus-visible {
   min-height: clamp(19rem, 54vh, 35rem);
 }
 
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
   align-self: start;
   aspect-ratio: 16 / 9;
   min-height: 0;
 }
 
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-preview, .uap-world-map-preview) {
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-preview, .uap-world-map-preview),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-preview, .uap-world-map-preview),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-preview, .uap-world-map-preview) {
   min-height: 0;
 }
 
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
   display: block;
   width: 100%;
   height: 100%;
@@ -16012,12 +16018,14 @@ a.fr-book-fit:focus-visible {
 
 :where(.interactive-map-preview, .uap-world-map-preview) {
   display: grid;
-  grid-template-rows: auto auto auto auto auto;
+  grid-template-rows: clamp(8rem, 18vh, 11.4rem) minmax(1.48rem, auto) minmax(1.35rem, auto) minmax(3.15rem, auto) minmax(4.5rem, 1fr) auto;
   align-content: start;
   gap: clamp(0.34rem, 0.6vw, 0.54rem);
   align-self: stretch;
+  height: clamp(20rem, 54vh, 35rem);
   min-height: clamp(20rem, 54vh, 35rem);
-  max-height: none;
+  max-height: clamp(20rem, 54vh, 35rem);
+  overflow: hidden;
   padding: clamp(0.9rem, 1.4vw, 1.1rem);
   border-color: rgba(255, 255, 255, 0.56);
   border-radius: 20px;
@@ -16026,29 +16034,47 @@ a.fr-book-fit:focus-visible {
   backdrop-filter: blur(18px);
 }
 
+:where(.interactive-map-preview, .uap-world-map-preview):not(:has(img)) {
+  grid-template-rows: minmax(1.48rem, auto) minmax(1.35rem, auto) minmax(3.15rem, auto) minmax(4.5rem, 1fr) auto;
+}
+
 :where(.interactive-map-preview, .uap-world-map-preview):hover {
   border-color: rgba(217, 130, 43, 0.34);
   box-shadow: 0 22px 48px rgba(14, 35, 55, 0.18), 0 0 0 1px rgba(217, 130, 43, 0.12);
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview) img {
+  width: 100%;
+  height: clamp(8rem, 18vh, 11.4rem);
   max-height: clamp(8rem, 18vh, 11.4rem);
+  margin: 0;
+  object-fit: cover;
   border: 1px solid rgba(255, 255, 255, 0.64);
   border-radius: 16px;
   box-shadow: 0 14px 28px rgba(14, 35, 55, 0.16);
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview) strong {
-  display: block;
+  display: -webkit-box;
   font-size: clamp(1.05rem, 0.36vw + 0.98rem, 1.18rem);
   line-height: 1.14;
+  min-height: calc(1.14em * 2);
+  max-height: calc(1.14em * 2);
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
 }
 
 :where(.interactive-map-preview, .uap-world-map-preview) :where(span[data-interactive-map-preview-summary], span[data-uap-world-map-preview-summary]) {
-  display: block;
+  display: -webkit-box;
   margin-top: 0;
   font-size: 0.9rem;
   line-height: 1.5;
+  min-height: calc(1.5em * 4);
+  max-height: calc(1.5em * 4);
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
 }
 
 :where(.interactive-map-preview-meta, .uap-world-map-preview-meta) {
@@ -16184,12 +16210,16 @@ a.fr-book-fit:focus-visible {
     grid-template-columns: minmax(0, 1fr);
   }
 
-  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
+  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
     aspect-ratio: 4 / 3;
   }
 
   :where(.interactive-map-preview, .uap-world-map-preview) {
+    height: auto;
     min-height: 0;
+    max-height: none;
   }
 }
 
@@ -16208,8 +16238,10 @@ a.fr-book-fit:focus-visible {
   }
 
   :where(.interactive-map-preview, .uap-world-map-preview) {
+    height: auto;
     min-height: 15rem;
     max-height: none;
+    overflow: visible;
   }
 }
 
@@ -16230,4 +16262,71 @@ a.fr-book-fit:focus-visible {
 
 .page-contents-home .home-vertical-children.home-vertical-children-leaf-grid > .home-vertical-node > .home-vertical-node-row > .home-vertical-card {
   width: min(100%, 42rem);
+}
+
+/* Keep hierarchy cards informative and legible on narrow phone screens. */
+@media (max-width: 720px) {
+  body.page-home .home-vertical-bubble.ct-node {
+    height: auto;
+    min-height: 0;
+    overflow: visible;
+  }
+
+  body.page-home .home-vertical-node[data-semantic-level="l1"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label {
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  body.page-home .home-vertical-node[data-semantic-level="l1"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+  body.page-home .home-vertical-node[data-semantic-level="l2"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+  body.page-home .home-vertical-node[data-depth="4"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+  body.page-home .home-vertical-node[data-depth="5"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+  body.page-home .home-vertical-node[data-depth="6"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+  body.page-home .home-vertical-node[data-depth="7"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full {
+    display: -webkit-box;
+    overflow: hidden;
+    line-height: 1.3;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+
+  body.page-home .home-vertical-node[data-semantic-level="l2"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-semantic-level="l3"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-depth="4"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-depth="5"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-depth="6"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-depth="7"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label {
+    display: block;
+    overflow: visible;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: unset;
+  }
+
+  body.page-home .home-vertical-node[data-semantic-level="l2"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary,
+  body.page-home .home-vertical-node[data-depth="4"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary,
+  body.page-home .home-vertical-node[data-depth="5"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary,
+  body.page-home .home-vertical-node[data-depth="6"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary,
+  body.page-home .home-vertical-node[data-depth="7"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary {
+    display: -webkit-box;
+    overflow: hidden;
+    line-height: 1.42;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+}
+
+/* Keep the reader-facing question complete beneath the compact hierarchy label. */
+body.page-home .home-vertical-node[data-semantic-level="l1"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+body.page-home .home-vertical-node[data-semantic-level="l2"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+body.page-home .home-vertical-node[data-semantic-level="l3"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+body.page-home .home-vertical-node[data-depth="4"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+body.page-home .home-vertical-node[data-depth="5"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+body.page-home .home-vertical-node[data-depth="6"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+body.page-home .home-vertical-node[data-depth="7"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full {
+  display: block;
+  overflow: visible;
+  -webkit-box-orient: initial;
+  -webkit-line-clamp: unset;
 }
